@@ -6,7 +6,7 @@ dependencies:
   - pandas>=1.0
   - selenium>=3.141
   - geckodriver>=0.29
+  - sqlalchemy>=1.4
   - pip>=21
   - pip:
     - requests>=2.25
-    - spotipy>=2.17
