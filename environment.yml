@@ -1,0 +1,11 @@
+name: dev-git-scraping
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab>=3.0
+  - pandas>=1.0
+  - pip>=21
+  - pip:
+    - requests>=2.25
+    - spotipy>=2.17
