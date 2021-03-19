@@ -69,7 +69,6 @@ r_dicts = response.json()
 
 
 DATABASE_LOCATION = "sqlite:///my_played_tracks.sqlite"
-USER_ID = "ddf5tjisx8q34iriesdqemfur"  # your Spotify username
 # TOKEN = "" # your Spotify API token
 
 # Generate your token here:  https://developer.spotify.com/console/get-recently-played/
