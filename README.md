@@ -6,3 +6,12 @@ Step 3: Save data
 
 ## Reference
 * Retrieving Access Token: [docs](https://developer.spotify.com/documentation/general/guides/authorization/client-credentials/)
+* Playwright docs: https://playwright.dev/python/docs/library 
+
+
+## Playwright steps
+1. Installation and only get chromium (instead of all three browsers)
+```shell
+python3 -m pip install playwright
+playwright install chromium
+```
