@@ -1,6 +1,8 @@
 ## personal changes
 secrets
 .vscode
+auth.json
+token_info.json
 
 ## Python
 # Byte-compiled / optimized / DLL files
