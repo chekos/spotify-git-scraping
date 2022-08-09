@@ -105,8 +105,7 @@ def refresh_token(
     return response_data
 
 
-if __name__ == "__main__":
-    save_files = True
+def handle_authorization(save_files: bool = False):
     if AUTH_FILE.exists():
         with open(AUTH_FILE, "r") as auth_file:
             auth = json.load(auth_file)
@@ -125,3 +124,9 @@ if __name__ == "__main__":
             token_info = refresh_token(token_info["refresh_token"], write=save_files)
     else:
         token_info = request_token(auth["code"], write=save_files)
+
+    return token_info
+
+
+if __name__ == "__main__":
+    handle_authorization(save_files=True)
