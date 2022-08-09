@@ -46,7 +46,7 @@ def retrieve_code(write: bool = False):
 
         if write:
 
-            with open("auth.json", "w") as auth_file:
+            with open(AUTH_FILE, "w") as auth_file:
                 json.dump(auth, auth_file)
 
         return auth
@@ -73,7 +73,7 @@ def request_token(
     )
 
     if write:
-        with open("token_info.json", "w") as token_file:
+        with open(TOKEN_FILE, "w") as token_file:
             json.dump(response_data, token_file, default=str)
 
     return response_data
@@ -99,7 +99,7 @@ def refresh_token(
     )
 
     if write:
-        with open("token_info.json", "w") as token_file:
+        with open(TOKEN_FILE, "w") as token_file:
             json.dump(response_data, token_file, default=str)
 
     return response_data
