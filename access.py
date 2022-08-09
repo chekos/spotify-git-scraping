@@ -2,6 +2,8 @@ import json
 from datetime import datetime as dt, timedelta
 
 from constants import (
+    AUTH_FILE,
+    TOKEN_FILE,
     AUTH_STRING,
     AUTH_CODE_URL,
     REDIRECT_URI,
@@ -12,9 +14,6 @@ from constants import (
 
 import httpx
 from playwright.sync_api import sync_playwright
-
-with open("auth.json", "r") as auth_file:
-    auth = json.load(auth_file)
 
 
 def is_expired(expires_at):
@@ -76,6 +75,7 @@ def request_token(
 
 def refresh_token(
     refresh_token: str,
+    write: bool = False,
 ):
     data = {
         "grant_type": "refresh_token",
@@ -91,5 +91,27 @@ def refresh_token(
     response_data["expires_at"] = dt.now() + timedelta(
         seconds=int(response_data["expires_in"])
     )
+
+    if write:
+        with open("token_info.json", "w") as token_file:
+            json.dump(response_data, token_file, default=str)
+
     return response_data
 
+
+if __name__ == "__main__":
+    save_files = True
+    if AUTH_FILE.exists():
+        with open(AUTH_FILE, "r") as auth_file:
+            auth = json.load(auth_file)
+    else:
+        auth = retrieve_code(write=save_files)
+
+    if TOKEN_FILE.exists():
+        with open(TOKEN_FILE, "r") as token_file:
+            token_info = json.load(token_file)
+
+        if is_expired(token_info["expires_at"]):
+            token_info = refresh_token(token_info["refresh_token"], write=save_files)
+    else:
+        token_info = request_token(auth["code"], write=save_files)
