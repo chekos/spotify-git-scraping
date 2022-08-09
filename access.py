@@ -3,6 +3,7 @@ from datetime import datetime as dt, timedelta
 
 from constants import (
     AUTH_FILE,
+    SCOPE,
     TOKEN_FILE,
     AUTH_STRING,
     AUTH_CODE_URL,
@@ -32,11 +33,16 @@ def retrieve_code(write: bool = False):
         page.locator("#login-username").fill(USERNAME)
         page.locator("#login-password").fill(PASSWORD)
         page.locator("#login-button").click()
+        try:
+            page.locator("[data-testid=auth-accept]").click(timeout=3_000)
+        except:
+            pass
         page.wait_for_url(f"{REDIRECT_URI}**")
 
         # Authorized page
         auth = {}
         auth["code"] = page.url.split("code=")[-1]
+        auth["scope"] = SCOPE
 
         if write:
 
@@ -104,6 +110,10 @@ if __name__ == "__main__":
     if AUTH_FILE.exists():
         with open(AUTH_FILE, "r") as auth_file:
             auth = json.load(auth_file)
+
+        if auth["scope"] != SCOPE:
+            # need new code
+            auth = retrieve_code(write=save_files)
     else:
         auth = retrieve_code(write=save_files)
 
