@@ -3,10 +3,13 @@ import os
 import base64
 import urllib.parse
 from pathlib import Path
+from typer import get_app_dir
 
-PARENT_FOLDER = Path(__file__).parent
-AUTH_FILE = PARENT_FOLDER.joinpath("auth.json")
-TOKEN_FILE = PARENT_FOLDER.joinpath("token_info.json")
+APP_NAME = "spotify-git-scraper"
+APP_DIR: Path = get_app_dir(APP_NAME)
+
+AUTH_FILE = APP_DIR.joinpath("auth.json")
+TOKEN_FILE = APP_DIR.joinpath("token_info.json")
 config = {**dotenv_values(), **os.environ}
 
 CLIENT_ID = config["SPOTIFY_CLIENT_ID"]
