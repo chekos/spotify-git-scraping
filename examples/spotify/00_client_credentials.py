@@ -42,6 +42,7 @@ if _is_token_expired(token_info["expires_at"]):
 
 token = token_info["access_token"]
 
+
 def get_recently_played(token, time, before_or_after, limit):
     url = "https://api.spotify.com/v1/me/player/recently-played"
 
@@ -53,5 +54,5 @@ def get_recently_played(token, time, before_or_after, limit):
 
     return response.json()
 
-data = get_recently_played(token, int(time.time()), 'before', 10)
 
+data = get_recently_played(token, int(time.time()), "before", 10)
