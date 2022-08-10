@@ -35,11 +35,21 @@ AUTH_CODE_URL = f"{SPOTIFY_AUTH_URL}?{urllib.parse.urlencode(access_code_params)
 
 
 class GetTopItems(str, Enum):
+    """For get_top(): The type of entity to return."""
+
     artists = "artists"
     tracks = "tracks"
 
+    def __str__(self):
+        return self.value
+
 
 class GetTopTimeRanges(str, Enum):
-    long_term = "long_term"
-    medium_term = "medium_term"
-    short_term = "short_term"
+    """For get_top(): Over what time frame the affinities are computed."""
+
+    long_term = "long"
+    medium_term = "medium"
+    short_term = "short"
+
+    def __str__(self):
+        return self.value
