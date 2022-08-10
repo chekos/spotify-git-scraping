@@ -32,9 +32,9 @@ jobs:
         playwright install chromium
     - name: Get Top Artists 
       run: |-
-        python app.py get-top artists --limit 50 --time-range long --write --filename top_50_artists_long_term.json
-        python app.py get-top artists --limit 50 --time-range medium --write --filename top_50_artists_medium_term.json
-        python app.py get-top artists --limit 50 --time-range short --write --filename top_50_artists_short_term.json
+        python app.py get-top artists --limit 50 --time-range long --write --filename data/top_50_artists_long_term.json
+        python app.py get-top artists --limit 50 --time-range medium --write --filename data/top_50_artists_medium_term.json
+        python app.py get-top artists --limit 50 --time-range short --write --filename data/top_50_artists_short_term.json
       env:
         SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
         SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
@@ -43,9 +43,9 @@ jobs:
         REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
     - name: Get Top Tracks 
       run: |-
-        python app.py get-top tracks --limit 50 --time-range long --write --filename top_50_tracks_long_term.json
-        python app.py get-top tracks --limit 50 --time-range medium --write --filename top_50_tracks_medium_term.json
-        python app.py get-top tracks --limit 50 --time-range short --write --filename top_50_tracks_short_term.json 
+        python app.py get-top tracks --limit 50 --time-range long --write --filename data/top_50_tracks_long_term.json
+        python app.py get-top tracks --limit 50 --time-range medium --write --filename data/top_50_tracks_medium_term.json
+        python app.py get-top tracks --limit 50 --time-range short --write --filename data/top_50_tracks_short_term.json 
       env:
         SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
         SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
