@@ -3,7 +3,7 @@ name: Get Recently Played Tracks
 on:
   workflow_dispatch:
   schedule:
-    - cron: '4 * * * *'
+    - cron: '13 * * * *'
 
 jobs:
   scheduled:
