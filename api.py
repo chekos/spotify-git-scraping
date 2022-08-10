@@ -42,6 +42,38 @@ def get_user_top_items(
     return response
 
 
+def get_user_recently_played(
+    access_token: str,
+    timestamp: int,
+    direction: str = "before",
+    limit: int = 20,
+):
+    """Get tracks from the current user's recently played tracks.
+    Note: Currently doesn't support podcast episodes.
+
+    Parameters
+    ----------
+    access_token : str
+        Access token for the authenticated user.
+    timestamp : int
+        A Unix timestamp in milliseconds.
+    direction : str, optional
+        Whether to check 'before' or 'after' timestamp, by default "before"
+    limit : int, optional
+        The maximum number of items to return, by default 20
+    """
+    url = f"{SPOTIFY_API_BASE_URL}/me/player/recently-played"
+    params = {
+        direction: timestamp,
+        "limit": limit,
+    }
+    headers = {"Authorization": f"Bearer {access_token}"}
+
+    response = httpx.get(url=url, params=params, headers=headers)
+
+    return response
+
+
 if __name__ == "__main__":
     token_info = handle_authorization(save_files=True)
     response = get_user_top_items(

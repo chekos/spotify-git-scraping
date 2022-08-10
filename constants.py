@@ -54,3 +54,13 @@ class GetTopTimeRanges(str, Enum):
 
     def __str__(self):
         return self.value
+
+
+class GetRecentlyPlayedDirections(str, Enum):
+    """For get_recently_played(): Direction of cursor."""
+
+    after = "after"
+    before = "before"
+
+    def __str__(self):
+        return self.value
