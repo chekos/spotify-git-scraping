@@ -1,11 +1,7 @@
-from utils import handle_authorization
+from utils import handle_authorization, handle_response
 from constants import SPOTIFY_API_BASE_URL
 
-import json
-from datetime import date
-
 import httpx
-from rich import print
 
 
 def get_user_top_items(
@@ -14,7 +10,6 @@ def get_user_top_items(
     limit: int = 20,
     offset: int = 0,
     time_range: str = "medium_term",
-    write: bool = False,
 ):
     """Get the current user's top artists or tracks based on calculated affinity. Requires 'user-top-read' scope.
 
@@ -44,16 +39,15 @@ def get_user_top_items(
 
     response = httpx.get(url=url, params=params, headers=headers)
 
-    if response.status_code == 200:
-        if write:
-            with open(
-                f"top_{limit}_{item_type}_{time_range}-{date.today()}.json", "w"
-            ) as top_file:
-                json.dump(response.json(), top_file)
-    else:
-        print(f"Error {response.status_code}: {response.text}")
+    return response
 
 
 if __name__ == "__main__":
     token_info = handle_authorization(save_files=True)
-    get_user_top_items(token_info["access_token"], item_type="artists", write=True)
+    response = get_user_top_items(
+        token_info["access_token"],
+        item_type="artists",
+        limit=20,
+        time_range="medium_term",
+    )
+    handle_response(response, write=True, filename="top_20_artists_medium_term.json")

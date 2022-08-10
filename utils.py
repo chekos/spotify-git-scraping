@@ -97,6 +97,7 @@ def refresh_token(
     response_data["expires_at"] = dt.now() + timedelta(
         seconds=int(response_data["expires_in"])
     )
+    response_data["refresh_token"] = refresh_token
 
     if write:
         with open(TOKEN_FILE, "w") as token_file:
@@ -105,7 +106,12 @@ def refresh_token(
     return response_data
 
 
-def handle_authorization(save_files: bool = False):
+def handle_authorization(save_files: bool = False, force: bool = False):
+    if force:
+        auth = retrieve_code(write=True)
+        token_info = request_token(auth["code"], write=True)
+        return token_info
+
     if AUTH_FILE.exists():
         with open(AUTH_FILE, "r") as auth_file:
             auth = json.load(auth_file)
@@ -128,5 +134,17 @@ def handle_authorization(save_files: bool = False):
     return token_info
 
 
+def handle_response(
+    response: httpx.Response, write: bool = False, filename: str = "output.json"
+):
+    if response.status_code == 200:
+        if write:
+            with open(filename, "w") as top_file:
+                json.dump(response.json(), top_file)
+        return response.json()
+    else:
+        print(f"Error {response.status_code}: {response.text}")
+
+
 if __name__ == "__main__":
-    handle_authorization(save_files=True)
+    handle_authorization(force=True)

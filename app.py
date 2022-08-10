@@ -1,8 +1,10 @@
+from pathlib import Path
 from api import get_user_top_items
-from utils import handle_authorization
+from utils import handle_authorization, handle_response
 from constants import APP_DIR, GetTopItems, GetTopTimeRanges
 
 import typer
+from rich import print
 
 
 def init():
@@ -33,16 +35,28 @@ def get_top(
         'long' (calculated from several years of data and including all new data as it becomes available),
         'medium' (approximately last 6 months), 'short' (approximately last 4 weeks).""",
     ),
-    write: bool = typer.Option(False),
+    write: bool = False,
+    filename: Path = typer.Option("", help="File to write output to."),
 ):
-    get_user_top_items(
+    response = get_user_top_items(
         access_token=token_info["access_token"],
         item_type=item_type.value,
         limit=limit,
         offset=offset,
         time_range=f"{time_range.value}_term",
-        write=write,
     )
+    # filename value was entered
+    if filename != Path("."):
+        filename = filename.with_suffix(".json")
+
+    # write is true but not filename was entered
+    if write and filename == Path("."):
+        filename = Path(typer.prompt("Output filename")).with_suffix(".json")
+
+    data = handle_response(response, write=write, filename=filename)
+
+    if not write:
+        print(data)
 
 
 if __name__ == "__main__":
