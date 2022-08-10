@@ -1,20 +1,21 @@
 import json
-from datetime import datetime as dt, timedelta
-
-from constants import (
-    AUTH_FILE,
-    SCOPE,
-    TOKEN_FILE,
-    AUTH_STRING,
-    AUTH_CODE_URL,
-    REDIRECT_URI,
-    SPOTIFY_TOKEN_URL,
-    USERNAME,
-    PASSWORD,
-)
+from datetime import datetime as dt
+from datetime import timedelta
 
 import httpx
 from playwright.sync_api import sync_playwright
+
+from constants import (
+    AUTH_CODE_URL,
+    AUTH_FILE,
+    AUTH_STRING,
+    PASSWORD,
+    REDIRECT_URI,
+    SCOPE,
+    SPOTIFY_TOKEN_URL,
+    TOKEN_FILE,
+    USERNAME,
+)
 
 
 def is_expired(expires_at):

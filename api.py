@@ -1,7 +1,7 @@
-from utils import handle_authorization, handle_response
-from constants import SPOTIFY_API_BASE_URL
-
 import httpx
+
+from constants import SPOTIFY_API_BASE_URL
+from utils import handle_authorization, handle_response
 
 
 def get_user_top_items(

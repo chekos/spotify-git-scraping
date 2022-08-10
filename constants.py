@@ -1,9 +1,10 @@
-from dotenv import dotenv_values
 import os
 import urllib.parse
-from pathlib import Path
-from typer import get_app_dir
 from enum import Enum
+from pathlib import Path
+
+from dotenv import dotenv_values
+from typer import get_app_dir
 
 APP_NAME = "spotify-git-scraper"
 APP_DIR: Path = Path(get_app_dir(APP_NAME))

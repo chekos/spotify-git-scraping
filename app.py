@@ -1,10 +1,11 @@
 from pathlib import Path
-from api import get_user_top_items
-from utils import handle_authorization, handle_response
-from constants import APP_DIR, GetTopItems, GetTopTimeRanges
 
 import typer
 from rich import print
+
+from api import get_user_top_items
+from constants import APP_DIR, GetTopItems, GetTopTimeRanges
+from utils import handle_authorization, handle_response
 
 
 def init():
