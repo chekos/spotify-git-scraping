@@ -1,13 +1,17 @@
 # `#git-scraping` my spotify data
 
-Turns out i can use selenium to get automate the authorization process and then ask for the recently played songs, yay!
+- [x] Step 1: Authenticate user (retrieve access token)
+- [x] Step 2: Use that access token to access endpoints of interest
+Step 3: Save data
 
-Just need to automate the getting geckodriver etc 
+## Reference
+* Retrieving Access Token: [docs](https://developer.spotify.com/documentation/general/guides/authorization/client-credentials/)
+* Playwright docs: https://playwright.dev/python/docs/library 
+* Playwright | Authentication state: https://playwright.dev/python/docs/auth
 
-## TODO
-* Figure out gecko driver automation (probably just adding it to the repo or using those libraries that automatically get it)
-* Move from notebooks to scripts
-* Data validation because _data engineering_
-* Read more on git scraping and make sure this is actually what im doing
-* Come up with a schema ? I don't want just the track title, artist and when i heard it
-* bonus: heroku datasette site reading this :eyes:
+## Playwright steps
+* Installation and only get chromium (instead of all three browsers)
+```shell
+python3 -m pip install playwright
+playwright install chromium
+```
