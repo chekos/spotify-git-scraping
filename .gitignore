@@ -3,6 +3,7 @@ secrets
 .vscode
 auth.json
 token_info.json
+sandbox.ipynb
 
 ## Python
 # Byte-compiled / optimized / DLL files
