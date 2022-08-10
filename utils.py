@@ -140,8 +140,8 @@ def handle_response(
 ):
     if response.status_code == 200:
         if write:
-            with open(filename, "w") as top_file:
-                json.dump(response.json(), top_file)
+            with open(filename, "w") as file:
+                json.dump(response.json(), file, indent=2)
         return response.json()
     else:
         print(f"Error {response.status_code}: {response.text}")
