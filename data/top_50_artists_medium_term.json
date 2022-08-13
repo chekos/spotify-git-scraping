@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24537
+        "total": 24545
       },
       "genres": [
         "mexican hip hop",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 87707
+        "total": 87794
       },
       "genres": [
         "trap mexicano"
@@ -258,7 +258,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18448
+        "total": 18457
       },
       "genres": [
         "mexican hip hop",
@@ -368,7 +368,7 @@
       },
       "followers": {
         "href": null,
-        "total": 112157
+        "total": 112235
       },
       "genres": [
         "mexican hip hop",
@@ -404,7 +404,7 @@
       },
       "followers": {
         "href": null,
-        "total": 329288
+        "total": 329452
       },
       "genres": [
         "latin hip hop",
@@ -443,7 +443,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1190326
+        "total": 1191096
       },
       "genres": [
         "latin hip hop",
@@ -481,7 +481,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21229205
+        "total": 21239940
       },
       "genres": [
         "conscious hip hop",
@@ -515,44 +515,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-      },
-      "followers": {
-        "href": null,
-        "total": 10000
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
-      "id": "3Jarv4dvk7d9k6AkqDUVJg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
-          "width": 160
-        }
-      ],
-      "name": "Nortec: Bostich + Fussible",
-      "popularity": 40,
-      "type": "artist",
-      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
         "href": null,
-        "total": 883706
+        "total": 884650
       },
       "genres": [
         "latin hip hop",
@@ -581,6 +548,41 @@
       "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+      },
+      "followers": {
+        "href": null,
+        "total": 10000
+      },
+      "genres": [
+        "mexican indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
+      "id": "3Jarv4dvk7d9k6AkqDUVJg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
+          "width": 160
+        }
+      ],
+      "name": "Nortec: Bostich + Fussible",
+      "popularity": 40,
+      "type": "artist",
+      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
     },
     {
       "external_urls": {
@@ -686,7 +688,7 @@
         }
       ],
       "name": "Santa Fe Klan",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
@@ -733,7 +735,7 @@
       },
       "followers": {
         "href": null,
-        "total": 171452
+        "total": 171665
       },
       "genres": [
         "mexican hip hop"
@@ -808,7 +810,7 @@
       },
       "followers": {
         "href": null,
-        "total": 147292
+        "total": 147415
       },
       "genres": [
         "trap mexicano"
@@ -843,7 +845,7 @@
       },
       "followers": {
         "href": null,
-        "total": 203552
+        "total": 203718
       },
       "genres": [
         "latin hip hop",
@@ -905,7 +907,7 @@
         }
       ],
       "name": "ROSAL\u00cdA",
-      "popularity": 82,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
     },
@@ -951,7 +953,7 @@
       },
       "followers": {
         "href": null,
-        "total": 167665
+        "total": 167945
       },
       "genres": [
         "mexican hip hop",
@@ -987,7 +989,7 @@
       },
       "followers": {
         "href": null,
-        "total": 943566
+        "total": 944723
       },
       "genres": [
         "mexican hip hop"
@@ -1094,7 +1096,7 @@
       },
       "followers": {
         "href": null,
-        "total": 240437
+        "total": 240598
       },
       "genres": [
         "latin hip hop",
@@ -1167,7 +1169,7 @@
       },
       "followers": {
         "href": null,
-        "total": 458602
+        "total": 458891
       },
       "genres": [
         "trap venezolano",
@@ -1277,7 +1279,7 @@
       },
       "followers": {
         "href": null,
-        "total": 533278
+        "total": 533579
       },
       "genres": [
         "latin hip hop",
@@ -1385,7 +1387,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2415272
+        "total": 2417668
       },
       "genres": [
         "uk hip hop"
@@ -1532,7 +1534,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2694804
+        "total": 2696148
       },
       "genres": [
         "conscious hip hop",
@@ -1696,17 +1698,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb13bd66a2b1a43de231c08608",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2ab1d9df9adc19a9f33ffd69",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517413bd66a2b1a43de231c08608",
+          "url": "https://i.scdn.co/image/ab676161000051742ab1d9df9adc19a9f33ffd69",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17813bd66a2b1a43de231c08608",
+          "url": "https://i.scdn.co/image/ab6761610000f1782ab1d9df9adc19a9f33ffd69",
           "width": 160
         }
       ],

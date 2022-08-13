@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24537
+        "total": 24545
       },
       "genres": [
         "mexican hip hop",
@@ -114,7 +114,7 @@
       },
       "followers": {
         "href": null,
-        "total": 167665
+        "total": 167945
       },
       "genres": [
         "mexican hip hop",
@@ -150,7 +150,7 @@
       },
       "followers": {
         "href": null,
-        "total": 883706
+        "total": 884650
       },
       "genres": [
         "latin hip hop",
@@ -223,7 +223,7 @@
       },
       "followers": {
         "href": null,
-        "total": 112157
+        "total": 112235
       },
       "genres": [
         "mexican hip hop",
@@ -296,7 +296,7 @@
       },
       "followers": {
         "href": null,
-        "total": 171452
+        "total": 171665
       },
       "genres": [
         "mexican hip hop"
@@ -356,7 +356,7 @@
         }
       ],
       "name": "Santa Fe Klan",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
@@ -366,7 +366,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18448
+        "total": 18457
       },
       "genres": [
         "mexican hip hop",
@@ -439,7 +439,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1190326
+        "total": 1191096
       },
       "genres": [
         "latin hip hop",
@@ -477,7 +477,7 @@
       },
       "followers": {
         "href": null,
-        "total": 147292
+        "total": 147415
       },
       "genres": [
         "trap mexicano"
@@ -512,7 +512,7 @@
       },
       "followers": {
         "href": null,
-        "total": 329288
+        "total": 329452
       },
       "genres": [
         "latin hip hop",
@@ -663,7 +663,7 @@
       },
       "followers": {
         "href": null,
-        "total": 240437
+        "total": 240598
       },
       "genres": [
         "latin hip hop",
@@ -700,7 +700,7 @@
       },
       "followers": {
         "href": null,
-        "total": 203552
+        "total": 203718
       },
       "genres": [
         "latin hip hop",
@@ -886,7 +886,7 @@
       },
       "followers": {
         "href": null,
-        "total": 87707
+        "total": 87794
       },
       "genres": [
         "trap mexicano"
@@ -921,7 +921,7 @@
       },
       "followers": {
         "href": null,
-        "total": 943566
+        "total": 944723
       },
       "genres": [
         "mexican hip hop"
@@ -956,7 +956,7 @@
       },
       "followers": {
         "href": null,
-        "total": 458602
+        "total": 458891
       },
       "genres": [
         "trap venezolano",
@@ -1098,7 +1098,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1003169
+        "total": 1004464
       },
       "genres": [
         "latin hip hop",
@@ -1134,7 +1134,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2510653
+        "total": 2511288
       },
       "genres": [
         "hip hop",
@@ -1171,7 +1171,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2726287
+        "total": 2726923
       },
       "genres": [
         "latin",
@@ -1363,7 +1363,9 @@
         "href": null,
         "total": 10000
       },
-      "genres": [],
+      "genres": [
+        "mexican indie"
+      ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
       "images": [
@@ -1466,7 +1468,7 @@
       },
       "followers": {
         "href": null,
-        "total": 533278
+        "total": 533579
       },
       "genres": [
         "latin hip hop",
@@ -1514,17 +1516,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb13bd66a2b1a43de231c08608",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2ab1d9df9adc19a9f33ffd69",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517413bd66a2b1a43de231c08608",
+          "url": "https://i.scdn.co/image/ab676161000051742ab1d9df9adc19a9f33ffd69",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17813bd66a2b1a43de231c08608",
+          "url": "https://i.scdn.co/image/ab6761610000f1782ab1d9df9adc19a9f33ffd69",
           "width": 160
         }
       ],
@@ -1575,7 +1577,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21229205
+        "total": 21239940
       },
       "genres": [
         "conscious hip hop",
@@ -1649,7 +1651,7 @@
       },
       "followers": {
         "href": null,
-        "total": 481191
+        "total": 481520
       },
       "genres": [
         "trap mexicano"
@@ -1684,7 +1686,7 @@
       },
       "followers": {
         "href": null,
-        "total": 246038
+        "total": 246151
       },
       "genres": [
         "boom bap espanol",
