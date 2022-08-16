@@ -1273,7 +1273,7 @@
       "id": "2QP6HI4BxBrdQdIOA75RSc",
       "is_local": false,
       "name": "Todos en la Cuadra Bien Locos",
-      "popularity": 63,
+      "popularity": 62,
       "preview_url": "https://p.scdn.co/mp3-preview/b10207f0bc4fb5333a4650327db169f2a2418c4a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -5349,7 +5349,7 @@
       "id": "61m9xMLI9DphxiSxdkagYH",
       "is_local": false,
       "name": "Nocivos - Remix",
-      "popularity": 41,
+      "popularity": 40,
       "preview_url": "https://p.scdn.co/mp3-preview/16f9bc7dd486af12619151afc5fe0943facdddd8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 4,
       "type": "track",
@@ -6337,7 +6337,7 @@
       "id": "4Mvyt5WBaDIPbaPLycMidE",
       "is_local": false,
       "name": "7:21",
-      "popularity": 40,
+      "popularity": 39,
       "preview_url": "https://p.scdn.co/mp3-preview/4fa8cedfaea78b560fc81c0fc22b69035bc367fa?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -7484,93 +7484,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-            },
-            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-            "id": "4QFG9KrGWEbr6hNA58CAqE",
-            "name": "Aleman",
-            "type": "artist",
-            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/10ywNgKnhLRZSLRsjcWH31"
-        },
-        "href": "https://api.spotify.com/v1/albums/10ywNgKnhLRZSLRsjcWH31",
-        "id": "10ywNgKnhLRZSLRsjcWH31",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27397939c79992c38432b280cb9",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0297939c79992c38432b280cb9",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485197939c79992c38432b280cb9",
-            "width": 64
-          }
-        ],
-        "name": "Un Minutito",
-        "release_date": "2019-08-14",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:10ywNgKnhLRZSLRsjcWH31"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-          },
-          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-          "id": "4QFG9KrGWEbr6hNA58CAqE",
-          "name": "Aleman",
-          "type": "artist",
-          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-          },
-          "href": "https://api.spotify.com/v1/artists/7fT2Me47PQ8T7954PKrcwR",
-          "id": "7fT2Me47PQ8T7954PKrcwR",
-          "name": "Bhavi",
-          "type": "artist",
-          "uri": "spotify:artist:7fT2Me47PQ8T7954PKrcwR"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 186776,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZGLM1993088"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6QS06EyBMkoGCi2cwOp9Ip"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6QS06EyBMkoGCi2cwOp9Ip",
-      "id": "6QS06EyBMkoGCi2cwOp9Ip",
-      "is_local": false,
-      "name": "Un Minutito",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:6QS06EyBMkoGCi2cwOp9Ip"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
             },
             "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
@@ -7816,7 +7729,7 @@
       "id": "03LfOYi0icz4souspZVVhq",
       "is_local": false,
       "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-      "popularity": 75,
+      "popularity": 74,
       "preview_url": "https://p.scdn.co/mp3-preview/fc6ec26be9a4ab648329f705f66055bc94ba1692?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -8063,7 +7976,7 @@
       "id": "2JQqONJFxrN5ahe3WDOmx5",
       "is_local": false,
       "name": "+18",
-      "popularity": 43,
+      "popularity": 42,
       "preview_url": "https://p.scdn.co/mp3-preview/e459d5bb32bfecaa7f6b2382c56ef7e8dacae57c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -9168,7 +9081,7 @@
       "id": "40q3AqR9WiKOTlA79Iyv9h",
       "is_local": false,
       "name": "Est\u00e1 Caliente",
-      "popularity": 53,
+      "popularity": 54,
       "preview_url": "https://p.scdn.co/mp3-preview/bca86f413a80b94d30ed658c43077239f0cdd922?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 6,
       "type": "track",
@@ -9794,6 +9707,93 @@
       "track_number": 5,
       "type": "track",
       "uri": "spotify:track:1GaXf2Nj1OrWcu7FEL60bb"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+            "id": "4QFG9KrGWEbr6hNA58CAqE",
+            "name": "Aleman",
+            "type": "artist",
+            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/10ywNgKnhLRZSLRsjcWH31"
+        },
+        "href": "https://api.spotify.com/v1/albums/10ywNgKnhLRZSLRsjcWH31",
+        "id": "10ywNgKnhLRZSLRsjcWH31",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27397939c79992c38432b280cb9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0297939c79992c38432b280cb9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485197939c79992c38432b280cb9",
+            "width": 64
+          }
+        ],
+        "name": "Un Minutito",
+        "release_date": "2019-08-14",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:10ywNgKnhLRZSLRsjcWH31"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+          "id": "4QFG9KrGWEbr6hNA58CAqE",
+          "name": "Aleman",
+          "type": "artist",
+          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7fT2Me47PQ8T7954PKrcwR",
+          "id": "7fT2Me47PQ8T7954PKrcwR",
+          "name": "Bhavi",
+          "type": "artist",
+          "uri": "spotify:artist:7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 186776,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZGLM1993088"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6QS06EyBMkoGCi2cwOp9Ip"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6QS06EyBMkoGCi2cwOp9Ip",
+      "id": "6QS06EyBMkoGCi2cwOp9Ip",
+      "is_local": false,
+      "name": "Un Minutito",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6QS06EyBMkoGCi2cwOp9Ip"
     },
     {
       "album": {

@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 887496
+        "total": 888418
       },
       "genres": [
         "latin hip hop",
@@ -77,7 +77,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3901736
+        "total": 3905745
       },
       "genres": [
         "mexican hip hop",
@@ -113,7 +113,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6438634
+        "total": 6457031
       },
       "genres": [
         "argentine hip hop",
@@ -186,7 +186,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18480
+        "total": 18498
       },
       "genres": [
         "mexican hip hop",
@@ -258,7 +258,7 @@
       },
       "followers": {
         "href": null,
-        "total": 241022
+        "total": 241196
       },
       "genres": [
         "latin hip hop",
@@ -327,43 +327,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
-      },
-      "followers": {
-        "href": null,
-        "total": 76094
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-      "id": "4H3ePoFDdsl36QwB96jZzg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba78dd0bd8eb4b7e9807f01d1",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a78dd0bd8eb4b7e9807f01d1",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a78dd0bd8eb4b7e9807f01d1",
-          "width": 160
-        }
-      ],
-      "name": "Leyruk",
-      "popularity": 36,
-      "type": "artist",
-      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
       },
       "followers": {
@@ -403,7 +366,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5912552
+        "total": 5921500
       },
       "genres": [
         "mexican hip hop"
@@ -431,6 +394,43 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+      },
+      "followers": {
+        "href": null,
+        "total": 76130
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
+      "id": "4H3ePoFDdsl36QwB96jZzg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba78dd0bd8eb4b7e9807f01d1",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a78dd0bd8eb4b7e9807f01d1",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a78dd0bd8eb4b7e9807f01d1",
+          "width": 160
+        }
+      ],
+      "name": "Leyruk",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
     {
       "external_urls": {
@@ -550,7 +550,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11448235
+        "total": 11458522
       },
       "genres": [
         "latin hip hop",
@@ -587,7 +587,7 @@
       },
       "followers": {
         "href": null,
-        "total": 172068
+        "total": 172261
       },
       "genres": [
         "mexican hip hop"
@@ -658,7 +658,7 @@
       },
       "followers": {
         "href": null,
-        "total": 53382686
+        "total": 53453326
       },
       "genres": [
         "latin",
@@ -695,7 +695,7 @@
       },
       "followers": {
         "href": null,
-        "total": 459429
+        "total": 459945
       },
       "genres": [
         "trap venezolano",
@@ -731,7 +731,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18158
+        "total": 18161
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -871,42 +871,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-      },
-      "followers": {
-        "href": null,
-        "total": 168697
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-      "id": "6tJRAxu0HwB2GI9GueEj4l",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb180cf42f3c12a4059748ccfe",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174180cf42f3c12a4059748ccfe",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178180cf42f3c12a4059748ccfe",
-          "width": 160
-        }
-      ],
-      "name": "Faruz Feet",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0XVOL55Wa1lbWs1tAsv5nf"
       },
       "followers": {
@@ -939,6 +903,45 @@
       "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:0XVOL55Wa1lbWs1tAsv5nf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+      },
+      "followers": {
+        "href": null,
+        "total": 246550
+      },
+      "genres": [
+        "boom bap espanol",
+        "pop venezolano",
+        "rap conciencia",
+        "trap venezolano",
+        "venezuelan hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0qHbO3z6lgLE6ZYCkQBo1K",
+      "id": "0qHbO3z6lgLE6ZYCkQBo1K",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcf4ca19c42442b45ae54d1fc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174cf4ca19c42442b45ae54d1fc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178cf4ca19c42442b45ae54d1fc",
+          "width": 160
+        }
+      ],
+      "name": "Lil Supa",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:0qHbO3z6lgLE6ZYCkQBo1K"
     },
     {
       "external_urls": {
@@ -984,7 +987,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2046530
+        "total": 2048185
       },
       "genres": [
         "latin hip hop",
@@ -1015,6 +1018,41 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+      },
+      "followers": {
+        "href": null,
+        "total": 12994
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
+      "id": "2Ch5zHsrWSpgq7g0WI2UFD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0bb29b483ae7108ccfc9b1b4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740bb29b483ae7108ccfc9b1b4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780bb29b483ae7108ccfc9b1b4",
+          "width": 160
+        }
+      ],
+      "name": "Desert Ni\u00f1os",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
     },
     {
       "external_urls": {
@@ -1051,43 +1089,6 @@
       "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 739747
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "narco rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
-      "id": "31l8FA2bO5qxpqf8uhV5eZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
-          "width": 64
-        }
-      ],
-      "name": "Millonario & W. Corona",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     },
     {
       "external_urls": {
@@ -1163,7 +1164,7 @@
       },
       "followers": {
         "href": null,
-        "total": 93876
+        "total": 93951
       },
       "genres": [
         "mexican hip hop",
@@ -1192,6 +1193,42 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+      },
+      "followers": {
+        "href": null,
+        "total": 168926
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+      "id": "6tJRAxu0HwB2GI9GueEj4l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb180cf42f3c12a4059748ccfe",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174180cf42f3c12a4059748ccfe",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178180cf42f3c12a4059748ccfe",
+          "width": 160
+        }
+      ],
+      "name": "Faruz Feet",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
     {
       "external_urls": {
@@ -1237,11 +1274,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+      },
+      "followers": {
+        "href": null,
+        "total": 114527
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3fo4UvMNzZUCFS90Roh5iK",
+      "id": "3fo4UvMNzZUCFS90Roh5iK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb50e73567e365155133aaea0a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517450e73567e365155133aaea0a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17850e73567e365155133aaea0a",
+          "width": 160
+        }
+      ],
+      "name": "Eptos Uno",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify:artist:3fo4UvMNzZUCFS90Roh5iK"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q"
       },
       "followers": {
         "href": null,
-        "total": 425963
+        "total": 426408
       },
       "genres": [
         "latin hip hop",
@@ -1278,7 +1352,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21849
+        "total": 21870
       },
       "genres": [
         "mexican hip hop"
@@ -1313,7 +1387,7 @@
       },
       "followers": {
         "href": null,
-        "total": 482467
+        "total": 482789
       },
       "genres": [
         "trap mexicano"
@@ -1380,42 +1454,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
-      },
-      "followers": {
-        "href": null,
-        "total": 5579
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
-      "id": "35BPWrbRCzHa7yWWvCi8BI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb880716f36113767cff65d156",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174880716f36113767cff65d156",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178880716f36113767cff65d156",
-          "width": 160
-        }
-      ],
-      "name": "Ballin",
-      "popularity": 28,
-      "type": "artist",
-      "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
       },
       "followers": {
@@ -1451,7 +1489,7 @@
       "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
     }
   ],
-  "total": 40,
+  "total": 41,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
