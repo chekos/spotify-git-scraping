@@ -929,7 +929,7 @@
               },
               "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
               "id": "2Ch5zHsrWSpgq7g0WI2UFD",
-              "name": "Desert Ni\u00f1os",
+              "name": "Desert Niños",
               "type": "artist",
               "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
             },
@@ -1175,7 +1175,7 @@
             },
             "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
             "id": "2Ch5zHsrWSpgq7g0WI2UFD",
-            "name": "Desert Ni\u00f1os",
+            "name": "Desert Niños",
             "type": "artist",
             "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
           },
@@ -5556,7 +5556,7 @@
             },
             "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
             "id": "0U5RYP2HMdGv2GhicLhkOI",
-            "name": "Neto Pe\u00f1a",
+            "name": "Neto Peña",
             "type": "artist",
             "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
           },
@@ -6024,7 +6024,7 @@
             },
             "href": "https://api.spotify.com/v1/artists/7M75Am5m6J934JSviUOGz0",
             "id": "7M75Am5m6J934JSviUOGz0",
-            "name": "Rub\u00e9n Albarr\u00e1n",
+            "name": "Rubén Albarrán",
             "type": "artist",
             "uri": "spotify:artist:7M75Am5m6J934JSviUOGz0"
           }
@@ -6225,7 +6225,7 @@
         "href": "https://api.spotify.com/v1/tracks/158wC11Na3xzCx4KTngOJV",
         "id": "158wC11Na3xzCx4KTngOJV",
         "is_local": false,
-        "name": "Conv\u00e9nceme",
+        "name": "Convénceme",
         "popularity": 23,
         "preview_url": "https://p.scdn.co/mp3-preview/b2c1ffa782615c7214635e91748f18aad582d929?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 3,
@@ -6235,12 +6235,5 @@
       "played_at": "2022-08-16T21:55:48.930Z",
       "context": null
     }
-  ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1660690348961&limit=50",
-  "cursors": {
-    "after": "1660690348961",
-    "before": "1660686948930"
-  },
-  "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1660686892000&limit=50"
+  ]
 }
