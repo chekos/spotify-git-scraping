@@ -565,7 +565,7 @@
       "id": "2HYoYZOIy4OYXEv55LCOOZ",
       "is_local": false,
       "name": "Con Cuantos Voy a Contar",
-      "popularity": 55,
+      "popularity": 54,
       "preview_url": "https://p.scdn.co/mp3-preview/df27dd213e5de0657ba71a4e83911582d2b08938?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -8727,7 +8727,7 @@
       "id": "1sbQ6LqLRtUXu6El1QgGYO",
       "is_local": false,
       "name": "100 K",
-      "popularity": 28,
+      "popularity": 27,
       "preview_url": "https://p.scdn.co/mp3-preview/c70abeb800d0f9ab889995ca4d4722cf980610ad?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 3,
       "type": "track",
@@ -9714,86 +9714,236 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+              "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
             },
-            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-            "id": "4QFG9KrGWEbr6hNA58CAqE",
-            "name": "Aleman",
+            "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
+            "id": "3p3jPcp8b7WL9XYj4xlsWj",
+            "name": "Snow Tha Product",
             "type": "artist",
-            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+            "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
           }
         ],
-        "available_markets": [],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/10ywNgKnhLRZSLRsjcWH31"
+          "spotify": "https://open.spotify.com/album/3gpDzwcbJyZ9FwW0DrUWZf"
         },
-        "href": "https://api.spotify.com/v1/albums/10ywNgKnhLRZSLRsjcWH31",
-        "id": "10ywNgKnhLRZSLRsjcWH31",
+        "href": "https://api.spotify.com/v1/albums/3gpDzwcbJyZ9FwW0DrUWZf",
+        "id": "3gpDzwcbJyZ9FwW0DrUWZf",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27397939c79992c38432b280cb9",
+            "url": "https://i.scdn.co/image/ab67616d0000b2730d87b5cfddbb8ddf8fad77bd",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0297939c79992c38432b280cb9",
+            "url": "https://i.scdn.co/image/ab67616d00001e020d87b5cfddbb8ddf8fad77bd",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485197939c79992c38432b280cb9",
+            "url": "https://i.scdn.co/image/ab67616d000048510d87b5cfddbb8ddf8fad77bd",
             "width": 64
           }
         ],
-        "name": "Un Minutito",
-        "release_date": "2019-08-14",
+        "name": "Bilingue",
+        "release_date": "2019-03-19",
         "release_date_precision": "day",
         "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:10ywNgKnhLRZSLRsjcWH31"
+        "uri": "spotify:album:3gpDzwcbJyZ9FwW0DrUWZf"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+            "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
           },
-          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-          "id": "4QFG9KrGWEbr6hNA58CAqE",
-          "name": "Aleman",
+          "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
+          "id": "3p3jPcp8b7WL9XYj4xlsWj",
+          "name": "Snow Tha Product",
           "type": "artist",
-          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-          },
-          "href": "https://api.spotify.com/v1/artists/7fT2Me47PQ8T7954PKrcwR",
-          "id": "7fT2Me47PQ8T7954PKrcwR",
-          "name": "Bhavi",
-          "type": "artist",
-          "uri": "spotify:artist:7fT2Me47PQ8T7954PKrcwR"
+          "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "available_markets": [],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
       "disc_number": 1,
-      "duration_ms": 186776,
-      "explicit": true,
+      "duration_ms": 171000,
+      "explicit": false,
       "external_ids": {
-        "isrc": "QZGLM1993088"
+        "isrc": "TCAED1959043"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6QS06EyBMkoGCi2cwOp9Ip"
+        "spotify": "https://open.spotify.com/track/4eFXaYD2is6c6Y645Qyyy1"
       },
-      "href": "https://api.spotify.com/v1/tracks/6QS06EyBMkoGCi2cwOp9Ip",
-      "id": "6QS06EyBMkoGCi2cwOp9Ip",
+      "href": "https://api.spotify.com/v1/tracks/4eFXaYD2is6c6Y645Qyyy1",
+      "id": "4eFXaYD2is6c6Y645Qyyy1",
       "is_local": false,
-      "name": "Un Minutito",
-      "popularity": 0,
-      "preview_url": null,
+      "name": "Bilingue",
+      "popularity": 49,
+      "preview_url": "https://p.scdn.co/mp3-preview/f52594c99cfb052dc81908c66cdd0dc758b6c25e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:6QS06EyBMkoGCi2cwOp9Ip"
+      "uri": "spotify:track:4eFXaYD2is6c6Y645Qyyy1"
     },
     {
       "album": {
@@ -10645,17 +10795,17 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "ALBUM",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+              "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
             },
-            "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
-            "id": "3p3jPcp8b7WL9XYj4xlsWj",
-            "name": "Snow Tha Product",
+            "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+            "id": "1gPiNBRjOB9XochAAFR3iM",
+            "name": "West Gold",
             "type": "artist",
-            "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
+            "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
           }
         ],
         "available_markets": [
@@ -10740,44 +10890,64 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3gpDzwcbJyZ9FwW0DrUWZf"
+          "spotify": "https://open.spotify.com/album/4cM23aZSWB8PP6LtYRNXrs"
         },
-        "href": "https://api.spotify.com/v1/albums/3gpDzwcbJyZ9FwW0DrUWZf",
-        "id": "3gpDzwcbJyZ9FwW0DrUWZf",
+        "href": "https://api.spotify.com/v1/albums/4cM23aZSWB8PP6LtYRNXrs",
+        "id": "4cM23aZSWB8PP6LtYRNXrs",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2730d87b5cfddbb8ddf8fad77bd",
+            "url": "https://i.scdn.co/image/ab67616d0000b273a6e6d09c255a29cda33b55cf",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e020d87b5cfddbb8ddf8fad77bd",
+            "url": "https://i.scdn.co/image/ab67616d00001e02a6e6d09c255a29cda33b55cf",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048510d87b5cfddbb8ddf8fad77bd",
+            "url": "https://i.scdn.co/image/ab67616d00004851a6e6d09c255a29cda33b55cf",
             "width": 64
           }
         ],
-        "name": "Bilingue",
-        "release_date": "2019-03-19",
+        "name": "West Gold",
+        "release_date": "2018-01-19",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 20,
         "type": "album",
-        "uri": "spotify:album:3gpDzwcbJyZ9FwW0DrUWZf"
+        "uri": "spotify:album:4cM23aZSWB8PP6LtYRNXrs"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+            "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
           },
-          "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
-          "id": "3p3jPcp8b7WL9XYj4xlsWj",
-          "name": "Snow Tha Product",
+          "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+          "id": "1gPiNBRjOB9XochAAFR3iM",
+          "name": "West Gold",
           "type": "artist",
-          "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
+          "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5absue45Q798sotcg1d0FD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5absue45Q798sotcg1d0FD",
+          "id": "5absue45Q798sotcg1d0FD",
+          "name": "Jarabe kidd",
+          "type": "artist",
+          "uri": "spotify:artist:5absue45Q798sotcg1d0FD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6KH83UCF9zwNaBi4IIJnjE"
+          },
+          "href": "https://api.spotify.com/v1/artists/6KH83UCF9zwNaBi4IIJnjE",
+          "id": "6KH83UCF9zwNaBi4IIJnjE",
+          "name": "Poofer",
+          "type": "artist",
+          "uri": "spotify:artist:6KH83UCF9zwNaBi4IIJnjE"
         }
       ],
       "available_markets": [
@@ -10862,23 +11032,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 171000,
+      "duration_ms": 174929,
       "explicit": false,
       "external_ids": {
-        "isrc": "TCAED1959043"
+        "isrc": "TCADL1817719"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/4eFXaYD2is6c6Y645Qyyy1"
+        "spotify": "https://open.spotify.com/track/53OQMubgTRT7fde9muSXGK"
       },
-      "href": "https://api.spotify.com/v1/tracks/4eFXaYD2is6c6Y645Qyyy1",
-      "id": "4eFXaYD2is6c6Y645Qyyy1",
+      "href": "https://api.spotify.com/v1/tracks/53OQMubgTRT7fde9muSXGK",
+      "id": "53OQMubgTRT7fde9muSXGK",
       "is_local": false,
-      "name": "Bilingue",
-      "popularity": 49,
-      "preview_url": "https://p.scdn.co/mp3-preview/f52594c99cfb052dc81908c66cdd0dc758b6c25e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
+      "name": "Bendito Flow (feat. Jarabe Kidd & Poofer)",
+      "popularity": 25,
+      "preview_url": "https://p.scdn.co/mp3-preview/f6b8b61548703d475f7f97fd5369d67dcffb94fd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 8,
       "type": "track",
-      "uri": "spotify:track:4eFXaYD2is6c6Y645Qyyy1"
+      "uri": "spotify:track:53OQMubgTRT7fde9muSXGK"
     }
   ],
   "total": 50,
