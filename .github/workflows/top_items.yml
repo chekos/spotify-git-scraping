@@ -3,7 +3,7 @@ name: Get Top Tracks and Artists
 on:
   workflow_dispatch:
   schedule:
-    - cron: '20 4 * * *'
+    - cron: '20 */4 * * *'
 
 jobs:
   scheduled:
