@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 88303
+        "total": 88419
       },
       "genres": [
         "trap mexicano"
@@ -37,11 +37,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+      },
+      "followers": {
+        "href": null,
+        "total": 3432750
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6b41a8ebf8835aa23586fbfb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746b41a8ebf8835aa23586fbfb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786b41a8ebf8835aa23586fbfb",
+          "width": 160
+        }
+      ],
+      "name": "Gera MX",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
         "href": null,
-        "total": 890328
+        "total": 891244
       },
       "genres": [
         "latin hip hop",
@@ -77,7 +113,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3913738
+        "total": 3917709
       },
       "genres": [
         "mexican hip hop",
@@ -113,7 +149,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18515
+        "total": 18531
       },
       "genres": [
         "mexican hip hop",
@@ -146,47 +182,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-      },
-      "followers": {
-        "href": null,
-        "total": 3428858
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-      "id": "2hejA1Dkf8v8R0koF44FvW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6b41a8ebf8835aa23586fbfb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746b41a8ebf8835aa23586fbfb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786b41a8ebf8835aa23586fbfb",
-          "width": 160
-        }
-      ],
-      "name": "Gera MX",
-      "popularity": 76,
-      "type": "artist",
-      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
       },
       "followers": {
         "href": null,
-        "total": 6491730
+        "total": 6508674
       },
       "genres": [
         "argentine hip hop",
@@ -223,7 +223,7 @@
       },
       "followers": {
         "href": null,
-        "total": 951605
+        "total": 952801
       },
       "genres": [
         "mexican hip hop"
@@ -258,7 +258,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11479960
+        "total": 11490074
       },
       "genres": [
         "latin hip hop",
@@ -295,7 +295,7 @@
       },
       "followers": {
         "href": null,
-        "total": 48393
+        "total": 48438
       },
       "genres": [
         "indie campechano",
@@ -332,7 +332,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18170
+        "total": 18173
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -365,7 +365,7 @@
       },
       "followers": {
         "href": null,
-        "total": 330419
+        "total": 330597
       },
       "genres": [
         "latin hip hop",
@@ -404,7 +404,7 @@
       },
       "followers": {
         "href": null,
-        "total": 76235
+        "total": 76271
       },
       "genres": [
         "mexican hip hop",
@@ -441,7 +441,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24579
+        "total": 24584
       },
       "genres": [
         "mexican hip hop",
@@ -477,7 +477,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5940462
+        "total": 5949448
       },
       "genres": [
         "mexican hip hop"
@@ -512,7 +512,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1779665
+        "total": 1781353
       },
       "genres": [
         "colombian hip hop",
@@ -548,7 +548,7 @@
       },
       "followers": {
         "href": null,
-        "total": 112737
+        "total": 112826
       },
       "genres": [
         "mexican hip hop",
@@ -584,7 +584,7 @@
       },
       "followers": {
         "href": null,
-        "total": 483490
+        "total": 483826
       },
       "genres": [
         "trap mexicano"
@@ -615,11 +615,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
+      },
+      "followers": {
+        "href": null,
+        "total": 204903
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
+      "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09d26fbbd337252c3e97c118",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409d26fbbd337252c3e97c118",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809d26fbbd337252c3e97c118",
+          "width": 160
+        }
+      ],
+      "name": "Iluminatik",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
       },
       "followers": {
         "href": null,
-        "total": 13036
+        "total": 13054
       },
       "genres": [
         "mexican hip hop"
@@ -654,7 +691,7 @@
       },
       "followers": {
         "href": null,
-        "total": 148079
+        "total": 148214
       },
       "genres": [
         "trap mexicano"
@@ -689,7 +726,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10057
+        "total": 10073
       },
       "genres": [
         "mexican indie"
@@ -724,7 +761,7 @@
       },
       "followers": {
         "href": null,
-        "total": 53594565
+        "total": 53662077
       },
       "genres": [
         "latin",
@@ -761,7 +798,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1195991
+        "total": 1196918
       },
       "genres": [
         "latin hip hop",
@@ -789,9 +826,45 @@
         }
       ],
       "name": "Charles Ans",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+      },
+      "followers": {
+        "href": null,
+        "total": 341085
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6JG2QQcaQBzinELNvu9PRk",
+      "id": "6JG2QQcaQBzinELNvu9PRk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf09f58f0c06e4ee194f784ee",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f09f58f0c06e4ee194f784ee",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f09f58f0c06e4ee194f784ee",
+          "width": 160
+        }
+      ],
+      "name": "Bipo Montana",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
     },
     {
       "external_urls": {
@@ -799,7 +872,7 @@
       },
       "followers": {
         "href": null,
-        "total": 460510
+        "total": 460812
       },
       "genres": [
         "trap venezolano",
@@ -835,7 +908,7 @@
       },
       "followers": {
         "href": null,
-        "total": 241554
+        "total": 241754
       },
       "genres": [
         "latin hip hop",
@@ -868,48 +941,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
-      },
-      "followers": {
-        "href": null,
-        "total": 204733
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
-      "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09d26fbbd337252c3e97c118",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409d26fbbd337252c3e97c118",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809d26fbbd337252c3e97c118",
-          "width": 160
-        }
-      ],
-      "name": "Iluminatik",
-      "popularity": 45,
-      "type": "artist",
-      "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
       },
       "followers": {
         "href": null,
-        "total": 172868
+        "total": 173114
       },
       "genres": [
         "mexican hip hop"
@@ -944,7 +980,7 @@
       },
       "followers": {
         "href": null,
-        "total": 117626
+        "total": 117743
       },
       "genres": [
         "mexican hip hop"
@@ -975,11 +1011,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
+      },
+      "followers": {
+        "href": null,
+        "total": 5601
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
+      "id": "35BPWrbRCzHa7yWWvCi8BI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb880716f36113767cff65d156",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174880716f36113767cff65d156",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178880716f36113767cff65d156",
+          "width": 160
+        }
+      ],
+      "name": "Ballin",
+      "popularity": 29,
+      "type": "artist",
+      "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
         "href": null,
-        "total": 1571856
+        "total": 1573610
       },
       "genres": [
         "latin hip hop",
@@ -1011,47 +1083,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-      },
-      "followers": {
-        "href": null,
-        "total": 340832
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6JG2QQcaQBzinELNvu9PRk",
-      "id": "6JG2QQcaQBzinELNvu9PRk",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf09f58f0c06e4ee194f784ee",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f09f58f0c06e4ee194f784ee",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f09f58f0c06e4ee194f784ee",
-          "width": 160
-        }
-      ],
-      "name": "Bipo Montana",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
       },
       "followers": {
         "href": null,
-        "total": 169421
+        "total": 169693
       },
       "genres": [
         "mexican hip hop",
@@ -1088,7 +1124,7 @@
       },
       "followers": {
         "href": null,
-        "total": 65767
+        "total": 65828
       },
       "genres": [
         "mexican hip hop"
@@ -1123,7 +1159,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7449
+        "total": 7455
       },
       "genres": [
         "mexican hip hop",
@@ -1159,7 +1195,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8112357
+        "total": 8118942
       },
       "genres": [
         "dance pop",
@@ -1197,47 +1233,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
-      },
-      "followers": {
-        "href": null,
-        "total": 5597
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
-      "id": "35BPWrbRCzHa7yWWvCi8BI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb880716f36113767cff65d156",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174880716f36113767cff65d156",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178880716f36113767cff65d156",
-          "width": 160
-        }
-      ],
-      "name": "Ballin",
-      "popularity": 29,
-      "type": "artist",
-      "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
       },
       "followers": {
         "href": null,
-        "total": 664813
+        "total": 665447
       },
       "genres": [
         "latin hip hop",
