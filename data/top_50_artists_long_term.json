@@ -1286,41 +1286,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2ai0soTBUbXpAdBZBEKkmh"
-      },
-      "followers": {
-        "href": null,
-        "total": 15215
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2ai0soTBUbXpAdBZBEKkmh",
-      "id": "2ai0soTBUbXpAdBZBEKkmh",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb787a3c2b32ea4cc98efe9af",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b787a3c2b32ea4cc98efe9af",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b787a3c2b32ea4cc98efe9af",
-          "width": 160
-        }
-      ],
-      "name": "Pistola Bang",
-      "popularity": 26,
-      "type": "artist",
-      "uri": "spotify:artist:2ai0soTBUbXpAdBZBEKkmh"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
@@ -1353,6 +1318,76 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+      },
+      "followers": {
+        "href": null,
+        "total": 21952
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba7970433fec7d8cd793a443d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a7970433fec7d8cd793a443d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a7970433fec7d8cd793a443d",
+          "width": 160
+        }
+      ],
+      "name": "Denilson",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ai0soTBUbXpAdBZBEKkmh"
+      },
+      "followers": {
+        "href": null,
+        "total": 15215
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2ai0soTBUbXpAdBZBEKkmh",
+      "id": "2ai0soTBUbXpAdBZBEKkmh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb787a3c2b32ea4cc98efe9af",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b787a3c2b32ea4cc98efe9af",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b787a3c2b32ea4cc98efe9af",
+          "width": 160
+        }
+      ],
+      "name": "Pistola Bang",
+      "popularity": 26,
+      "type": "artist",
+      "uri": "spotify:artist:2ai0soTBUbXpAdBZBEKkmh"
     },
     {
       "external_urls": {
@@ -1389,41 +1424,6 @@
       "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-      },
-      "followers": {
-        "href": null,
-        "total": 21952
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-      "id": "31opIYTivWACiXXzX2khlj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba7970433fec7d8cd793a443d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a7970433fec7d8cd793a443d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a7970433fec7d8cd793a443d",
-          "width": 160
-        }
-      ],
-      "name": "Denilson",
-      "popularity": 47,
-      "type": "artist",
-      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
     {
       "external_urls": {
@@ -1574,6 +1574,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73"
+      },
+      "followers": {
+        "href": null,
+        "total": 7455
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2uG7vLSehD2quPeYSPkT73",
+      "id": "2uG7vLSehD2quPeYSPkT73",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7330cc45228070b8b736fa84",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747330cc45228070b8b736fa84",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787330cc45228070b8b736fa84",
+          "width": 160
+        }
+      ],
+      "name": "Tabernario",
+      "popularity": 33,
+      "type": "artist",
+      "uri": "spotify:artist:2uG7vLSehD2quPeYSPkT73"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
       },
       "followers": {
@@ -1608,42 +1644,6 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73"
-      },
-      "followers": {
-        "href": null,
-        "total": 7455
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2uG7vLSehD2quPeYSPkT73",
-      "id": "2uG7vLSehD2quPeYSPkT73",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7330cc45228070b8b736fa84",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747330cc45228070b8b736fa84",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787330cc45228070b8b736fa84",
-          "width": 160
-        }
-      ],
-      "name": "Tabernario",
-      "popularity": 33,
-      "type": "artist",
-      "uri": "spotify:artist:2uG7vLSehD2quPeYSPkT73"
     },
     {
       "external_urls": {
