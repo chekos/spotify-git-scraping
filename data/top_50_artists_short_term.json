@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 88522
+        "total": 88619
       },
       "genres": [
         "trap mexicano"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 331012
+        "total": 331273
       },
       "genres": [
         "latin hip hop",
@@ -70,7 +70,7 @@
         }
       ],
       "name": "La Banda Baston",
-      "popularity": 51,
+      "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
     },
@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 892138
+        "total": 893047
       },
       "genres": [
         "latin hip hop",
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3921475
+        "total": 3925170
       },
       "genres": [
         "mexican hip hop",
@@ -152,7 +152,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18539
+        "total": 18544
       },
       "genres": [
         "mexican hip hop",
@@ -185,11 +185,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+      },
+      "followers": {
+        "href": null,
+        "total": 13087
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
+      "id": "2Ch5zHsrWSpgq7g0WI2UFD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0bb29b483ae7108ccfc9b1b4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740bb29b483ae7108ccfc9b1b4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780bb29b483ae7108ccfc9b1b4",
+          "width": 160
+        }
+      ],
+      "name": "Desert Ni\u00f1os",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
         "href": null,
-        "total": 3436045
+        "total": 3439297
       },
       "genres": [
         "mexican hip hop",
@@ -225,7 +260,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6525548
+        "total": 6542803
       },
       "genres": [
         "argentine hip hop",
@@ -262,7 +297,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11499984
+        "total": 11509868
       },
       "genres": [
         "latin hip hop",
@@ -299,7 +334,7 @@
       },
       "followers": {
         "href": null,
-        "total": 48475
+        "total": 48520
       },
       "genres": [
         "indie campechano",
@@ -369,7 +404,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24590
+        "total": 24602
       },
       "genres": [
         "mexican hip hop",
@@ -401,11 +436,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+      },
+      "followers": {
+        "href": null,
+        "total": 484448
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
+      "id": "645xd9cHiiLqqehoLzLMDR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb492c28f0aaa98c35b5482ace",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174492c28f0aaa98c35b5482ace",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178492c28f0aaa98c35b5482ace",
+          "width": 160
+        }
+      ],
+      "name": "Adan Cruz",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
       },
       "followers": {
         "href": null,
-        "total": 173301
+        "total": 173528
       },
       "genres": [
         "mexican hip hop"
@@ -440,7 +510,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1782980
+        "total": 1784482
       },
       "genres": [
         "colombian hip hop",
@@ -476,7 +546,7 @@
       },
       "followers": {
         "href": null,
-        "total": 112917
+        "total": 112990
       },
       "genres": [
         "mexican hip hop",
@@ -512,7 +582,7 @@
       },
       "followers": {
         "href": null,
-        "total": 148329
+        "total": 148465
       },
       "genres": [
         "trap mexicano"
@@ -547,7 +617,7 @@
       },
       "followers": {
         "href": null,
-        "total": 76307
+        "total": 76346
       },
       "genres": [
         "mexican hip hop",
@@ -584,7 +654,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5958352
+        "total": 5967446
       },
       "genres": [
         "mexican hip hop"
@@ -619,7 +689,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1197756
+        "total": 1198548
       },
       "genres": [
         "latin hip hop",
@@ -653,46 +723,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-      },
-      "followers": {
-        "href": null,
-        "total": 484153
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
-      "id": "645xd9cHiiLqqehoLzLMDR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb492c28f0aaa98c35b5482ace",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174492c28f0aaa98c35b5482ace",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178492c28f0aaa98c35b5482ace",
-          "width": 160
-        }
-      ],
-      "name": "Adan Cruz",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
       },
       "followers": {
         "href": null,
-        "total": 241922
+        "total": 242094
       },
       "genres": [
         "latin hip hop",
@@ -729,7 +764,7 @@
       },
       "followers": {
         "href": null,
-        "total": 205052
+        "total": 205207
       },
       "genres": [
         "latin hip hop",
@@ -762,46 +797,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-      },
-      "followers": {
-        "href": null,
-        "total": 13070
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
-      "id": "2Ch5zHsrWSpgq7g0WI2UFD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0bb29b483ae7108ccfc9b1b4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740bb29b483ae7108ccfc9b1b4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780bb29b483ae7108ccfc9b1b4",
-          "width": 160
-        }
-      ],
-      "name": "Desert Ni\u00f1os",
-      "popularity": 39,
-      "type": "artist",
-      "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
       },
       "followers": {
         "href": null,
-        "total": 117868
+        "total": 118000
       },
       "genres": [
         "mexican hip hop",
@@ -837,7 +837,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10094
+        "total": 10110
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
@@ -870,7 +870,7 @@
       },
       "followers": {
         "href": null,
-        "total": 53731193
+        "total": 53802275
       },
       "genres": [
         "latin",
@@ -907,7 +907,7 @@
       },
       "followers": {
         "href": null,
-        "total": 341319
+        "total": 341532
       },
       "genres": [
         "mexican hip hop",
@@ -939,11 +939,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+      },
+      "followers": {
+        "href": null,
+        "total": 170175
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+      "id": "6tJRAxu0HwB2GI9GueEj4l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb180cf42f3c12a4059748ccfe",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174180cf42f3c12a4059748ccfe",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178180cf42f3c12a4059748ccfe",
+          "width": 160
+        }
+      ],
+      "name": "Faruz Feet",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
         "href": null,
-        "total": 953870
+        "total": 954911
       },
       "genres": [
         "mexican hip hop"
@@ -978,7 +1014,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21967
+        "total": 22005
       },
       "genres": [
         "mexican hip hop"
@@ -1013,7 +1049,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5604
+        "total": 5611
       },
       "genres": [
         "mexican hip hop",
@@ -1049,7 +1085,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1575333
+        "total": 1577028
       },
       "genres": [
         "latin hip hop",
@@ -1085,7 +1121,7 @@
       },
       "followers": {
         "href": null,
-        "total": 461184
+        "total": 461495
       },
       "genres": [
         "trap venezolano",
@@ -1117,47 +1153,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-      },
-      "followers": {
-        "href": null,
-        "total": 169940
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-      "id": "6tJRAxu0HwB2GI9GueEj4l",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb180cf42f3c12a4059748ccfe",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174180cf42f3c12a4059748ccfe",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178180cf42f3c12a4059748ccfe",
-          "width": 160
-        }
-      ],
-      "name": "Faruz Feet",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0XVOL55Wa1lbWs1tAsv5nf"
       },
       "followers": {
         "href": null,
-        "total": 65884
+        "total": 65953
       },
       "genres": [
         "mexican hip hop"
@@ -1225,7 +1225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7455
+        "total": 7457
       },
       "genres": [
         "mexican hip hop",
@@ -1261,7 +1261,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8125547
+        "total": 8132279
       },
       "genres": [
         "dance pop",
@@ -1303,7 +1303,7 @@
       },
       "followers": {
         "href": null,
-        "total": 666073
+        "total": 666702
       },
       "genres": [
         "latin hip hop",
