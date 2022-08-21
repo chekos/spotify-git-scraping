@@ -622,43 +622,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
-      },
-      "followers": {
-        "href": null,
-        "total": 76346
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-      "id": "4H3ePoFDdsl36QwB96jZzg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba78dd0bd8eb4b7e9807f01d1",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a78dd0bd8eb4b7e9807f01d1",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a78dd0bd8eb4b7e9807f01d1",
-          "width": 160
-        }
-      ],
-      "name": "Leyruk",
-      "popularity": 36,
-      "type": "artist",
-      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
       },
       "followers": {
@@ -693,6 +656,43 @@
       "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+      },
+      "followers": {
+        "href": null,
+        "total": 76346
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
+      "id": "4H3ePoFDdsl36QwB96jZzg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba78dd0bd8eb4b7e9807f01d1",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a78dd0bd8eb4b7e9807f01d1",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a78dd0bd8eb4b7e9807f01d1",
+          "width": 160
+        }
+      ],
+      "name": "Leyruk",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
     {
       "external_urls": {

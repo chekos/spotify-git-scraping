@@ -76,6 +76,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+      },
+      "followers": {
+        "href": null,
+        "total": 3439297
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb909131d644ba3d2ceb2f5d07",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174909131d644ba3d2ceb2f5d07",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178909131d644ba3d2ceb2f5d07",
+          "width": 160
+        }
+      ],
+      "name": "Gera MX",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
@@ -148,43 +184,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-      },
-      "followers": {
-        "href": null,
-        "total": 18544
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-      "id": "3AgxRYe2kXEfsZyB07hqJF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
-          "width": 160
-        }
-      ],
-      "name": "Yoga Fire",
-      "popularity": 52,
-      "type": "artist",
-      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
       },
       "followers": {
@@ -220,39 +219,40 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
         "href": null,
-        "total": 3439297
+        "total": 18544
       },
       "genres": [
         "mexican hip hop",
-        "rap conciencia"
+        "rap underground mexicano",
+        "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+      "id": "3AgxRYe2kXEfsZyB07hqJF",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb909131d644ba3d2ceb2f5d07",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174909131d644ba3d2ceb2f5d07",
+          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178909131d644ba3d2ceb2f5d07",
+          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
           "width": 160
         }
       ],
-      "name": "Gera MX",
-      "popularity": 76,
+      "name": "Yoga Fire",
+      "popularity": 52,
       "type": "artist",
-      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
     {
       "external_urls": {
@@ -330,6 +330,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+      },
+      "followers": {
+        "href": null,
+        "total": 112990
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+      "id": "1gPiNBRjOB9XochAAFR3iM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
+          "width": 160
+        }
+      ],
+      "name": "West Gold",
+      "popularity": 44,
+      "type": "artist",
+      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
       },
       "followers": {
@@ -364,110 +400,6 @@
       "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
-      },
-      "followers": {
-        "href": null,
-        "total": 18178
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
-      "id": "23TYM4mYLQjyJLr4x89MjH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1737e345c5b24633e31f36b9",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741737e345c5b24633e31f36b9",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781737e345c5b24633e31f36b9",
-          "width": 160
-        }
-      ],
-      "name": "Danger",
-      "popularity": 32,
-      "type": "artist",
-      "uri": "spotify:artist:23TYM4mYLQjyJLr4x89MjH"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-      },
-      "followers": {
-        "href": null,
-        "total": 24602
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-      "id": "4RtYPfT9hi1qBolEuVArOG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb52e524de06c1650745b2da8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b52e524de06c1650745b2da8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b52e524de06c1650745b2da8",
-          "width": 160
-        }
-      ],
-      "name": "La Plebada",
-      "popularity": 38,
-      "type": "artist",
-      "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-      },
-      "followers": {
-        "href": null,
-        "total": 484448
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
-      "id": "645xd9cHiiLqqehoLzLMDR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb492c28f0aaa98c35b5482ace",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174492c28f0aaa98c35b5482ace",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178492c28f0aaa98c35b5482ace",
-          "width": 160
-        }
-      ],
-      "name": "Adan Cruz",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
     },
     {
       "external_urls": {
@@ -542,39 +474,36 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+        "spotify": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
       },
       "followers": {
         "href": null,
-        "total": 112990
+        "total": 18178
       },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-      "id": "1gPiNBRjOB9XochAAFR3iM",
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
+      "id": "23TYM4mYLQjyJLr4x89MjH",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1737e345c5b24633e31f36b9",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
+          "url": "https://i.scdn.co/image/ab676161000051741737e345c5b24633e31f36b9",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
+          "url": "https://i.scdn.co/image/ab6761610000f1781737e345c5b24633e31f36b9",
           "width": 160
         }
       ],
-      "name": "West Gold",
-      "popularity": 44,
+      "name": "Danger",
+      "popularity": 32,
       "type": "artist",
-      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+      "uri": "spotify:artist:23TYM4mYLQjyJLr4x89MjH"
     },
     {
       "external_urls": {
@@ -613,40 +542,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
       },
       "followers": {
         "href": null,
-        "total": 76346
+        "total": 24602
       },
       "genres": [
         "mexican hip hop",
-        "rap underground mexicano",
         "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-      "id": "4H3ePoFDdsl36QwB96jZzg",
+      "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+      "id": "4RtYPfT9hi1qBolEuVArOG",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba78dd0bd8eb4b7e9807f01d1",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb52e524de06c1650745b2da8",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a78dd0bd8eb4b7e9807f01d1",
+          "url": "https://i.scdn.co/image/ab67616100005174b52e524de06c1650745b2da8",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a78dd0bd8eb4b7e9807f01d1",
+          "url": "https://i.scdn.co/image/ab6761610000f178b52e524de06c1650745b2da8",
           "width": 160
         }
       ],
-      "name": "Leyruk",
-      "popularity": 36,
+      "name": "La Plebada",
+      "popularity": 38,
       "type": "artist",
-      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
+      "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
     },
     {
       "external_urls": {
@@ -685,41 +613,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
       },
       "followers": {
         "href": null,
-        "total": 1198548
+        "total": 484448
       },
       "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "perreo",
-        "rap conciencia"
+        "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
+      "id": "645xd9cHiiLqqehoLzLMDR",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9f5d7a4538c195c7dad2a6ca",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb492c28f0aaa98c35b5482ace",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749f5d7a4538c195c7dad2a6ca",
+          "url": "https://i.scdn.co/image/ab67616100005174492c28f0aaa98c35b5482ace",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789f5d7a4538c195c7dad2a6ca",
+          "url": "https://i.scdn.co/image/ab6761610000f178492c28f0aaa98c35b5482ace",
           "width": 160
         }
       ],
-      "name": "Charles Ans",
-      "popularity": 69,
+      "name": "Adan Cruz",
+      "popularity": 60,
       "type": "artist",
-      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+      "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
     },
     {
       "external_urls": {
@@ -794,6 +719,81 @@
       "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+      },
+      "followers": {
+        "href": null,
+        "total": 76346
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
+      "id": "4H3ePoFDdsl36QwB96jZzg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba78dd0bd8eb4b7e9807f01d1",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a78dd0bd8eb4b7e9807f01d1",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a78dd0bd8eb4b7e9807f01d1",
+          "width": 160
+        }
+      ],
+      "name": "Leyruk",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+      },
+      "followers": {
+        "href": null,
+        "total": 1198548
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "perreo",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9f5d7a4538c195c7dad2a6ca",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749f5d7a4538c195c7dad2a6ca",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789f5d7a4538c195c7dad2a6ca",
+          "width": 160
+        }
+      ],
+      "name": "Charles Ans",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
     {
       "external_urls": {
@@ -1010,6 +1010,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73"
+      },
+      "followers": {
+        "href": null,
+        "total": 7457
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2uG7vLSehD2quPeYSPkT73",
+      "id": "2uG7vLSehD2quPeYSPkT73",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7330cc45228070b8b736fa84",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747330cc45228070b8b736fa84",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787330cc45228070b8b736fa84",
+          "width": 160
+        }
+      ],
+      "name": "Tabernario",
+      "popularity": 33,
+      "type": "artist",
+      "uri": "spotify:artist:2uG7vLSehD2quPeYSPkT73"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
@@ -1218,42 +1254,6 @@
       "popularity": 8,
       "type": "artist",
       "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73"
-      },
-      "followers": {
-        "href": null,
-        "total": 7457
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2uG7vLSehD2quPeYSPkT73",
-      "id": "2uG7vLSehD2quPeYSPkT73",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7330cc45228070b8b736fa84",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747330cc45228070b8b736fa84",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787330cc45228070b8b736fa84",
-          "width": 160
-        }
-      ],
-      "name": "Tabernario",
-      "popularity": 33,
-      "type": "artist",
-      "uri": "spotify:artist:2uG7vLSehD2quPeYSPkT73"
     },
     {
       "external_urls": {
