@@ -1220,7 +1220,9 @@
         "href": null,
         "total": 10122
       },
-      "genres": [],
+      "genres": [
+        "mexican indie"
+      ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
       "images": [
@@ -1786,7 +1788,7 @@
         }
       ],
       "name": "Phyzh Eye",
-      "popularity": 33,
+      "popularity": 34,
       "type": "artist",
       "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
     },
