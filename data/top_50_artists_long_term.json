@@ -150,7 +150,7 @@
       },
       "followers": {
         "href": null,
-        "total": 893047
+        "total": 893994
       },
       "genres": [
         "latin hip hop",
@@ -223,7 +223,7 @@
       },
       "followers": {
         "href": null,
-        "total": 112990
+        "total": 113096
       },
       "genres": [
         "mexican hip hop",
@@ -366,7 +366,7 @@
       },
       "followers": {
         "href": null,
-        "total": 331273
+        "total": 331491
       },
       "genres": [
         "latin hip hop",
@@ -405,7 +405,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1784482
+        "total": 1785992
       },
       "genres": [
         "colombian hip hop",
@@ -478,7 +478,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1198548
+        "total": 1199287
       },
       "genres": [
         "latin hip hop",
@@ -551,7 +551,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2056548
+        "total": 2058070
       },
       "genres": [
         "latin hip hop",
@@ -626,7 +626,7 @@
       },
       "followers": {
         "href": null,
-        "total": 242094
+        "total": 242256
       },
       "genres": [
         "latin hip hop",
@@ -700,7 +700,7 @@
       },
       "followers": {
         "href": null,
-        "total": 205207
+        "total": 205393
       },
       "genres": [
         "latin hip hop",
@@ -777,7 +777,7 @@
       },
       "followers": {
         "href": null,
-        "total": 104131
+        "total": 104239
       },
       "genres": [
         "mexican hip hop",
@@ -851,7 +851,7 @@
       },
       "followers": {
         "href": null,
-        "total": 88619
+        "total": 88717
       },
       "genres": [
         "trap mexicano"
@@ -989,7 +989,7 @@
       },
       "followers": {
         "href": null,
-        "total": 461495
+        "total": 461760
       },
       "genres": [
         "trap venezolano",
@@ -1025,7 +1025,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1577028
+        "total": 1578681
       },
       "genres": [
         "latin hip hop",
@@ -1061,7 +1061,7 @@
       },
       "followers": {
         "href": null,
-        "total": 48520
+        "total": 48559
       },
       "genres": [
         "indie campechano",
@@ -1218,7 +1218,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10110
+        "total": 10122
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
@@ -1322,7 +1322,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22005
+        "total": 22027
       },
       "genres": [
         "mexican hip hop"
@@ -1428,7 +1428,7 @@
       },
       "followers": {
         "href": null,
-        "total": 47204
+        "total": 47238
       },
       "genres": [
         "mexican hip hop",
@@ -1465,7 +1465,7 @@
       },
       "followers": {
         "href": null,
-        "total": 536409
+        "total": 536715
       },
       "genres": [
         "latin hip hop",
@@ -1648,7 +1648,7 @@
       },
       "followers": {
         "href": null,
-        "total": 484448
+        "total": 484774
       },
       "genres": [
         "trap mexicano"
@@ -1673,7 +1673,7 @@
         }
       ],
       "name": "Adan Cruz",
-      "popularity": 60,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
     },
@@ -1719,7 +1719,7 @@
       },
       "followers": {
         "href": null,
-        "total": 247440
+        "total": 247578
       },
       "genres": [
         "boom bap espanol",
@@ -1748,7 +1748,7 @@
         }
       ],
       "name": "Lil Supa",
-      "popularity": 52,
+      "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:0qHbO3z6lgLE6ZYCkQBo1K"
     },
