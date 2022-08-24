@@ -448,7 +448,6 @@
       "genres": [
         "latin hip hop",
         "mexican hip hop",
-        "perreo",
         "rap conciencia"
       ],
       "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
@@ -1206,7 +1205,6 @@
       },
       "genres": [
         "desi hip hop",
-        "desi pop",
         "punjabi hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0aS41TT32O5PsnAB7qZj7L",
@@ -1576,17 +1574,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb50e73567e365155133aaea0a",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcf2f2b5fffdada247ed600ac",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517450e73567e365155133aaea0a",
+          "url": "https://i.scdn.co/image/ab67616100005174cf2f2b5fffdada247ed600ac",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17850e73567e365155133aaea0a",
+          "url": "https://i.scdn.co/image/ab6761610000f178cf2f2b5fffdada247ed600ac",
           "width": 160
         }
       ],

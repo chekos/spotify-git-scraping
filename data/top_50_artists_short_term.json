@@ -731,7 +731,6 @@
       "genres": [
         "latin hip hop",
         "mexican hip hop",
-        "perreo",
         "rap conciencia"
       ],
       "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
@@ -1040,7 +1039,7 @@
         }
       ],
       "name": "Tabernario",
-      "popularity": 33,
+      "popularity": 34,
       "type": "artist",
       "uri": "spotify:artist:2uG7vLSehD2quPeYSPkT73"
     },
