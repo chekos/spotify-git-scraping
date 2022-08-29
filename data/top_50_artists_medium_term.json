@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24636
+        "total": 24641
       },
       "genres": [
         "mexican hip hop",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 89265
+        "total": 89333
       },
       "genres": [
         "trap mexicano"
@@ -70,6 +70,45 @@
       "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+      },
+      "followers": {
+        "href": null,
+        "total": 332978
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "perreo",
+        "rap underground mexicano",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
+          "width": 160
+        }
+      ],
+      "name": "La Banda Baston",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
     },
     {
       "external_urls": {
@@ -107,45 +146,6 @@
       "popularity": 100,
       "type": "artist",
       "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-      },
-      "followers": {
-        "href": null,
-        "total": 332820
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "perreo",
-        "rap underground mexicano",
-        "rock en espanol"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
-          "width": 160
-        }
-      ],
-      "name": "La Banda Baston",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
     },
     {
       "external_urls": {
@@ -299,7 +299,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13176
+        "total": 13191
       },
       "genres": [
         "mexican hip hop"
@@ -407,7 +407,7 @@
       },
       "followers": {
         "href": null,
-        "total": 113651
+        "total": 113724
       },
       "genres": [
         "mexican hip hop",
@@ -517,7 +517,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21396227
+        "total": 21405819
       },
       "genres": [
         "conscious hip hop",
@@ -555,9 +555,11 @@
       },
       "followers": {
         "href": null,
-        "total": 10195
+        "total": 10206
       },
-      "genres": [],
+      "genres": [
+        "mexican indie"
+      ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
       "images": [
@@ -588,7 +590,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1795902
+        "total": 1797370
       },
       "genres": [
         "colombian hip hop",
@@ -731,7 +733,7 @@
       },
       "followers": {
         "href": null,
-        "total": 175177
+        "total": 175386
       },
       "genres": [
         "mexican hip hop"
@@ -802,7 +804,7 @@
       },
       "followers": {
         "href": null,
-        "total": 48820
+        "total": 48853
       },
       "genres": [
         "indie campechano",
@@ -839,7 +841,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2563666
+        "total": 2564689
       },
       "genres": [
         "hip hop",
@@ -878,7 +880,7 @@
       },
       "followers": {
         "href": null,
-        "total": 962735
+        "total": 963729
       },
       "genres": [
         "mexican hip hop"
@@ -913,7 +915,7 @@
       },
       "followers": {
         "href": null,
-        "total": 206423
+        "total": 206580
       },
       "genres": [
         "latin hip hop",
@@ -950,7 +952,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5792824
+        "total": 5800499
       },
       "genres": [
         "r&b en espanol"
@@ -1058,7 +1060,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22186
+        "total": 22208
       },
       "genres": [
         "mexican hip hop"
@@ -1093,7 +1095,7 @@
       },
       "followers": {
         "href": null,
-        "total": 85554
+        "total": 85587
       },
       "genres": [
         "mexican hip hop",
@@ -1129,7 +1131,7 @@
       },
       "followers": {
         "href": null,
-        "total": 243692
+        "total": 243906
       },
       "genres": [
         "latin hip hop",
@@ -1202,7 +1204,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21222
+        "total": 21260
       },
       "genres": [
         "desi hip hop",
@@ -1238,7 +1240,7 @@
       },
       "followers": {
         "href": null,
-        "total": 463453
+        "total": 463739
       },
       "genres": [
         "trap venezolano",
@@ -1348,7 +1350,7 @@
       },
       "followers": {
         "href": null,
-        "total": 538705
+        "total": 539034
       },
       "genres": [
         "latin hip hop",
@@ -1525,7 +1527,7 @@
       },
       "followers": {
         "href": null,
-        "total": 671134
+        "total": 671689
       },
       "genres": [
         "latin hip hop",
@@ -1563,7 +1565,7 @@
       },
       "followers": {
         "href": null,
-        "total": 115306
+        "total": 115361
       },
       "genres": [
         "mexican hip hop",
@@ -1600,7 +1602,7 @@
       },
       "followers": {
         "href": null,
-        "total": 47458
+        "total": 47498
       },
       "genres": [
         "mexican hip hop",
@@ -1710,7 +1712,7 @@
       },
       "followers": {
         "href": null,
-        "total": 487154
+        "total": 487481
       },
       "genres": [
         "trap mexicano"
@@ -1780,7 +1782,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2720982
+        "total": 2722584
       },
       "genres": [
         "conscious hip hop",
