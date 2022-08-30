@@ -2,46 +2,11 @@
   "items": [
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-      },
-      "followers": {
-        "href": null,
-        "total": 89334
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-      "id": "7I85Ma5xjAo6nlvqOCIiWx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb490e45484c32f08ab79f5abe",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174490e45484c32f08ab79f5abe",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178490e45484c32f08ab79f5abe",
-          "width": 160
-        }
-      ],
-      "name": "Fntxy",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
       },
       "followers": {
         "href": null,
-        "total": 332984
+        "total": 332987
       },
       "genres": [
         "latin hip hop",
@@ -76,11 +41,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+      },
+      "followers": {
+        "href": null,
+        "total": 89336
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+      "id": "7I85Ma5xjAo6nlvqOCIiWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb490e45484c32f08ab79f5abe",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174490e45484c32f08ab79f5abe",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178490e45484c32f08ab79f5abe",
+          "width": 160
+        }
+      ],
+      "name": "Fntxy",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
         "href": null,
-        "total": 3470440
+        "total": 3470492
       },
       "genres": [
         "mexican hip hop",
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 900541
+        "total": 900554
       },
       "genres": [
         "latin hip hop",
@@ -152,7 +152,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3955495
+        "total": 3955536
       },
       "genres": [
         "mexican hip hop",
@@ -256,48 +256,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-      },
-      "followers": {
-        "href": null,
-        "total": 6671759
-      },
-      "genres": [
-        "argentine hip hop",
-        "pop venezolano",
-        "trap argentino"
-      ],
-      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-      "id": "716NhGYqD1jl2wI1Qkgq36",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517412085fdb28f314e01ef73a19",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19",
-          "width": 160
-        }
-      ],
-      "name": "Bizarrap",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
       },
       "followers": {
         "href": null,
-        "total": 113728
+        "total": 113730
       },
       "genres": [
         "mexican hip hop",
@@ -333,7 +296,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11589743
+        "total": 11589865
       },
       "genres": [
         "latin hip hop",
@@ -370,7 +333,7 @@
       },
       "followers": {
         "href": null,
-        "total": 175393
+        "total": 175397
       },
       "genres": [
         "mexican hip hop"
@@ -405,7 +368,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18197
+        "total": 18198
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -474,7 +437,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6037581
+        "total": 6037686
       },
       "genres": [
         "mexican hip hop"
@@ -509,7 +472,7 @@
       },
       "followers": {
         "href": null,
-        "total": 487489
+        "total": 487499
       },
       "genres": [
         "trap mexicano"
@@ -544,7 +507,7 @@
       },
       "followers": {
         "href": null,
-        "total": 243914
+        "total": 243917
       },
       "genres": [
         "latin hip hop",
@@ -581,7 +544,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1797400
+        "total": 1797416
       },
       "genres": [
         "colombian hip hop",
@@ -617,7 +580,7 @@
       },
       "followers": {
         "href": null,
-        "total": 149397
+        "total": 149398
       },
       "genres": [
         "trap mexicano"
@@ -652,7 +615,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22208
+        "total": 22209
       },
       "genres": [
         "mexican hip hop"
@@ -687,7 +650,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1205173
+        "total": 1205183
       },
       "genres": [
         "latin hip hop",
@@ -725,7 +688,7 @@
       },
       "followers": {
         "href": null,
-        "total": 206584
+        "total": 206588
       },
       "genres": [
         "latin hip hop",
@@ -762,7 +725,7 @@
       },
       "followers": {
         "href": null,
-        "total": 118974
+        "total": 118975
       },
       "genres": [
         "mexican hip hop",
@@ -833,7 +796,7 @@
       },
       "followers": {
         "href": null,
-        "total": 54354837
+        "total": 54355936
       },
       "genres": [
         "latin",
@@ -870,7 +833,7 @@
       },
       "followers": {
         "href": null,
-        "total": 343362
+        "total": 343367
       },
       "genres": [
         "mexican hip hop",
@@ -906,7 +869,7 @@
       },
       "followers": {
         "href": null,
-        "total": 172190
+        "total": 172195
       },
       "genres": [
         "mexican hip hop",
@@ -938,11 +901,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+      },
+      "followers": {
+        "href": null,
+        "total": 6671964
+      },
+      "genres": [
+        "argentine hip hop",
+        "pop venezolano",
+        "trap argentino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+      "id": "716NhGYqD1jl2wI1Qkgq36",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517412085fdb28f314e01ef73a19",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19",
+          "width": 160
+        }
+      ],
+      "name": "Bizarrap",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
         "href": null,
-        "total": 963755
+        "total": 963762
       },
       "genres": [
         "mexican hip hop"
@@ -1049,7 +1049,7 @@
       },
       "followers": {
         "href": null,
-        "total": 76649
+        "total": 76651
       },
       "genres": [
         "mexican hip hop",
@@ -1086,7 +1086,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1591067
+        "total": 1591092
       },
       "genres": [
         "latin hip hop",
@@ -1122,7 +1122,7 @@
       },
       "followers": {
         "href": null,
-        "total": 66544
+        "total": 66547
       },
       "genres": [
         "mexican hip hop"
@@ -1190,7 +1190,7 @@
       },
       "followers": {
         "href": null,
-        "total": 671700
+        "total": 671712
       },
       "genres": [
         "latin hip hop",
