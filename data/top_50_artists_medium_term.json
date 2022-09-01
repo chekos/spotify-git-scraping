@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 333622
+        "total": 333623
       },
       "genres": [
         "latin hip hop",
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 54373804
+        "total": 54374638
       },
       "genres": [
         "latin",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1981645
+        "total": 1981650
       },
       "genres": [
         "latin alternative",
@@ -193,7 +193,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3471445
+        "total": 3471479
       },
       "genres": [
         "mexican hip hop",
@@ -229,7 +229,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13244
+        "total": 13245
       },
       "genres": [
         "mexican hip hop"
@@ -301,7 +301,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3965634
+        "total": 3965663
       },
       "genres": [
         "mexican hip hop",
@@ -406,7 +406,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6714554
+        "total": 6714756
       },
       "genres": [
         "argentine hip hop",
@@ -443,7 +443,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21435014
+        "total": 21435243
       },
       "genres": [
         "conscious hip hop",
@@ -481,7 +481,7 @@
       },
       "followers": {
         "href": null,
-        "total": 903100
+        "total": 903112
       },
       "genres": [
         "latin hip hop",
@@ -552,7 +552,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1206887
+        "total": 1206896
       },
       "genres": [
         "latin hip hop",
@@ -590,7 +590,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1800885
+        "total": 1800906
       },
       "genres": [
         "colombian hip hop",
@@ -626,7 +626,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11609410
+        "total": 11609466
       },
       "genres": [
         "latin hip hop",
@@ -663,7 +663,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2565091
+        "total": 2565118
       },
       "genres": [
         "hip hop",
@@ -703,7 +703,7 @@
       },
       "followers": {
         "href": null,
-        "total": 176004
+        "total": 176006
       },
       "genres": [
         "mexican hip hop"
@@ -775,7 +775,7 @@
       },
       "followers": {
         "href": null,
-        "total": 207107
+        "total": 207109
       },
       "genres": [
         "latin hip hop",
@@ -812,7 +812,7 @@
       },
       "followers": {
         "href": null,
-        "total": 172926
+        "total": 172930
       },
       "genres": [
         "mexican hip hop",
@@ -921,7 +921,7 @@
       },
       "followers": {
         "href": null,
-        "total": 244457
+        "total": 244458
       },
       "genres": [
         "latin hip hop",
@@ -993,7 +993,7 @@
       },
       "followers": {
         "href": null,
-        "total": 85708
+        "total": 85709
       },
       "genres": [
         "mexican hip hop",
@@ -1029,7 +1029,7 @@
       },
       "followers": {
         "href": null,
-        "total": 149740
+        "total": 149741
       },
       "genres": [
         "trap mexicano"
@@ -1064,7 +1064,7 @@
       },
       "followers": {
         "href": null,
-        "total": 965934
+        "total": 965948
       },
       "genres": [
         "mexican hip hop"
@@ -1099,7 +1099,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6053992
+        "total": 6054053
       },
       "genres": [
         "mexican hip hop"
@@ -1134,7 +1134,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21387
+        "total": 21390
       },
       "genres": [
         "desi hip hop",
@@ -1170,7 +1170,7 @@
       },
       "followers": {
         "href": null,
-        "total": 119330
+        "total": 119331
       },
       "genres": [
         "mexican hip hop",
@@ -1206,7 +1206,7 @@
       },
       "followers": {
         "href": null,
-        "total": 464326
+        "total": 464329
       },
       "genres": [
         "trap venezolano",
@@ -1278,7 +1278,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1595939
+        "total": 1595948
       },
       "genres": [
         "latin hip hop",
@@ -1307,6 +1307,44 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+      },
+      "followers": {
+        "href": null,
+        "total": 673475
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "rap underground mexicano",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+      "id": "3L7OHIT4kfdcDSnnGM0TKN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9ce6b71ba991c7b803d5318a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749ce6b71ba991c7b803d5318a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789ce6b71ba991c7b803d5318a",
+          "width": 160
+        }
+      ],
+      "name": "El Pinche Mara",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
     },
     {
       "external_urls": {
@@ -1343,44 +1381,6 @@
       "popularity": 30,
       "type": "artist",
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-      },
-      "followers": {
-        "href": null,
-        "total": 673462
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "rap underground mexicano",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
-      "id": "3L7OHIT4kfdcDSnnGM0TKN",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9ce6b71ba991c7b803d5318a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749ce6b71ba991c7b803d5318a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789ce6b71ba991c7b803d5318a",
-          "width": 160
-        }
-      ],
-      "name": "El Pinche Mara",
-      "popularity": 52,
-      "type": "artist",
-      "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
     },
     {
       "external_urls": {
@@ -1426,7 +1426,7 @@
       },
       "followers": {
         "href": null,
-        "total": 344027
+        "total": 344029
       },
       "genres": [
         "mexican hip hop",
@@ -1535,7 +1535,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2073071
+        "total": 2073087
       },
       "genres": [
         "latin hip hop",
@@ -1573,7 +1573,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1145931
+        "total": 1145935
       },
       "genres": [
         "latin alternative",
@@ -1616,7 +1616,7 @@
       },
       "followers": {
         "href": null,
-        "total": 488644
+        "total": 488645
       },
       "genres": [
         "trap mexicano"
@@ -1684,7 +1684,7 @@
       },
       "followers": {
         "href": null,
-        "total": 95265
+        "total": 95266
       },
       "genres": [
         "mexican hip hop",
@@ -1789,42 +1789,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
         "href": null,
-        "total": 1008239
+        "total": 553330
       },
       "genres": [
-        "brooklyn drill",
-        "hip hop",
-        "new york drill",
-        "rap",
-        "trap"
+        "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/14CHVeJGrR5xgUGQFV5BVM",
-      "id": "14CHVeJGrR5xgUGQFV5BVM",
+      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb366afadc7bfc1671fb1d4f2c",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6d66d282043eaf6762f81d07",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174366afadc7bfc1671fb1d4f2c",
+          "url": "https://i.scdn.co/image/ab676161000051746d66d282043eaf6762f81d07",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178366afadc7bfc1671fb1d4f2c",
+          "url": "https://i.scdn.co/image/ab6761610000f1786d66d282043eaf6762f81d07",
           "width": 160
         }
       ],
-      "name": "Fivio Foreign",
-      "popularity": 74,
+      "name": "Lefty Sm",
+      "popularity": 67,
       "type": "artist",
-      "uri": "spotify:artist:14CHVeJGrR5xgUGQFV5BVM"
+      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     }
   ],
   "total": 50,
