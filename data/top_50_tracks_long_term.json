@@ -9350,6 +9350,243 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/171953d8wJbRvl2f36uLDd"
+            },
+            "href": "https://api.spotify.com/v1/artists/171953d8wJbRvl2f36uLDd",
+            "id": "171953d8wJbRvl2f36uLDd",
+            "name": "King Zoo",
+            "type": "artist",
+            "uri": "spotify:artist:171953d8wJbRvl2f36uLDd"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0SWr5Egie3SfPmUqxKEev2"
+        },
+        "href": "https://api.spotify.com/v1/albums/0SWr5Egie3SfPmUqxKEev2",
+        "id": "0SWr5Egie3SfPmUqxKEev2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c89bd1d830439f0027dec65d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c89bd1d830439f0027dec65d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c89bd1d830439f0027dec65d",
+            "width": 64
+          }
+        ],
+        "name": "One 4 Da Good Times",
+        "release_date": "2015-12-08",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:0SWr5Egie3SfPmUqxKEev2"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/171953d8wJbRvl2f36uLDd"
+          },
+          "href": "https://api.spotify.com/v1/artists/171953d8wJbRvl2f36uLDd",
+          "id": "171953d8wJbRvl2f36uLDd",
+          "name": "King Zoo",
+          "type": "artist",
+          "uri": "spotify:artist:171953d8wJbRvl2f36uLDd"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 188891,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHN61994317"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5pgUjfky2Gj1DoO1VvVgMV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5pgUjfky2Gj1DoO1VvVgMV",
+      "id": "5pgUjfky2Gj1DoO1VvVgMV",
+      "is_local": false,
+      "name": "Beng Beng",
+      "popularity": 14,
+      "preview_url": "https://p.scdn.co/mp3-preview/c5c500d1be7798274da6a8a55586e220581ca492?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5pgUjfky2Gj1DoO1VvVgMV"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
             },
             "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
@@ -9620,243 +9857,6 @@
       "track_number": 15,
       "type": "track",
       "uri": "spotify:track:6xHHKx4prZ7PvADiAJUHle"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/171953d8wJbRvl2f36uLDd"
-            },
-            "href": "https://api.spotify.com/v1/artists/171953d8wJbRvl2f36uLDd",
-            "id": "171953d8wJbRvl2f36uLDd",
-            "name": "King Zoo",
-            "type": "artist",
-            "uri": "spotify:artist:171953d8wJbRvl2f36uLDd"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0SWr5Egie3SfPmUqxKEev2"
-        },
-        "href": "https://api.spotify.com/v1/albums/0SWr5Egie3SfPmUqxKEev2",
-        "id": "0SWr5Egie3SfPmUqxKEev2",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c89bd1d830439f0027dec65d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c89bd1d830439f0027dec65d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c89bd1d830439f0027dec65d",
-            "width": 64
-          }
-        ],
-        "name": "One 4 Da Good Times",
-        "release_date": "2015-12-08",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:0SWr5Egie3SfPmUqxKEev2"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/171953d8wJbRvl2f36uLDd"
-          },
-          "href": "https://api.spotify.com/v1/artists/171953d8wJbRvl2f36uLDd",
-          "id": "171953d8wJbRvl2f36uLDd",
-          "name": "King Zoo",
-          "type": "artist",
-          "uri": "spotify:artist:171953d8wJbRvl2f36uLDd"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 188891,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZHN61994317"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/5pgUjfky2Gj1DoO1VvVgMV"
-      },
-      "href": "https://api.spotify.com/v1/tracks/5pgUjfky2Gj1DoO1VvVgMV",
-      "id": "5pgUjfky2Gj1DoO1VvVgMV",
-      "is_local": false,
-      "name": "Beng Beng",
-      "popularity": 14,
-      "preview_url": "https://p.scdn.co/mp3-preview/c5c500d1be7798274da6a8a55586e220581ca492?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:5pgUjfky2Gj1DoO1VvVgMV"
     },
     {
       "album": {
@@ -10795,17 +10795,27 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "SINGLE",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+              "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
             },
-            "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-            "id": "1gPiNBRjOB9XochAAFR3iM",
-            "name": "West Gold",
+            "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+            "id": "716NhGYqD1jl2wI1Qkgq36",
+            "name": "Bizarrap",
             "type": "artist",
-            "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+            "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+            "id": "4QFG9KrGWEbr6hNA58CAqE",
+            "name": "Aleman",
+            "type": "artist",
+            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
           }
         ],
         "available_markets": [
@@ -10890,64 +10900,54 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/4cM23aZSWB8PP6LtYRNXrs"
+          "spotify": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
         },
-        "href": "https://api.spotify.com/v1/albums/4cM23aZSWB8PP6LtYRNXrs",
-        "id": "4cM23aZSWB8PP6LtYRNXrs",
+        "href": "https://api.spotify.com/v1/albums/3clF95vv6O71LUshRmF2q8",
+        "id": "3clF95vv6O71LUshRmF2q8",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a6e6d09c255a29cda33b55cf",
+            "url": "https://i.scdn.co/image/ab67616d0000b27393beea1844a8f517991eb8a5",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a6e6d09c255a29cda33b55cf",
+            "url": "https://i.scdn.co/image/ab67616d00001e0293beea1844a8f517991eb8a5",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a6e6d09c255a29cda33b55cf",
+            "url": "https://i.scdn.co/image/ab67616d0000485193beea1844a8f517991eb8a5",
             "width": 64
           }
         ],
-        "name": "West Gold",
-        "release_date": "2018-01-19",
+        "name": "Aleman: Bzrp Music Sessions, Vol. 15",
+        "release_date": "2019-09-13",
         "release_date_precision": "day",
-        "total_tracks": 20,
+        "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:4cM23aZSWB8PP6LtYRNXrs"
+        "uri": "spotify:album:3clF95vv6O71LUshRmF2q8"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+            "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
           },
-          "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-          "id": "1gPiNBRjOB9XochAAFR3iM",
-          "name": "West Gold",
+          "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+          "id": "716NhGYqD1jl2wI1Qkgq36",
+          "name": "Bizarrap",
           "type": "artist",
-          "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+          "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5absue45Q798sotcg1d0FD"
+            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
           },
-          "href": "https://api.spotify.com/v1/artists/5absue45Q798sotcg1d0FD",
-          "id": "5absue45Q798sotcg1d0FD",
-          "name": "Jarabe kidd",
+          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+          "id": "4QFG9KrGWEbr6hNA58CAqE",
+          "name": "Aleman",
           "type": "artist",
-          "uri": "spotify:artist:5absue45Q798sotcg1d0FD"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6KH83UCF9zwNaBi4IIJnjE"
-          },
-          "href": "https://api.spotify.com/v1/artists/6KH83UCF9zwNaBi4IIJnjE",
-          "id": "6KH83UCF9zwNaBi4IIJnjE",
-          "name": "Poofer",
-          "type": "artist",
-          "uri": "spotify:artist:6KH83UCF9zwNaBi4IIJnjE"
+          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
       "available_markets": [
@@ -11032,23 +11032,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 174929,
-      "explicit": false,
+      "duration_ms": 174178,
+      "explicit": true,
       "external_ids": {
-        "isrc": "TCADL1817719"
+        "isrc": "ARBEC1900007"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/53OQMubgTRT7fde9muSXGK"
+        "spotify": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
       },
-      "href": "https://api.spotify.com/v1/tracks/53OQMubgTRT7fde9muSXGK",
-      "id": "53OQMubgTRT7fde9muSXGK",
+      "href": "https://api.spotify.com/v1/tracks/7xRWmHZ2wt3zDgM5mAL0JU",
+      "id": "7xRWmHZ2wt3zDgM5mAL0JU",
       "is_local": false,
-      "name": "Bendito Flow (feat. Jarabe Kidd & Poofer)",
-      "popularity": 25,
-      "preview_url": "https://p.scdn.co/mp3-preview/f6b8b61548703d475f7f97fd5369d67dcffb94fd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 8,
+      "name": "Aleman: Bzrp Music Sessions, Vol. 15",
+      "popularity": 72,
+      "preview_url": "https://p.scdn.co/mp3-preview/1e660a74b86fea2af99bb34752b835b3300a7d42?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:53OQMubgTRT7fde9muSXGK"
+      "uri": "spotify:track:7xRWmHZ2wt3zDgM5mAL0JU"
     }
   ],
   "total": 50,
