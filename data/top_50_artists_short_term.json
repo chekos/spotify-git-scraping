@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 333829
+        "total": 333973
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 89633
+        "total": 89751
       },
       "genres": [
         "trap mexicano"
@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3472562
+        "total": 3472623
       },
       "genres": [
         "mexican hip hop",
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3969369
+        "total": 3972102
       },
       "genres": [
         "mexican hip hop",
@@ -142,7 +142,7 @@
         }
       ],
       "name": "Aleman",
-      "popularity": 73,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
@@ -152,7 +152,7 @@
       },
       "followers": {
         "href": null,
-        "total": 904036
+        "total": 904058
       },
       "genres": [
         "latin hip hop",
@@ -188,7 +188,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13262
+        "total": 13268
       },
       "genres": [
         "mexican hip hop"
@@ -223,7 +223,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18614
+        "total": 18618
       },
       "genres": [
         "mexican hip hop",
@@ -260,7 +260,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11612812
+        "total": 11613010
       },
       "genres": [
         "latin hip hop",
@@ -297,7 +297,7 @@
       },
       "followers": {
         "href": null,
-        "total": 114078
+        "total": 114151
       },
       "genres": [
         "mexican hip hop",
@@ -333,7 +333,7 @@
       },
       "followers": {
         "href": null,
-        "total": 962812
+        "total": 962877
       },
       "genres": [
         "hip hop",
@@ -369,7 +369,7 @@
       },
       "followers": {
         "href": null,
-        "total": 176230
+        "total": 176387
       },
       "genres": [
         "mexican hip hop"
@@ -404,7 +404,7 @@
       },
       "followers": {
         "href": null,
-        "total": 244639
+        "total": 244767
       },
       "genres": [
         "latin hip hop",
@@ -437,11 +437,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
+      },
+      "followers": {
+        "href": null,
+        "total": 207402
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
+      "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09d26fbbd337252c3e97c118",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409d26fbbd337252c3e97c118",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809d26fbbd337252c3e97c118",
+          "width": 160
+        }
+      ],
+      "name": "Iluminatik",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
         "href": null,
-        "total": 1208639
+        "total": 1209412
       },
       "genres": [
         "latin hip hop",
@@ -475,48 +512,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
-      },
-      "followers": {
-        "href": null,
-        "total": 207274
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
-      "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09d26fbbd337252c3e97c118",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409d26fbbd337252c3e97c118",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809d26fbbd337252c3e97c118",
-          "width": 160
-        }
-      ],
-      "name": "Iluminatik",
-      "popularity": 46,
-      "type": "artist",
-      "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
         "href": null,
-        "total": 6056901
+        "total": 6057063
       },
       "genres": [
         "mexican hip hop"
@@ -551,7 +551,7 @@
       },
       "followers": {
         "href": null,
-        "total": 489018
+        "total": 489330
       },
       "genres": [
         "trap mexicano"
@@ -575,7 +575,7 @@
           "width": 160
         }
       ],
-      "name": "Adan Cruz",
+      "name": "Ad\u00e1n Cruz",
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
@@ -586,7 +586,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24660
+        "total": 24661
       },
       "genres": [
         "mexican hip hop",
@@ -622,7 +622,7 @@
       },
       "followers": {
         "href": null,
-        "total": 966267
+        "total": 966283
       },
       "genres": [
         "mexican hip hop"
@@ -657,7 +657,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1801469
+        "total": 1801501
       },
       "genres": [
         "colombian hip hop",
@@ -693,7 +693,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18210
+        "total": 18211
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -726,7 +726,7 @@
       },
       "followers": {
         "href": null,
-        "total": 149871
+        "total": 149967
       },
       "genres": [
         "trap mexicano"
@@ -761,7 +761,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22312
+        "total": 22340
       },
       "genres": [
         "mexican hip hop"
@@ -796,7 +796,7 @@
       },
       "followers": {
         "href": null,
-        "total": 119466
+        "total": 119545
       },
       "genres": [
         "mexican hip hop",
@@ -832,7 +832,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10255
+        "total": 10265
       },
       "genres": [
         "mexican indie"
@@ -867,7 +867,7 @@
       },
       "followers": {
         "href": null,
-        "total": 76756
+        "total": 76811
       },
       "genres": [
         "mexican hip hop",
@@ -904,7 +904,7 @@
       },
       "followers": {
         "href": null,
-        "total": 54398196
+        "total": 54399125
       },
       "genres": [
         "latin",
@@ -941,7 +941,7 @@
       },
       "followers": {
         "href": null,
-        "total": 344270
+        "total": 344415
       },
       "genres": [
         "mexican hip hop",
@@ -977,7 +977,7 @@
       },
       "followers": {
         "href": null,
-        "total": 173196
+        "total": 173380
       },
       "genres": [
         "mexican hip hop",
@@ -1013,7 +1013,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6731607
+        "total": 6731815
       },
       "genres": [
         "argentine hip hop",
@@ -1050,7 +1050,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7510
+        "total": 7513
       },
       "genres": [
         "mexican hip hop",
@@ -1086,7 +1086,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5663
+        "total": 5666
       },
       "genres": [
         "mexican hip hop",
@@ -1122,7 +1122,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1596553
+        "total": 1599004
       },
       "genres": [
         "latin hip hop",
@@ -1158,7 +1158,7 @@
       },
       "followers": {
         "href": null,
-        "total": 66816
+        "total": 66862
       },
       "genres": [
         "mexican hip hop"
@@ -1226,7 +1226,7 @@
       },
       "followers": {
         "href": null,
-        "total": 540401
+        "total": 540404
       },
       "genres": [
         "latin hip hop",
@@ -1262,7 +1262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2052359
+        "total": 2053680
       },
       "genres": [
         "mexican hip hop",
@@ -1299,7 +1299,7 @@
       },
       "followers": {
         "href": null,
-        "total": 115644
+        "total": 115696
       },
       "genres": [
         "mexican hip hop",
@@ -1336,7 +1336,7 @@
       },
       "followers": {
         "href": null,
-        "total": 138842
+        "total": 138874
       },
       "genres": [
         "latin alternative",
@@ -1370,11 +1370,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+      },
+      "followers": {
+        "href": null,
+        "total": 47664
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5pR3pEU0bCMZhhAzag3DUz",
+      "id": "5pR3pEU0bCMZhhAzag3DUz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2ab1d9df9adc19a9f33ffd69",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742ab1d9df9adc19a9f33ffd69",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782ab1d9df9adc19a9f33ffd69",
+          "width": 160
+        }
+      ],
+      "name": "Mike Diaz",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:5pR3pEU0bCMZhhAzag3DUz"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
         "href": null,
-        "total": 553737
+        "total": 555854
       },
       "genres": [
         "mexican hip hop"
@@ -1409,7 +1446,7 @@
       },
       "followers": {
         "href": null,
-        "total": 95329
+        "total": 95378
       },
       "genres": [
         "mexican hip hop",
@@ -1445,7 +1482,7 @@
       },
       "followers": {
         "href": null,
-        "total": 48989
+        "total": 49022
       },
       "genres": [
         "indie campechano",
@@ -1482,7 +1519,7 @@
       },
       "followers": {
         "href": null,
-        "total": 674069
+        "total": 674542
       },
       "genres": [
         "latin hip hop",
@@ -1515,7 +1552,7 @@
       "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
     }
   ],
-  "total": 42,
+  "total": 43,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
