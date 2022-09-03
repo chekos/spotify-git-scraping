@@ -21771,7 +21771,7 @@
             },
             "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
             "id": "645xd9cHiiLqqehoLzLMDR",
-            "name": "Adan Cruz",
+            "name": "Ad\u00e1n Cruz",
             "type": "artist",
             "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
           }
@@ -22449,5 +22449,5 @@
     "before": "1662058425965"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1662193166000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1662194875000&limit=50"
 }
