@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 333973
+        "total": 333974
       },
       "genres": [
         "latin hip hop",
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 54399125
+        "total": 54399885
       },
       "genres": [
         "latin",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1982534
+        "total": 1982539
       },
       "genres": [
         "latin alternative",
@@ -193,7 +193,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3472623
+        "total": 3472652
       },
       "genres": [
         "mexican hip hop",
@@ -301,7 +301,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3972102
+        "total": 3972129
       },
       "genres": [
         "mexican hip hop",
@@ -330,39 +330,6 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
-      },
-      "followers": {
-        "href": null,
-        "total": 272
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
-      "id": "231yQfVjg9sGhTNsaym9ck",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
-          "width": 64
-        }
-      ],
-      "name": "C\u00f3digo KM",
-      "popularity": 8,
-      "type": "artist",
-      "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
     },
     {
       "external_urls": {
@@ -402,11 +369,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/231yQfVjg9sGhTNsaym9ck"
+      },
+      "followers": {
+        "href": null,
+        "total": 272
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
+      "id": "231yQfVjg9sGhTNsaym9ck",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27375539f0190547bb694fd8a5e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0275539f0190547bb694fd8a5e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485175539f0190547bb694fd8a5e",
+          "width": 64
+        }
+      ],
+      "name": "C\u00f3digo KM",
+      "popularity": 8,
+      "type": "artist",
+      "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
       },
       "followers": {
         "href": null,
-        "total": 6731815
+        "total": 6732057
       },
       "genres": [
         "argentine hip hop",
@@ -443,7 +443,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21438943
+        "total": 21439157
       },
       "genres": [
         "conscious hip hop",
@@ -481,7 +481,7 @@
       },
       "followers": {
         "href": null,
-        "total": 904058
+        "total": 904069
       },
       "genres": [
         "latin hip hop",
@@ -552,7 +552,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1209412
+        "total": 1209419
       },
       "genres": [
         "latin hip hop",
@@ -590,7 +590,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1801501
+        "total": 1801519
       },
       "genres": [
         "colombian hip hop",
@@ -622,48 +622,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-      },
-      "followers": {
-        "href": null,
-        "total": 11613010
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "narco rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
-      "id": "07PdYoE4jVRF6Ut40GgVSP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbd172041a059e4b6e46e2cfc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bd172041a059e4b6e46e2cfc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bd172041a059e4b6e46e2cfc",
-          "width": 160
-        }
-      ],
-      "name": "Cartel De Santa",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
       },
       "followers": {
         "href": null,
-        "total": 207402
+        "total": 207403
       },
       "genres": [
         "latin hip hop",
@@ -696,11 +659,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+      },
+      "followers": {
+        "href": null,
+        "total": 11613092
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "narco rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+      "id": "07PdYoE4jVRF6Ut40GgVSP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbd172041a059e4b6e46e2cfc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bd172041a059e4b6e46e2cfc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bd172041a059e4b6e46e2cfc",
+          "width": 160
+        }
+      ],
+      "name": "Cartel De Santa",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
       },
       "followers": {
         "href": null,
-        "total": 2571070
+        "total": 2571107
       },
       "genres": [
         "hip hop",
@@ -740,7 +740,7 @@
       },
       "followers": {
         "href": null,
-        "total": 176387
+        "total": 176388
       },
       "genres": [
         "mexican hip hop"
@@ -775,7 +775,7 @@
       },
       "followers": {
         "href": null,
-        "total": 49022
+        "total": 49023
       },
       "genres": [
         "indie campechano",
@@ -808,11 +808,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 6057139
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf8f68ac376ecc8af052e3410",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f8f68ac376ecc8af052e3410",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f8f68ac376ecc8af052e3410",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
       },
       "followers": {
         "href": null,
-        "total": 173380
+        "total": 173383
       },
       "genres": [
         "mexican hip hop",
@@ -848,7 +883,7 @@
       },
       "followers": {
         "href": null,
-        "total": 966283
+        "total": 966295
       },
       "genres": [
         "mexican hip hop"
@@ -883,7 +918,7 @@
       },
       "followers": {
         "href": null,
-        "total": 76811
+        "total": 76812
       },
       "genres": [
         "mexican hip hop",
@@ -956,7 +991,7 @@
       },
       "followers": {
         "href": null,
-        "total": 244767
+        "total": 244769
       },
       "genres": [
         "latin hip hop",
@@ -1064,7 +1099,7 @@
       },
       "followers": {
         "href": null,
-        "total": 149967
+        "total": 149968
       },
       "genres": [
         "trap mexicano"
@@ -1095,46 +1130,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-      },
-      "followers": {
-        "href": null,
-        "total": 6057063
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf8f68ac376ecc8af052e3410",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f8f68ac376ecc8af052e3410",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f8f68ac376ecc8af052e3410",
-          "width": 160
-        }
-      ],
-      "name": "Santa Fe Klan",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L"
       },
       "followers": {
         "href": null,
-        "total": 21484
+        "total": 21485
       },
       "genres": [
         "desi hip hop",
@@ -1170,7 +1170,7 @@
       },
       "followers": {
         "href": null,
-        "total": 962877
+        "total": 962926
       },
       "genres": [
         "hip hop",
@@ -1244,7 +1244,7 @@
       },
       "followers": {
         "href": null,
-        "total": 119545
+        "total": 119546
       },
       "genres": [
         "mexican hip hop",
@@ -1280,7 +1280,7 @@
       },
       "followers": {
         "href": null,
-        "total": 465235
+        "total": 465239
       },
       "genres": [
         "trap venezolano",
@@ -1316,7 +1316,7 @@
       },
       "followers": {
         "href": null,
-        "total": 540404
+        "total": 540408
       },
       "genres": [
         "latin hip hop",
@@ -1352,7 +1352,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1599004
+        "total": 1599018
       },
       "genres": [
         "latin hip hop",
@@ -1384,11 +1384,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
+      },
+      "followers": {
+        "href": null,
+        "total": 18211
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
+      "id": "23TYM4mYLQjyJLr4x89MjH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1737e345c5b24633e31f36b9",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051741737e345c5b24633e31f36b9",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1781737e345c5b24633e31f36b9",
+          "width": 160
+        }
+      ],
+      "name": "Danger",
+      "popularity": 32,
+      "type": "artist",
+      "uri": "spotify:artist:23TYM4mYLQjyJLr4x89MjH"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
       },
       "followers": {
         "href": null,
-        "total": 674542
+        "total": 674551
       },
       "genres": [
         "latin hip hop",
@@ -1499,7 +1532,7 @@
       },
       "followers": {
         "href": null,
-        "total": 555854
+        "total": 555863
       },
       "genres": [
         "mexican hip hop"
@@ -1534,7 +1567,7 @@
       },
       "followers": {
         "href": null,
-        "total": 344415
+        "total": 344418
       },
       "genres": [
         "mexican hip hop",
@@ -1643,7 +1676,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2076131
+        "total": 2076137
       },
       "genres": [
         "latin hip hop",
@@ -1681,7 +1714,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1147169
+        "total": 1147170
       },
       "genres": [
         "latin alternative",
@@ -1724,7 +1757,7 @@
       },
       "followers": {
         "href": null,
-        "total": 489330
+        "total": 489333
       },
       "genres": [
         "trap mexicano"
@@ -1752,39 +1785,6 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
-      },
-      "followers": {
-        "href": null,
-        "total": 18211
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
-      "id": "23TYM4mYLQjyJLr4x89MjH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1737e345c5b24633e31f36b9",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741737e345c5b24633e31f36b9",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781737e345c5b24633e31f36b9",
-          "width": 160
-        }
-      ],
-      "name": "Danger",
-      "popularity": 32,
-      "type": "artist",
-      "uri": "spotify:artist:23TYM4mYLQjyJLr4x89MjH"
     },
     {
       "external_urls": {
