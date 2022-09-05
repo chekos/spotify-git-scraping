@@ -889,7 +889,7 @@
         "id": "3X93tC2GHueKePdPjXdjAI",
         "is_local": false,
         "name": "PSML (Interlude)",
-        "popularity": 42,
+        "popularity": 41,
         "preview_url": "https://p.scdn.co/mp3-preview/210f1e2b2a87e7cfcb0e5819b3e814810ef35c1d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 11,
         "type": "track",
@@ -7853,7 +7853,7 @@
         "id": "00TPikzhlAO79taN4K8VDK",
         "is_local": false,
         "name": "Kintsugi",
-        "popularity": 37,
+        "popularity": 36,
         "preview_url": "https://p.scdn.co/mp3-preview/48d618b53bbc4a383b72ee9d390b2f9c9242b49c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 8,
         "type": "track",
@@ -12902,7 +12902,7 @@
         "id": "1sbQ6LqLRtUXu6El1QgGYO",
         "is_local": false,
         "name": "100 K",
-        "popularity": 28,
+        "popularity": 27,
         "preview_url": "https://p.scdn.co/mp3-preview/c70abeb800d0f9ab889995ca4d4722cf980610ad?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 3,
         "type": "track",
@@ -21525,7 +21525,7 @@
         "id": "0N7XU51NdMaXgdq8h6iweg",
         "is_local": false,
         "name": "Vida Callejera",
-        "popularity": 36,
+        "popularity": 37,
         "preview_url": "https://p.scdn.co/mp3-preview/d6ecb141fa08d917462e9e3e3371f0d2df89b109?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 2,
         "type": "track",
@@ -22449,5 +22449,5 @@
     "before": "1662058425965"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1662364154000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1662365960000&limit=50"
 }
