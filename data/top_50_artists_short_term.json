@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 334320
+        "total": 334335
       },
       "genres": [
         "latin hip hop",
@@ -41,46 +41,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-      },
-      "followers": {
-        "href": null,
-        "total": 89879
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-      "id": "7I85Ma5xjAo6nlvqOCIiWx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb490e45484c32f08ab79f5abe",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174490e45484c32f08ab79f5abe",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178490e45484c32f08ab79f5abe",
-          "width": 160
-        }
-      ],
-      "name": "Fntxy",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
         "href": null,
-        "total": 3474056
+        "total": 3474341
       },
       "genres": [
         "mexican hip hop",
@@ -116,7 +81,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3978588
+        "total": 3978905
       },
       "genres": [
         "mexican hip hop",
@@ -148,11 +113,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+      },
+      "followers": {
+        "href": null,
+        "total": 89885
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+      "id": "7I85Ma5xjAo6nlvqOCIiWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb490e45484c32f08ab79f5abe",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174490e45484c32f08ab79f5abe",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178490e45484c32f08ab79f5abe",
+          "width": 160
+        }
+      ],
+      "name": "Fntxy",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
         "href": null,
-        "total": 906196
+        "total": 906255
       },
       "genres": [
         "latin hip hop",
@@ -188,7 +188,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13291
+        "total": 13292
       },
       "genres": [
         "mexican hip hop"
@@ -216,6 +216,79 @@
       "popularity": 39,
       "type": "artist",
       "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+      },
+      "followers": {
+        "href": null,
+        "total": 11653367
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "narco rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+      "id": "07PdYoE4jVRF6Ut40GgVSP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbd172041a059e4b6e46e2cfc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bd172041a059e4b6e46e2cfc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bd172041a059e4b6e46e2cfc",
+          "width": 160
+        }
+      ],
+      "name": "Cartel De Santa",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+      },
+      "followers": {
+        "href": null,
+        "total": 114296
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+      "id": "1gPiNBRjOB9XochAAFR3iM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
+          "width": 160
+        }
+      ],
+      "name": "West Gold",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
     {
       "external_urls": {
@@ -256,84 +329,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-      },
-      "followers": {
-        "href": null,
-        "total": 11652459
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "narco rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
-      "id": "07PdYoE4jVRF6Ut40GgVSP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbd172041a059e4b6e46e2cfc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bd172041a059e4b6e46e2cfc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bd172041a059e4b6e46e2cfc",
-          "width": 160
-        }
-      ],
-      "name": "Cartel De Santa",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
-      },
-      "followers": {
-        "href": null,
-        "total": 114286
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-      "id": "1gPiNBRjOB9XochAAFR3iM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
-          "width": 160
-        }
-      ],
-      "name": "West Gold",
-      "popularity": 45,
-      "type": "artist",
-      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
       },
       "followers": {
         "href": null,
-        "total": 964636
+        "total": 964825
       },
       "genres": [
         "hip hop",
@@ -369,7 +369,7 @@
       },
       "followers": {
         "href": null,
-        "total": 176803
+        "total": 176818
       },
       "genres": [
         "mexican hip hop"
@@ -440,7 +440,7 @@
       },
       "followers": {
         "href": null,
-        "total": 54427295
+        "total": 54432483
       },
       "genres": [
         "latin",
@@ -477,7 +477,7 @@
       },
       "followers": {
         "href": null,
-        "total": 207704
+        "total": 207714
       },
       "genres": [
         "latin hip hop",
@@ -514,7 +514,7 @@
       },
       "followers": {
         "href": null,
-        "total": 245074
+        "total": 245091
       },
       "genres": [
         "latin hip hop",
@@ -551,7 +551,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1210922
+        "total": 1210998
       },
       "genres": [
         "latin hip hop",
@@ -589,7 +589,7 @@
       },
       "followers": {
         "href": null,
-        "total": 970543
+        "total": 970632
       },
       "genres": [
         "mexican hip hop"
@@ -657,7 +657,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6089442
+        "total": 6090206
       },
       "genres": [
         "mexican hip hop"
@@ -692,7 +692,7 @@
       },
       "followers": {
         "href": null,
-        "total": 489976
+        "total": 490010
       },
       "genres": [
         "trap mexicano"
@@ -727,7 +727,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1807971
+        "total": 1808092
       },
       "genres": [
         "colombian hip hop",
@@ -763,7 +763,7 @@
       },
       "followers": {
         "href": null,
-        "total": 150188
+        "total": 150191
       },
       "genres": [
         "trap mexicano"
@@ -798,7 +798,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22373
+        "total": 22374
       },
       "genres": [
         "mexican hip hop"
@@ -833,7 +833,7 @@
       },
       "followers": {
         "href": null,
-        "total": 119750
+        "total": 119764
       },
       "genres": [
         "mexican hip hop",
@@ -869,7 +869,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10307
+        "total": 10310
       },
       "genres": [
         "mexican indie"
@@ -904,7 +904,7 @@
       },
       "followers": {
         "href": null,
-        "total": 76879
+        "total": 76884
       },
       "genres": [
         "mexican hip hop",
@@ -941,7 +941,7 @@
       },
       "followers": {
         "href": null,
-        "total": 344801
+        "total": 344817
       },
       "genres": [
         "mexican hip hop",
@@ -977,7 +977,7 @@
       },
       "followers": {
         "href": null,
-        "total": 173797
+        "total": 173813
       },
       "genres": [
         "mexican hip hop",
@@ -1013,7 +1013,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6738760
+        "total": 6739977
       },
       "genres": [
         "argentine hip hop",
@@ -1122,7 +1122,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1602177
+        "total": 1602303
       },
       "genres": [
         "latin hip hop",
@@ -1158,7 +1158,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8217306
+        "total": 8217713
       },
       "genres": [
         "hip hop",
@@ -1199,7 +1199,7 @@
       },
       "followers": {
         "href": null,
-        "total": 66983
+        "total": 66988
       },
       "genres": [
         "mexican hip hop"
@@ -1267,7 +1267,7 @@
       },
       "followers": {
         "href": null,
-        "total": 540561
+        "total": 540588
       },
       "genres": [
         "latin hip hop",
@@ -1303,7 +1303,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2054053
+        "total": 2054116
       },
       "genres": [
         "mexican hip hop",
@@ -1340,7 +1340,7 @@
       },
       "followers": {
         "href": null,
-        "total": 115800
+        "total": 115806
       },
       "genres": [
         "mexican hip hop",
@@ -1377,7 +1377,7 @@
       },
       "followers": {
         "href": null,
-        "total": 138829
+        "total": 138834
       },
       "genres": [
         "latin alternative",
@@ -1415,7 +1415,7 @@
       },
       "followers": {
         "href": null,
-        "total": 47727
+        "total": 47730
       },
       "genres": [
         "mexican hip hop",
@@ -1452,7 +1452,7 @@
       },
       "followers": {
         "href": null,
-        "total": 558669
+        "total": 558792
       },
       "genres": [
         "mexican hip hop"
@@ -1487,7 +1487,7 @@
       },
       "followers": {
         "href": null,
-        "total": 95484
+        "total": 95488
       },
       "genres": [
         "mexican hip hop",
@@ -1523,7 +1523,7 @@
       },
       "followers": {
         "href": null,
-        "total": 49086
+        "total": 49089
       },
       "genres": [
         "indie campechano",
@@ -1560,7 +1560,7 @@
       },
       "followers": {
         "href": null,
-        "total": 675596
+        "total": 675633
       },
       "genres": [
         "latin hip hop",
