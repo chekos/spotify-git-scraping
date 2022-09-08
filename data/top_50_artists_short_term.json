@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 334865
+        "total": 334876
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3480737
+        "total": 3480853
       },
       "genres": [
         "mexican hip hop",
@@ -81,7 +81,7 @@
       },
       "followers": {
         "href": null,
-        "total": 90107
+        "total": 90109
       },
       "genres": [
         "trap mexicano"
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3986546
+        "total": 3986723
       },
       "genres": [
         "mexican hip hop",
@@ -152,7 +152,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13331
+        "total": 13333
       },
       "genres": [
         "mexican hip hop"
@@ -187,7 +187,7 @@
       },
       "followers": {
         "href": null,
-        "total": 114532
+        "total": 114537
       },
       "genres": [
         "mexican hip hop",
@@ -216,6 +216,43 @@
       "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+      },
+      "followers": {
+        "href": null,
+        "total": 11673765
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "narco rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+      "id": "07PdYoE4jVRF6Ut40GgVSP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbd172041a059e4b6e46e2cfc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bd172041a059e4b6e46e2cfc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bd172041a059e4b6e46e2cfc",
+          "width": 160
+        }
+      ],
+      "name": "Cartel De Santa",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
     },
     {
       "external_urls": {
@@ -260,7 +297,7 @@
       },
       "followers": {
         "href": null,
-        "total": 969162
+        "total": 969355
       },
       "genres": [
         "hip hop",
@@ -292,48 +329,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-      },
-      "followers": {
-        "href": null,
-        "total": 11673344
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "narco rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
-      "id": "07PdYoE4jVRF6Ut40GgVSP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbd172041a059e4b6e46e2cfc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bd172041a059e4b6e46e2cfc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bd172041a059e4b6e46e2cfc",
-          "width": 160
-        }
-      ],
-      "name": "Cartel De Santa",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
         "href": null,
-        "total": 908511
+        "total": 908561
       },
       "genres": [
         "latin hip hop",
@@ -369,7 +369,7 @@
       },
       "followers": {
         "href": null,
-        "total": 177316
+        "total": 177328
       },
       "genres": [
         "mexican hip hop"
@@ -440,7 +440,7 @@
       },
       "followers": {
         "href": null,
-        "total": 208192
+        "total": 208209
       },
       "genres": [
         "latin hip hop",
@@ -477,7 +477,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1212745
+        "total": 1212777
       },
       "genres": [
         "latin hip hop",
@@ -508,41 +508,6 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-      },
-      "followers": {
-        "href": null,
-        "total": 972815
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-      "id": "0U5RYP2HMdGv2GhicLhkOI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
-          "width": 160
-        }
-      ],
-      "name": "Neto Pe\u00f1a",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
     },
     {
       "external_urls": {
@@ -579,11 +544,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+      },
+      "followers": {
+        "href": null,
+        "total": 972865
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+      "id": "0U5RYP2HMdGv2GhicLhkOI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
+          "width": 160
+        }
+      ],
+      "name": "Neto Pe\u00f1a",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
       },
       "followers": {
         "href": null,
-        "total": 490995
+        "total": 491011
       },
       "genres": [
         "trap mexicano"
@@ -618,7 +618,7 @@
       },
       "followers": {
         "href": null,
-        "total": 245542
+        "total": 245546
       },
       "genres": [
         "latin hip hop",
@@ -655,7 +655,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1811223
+        "total": 1811289
       },
       "genres": [
         "colombian hip hop",
@@ -691,7 +691,7 @@
       },
       "followers": {
         "href": null,
-        "total": 150472
+        "total": 150482
       },
       "genres": [
         "trap mexicano"
@@ -726,7 +726,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22432
+        "total": 22434
       },
       "genres": [
         "mexican hip hop"
@@ -761,7 +761,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6106462
+        "total": 6106805
       },
       "genres": [
         "mexican hip hop"
@@ -796,7 +796,7 @@
       },
       "followers": {
         "href": null,
-        "total": 174467
+        "total": 174485
       },
       "genres": [
         "mexican hip hop",
@@ -832,7 +832,7 @@
       },
       "followers": {
         "href": null,
-        "total": 120082
+        "total": 120086
       },
       "genres": [
         "mexican hip hop",
@@ -868,7 +868,7 @@
       },
       "followers": {
         "href": null,
-        "total": 76952
+        "total": 76956
       },
       "genres": [
         "mexican hip hop",
@@ -905,7 +905,7 @@
       },
       "followers": {
         "href": null,
-        "total": 345384
+        "total": 345398
       },
       "genres": [
         "mexican hip hop",
@@ -937,11 +937,49 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+      },
+      "followers": {
+        "href": null,
+        "total": 138986
+      },
+      "genres": [
+        "latin alternative",
+        "mexican indie",
+        "mexican rock",
+        "rock en espanol"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4TPTW3cTwUtiihgOMSQfmy",
+      "id": "4TPTW3cTwUtiihgOMSQfmy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb75d8f9cfaff471151f327985",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517475d8f9cfaff471151f327985",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17875d8f9cfaff471151f327985",
+          "width": 160
+        }
+      ],
+      "name": "Mexican Institute Of Sound",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:4TPTW3cTwUtiihgOMSQfmy"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73"
       },
       "followers": {
         "href": null,
-        "total": 7534
+        "total": 7535
       },
       "genres": [
         "mexican hip hop",
@@ -977,7 +1015,7 @@
       },
       "followers": {
         "href": null,
-        "total": 542341
+        "total": 542366
       },
       "genres": [
         "latin hip hop",
@@ -1039,7 +1077,7 @@
         }
       ],
       "name": "Ballin",
-      "popularity": 30,
+      "popularity": 29,
       "type": "artist",
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
     },
@@ -1049,9 +1087,10 @@
       },
       "followers": {
         "href": null,
-        "total": 10339
+        "total": 10340
       },
       "genres": [
+        "latin alternative",
         "mexican indie"
       ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
@@ -1084,7 +1123,7 @@
       },
       "followers": {
         "href": null,
-        "total": 54525472
+        "total": 54528946
       },
       "genres": [
         "latin",
@@ -1121,7 +1160,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1606880
+        "total": 1606974
       },
       "genres": [
         "latin hip hop",
@@ -1157,7 +1196,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8230829
+        "total": 8231864
       },
       "genres": [
         "hip hop",
@@ -1198,7 +1237,7 @@
       },
       "followers": {
         "href": null,
-        "total": 67179
+        "total": 67187
       },
       "genres": [
         "mexican hip hop"
@@ -1233,7 +1272,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21749
+        "total": 21751
       },
       "genres": [
         "mexican hip hop",
@@ -1271,7 +1310,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2080218
+        "total": 2080294
       },
       "genres": [
         "latin hip hop",
@@ -1342,7 +1381,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2056557
+        "total": 2056614
       },
       "genres": [
         "mexican hip hop",
@@ -1408,49 +1447,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-      },
-      "followers": {
-        "href": null,
-        "total": 138980
-      },
-      "genres": [
-        "latin alternative",
-        "mexican indie",
-        "mexican rock",
-        "rock en espanol"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4TPTW3cTwUtiihgOMSQfmy",
-      "id": "4TPTW3cTwUtiihgOMSQfmy",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb75d8f9cfaff471151f327985",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517475d8f9cfaff471151f327985",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17875d8f9cfaff471151f327985",
-          "width": 160
-        }
-      ],
-      "name": "Mexican Institute Of Sound",
-      "popularity": 46,
-      "type": "artist",
-      "uri": "spotify:artist:4TPTW3cTwUtiihgOMSQfmy"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
       },
       "followers": {
         "href": null,
-        "total": 47802
+        "total": 47806
       },
       "genres": [
         "mexican hip hop",
@@ -1487,7 +1488,7 @@
       },
       "followers": {
         "href": null,
-        "total": 561672
+        "total": 561740
       },
       "genres": [
         "mexican hip hop"
@@ -1518,11 +1519,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+      },
+      "followers": {
+        "href": null,
+        "total": 95654
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
+      "id": "5MRMYpdAWZawm3ivBeWvdK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5d7e7352f7e324da9b9aaa61",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745d7e7352f7e324da9b9aaa61",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785d7e7352f7e324da9b9aaa61",
+          "width": 160
+        }
+      ],
+      "name": "Teeam Revolver",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
       },
       "followers": {
         "href": null,
-        "total": 49210
+        "total": 49212
       },
       "genres": [
         "indie campechano",
@@ -1555,47 +1592,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-      },
-      "followers": {
-        "href": null,
-        "total": 95648
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
-      "id": "5MRMYpdAWZawm3ivBeWvdK",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5d7e7352f7e324da9b9aaa61",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745d7e7352f7e324da9b9aaa61",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785d7e7352f7e324da9b9aaa61",
-          "width": 160
-        }
-      ],
-      "name": "Teeam Revolver",
-      "popularity": 52,
-      "type": "artist",
-      "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
       },
       "followers": {
         "href": null,
-        "total": 677331
+        "total": 677364
       },
       "genres": [
         "latin hip hop",
@@ -1633,7 +1634,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6767925
+        "total": 6769240
       },
       "genres": [
         "argentine hip hop",
