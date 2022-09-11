@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 335189
+        "total": 335359
       },
       "genres": [
         "latin hip hop",
@@ -224,7 +224,7 @@
       },
       "followers": {
         "href": null,
-        "total": 90243
+        "total": 90323
       },
       "genres": [
         "trap mexicano"
@@ -333,7 +333,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18655
+        "total": 18666
       },
       "genres": [
         "mexican hip hop",
@@ -548,7 +548,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1214699
+        "total": 1215429
       },
       "genres": [
         "latin hip hop",
@@ -621,7 +621,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22457
+        "total": 22474
       },
       "genres": [
         "mexican hip hop"
@@ -649,6 +649,41 @@
       "popularity": 47,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 6131676
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf8f68ac376ecc8af052e3410",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f8f68ac376ecc8af052e3410",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f8f68ac376ecc8af052e3410",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
     {
       "external_urls": {
@@ -721,41 +756,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-      },
-      "followers": {
-        "href": null,
-        "total": 6131676
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf8f68ac376ecc8af052e3410",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f8f68ac376ecc8af052e3410",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f8f68ac376ecc8af052e3410",
-          "width": 160
-        }
-      ],
-      "name": "Santa Fe Klan",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
       },
       "followers": {
@@ -796,7 +796,7 @@
       },
       "followers": {
         "href": null,
-        "total": 345720
+        "total": 345930
       },
       "genres": [
         "mexican hip hop",
@@ -832,7 +832,7 @@
       },
       "followers": {
         "href": null,
-        "total": 174856
+        "total": 175100
       },
       "genres": [
         "mexican hip hop",
@@ -868,7 +868,7 @@
       },
       "followers": {
         "href": null,
-        "total": 245879
+        "total": 246067
       },
       "genres": [
         "latin hip hop",
@@ -905,7 +905,7 @@
       },
       "followers": {
         "href": null,
-        "total": 49292
+        "total": 49329
       },
       "genres": [
         "indie campechano",
@@ -942,7 +942,7 @@
       },
       "followers": {
         "href": null,
-        "total": 139072
+        "total": 139130
       },
       "genres": [
         "latin alternative",
@@ -1121,7 +1121,7 @@
       },
       "followers": {
         "href": null,
-        "total": 491673
+        "total": 492052
       },
       "genres": [
         "trap mexicano"
@@ -1305,7 +1305,7 @@
       },
       "followers": {
         "href": null,
-        "total": 116090
+        "total": 116149
       },
       "genres": [
         "mexican hip hop",
@@ -1342,7 +1342,7 @@
       },
       "followers": {
         "href": null,
-        "total": 77017
+        "total": 77051
       },
       "genres": [
         "mexican hip hop",
@@ -1559,7 +1559,7 @@
       },
       "followers": {
         "href": null,
-        "total": 678375
+        "total": 679065
       },
       "genres": [
         "latin hip hop",
