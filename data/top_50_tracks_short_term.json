@@ -2165,263 +2165,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-            },
-            "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-            "id": "716NhGYqD1jl2wI1Qkgq36",
-            "name": "Bizarrap",
-            "type": "artist",
-            "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-            },
-            "href": "https://api.spotify.com/v1/artists/52iwsT98xCoGgiGntTiR7K",
-            "id": "52iwsT98xCoGgiGntTiR7K",
-            "name": "Quevedo",
-            "type": "artist",
-            "uri": "spotify:artist:52iwsT98xCoGgiGntTiR7K"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
-        },
-        "href": "https://api.spotify.com/v1/albums/4PNqWiJAfjj32hVvlchV5u",
-        "id": "4PNqWiJAfjj32hVvlchV5u",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731630dd349221a35ce03a0ccf",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021630dd349221a35ce03a0ccf",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511630dd349221a35ce03a0ccf",
-            "width": 64
-          }
-        ],
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "release_date": "2022-07-06",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:4PNqWiJAfjj32hVvlchV5u"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-          },
-          "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-          "id": "716NhGYqD1jl2wI1Qkgq36",
-          "name": "Bizarrap",
-          "type": "artist",
-          "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-          },
-          "href": "https://api.spotify.com/v1/artists/52iwsT98xCoGgiGntTiR7K",
-          "id": "52iwsT98xCoGgiGntTiR7K",
-          "name": "Quevedo",
-          "type": "artist",
-          "uri": "spotify:artist:52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 198937,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "UYB282201028"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2tTmW7RDtMQtBk7m2rYeSw",
-      "id": "2tTmW7RDtMQtBk7m2rYeSw",
-      "is_local": false,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "popularity": 100,
-      "preview_url": "https://p.scdn.co/mp3-preview/2bbcf481555f012987ea9f5fd3f771a3f2710922?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2tTmW7RDtMQtBk7m2rYeSw"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -3397,6 +3140,263 @@
       "track_number": 10,
       "type": "track",
       "uri": "spotify:track:1vWKXyUv2QFDwrudlUlvwy"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+            },
+            "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+            "id": "716NhGYqD1jl2wI1Qkgq36",
+            "name": "Bizarrap",
+            "type": "artist",
+            "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+            },
+            "href": "https://api.spotify.com/v1/artists/52iwsT98xCoGgiGntTiR7K",
+            "id": "52iwsT98xCoGgiGntTiR7K",
+            "name": "Quevedo",
+            "type": "artist",
+            "uri": "spotify:artist:52iwsT98xCoGgiGntTiR7K"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+        },
+        "href": "https://api.spotify.com/v1/albums/4PNqWiJAfjj32hVvlchV5u",
+        "id": "4PNqWiJAfjj32hVvlchV5u",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731630dd349221a35ce03a0ccf",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021630dd349221a35ce03a0ccf",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511630dd349221a35ce03a0ccf",
+            "width": 64
+          }
+        ],
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "release_date": "2022-07-06",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          },
+          "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+          "id": "716NhGYqD1jl2wI1Qkgq36",
+          "name": "Bizarrap",
+          "type": "artist",
+          "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          },
+          "href": "https://api.spotify.com/v1/artists/52iwsT98xCoGgiGntTiR7K",
+          "id": "52iwsT98xCoGgiGntTiR7K",
+          "name": "Quevedo",
+          "type": "artist",
+          "uri": "spotify:artist:52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 198937,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "UYB282201028"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2tTmW7RDtMQtBk7m2rYeSw",
+      "id": "2tTmW7RDtMQtBk7m2rYeSw",
+      "is_local": false,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "popularity": 100,
+      "preview_url": "https://p.scdn.co/mp3-preview/2bbcf481555f012987ea9f5fd3f771a3f2710922?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "album": {
@@ -7326,303 +7326,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-            },
-            "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
-            "id": "2Ch5zHsrWSpgq7g0WI2UFD",
-            "name": "Desert Ni\u00f1os",
-            "type": "artist",
-            "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
-            },
-            "href": "https://api.spotify.com/v1/artists/6UO0OmWRTSoZCTmbpHRf91",
-            "id": "6UO0OmWRTSoZCTmbpHRf91",
-            "name": "Castellano",
-            "type": "artist",
-            "uri": "spotify:artist:6UO0OmWRTSoZCTmbpHRf91"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
-            },
-            "href": "https://api.spotify.com/v1/artists/4JFse8c35wKHAuzJO9BTqO",
-            "id": "4JFse8c35wKHAuzJO9BTqO",
-            "name": "Slim Ans",
-            "type": "artist",
-            "uri": "spotify:artist:4JFse8c35wKHAuzJO9BTqO"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/42myA7rDKd1QWWMATQldju"
-        },
-        "href": "https://api.spotify.com/v1/albums/42myA7rDKd1QWWMATQldju",
-        "id": "42myA7rDKd1QWWMATQldju",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d7643216420ef407985b8c6e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d7643216420ef407985b8c6e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d7643216420ef407985b8c6e",
-            "width": 64
-          }
-        ],
-        "name": "Fuego",
-        "release_date": "2021-07-23",
-        "release_date_precision": "day",
-        "total_tracks": 9,
-        "type": "album",
-        "uri": "spotify:album:42myA7rDKd1QWWMATQldju"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-          },
-          "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
-          "id": "2Ch5zHsrWSpgq7g0WI2UFD",
-          "name": "Desert Ni\u00f1os",
-          "type": "artist",
-          "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
-          },
-          "href": "https://api.spotify.com/v1/artists/6UO0OmWRTSoZCTmbpHRf91",
-          "id": "6UO0OmWRTSoZCTmbpHRf91",
-          "name": "Castellano",
-          "type": "artist",
-          "uri": "spotify:artist:6UO0OmWRTSoZCTmbpHRf91"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
-          },
-          "href": "https://api.spotify.com/v1/artists/4JFse8c35wKHAuzJO9BTqO",
-          "id": "4JFse8c35wKHAuzJO9BTqO",
-          "name": "Slim Ans",
-          "type": "artist",
-          "uri": "spotify:artist:4JFse8c35wKHAuzJO9BTqO"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-          },
-          "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-          "id": "5lYeiQxUTcGKVgAuTqbTeL",
-          "name": "Charles Ans",
-          "type": "artist",
-          "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-          },
-          "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
-          "id": "6viZnVSHavFUcW0blu6Mvw",
-          "name": "Simpson Ahuevo",
-          "type": "artist",
-          "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 201200,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "QZHZ62110701"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/5UJcENK6cahUnamXxWv2c3"
-      },
-      "href": "https://api.spotify.com/v1/tracks/5UJcENK6cahUnamXxWv2c3",
-      "id": "5UJcENK6cahUnamXxWv2c3",
-      "is_local": false,
-      "name": "Calidad",
-      "popularity": 22,
-      "preview_url": "https://p.scdn.co/mp3-preview/719496344898b6a04c07f0411360028149450c3a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 5,
-      "type": "track",
-      "uri": "spotify:track:5UJcENK6cahUnamXxWv2c3"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
             },
             "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
@@ -7863,263 +7566,6 @@
       "track_number": 6,
       "type": "track",
       "uri": "spotify:track:72NhlAd9kVy3VXAo4ctdZf"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
-            },
-            "href": "https://api.spotify.com/v1/artists/1NsRsBdRV7uWMw0SYaHo01",
-            "id": "1NsRsBdRV7uWMw0SYaHo01",
-            "name": "Phyzh Eye",
-            "type": "artist",
-            "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/13WVBropupZqKjcG9rP8Zy"
-            },
-            "href": "https://api.spotify.com/v1/artists/13WVBropupZqKjcG9rP8Zy",
-            "id": "13WVBropupZqKjcG9rP8Zy",
-            "name": "ReeMau",
-            "type": "artist",
-            "uri": "spotify:artist:13WVBropupZqKjcG9rP8Zy"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3pwlhLje7wQt7mYmzwdoKa"
-        },
-        "href": "https://api.spotify.com/v1/albums/3pwlhLje7wQt7mYmzwdoKa",
-        "id": "3pwlhLje7wQt7mYmzwdoKa",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2730068d8ebd2f2837cf9c84829",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e020068d8ebd2f2837cf9c84829",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048510068d8ebd2f2837cf9c84829",
-            "width": 64
-          }
-        ],
-        "name": "3Am",
-        "release_date": "2021-07-29",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:3pwlhLje7wQt7mYmzwdoKa"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
-          },
-          "href": "https://api.spotify.com/v1/artists/1NsRsBdRV7uWMw0SYaHo01",
-          "id": "1NsRsBdRV7uWMw0SYaHo01",
-          "name": "Phyzh Eye",
-          "type": "artist",
-          "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/13WVBropupZqKjcG9rP8Zy"
-          },
-          "href": "https://api.spotify.com/v1/artists/13WVBropupZqKjcG9rP8Zy",
-          "id": "13WVBropupZqKjcG9rP8Zy",
-          "name": "ReeMau",
-          "type": "artist",
-          "uri": "spotify:artist:13WVBropupZqKjcG9rP8Zy"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 183000,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "QZMZ92110682"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/69b2TzbN6hzC2V3WJHXHWj"
-      },
-      "href": "https://api.spotify.com/v1/tracks/69b2TzbN6hzC2V3WJHXHWj",
-      "id": "69b2TzbN6hzC2V3WJHXHWj",
-      "is_local": false,
-      "name": "3Am",
-      "popularity": 30,
-      "preview_url": "https://p.scdn.co/mp3-preview/892bfbba39e4db8aca0bab6048bf3e31048f3cb0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:69b2TzbN6hzC2V3WJHXHWj"
     },
     {
       "album": {
@@ -10619,17 +10065,37 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "ALBUM",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw"
+              "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
             },
-            "href": "https://api.spotify.com/v1/artists/5fEXlQQjFkAH2xuBUGxOTw",
-            "id": "5fEXlQQjFkAH2xuBUGxOTw",
-            "name": "El Ezequiel",
+            "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
+            "id": "2Ch5zHsrWSpgq7g0WI2UFD",
+            "name": "Desert Ni\u00f1os",
             "type": "artist",
-            "uri": "spotify:artist:5fEXlQQjFkAH2xuBUGxOTw"
+            "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
+            },
+            "href": "https://api.spotify.com/v1/artists/6UO0OmWRTSoZCTmbpHRf91",
+            "id": "6UO0OmWRTSoZCTmbpHRf91",
+            "name": "Castellano",
+            "type": "artist",
+            "uri": "spotify:artist:6UO0OmWRTSoZCTmbpHRf91"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
+            },
+            "href": "https://api.spotify.com/v1/artists/4JFse8c35wKHAuzJO9BTqO",
+            "id": "4JFse8c35wKHAuzJO9BTqO",
+            "name": "Slim Ans",
+            "type": "artist",
+            "uri": "spotify:artist:4JFse8c35wKHAuzJO9BTqO"
           }
         ],
         "available_markets": [
@@ -10714,44 +10180,84 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/45NkiOt6MzBZy34PyICXJY"
+          "spotify": "https://open.spotify.com/album/42myA7rDKd1QWWMATQldju"
         },
-        "href": "https://api.spotify.com/v1/albums/45NkiOt6MzBZy34PyICXJY",
-        "id": "45NkiOt6MzBZy34PyICXJY",
+        "href": "https://api.spotify.com/v1/albums/42myA7rDKd1QWWMATQldju",
+        "id": "42myA7rDKd1QWWMATQldju",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b07a27de99781e63785acb8a",
+            "url": "https://i.scdn.co/image/ab67616d0000b273d7643216420ef407985b8c6e",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b07a27de99781e63785acb8a",
+            "url": "https://i.scdn.co/image/ab67616d00001e02d7643216420ef407985b8c6e",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b07a27de99781e63785acb8a",
+            "url": "https://i.scdn.co/image/ab67616d00004851d7643216420ef407985b8c6e",
             "width": 64
           }
         ],
-        "name": "Tres Gallitos",
-        "release_date": "2018",
-        "release_date_precision": "year",
-        "total_tracks": 1,
+        "name": "Fuego",
+        "release_date": "2021-07-23",
+        "release_date_precision": "day",
+        "total_tracks": 9,
         "type": "album",
-        "uri": "spotify:album:45NkiOt6MzBZy34PyICXJY"
+        "uri": "spotify:album:42myA7rDKd1QWWMATQldju"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw"
+            "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
           },
-          "href": "https://api.spotify.com/v1/artists/5fEXlQQjFkAH2xuBUGxOTw",
-          "id": "5fEXlQQjFkAH2xuBUGxOTw",
-          "name": "El Ezequiel",
+          "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
+          "id": "2Ch5zHsrWSpgq7g0WI2UFD",
+          "name": "Desert Ni\u00f1os",
           "type": "artist",
-          "uri": "spotify:artist:5fEXlQQjFkAH2xuBUGxOTw"
+          "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
+          },
+          "href": "https://api.spotify.com/v1/artists/6UO0OmWRTSoZCTmbpHRf91",
+          "id": "6UO0OmWRTSoZCTmbpHRf91",
+          "name": "Castellano",
+          "type": "artist",
+          "uri": "spotify:artist:6UO0OmWRTSoZCTmbpHRf91"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
+          },
+          "href": "https://api.spotify.com/v1/artists/4JFse8c35wKHAuzJO9BTqO",
+          "id": "4JFse8c35wKHAuzJO9BTqO",
+          "name": "Slim Ans",
+          "type": "artist",
+          "uri": "spotify:artist:4JFse8c35wKHAuzJO9BTqO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+          "id": "5lYeiQxUTcGKVgAuTqbTeL",
+          "name": "Charles Ans",
+          "type": "artist",
+          "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
+          "id": "6viZnVSHavFUcW0blu6Mvw",
+          "name": "Simpson Ahuevo",
+          "type": "artist",
+          "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
         }
       ],
       "available_markets": [
@@ -10836,23 +10342,280 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 201000,
-      "explicit": true,
+      "duration_ms": 201200,
+      "explicit": false,
       "external_ids": {
-        "isrc": "TCADY1858885"
+        "isrc": "QZHZ62110701"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/47SePuXH9B96sAgqJVHBYU"
+        "spotify": "https://open.spotify.com/track/5UJcENK6cahUnamXxWv2c3"
       },
-      "href": "https://api.spotify.com/v1/tracks/47SePuXH9B96sAgqJVHBYU",
-      "id": "47SePuXH9B96sAgqJVHBYU",
+      "href": "https://api.spotify.com/v1/tracks/5UJcENK6cahUnamXxWv2c3",
+      "id": "5UJcENK6cahUnamXxWv2c3",
       "is_local": false,
-      "name": "Tres Gallitos",
-      "popularity": 37,
-      "preview_url": "https://p.scdn.co/mp3-preview/0cf14a9266bbbbceb95ea3c5d7d13ea4caf9234c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "name": "Calidad",
+      "popularity": 22,
+      "preview_url": "https://p.scdn.co/mp3-preview/719496344898b6a04c07f0411360028149450c3a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:5UJcENK6cahUnamXxWv2c3"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+            },
+            "href": "https://api.spotify.com/v1/artists/1NsRsBdRV7uWMw0SYaHo01",
+            "id": "1NsRsBdRV7uWMw0SYaHo01",
+            "name": "Phyzh Eye",
+            "type": "artist",
+            "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/13WVBropupZqKjcG9rP8Zy"
+            },
+            "href": "https://api.spotify.com/v1/artists/13WVBropupZqKjcG9rP8Zy",
+            "id": "13WVBropupZqKjcG9rP8Zy",
+            "name": "ReeMau",
+            "type": "artist",
+            "uri": "spotify:artist:13WVBropupZqKjcG9rP8Zy"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3pwlhLje7wQt7mYmzwdoKa"
+        },
+        "href": "https://api.spotify.com/v1/albums/3pwlhLje7wQt7mYmzwdoKa",
+        "id": "3pwlhLje7wQt7mYmzwdoKa",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730068d8ebd2f2837cf9c84829",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020068d8ebd2f2837cf9c84829",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510068d8ebd2f2837cf9c84829",
+            "width": 64
+          }
+        ],
+        "name": "3Am",
+        "release_date": "2021-07-29",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3pwlhLje7wQt7mYmzwdoKa"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+          },
+          "href": "https://api.spotify.com/v1/artists/1NsRsBdRV7uWMw0SYaHo01",
+          "id": "1NsRsBdRV7uWMw0SYaHo01",
+          "name": "Phyzh Eye",
+          "type": "artist",
+          "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13WVBropupZqKjcG9rP8Zy"
+          },
+          "href": "https://api.spotify.com/v1/artists/13WVBropupZqKjcG9rP8Zy",
+          "id": "13WVBropupZqKjcG9rP8Zy",
+          "name": "ReeMau",
+          "type": "artist",
+          "uri": "spotify:artist:13WVBropupZqKjcG9rP8Zy"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 183000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZMZ92110682"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/69b2TzbN6hzC2V3WJHXHWj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/69b2TzbN6hzC2V3WJHXHWj",
+      "id": "69b2TzbN6hzC2V3WJHXHWj",
+      "is_local": false,
+      "name": "3Am",
+      "popularity": 30,
+      "preview_url": "https://p.scdn.co/mp3-preview/892bfbba39e4db8aca0bab6048bf3e31048f3cb0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:47SePuXH9B96sAgqJVHBYU"
+      "uri": "spotify:track:69b2TzbN6hzC2V3WJHXHWj"
     },
     {
       "album": {
@@ -12365,6 +12128,253 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:7GLeOaHhoBQHIoiMbhi0RY"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+            },
+            "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+            "id": "1gPiNBRjOB9XochAAFR3iM",
+            "name": "West Gold",
+            "type": "artist",
+            "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/74nrRZkOkVCPZQKfOOQkGW"
+        },
+        "href": "https://api.spotify.com/v1/albums/74nrRZkOkVCPZQKfOOQkGW",
+        "id": "74nrRZkOkVCPZQKfOOQkGW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27301f4323abe7454cf7cee31cc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0201f4323abe7454cf7cee31cc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485101f4323abe7454cf7cee31cc",
+            "width": 64
+          }
+        ],
+        "name": "Stay Gold",
+        "release_date": "2021-02-18",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:74nrRZkOkVCPZQKfOOQkGW"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+          },
+          "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+          "id": "1gPiNBRjOB9XochAAFR3iM",
+          "name": "West Gold",
+          "type": "artist",
+          "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+          "id": "4RtYPfT9hi1qBolEuVArOG",
+          "name": "La Plebada",
+          "type": "artist",
+          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 195786,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXUM72100054"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ItU5gUMVc5bxo5jMwp9bd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ItU5gUMVc5bxo5jMwp9bd",
+      "id": "2ItU5gUMVc5bxo5jMwp9bd",
+      "is_local": false,
+      "name": "Contra La Pared",
+      "popularity": 25,
+      "preview_url": "https://p.scdn.co/mp3-preview/7b3caa5a62ac83a093689c42c019288bfde8b5e4?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:2ItU5gUMVc5bxo5jMwp9bd"
     }
   ],
   "total": 50,
