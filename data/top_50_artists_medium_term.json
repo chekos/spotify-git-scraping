@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24693
+        "total": 24695
       },
       "genres": [
         "mexican hip hop",
@@ -553,7 +553,7 @@
       },
       "followers": {
         "href": null,
-        "total": 208683
+        "total": 208846
       },
       "genres": [
         "latin hip hop",
@@ -590,7 +590,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10378
+        "total": 10387
       },
       "genres": [
         "latin alternative",
@@ -699,7 +699,7 @@
       },
       "followers": {
         "href": null,
-        "total": 177728
+        "total": 177866
       },
       "genres": [
         "mexican hip hop"
@@ -778,7 +778,6 @@
         "rap",
         "southern hip hop",
         "trap",
-        "underground hip hop",
         "virginia hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
@@ -848,7 +847,7 @@
       },
       "followers": {
         "href": null,
-        "total": 246067
+        "total": 246275
       },
       "genres": [
         "latin hip hop",
@@ -956,7 +955,7 @@
       },
       "followers": {
         "href": null,
-        "total": 150772
+        "total": 150870
       },
       "genres": [
         "trap mexicano"
@@ -1206,7 +1205,7 @@
       },
       "followers": {
         "href": null,
-        "total": 543305
+        "total": 543681
       },
       "genres": [
         "latin hip hop",
@@ -1246,6 +1245,7 @@
       },
       "genres": [
         "desi hip hop",
+        "desi pop",
         "punjabi hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0aS41TT32O5PsnAB7qZj7L",
@@ -1278,7 +1278,7 @@
       },
       "followers": {
         "href": null,
-        "total": 975343
+        "total": 977120
       },
       "genres": [
         "hip hop",
@@ -1314,7 +1314,7 @@
       },
       "followers": {
         "href": null,
-        "total": 120401
+        "total": 120501
       },
       "genres": [
         "mexican hip hop",
@@ -1376,7 +1376,7 @@
         }
       ],
       "name": "Dharius",
-      "popularity": 65,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
@@ -1386,7 +1386,7 @@
       },
       "followers": {
         "href": null,
-        "total": 565996
+        "total": 567329
       },
       "genres": [
         "mexican hip hop"
@@ -1497,7 +1497,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18228
+        "total": 18230
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -1568,7 +1568,7 @@
       },
       "followers": {
         "href": null,
-        "total": 116149
+        "total": 116217
       },
       "genres": [
         "mexican hip hop",
@@ -1642,7 +1642,7 @@
       },
       "followers": {
         "href": null,
-        "total": 139130
+        "total": 139192
       },
       "genres": [
         "latin alternative",
@@ -1670,7 +1670,7 @@
         }
       ],
       "name": "Mexican Institute Of Sound",
-      "popularity": 46,
+      "popularity": 47,
       "type": "artist",
       "uri": "spotify:artist:4TPTW3cTwUtiihgOMSQfmy"
     },
@@ -1795,7 +1795,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12593
+        "total": 12599
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",

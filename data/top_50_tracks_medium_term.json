@@ -11523,7 +11523,7 @@
       "id": "6R7cCiQ7JEQUZl5nITmTyk",
       "is_local": false,
       "name": "Jackie Chan",
-      "popularity": 40,
+      "popularity": 39,
       "preview_url": "https://p.scdn.co/mp3-preview/1b40d2d1f82a2f048fd8aca4e52392ac9a304765?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 11,
       "type": "track",
@@ -12079,13 +12079,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
             },
-            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-            "name": "La Banda Baston",
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
             "type": "artist",
-            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
           }
         ],
         "available_markets": [
@@ -12170,44 +12170,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
+          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
         },
-        "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
-        "id": "6pV6SSMwxUzqGRC5OZjrCi",
+        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
+        "id": "7cftuQ1mezvQCWSHtP7eA9",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c0ff6d8a3477bb8ef556da6b",
+            "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c0ff6d8a3477bb8ef556da6b",
+            "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c0ff6d8a3477bb8ef556da6b",
+            "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
             "width": 64
           }
         ],
-        "name": "Degeneraci\u00f3n Nacional",
-        "release_date": "2022-08-19",
+        "name": "Homie Alone",
+        "release_date": "2022-07-29",
         "release_date_precision": "day",
-        "total_tracks": 16,
+        "total_tracks": 17,
         "type": "album",
-        "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
+        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
           },
-          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-          "name": "La Banda Baston",
+          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+          "id": "7I85Ma5xjAo6nlvqOCIiWx",
+          "name": "Fntxy",
           "type": "artist",
-          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
         }
       ],
       "available_markets": [
@@ -12292,23 +12292,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 262182,
-      "explicit": false,
+      "duration_ms": 216255,
+      "explicit": true,
       "external_ids": {
-        "isrc": "QMBZ92263778"
+        "isrc": "QM4TX2284462"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/0UjA59PzLqmarHPtVYGgtJ"
+        "spotify": "https://open.spotify.com/track/77zBQ9qB6F8LKozVDMZXPp"
       },
-      "href": "https://api.spotify.com/v1/tracks/0UjA59PzLqmarHPtVYGgtJ",
-      "id": "0UjA59PzLqmarHPtVYGgtJ",
+      "href": "https://api.spotify.com/v1/tracks/77zBQ9qB6F8LKozVDMZXPp",
+      "id": "77zBQ9qB6F8LKozVDMZXPp",
       "is_local": false,
-      "name": "Nebulosa",
-      "popularity": 44,
-      "preview_url": "https://p.scdn.co/mp3-preview/2ee9134041dbe09b444ca4a6aca34de39d3c29c8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 15,
+      "name": "Pal Negocio",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/79e0a0f23a560593bf8814a07e78e23fe0ef7a72?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 14,
       "type": "track",
-      "uri": "spotify:track:0UjA59PzLqmarHPtVYGgtJ"
+      "uri": "spotify:track:77zBQ9qB6F8LKozVDMZXPp"
     }
   ],
   "total": 50,
