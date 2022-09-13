@@ -573,7 +573,7 @@
         }
       ],
       "name": "Denilson",
-      "popularity": 47,
+      "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
@@ -588,6 +588,7 @@
       "genres": [
         "latin hip hop",
         "mexican hip hop",
+        "perreo",
         "rap conciencia"
       ],
       "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
