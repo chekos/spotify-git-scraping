@@ -430,7 +430,7 @@
         }
       ],
       "name": "Nanpa B\u00e1sico",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
     },
@@ -482,7 +482,6 @@
       "genres": [
         "latin hip hop",
         "mexican hip hop",
-        "perreo",
         "rap conciencia"
       ],
       "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
@@ -1138,7 +1137,8 @@
       "genres": [
         "hip hop",
         "kansas city hip hop",
-        "pop rap"
+        "pop rap",
+        "southern hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos",
       "id": "6UBA15slIuadJ8h2lPRPos",
@@ -1255,7 +1255,6 @@
         "total": 3864891
       },
       "genres": [
-        "musica mexicana",
         "norteno"
       ],
       "href": "https://api.spotify.com/v1/artists/3hYtANQYrE6pd2PbtEyTIy",
@@ -1528,7 +1527,7 @@
         }
       ],
       "name": "Bipo Montana",
-      "popularity": 54,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:6JG2QQcaQBzinELNvu9PRk"
     },
