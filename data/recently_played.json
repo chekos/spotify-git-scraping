@@ -1348,7 +1348,7 @@
         "id": "4wCsnNGEEU5pS8cTze4M12",
         "is_local": false,
         "name": "M\u00e1s Vale Polo",
-        "popularity": 41,
+        "popularity": 40,
         "preview_url": "https://p.scdn.co/mp3-preview/882a1bb21052ae6d2348c0fdb6ddce576aefdc89?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 7,
         "type": "track",
@@ -22677,5 +22677,5 @@
     "before": "1663077920052"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1663228140000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1663230010000&limit=50"
 }
