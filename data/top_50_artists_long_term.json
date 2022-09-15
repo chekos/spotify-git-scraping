@@ -945,7 +945,7 @@
         }
       ],
       "name": "Dharius",
-      "popularity": 64,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
@@ -1137,8 +1137,7 @@
       "genres": [
         "hip hop",
         "kansas city hip hop",
-        "pop rap",
-        "southern hip hop"
+        "pop rap"
       ],
       "href": "https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos",
       "id": "6UBA15slIuadJ8h2lPRPos",
@@ -1383,7 +1382,7 @@
         }
       ],
       "name": "Denilson",
-      "popularity": 46,
+      "popularity": 47,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
