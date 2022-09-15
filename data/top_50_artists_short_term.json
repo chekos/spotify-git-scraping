@@ -41,42 +41,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-      },
-      "followers": {
-        "href": null,
-        "total": 3515732
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-      "id": "2hejA1Dkf8v8R0koF44FvW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb909131d644ba3d2ceb2f5d07",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174909131d644ba3d2ceb2f5d07",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178909131d644ba3d2ceb2f5d07",
-          "width": 160
-        }
-      ],
-      "name": "Gera MX",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
       },
       "followers": {
@@ -112,11 +76,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+      },
+      "followers": {
+        "href": null,
+        "total": 3518286
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb909131d644ba3d2ceb2f5d07",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174909131d644ba3d2ceb2f5d07",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178909131d644ba3d2ceb2f5d07",
+          "width": 160
+        }
+      ],
+      "name": "Gera MX",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
       },
       "followers": {
         "href": null,
-        "total": 5699
+        "total": 5701
       },
       "genres": [
         "mexican hip hop",
@@ -152,7 +152,7 @@
       },
       "followers": {
         "href": null,
-        "total": 980232
+        "total": 981757
       },
       "genres": [
         "hip hop",
@@ -296,7 +296,7 @@
       },
       "followers": {
         "href": null,
-        "total": 151133
+        "total": 151265
       },
       "genres": [
         "trap mexicano"
@@ -475,7 +475,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18677
+        "total": 18683
       },
       "genres": [
         "mexican hip hop",
@@ -838,7 +838,7 @@
       },
       "followers": {
         "href": null,
-        "total": 544375
+        "total": 544726
       },
       "genres": [
         "latin hip hop",
@@ -1087,7 +1087,7 @@
       },
       "followers": {
         "href": null,
-        "total": 116343
+        "total": 116401
       },
       "genres": [
         "mexican hip hop",
@@ -1124,7 +1124,7 @@
       },
       "followers": {
         "href": null,
-        "total": 55342060
+        "total": 55405748
       },
       "genres": [
         "reggaeton",
@@ -1160,7 +1160,7 @@
       },
       "followers": {
         "href": null,
-        "total": 48001
+        "total": 48038
       },
       "genres": [
         "mexican hip hop",
@@ -1341,7 +1341,7 @@
       },
       "followers": {
         "href": null,
-        "total": 96092
+        "total": 96169
       },
       "genres": [
         "mexican hip hop",
