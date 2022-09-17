@@ -1,5 +1,6 @@
 from pathlib import Path
-from datetime import datetime as dt
+from datetime import datetime as dt, date
+import json
 
 import typer
 from rich import print
@@ -43,8 +44,13 @@ def get_top(
         'long' (calculated from several years of data and including all new data as it becomes available),
         'medium' (approximately last 6 months), 'short' (approximately last 4 weeks).""",
     ),
-    write: bool = False,
-    filename: Path = typer.Option("", help="File to write output to."),
+    output: Path = typer.Option(
+        "output.json",
+        "--output",
+        "-o",
+        help="File to write output to.",
+        allow_dash=True,
+    ),
     trim: bool = typer.Option(False, "--trim/--full"),
 ):
     response = handle_response(
@@ -56,9 +62,11 @@ def get_top(
             time_range=f"{time_range.value}_term",
         )
     )
-    data = handle_data(response, write, filename, trim)
-    if not write:
-        print(data)
+
+    data = handle_data(response, output, trim)
+
+    if output == Path("-"):
+        print(json.dumps(data, default=str))
 
 
 @app.command()
@@ -75,8 +83,13 @@ def get_recently_played(
         20, help="The maximum number of items to return.", min=1, max=50
     ),
     time_zone: str = typer.Option("America/Tijuana", help="Timezone"),
-    write: bool = False,
-    filename: Path = typer.Option("", help="File to write output to."),
+    output: Path = typer.Option(
+        "output.json",
+        "--output",
+        "-o",
+        help="File to write output to.",
+        allow_dash=True,
+    ),
     trim: bool = typer.Option(False, "--trim/--full"),
 ):
     # transform date from timestamp to unix timestamp in milliseconds
@@ -91,9 +104,11 @@ def get_recently_played(
             limit=limit,
         )
     )
-    data = handle_data(response, write, filename, trim)
-    if not write:
-        print(data)
+
+    data = handle_data(response, output, trim)
+
+    if output == Path("-"):
+        print(json.dumps(data, default=str))
 
 
 if __name__ == "__main__":

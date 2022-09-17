@@ -149,23 +149,17 @@ def handle_response(
 
 def handle_data(
     data: dict,
-    write: bool = False,
-    filename: str = "output.json",
+    output: Path,
     trim: bool = False,
     key: str = "items",
 ):
     if trim:
         data = data[key]
 
-    if filename == Path("."):
-        if write:
-            filename = Path(prompt("Output filename")).with_suffix(".json")
-            with open(filename, "w") as file:
-                json.dump(data, file, indent=2)
-        else:
-            filename = Path("output.json")
-
-    filename = filename.with_suffix(".json")
+    if output != Path("-"):
+        filename = output.with_suffix(".json")
+        with open(filename, "w") as file:
+            json.dump(data, file, indent=2, default=str)
 
     return data
 
