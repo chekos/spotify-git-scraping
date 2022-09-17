@@ -12,7 +12,7 @@ from constants import (
     GetTopTimeRanges,
     GetRecentlyPlayedDirections,
 )
-from utils import handle_authorization, handle_response
+from utils import handle_authorization, handle_response, handle_data
 
 
 def init():
@@ -45,24 +45,18 @@ def get_top(
     ),
     write: bool = False,
     filename: Path = typer.Option("", help="File to write output to."),
+    trim: bool = typer.Option(False, "--trim/--full"),
 ):
-    response = get_user_top_items(
-        access_token=token_info["access_token"],
-        item_type=item_type.value,
-        limit=limit,
-        offset=offset,
-        time_range=f"{time_range.value}_term",
+    response = handle_response(
+        get_user_top_items(
+            access_token=token_info["access_token"],
+            item_type=item_type.value,
+            limit=limit,
+            offset=offset,
+            time_range=f"{time_range.value}_term",
+        )
     )
-    # filename value was entered
-    if filename != Path("."):
-        filename = filename.with_suffix(".json")
-
-    # write is true but not filename was entered
-    if write and filename == Path("."):
-        filename = Path(typer.prompt("Output filename")).with_suffix(".json")
-
-    data = handle_response(response, write=write, filename=filename)
-
+    data = handle_data(response, write, filename, trim)
     if not write:
         print(data)
 
@@ -83,28 +77,21 @@ def get_recently_played(
     time_zone: str = typer.Option("America/Tijuana", help="Timezone"),
     write: bool = False,
     filename: Path = typer.Option("", help="File to write output to."),
+    trim: bool = typer.Option(False, "--trim/--full"),
 ):
     # transform date from timestamp to unix timestamp in milliseconds
     timestamp = timestamp.replace(tzinfo=timezone(time_zone))
     timestamp = int(timestamp.timestamp()) * 1_000
 
-    response = get_user_recently_played(
-        access_token=token_info["access_token"],
-        timestamp=timestamp,
-        direction=direction,
-        limit=limit,
+    response = handle_response(
+        get_user_recently_played(
+            access_token=token_info["access_token"],
+            timestamp=timestamp,
+            direction=direction,
+            limit=limit,
+        )
     )
-
-    # filename value was entered
-    if filename != Path("."):
-        filename = filename.with_suffix(".json")
-
-    # write is true but not filename was entered
-    if write and filename == Path("."):
-        filename = Path(typer.prompt("Output filename")).with_suffix(".json")
-
-    data = handle_response(response, write=write, filename=filename)
-
+    data = handle_data(response, write, filename, trim)
     if not write:
         print(data)
 

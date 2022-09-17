@@ -1,9 +1,11 @@
 import json
 from datetime import datetime as dt
 from datetime import timedelta
+from pathlib import Path
 
 import httpx
 from playwright.sync_api import sync_playwright
+from typer import Exit, prompt
 
 from constants import (
     AUTH_CODE_URL,
@@ -136,15 +138,36 @@ def handle_authorization(save_files: bool = False, force: bool = False):
 
 
 def handle_response(
-    response: httpx.Response, write: bool = False, filename: str = "output.json"
+    response: httpx.Response,
 ):
     if response.status_code == 200:
-        if write:
-            with open(filename, "w") as file:
-                json.dump(response.json(), file, indent=2)
         return response.json()
     else:
         print(f"Error {response.status_code}: {response.text}")
+        raise Exit()
+
+
+def handle_data(
+    data: dict,
+    write: bool = False,
+    filename: str = "output.json",
+    trim: bool = False,
+    key: str = "items",
+):
+    if trim:
+        data = data[key]
+
+    if filename == Path("."):
+        if write:
+            filename = Path(prompt("Output filename")).with_suffix(".json")
+            with open(filename, "w") as file:
+                json.dump(data, file, indent=2)
+        else:
+            filename = Path("output.json")
+
+    filename = filename.with_suffix(".json")
+
+    return data
 
 
 if __name__ == "__main__":
