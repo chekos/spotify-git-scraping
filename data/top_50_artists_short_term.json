@@ -259,7 +259,7 @@
       },
       "followers": {
         "href": null,
-        "total": 209492
+        "total": 209644
       },
       "genres": [
         "latin hip hop",
@@ -369,7 +369,7 @@
       },
       "followers": {
         "href": null,
-        "total": 115123
+        "total": 115191
       },
       "genres": [
         "mexican hip hop",
@@ -445,6 +445,7 @@
       "genres": [
         "latin hip hop",
         "mexican hip hop",
+        "perreo",
         "rap conciencia"
       ],
       "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
@@ -477,7 +478,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22577
+        "total": 22591
       },
       "genres": [
         "mexican hip hop"
@@ -549,7 +550,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24717
+        "total": 24716
       },
       "genres": [
         "mexican hip hop",
@@ -585,7 +586,7 @@
       },
       "followers": {
         "href": null,
-        "total": 246979
+        "total": 247121
       },
       "genres": [
         "latin hip hop",
@@ -658,7 +659,7 @@
       },
       "followers": {
         "href": null,
-        "total": 545109
+        "total": 545407
       },
       "genres": [
         "latin hip hop",
@@ -837,7 +838,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18239
+        "total": 18241
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -981,7 +982,7 @@
       },
       "followers": {
         "href": null,
-        "total": 139389
+        "total": 139434
       },
       "genres": [
         "latin alternative",
@@ -1055,7 +1056,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1621657
+        "total": 1623416
       },
       "genres": [
         "latin hip hop",

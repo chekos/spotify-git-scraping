@@ -114,7 +114,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24717
+        "total": 24716
       },
       "genres": [
         "mexican hip hop",
@@ -261,7 +261,7 @@
       },
       "followers": {
         "href": null,
-        "total": 115123
+        "total": 115191
       },
       "genres": [
         "mexican hip hop",
@@ -482,6 +482,7 @@
       "genres": [
         "latin hip hop",
         "mexican hip hop",
+        "perreo",
         "rap conciencia"
       ],
       "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
@@ -624,7 +625,7 @@
       },
       "followers": {
         "href": null,
-        "total": 246979
+        "total": 247121
       },
       "genres": [
         "latin hip hop",
@@ -698,7 +699,7 @@
       },
       "followers": {
         "href": null,
-        "total": 209492
+        "total": 209644
       },
       "genres": [
         "latin hip hop",
@@ -763,7 +764,7 @@
         }
       ],
       "name": "El Pinche Mara",
-      "popularity": 52,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
     },
@@ -773,7 +774,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1987184
+        "total": 1987715
       },
       "genres": [
         "latin alternative",
@@ -884,7 +885,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13445
+        "total": 13452
       },
       "genres": [
         "mexican hip hop"
@@ -919,7 +920,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1621657
+        "total": 1623416
       },
       "genres": [
         "latin hip hop",
@@ -988,7 +989,7 @@
       },
       "followers": {
         "href": null,
-        "total": 469042
+        "total": 469367
       },
       "genres": [
         "trap venezolano",
@@ -1169,7 +1170,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2745837
+        "total": 2746218
       },
       "genres": [
         "latin afrobeat",
@@ -1205,7 +1206,7 @@
         }
       ],
       "name": "Calle 13",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:0yNSzH5nZmHzeE2xn6Xshb"
     },
@@ -1215,7 +1216,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10448
+        "total": 10463
       },
       "genres": [
         "latin alternative",
@@ -1357,7 +1358,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22577
+        "total": 22591
       },
       "genres": [
         "mexican hip hop"
@@ -1392,7 +1393,7 @@
       },
       "followers": {
         "href": null,
-        "total": 545109
+        "total": 545407
       },
       "genres": [
         "latin hip hop",
@@ -1647,7 +1648,7 @@
       },
       "followers": {
         "href": null,
-        "total": 494001
+        "total": 494365
       },
       "genres": [
         "trap mexicano"
