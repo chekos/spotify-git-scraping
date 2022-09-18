@@ -4335,113 +4335,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-            },
-            "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
-            "id": "4o0NtnL2m0lzZmEdRas1qv",
-            "name": "Ovi",
-            "type": "artist",
-            "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4F0rGHT1EaBfRZg4u8NMxj"
-        },
-        "href": "https://api.spotify.com/v1/albums/4F0rGHT1EaBfRZg4u8NMxj",
-        "id": "4F0rGHT1EaBfRZg4u8NMxj",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273deed3507d6302e03972c218c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02deed3507d6302e03972c218c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851deed3507d6302e03972c218c",
-            "width": 64
-          }
-        ],
-        "name": "Vengo De Nada",
-        "release_date": "2020-08-11",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:4F0rGHT1EaBfRZg4u8NMxj"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-          },
-          "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
-          "id": "4o0NtnL2m0lzZmEdRas1qv",
-          "name": "Ovi",
-          "type": "artist",
-          "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-          },
-          "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
-          "id": "0elWFr7TW8piilVRYJUe4P",
-          "name": "Natanael Cano",
-          "type": "artist",
-          "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-          },
-          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-          "id": "4QFG9KrGWEbr6hNA58CAqE",
-          "name": "Aleman",
-          "type": "artist",
-          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-          },
-          "href": "https://api.spotify.com/v1/artists/2TQ4CGgxxCWHqa9yYIGDoU",
-          "id": "2TQ4CGgxxCWHqa9yYIGDoU",
-          "name": "Big Soto",
-          "type": "artist",
-          "uri": "spotify:artist:2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 221802,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "US3DF2068504"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/160ZND0RP8hdUgNhs27lC3"
-      },
-      "href": "https://api.spotify.com/v1/tracks/160ZND0RP8hdUgNhs27lC3",
-      "id": "160ZND0RP8hdUgNhs27lC3",
-      "is_local": false,
-      "name": "Vengo De Nada",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:160ZND0RP8hdUgNhs27lC3"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -4676,6 +4569,113 @@
       "track_number": 7,
       "type": "track",
       "uri": "spotify:track:6UYiF4Gtk7HQe37BhP8R2A"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+            },
+            "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
+            "id": "4o0NtnL2m0lzZmEdRas1qv",
+            "name": "Ovi",
+            "type": "artist",
+            "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4F0rGHT1EaBfRZg4u8NMxj"
+        },
+        "href": "https://api.spotify.com/v1/albums/4F0rGHT1EaBfRZg4u8NMxj",
+        "id": "4F0rGHT1EaBfRZg4u8NMxj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273deed3507d6302e03972c218c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02deed3507d6302e03972c218c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851deed3507d6302e03972c218c",
+            "width": 64
+          }
+        ],
+        "name": "Vengo De Nada",
+        "release_date": "2020-08-11",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4F0rGHT1EaBfRZg4u8NMxj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          },
+          "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
+          "id": "4o0NtnL2m0lzZmEdRas1qv",
+          "name": "Ovi",
+          "type": "artist",
+          "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          },
+          "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
+          "id": "0elWFr7TW8piilVRYJUe4P",
+          "name": "Natanael Cano",
+          "type": "artist",
+          "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+          "id": "4QFG9KrGWEbr6hNA58CAqE",
+          "name": "Aleman",
+          "type": "artist",
+          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+          },
+          "href": "https://api.spotify.com/v1/artists/2TQ4CGgxxCWHqa9yYIGDoU",
+          "id": "2TQ4CGgxxCWHqa9yYIGDoU",
+          "name": "Big Soto",
+          "type": "artist",
+          "uri": "spotify:artist:2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 221802,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "US3DF2068504"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/160ZND0RP8hdUgNhs27lC3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/160ZND0RP8hdUgNhs27lC3",
+      "id": "160ZND0RP8hdUgNhs27lC3",
+      "is_local": false,
+      "name": "Vengo De Nada",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:160ZND0RP8hdUgNhs27lC3"
     },
     {
       "album": {
@@ -5460,6 +5460,243 @@
     },
     {
       "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+            "id": "4RtYPfT9hi1qBolEuVArOG",
+            "name": "La Plebada",
+            "type": "artist",
+            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
+        },
+        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
+        "id": "6GPiGDV1SQaZJPuUSXmeKF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
+            "width": 64
+          }
+        ],
+        "name": "De Lo M\u00e1s Solicitado",
+        "release_date": "2019-05-09",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+          "id": "4RtYPfT9hi1qBolEuVArOG",
+          "name": "La Plebada",
+          "type": "artist",
+          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 145445,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "US7VG1935342"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7lBE9JV5hOgiJhJrpDslzI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7lBE9JV5hOgiJhJrpDslzI",
+      "id": "7lBE9JV5hOgiJhJrpDslzI",
+      "is_local": false,
+      "name": "Placoseo Como Se Debe",
+      "popularity": 40,
+      "preview_url": "https://p.scdn.co/mp3-preview/0efb16cabf0e9bfec3ef0de0d2c4052c913a694f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7lBE9JV5hOgiJhJrpDslzI"
+    },
+    {
+      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -5951,243 +6188,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:4Mvyt5WBaDIPbaPLycMidE"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-            },
-            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-            "id": "4RtYPfT9hi1qBolEuVArOG",
-            "name": "La Plebada",
-            "type": "artist",
-            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
-        },
-        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
-        "id": "6GPiGDV1SQaZJPuUSXmeKF",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
-            "width": 64
-          }
-        ],
-        "name": "De Lo M\u00e1s Solicitado",
-        "release_date": "2019-05-09",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-          },
-          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-          "id": "4RtYPfT9hi1qBolEuVArOG",
-          "name": "La Plebada",
-          "type": "artist",
-          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 145445,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "US7VG1935342"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/7lBE9JV5hOgiJhJrpDslzI"
-      },
-      "href": "https://api.spotify.com/v1/tracks/7lBE9JV5hOgiJhJrpDslzI",
-      "id": "7lBE9JV5hOgiJhJrpDslzI",
-      "is_local": false,
-      "name": "Placoseo Como Se Debe",
-      "popularity": 40,
-      "preview_url": "https://p.scdn.co/mp3-preview/0efb16cabf0e9bfec3ef0de0d2c4052c913a694f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:7lBE9JV5hOgiJhJrpDslzI"
     },
     {
       "album": {
