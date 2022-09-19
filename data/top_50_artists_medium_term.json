@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 90833
+        "total": 90907
       },
       "genres": [
         "trap mexicano"
@@ -152,7 +152,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1988195
+        "total": 1988616
       },
       "genres": [
         "latin alternative",
@@ -289,7 +289,7 @@
         }
       ],
       "name": "Aleman",
-      "popularity": 74,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
@@ -771,7 +771,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2549847
+        "total": 2550573
       },
       "genres": [
         "hip hop",
@@ -811,7 +811,7 @@
       },
       "followers": {
         "href": null,
-        "total": 49614
+        "total": 49641
       },
       "genres": [
         "indie campechano",
@@ -920,7 +920,7 @@
       },
       "followers": {
         "href": null,
-        "total": 176608
+        "total": 176819
       },
       "genres": [
         "mexican hip hop",
@@ -1018,7 +1018,7 @@
         }
       ],
       "name": "Leyruk",
-      "popularity": 36,
+      "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
@@ -1124,7 +1124,7 @@
         }
       ],
       "name": "Denilson",
-      "popularity": 47,
+      "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
@@ -1279,7 +1279,7 @@
       },
       "followers": {
         "href": null,
-        "total": 986359
+        "total": 987676
       },
       "genres": [
         "hip hop",
