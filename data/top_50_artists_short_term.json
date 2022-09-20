@@ -978,6 +978,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+      },
+      "followers": {
+        "href": null,
+        "total": 539860
+      },
+      "genres": [
+        "alternative r&b",
+        "rap latina",
+        "trap queen"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
+      "id": "3p3jPcp8b7WL9XYj4xlsWj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba7de9f1c290f2e932fe83d90",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a7de9f1c290f2e932fe83d90",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a7de9f1c290f2e932fe83d90",
+          "width": 160
+        }
+      ],
+      "name": "Snow Tha Product",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
       },
       "followers": {
@@ -1268,7 +1305,7 @@
       "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
     }
   ],
-  "total": 35,
+  "total": 36,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
