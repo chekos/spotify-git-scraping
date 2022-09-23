@@ -141,7 +141,7 @@
         }
       ],
       "name": "La Plebada",
-      "popularity": 38,
+      "popularity": 39,
       "type": "artist",
       "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
     },
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 115576
+        "total": 115658
       },
       "genres": [
         "mexican hip hop",
@@ -298,7 +298,7 @@
       },
       "followers": {
         "href": null,
-        "total": 179341
+        "total": 179506
       },
       "genres": [
         "mexican hip hop"
@@ -478,12 +478,11 @@
       },
       "followers": {
         "href": null,
-        "total": 1223811
+        "total": 1224584
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
-        "perreo",
         "rap conciencia"
       ],
       "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
@@ -626,7 +625,7 @@
       },
       "followers": {
         "href": null,
-        "total": 248023
+        "total": 248202
       },
       "genres": [
         "latin hip hop",
@@ -700,7 +699,7 @@
       },
       "followers": {
         "href": null,
-        "total": 210479
+        "total": 210647
       },
       "genres": [
         "latin hip hop",
@@ -737,7 +736,7 @@
       },
       "followers": {
         "href": null,
-        "total": 686228
+        "total": 686899
       },
       "genres": [
         "latin hip hop",
@@ -815,7 +814,7 @@
       },
       "followers": {
         "href": null,
-        "total": 107261
+        "total": 107356
       },
       "genres": [
         "mexican hip hop",
@@ -1026,7 +1025,7 @@
       },
       "followers": {
         "href": null,
-        "total": 986847
+        "total": 987800
       },
       "genres": [
         "mexican hip hop"
@@ -1098,7 +1097,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1057405
+        "total": 1058744
       },
       "genres": [
         "latin hip hop",
@@ -1139,7 +1138,8 @@
       "genres": [
         "hip hop",
         "kansas city hip hop",
-        "pop rap"
+        "pop rap",
+        "southern hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos",
       "id": "6UBA15slIuadJ8h2lPRPos",
@@ -1217,7 +1217,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10508
+        "total": 10518
       },
       "genres": [
         "latin alternative",
@@ -1359,7 +1359,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22696
+        "total": 22717
       },
       "genres": [
         "mexican hip hop"
@@ -1394,7 +1394,7 @@
       },
       "followers": {
         "href": null,
-        "total": 547168
+        "total": 547566
       },
       "genres": [
         "latin hip hop",
@@ -1430,7 +1430,7 @@
       },
       "followers": {
         "href": null,
-        "total": 48302
+        "total": 48338
       },
       "genres": [
         "mexican hip hop",
@@ -1612,7 +1612,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1112352
+        "total": 1113076
       },
       "genres": [
         "chicano rap",
@@ -1649,7 +1649,7 @@
       },
       "followers": {
         "href": null,
-        "total": 496380
+        "total": 496736
       },
       "genres": [
         "trap mexicano"
@@ -1684,7 +1684,7 @@
       },
       "followers": {
         "href": null,
-        "total": 96627
+        "total": 96701
       },
       "genres": [
         "mexican hip hop",
@@ -1720,7 +1720,7 @@
       },
       "followers": {
         "href": null,
-        "total": 251572
+        "total": 251710
       },
       "genres": [
         "boom bap espanol",
