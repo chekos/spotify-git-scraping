@@ -1343,13 +1343,23 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+            "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
           },
-          "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
-          "id": "4r1ZDYKzPt3iIjuq8LbT6X",
-          "name": "Aczino",
+          "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
+          "id": "1jVhcHIGJuk16eqY1Mdtuk",
+          "name": "Dee",
           "type": "artist",
-          "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
+          "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+          "id": "3AgxRYe2kXEfsZyB07hqJF",
+          "name": "Yoga Fire",
+          "type": "artist",
+          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
         }
       ],
       "available_markets": [
@@ -1434,23 +1444,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 210906,
-      "explicit": false,
+      "duration_ms": 200069,
+      "explicit": true,
       "external_ids": {
-        "isrc": "QMBZ92263777"
+        "isrc": "QMBZ92263760"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3DGMsCvYl6tcvTg1BJ5JAQ"
+        "spotify": "https://open.spotify.com/track/1TxllRaPcBbemHkgXq5Ytp"
       },
-      "href": "https://api.spotify.com/v1/tracks/3DGMsCvYl6tcvTg1BJ5JAQ",
-      "id": "3DGMsCvYl6tcvTg1BJ5JAQ",
+      "href": "https://api.spotify.com/v1/tracks/1TxllRaPcBbemHkgXq5Ytp",
+      "id": "1TxllRaPcBbemHkgXq5Ytp",
       "is_local": false,
-      "name": "Buscando Nada",
-      "popularity": 44,
-      "preview_url": "https://p.scdn.co/mp3-preview/0cd3cfca558bd17c72ebdc0a3e0fc3f1ab3d22d5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 14,
+      "name": "Nefilims",
+      "popularity": 45,
+      "preview_url": "https://p.scdn.co/mp3-preview/dc30b561dd1c1c0accd9e97ec65357396055784d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 4,
       "type": "track",
-      "uri": "spotify:track:3DGMsCvYl6tcvTg1BJ5JAQ"
+      "uri": "spotify:track:1TxllRaPcBbemHkgXq5Ytp"
     },
     {
       "album": {
@@ -1827,23 +1837,13 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+            "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
           },
-          "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
-          "id": "1jVhcHIGJuk16eqY1Mdtuk",
-          "name": "Dee",
+          "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
+          "id": "4r1ZDYKzPt3iIjuq8LbT6X",
+          "name": "Aczino",
           "type": "artist",
-          "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-          },
-          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-          "id": "3AgxRYe2kXEfsZyB07hqJF",
-          "name": "Yoga Fire",
-          "type": "artist",
-          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+          "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
         }
       ],
       "available_markets": [
@@ -1928,23 +1928,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 200069,
-      "explicit": true,
+      "duration_ms": 210906,
+      "explicit": false,
       "external_ids": {
-        "isrc": "QMBZ92263760"
+        "isrc": "QMBZ92263777"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/1TxllRaPcBbemHkgXq5Ytp"
+        "spotify": "https://open.spotify.com/track/3DGMsCvYl6tcvTg1BJ5JAQ"
       },
-      "href": "https://api.spotify.com/v1/tracks/1TxllRaPcBbemHkgXq5Ytp",
-      "id": "1TxllRaPcBbemHkgXq5Ytp",
+      "href": "https://api.spotify.com/v1/tracks/3DGMsCvYl6tcvTg1BJ5JAQ",
+      "id": "3DGMsCvYl6tcvTg1BJ5JAQ",
       "is_local": false,
-      "name": "Nefilims",
-      "popularity": 45,
-      "preview_url": "https://p.scdn.co/mp3-preview/dc30b561dd1c1c0accd9e97ec65357396055784d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 4,
+      "name": "Buscando Nada",
+      "popularity": 44,
+      "preview_url": "https://p.scdn.co/mp3-preview/0cd3cfca558bd17c72ebdc0a3e0fc3f1ab3d22d5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 14,
       "type": "track",
-      "uri": "spotify:track:1TxllRaPcBbemHkgXq5Ytp"
+      "uri": "spotify:track:3DGMsCvYl6tcvTg1BJ5JAQ"
     },
     {
       "album": {
@@ -2639,6 +2639,243 @@
         "ZA"
       ],
       "disc_number": 1,
+      "duration_ms": 121895,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QMBZ92263756"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/00r6SXWE6lvfikdbsl6qSR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/00r6SXWE6lvfikdbsl6qSR",
+      "id": "00r6SXWE6lvfikdbsl6qSR",
+      "is_local": false,
+      "name": "Cuando",
+      "popularity": 46,
+      "preview_url": "https://p.scdn.co/mp3-preview/fb4d1edb6858ac4e9680d81b992f507961fdc988?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:00r6SXWE6lvfikdbsl6qSR"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+            "name": "La Banda Baston",
+            "type": "artist",
+            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
+        },
+        "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
+        "id": "6pV6SSMwxUzqGRC5OZjrCi",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c0ff6d8a3477bb8ef556da6b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c0ff6d8a3477bb8ef556da6b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c0ff6d8a3477bb8ef556da6b",
+            "width": 64
+          }
+        ],
+        "name": "Degeneraci\u00f3n Nacional",
+        "release_date": "2022-08-19",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+          "name": "La Banda Baston",
+          "type": "artist",
+          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
       "duration_ms": 177910,
       "explicit": false,
       "external_ids": {
@@ -2876,23 +3113,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 121895,
+      "duration_ms": 171856,
       "explicit": true,
       "external_ids": {
-        "isrc": "QMBZ92263756"
+        "isrc": "QMBZ92263758"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/00r6SXWE6lvfikdbsl6qSR"
+        "spotify": "https://open.spotify.com/track/0BwjjkIGCf1IUIa0rT2jds"
       },
-      "href": "https://api.spotify.com/v1/tracks/00r6SXWE6lvfikdbsl6qSR",
-      "id": "00r6SXWE6lvfikdbsl6qSR",
+      "href": "https://api.spotify.com/v1/tracks/0BwjjkIGCf1IUIa0rT2jds",
+      "id": "0BwjjkIGCf1IUIa0rT2jds",
       "is_local": false,
-      "name": "Cuando",
-      "popularity": 46,
-      "preview_url": "https://p.scdn.co/mp3-preview/fb4d1edb6858ac4e9680d81b992f507961fdc988?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
+      "name": "Malo",
+      "popularity": 47,
+      "preview_url": "https://p.scdn.co/mp3-preview/14b092ba1f429a2f7bf1f1b8d9f384de59a7cf59?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 3,
       "type": "track",
-      "uri": "spotify:track:00r6SXWE6lvfikdbsl6qSR"
+      "uri": "spotify:track:0BwjjkIGCf1IUIa0rT2jds"
     },
     {
       "album": {
@@ -3160,243 +3397,6 @@
       "track_number": 10,
       "type": "track",
       "uri": "spotify:track:1vWKXyUv2QFDwrudlUlvwy"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-            },
-            "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-            "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-            "name": "La Banda Baston",
-            "type": "artist",
-            "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi"
-        },
-        "href": "https://api.spotify.com/v1/albums/6pV6SSMwxUzqGRC5OZjrCi",
-        "id": "6pV6SSMwxUzqGRC5OZjrCi",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c0ff6d8a3477bb8ef556da6b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c0ff6d8a3477bb8ef556da6b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c0ff6d8a3477bb8ef556da6b",
-            "width": 64
-          }
-        ],
-        "name": "Degeneraci\u00f3n Nacional",
-        "release_date": "2022-08-19",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:6pV6SSMwxUzqGRC5OZjrCi"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-          },
-          "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-          "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-          "name": "La Banda Baston",
-          "type": "artist",
-          "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 171856,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QMBZ92263758"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0BwjjkIGCf1IUIa0rT2jds"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0BwjjkIGCf1IUIa0rT2jds",
-      "id": "0BwjjkIGCf1IUIa0rT2jds",
-      "is_local": false,
-      "name": "Malo",
-      "popularity": 47,
-      "preview_url": "https://p.scdn.co/mp3-preview/14b092ba1f429a2f7bf1f1b8d9f384de59a7cf59?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:0BwjjkIGCf1IUIa0rT2jds"
     },
     {
       "album": {
@@ -12005,37 +12005,17 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "ALBUM",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
             },
-            "href": "https://api.spotify.com/v1/artists/77AiFEVeAVj2ORpC85QVJs",
-            "id": "77AiFEVeAVj2ORpC85QVJs",
-            "name": "Steve Aoki",
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
             "type": "artist",
-            "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-            },
-            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-            "name": "Santa Fe Klan",
-            "type": "artist",
-            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-            },
-            "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
-            "id": "3p3jPcp8b7WL9XYj4xlsWj",
-            "name": "Snow Tha Product",
-            "type": "artist",
-            "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
           }
         ],
         "available_markets": [
@@ -12120,64 +12100,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/4qGyc7iOQDVBlIrq1VXtu6"
+          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
         },
-        "href": "https://api.spotify.com/v1/albums/4qGyc7iOQDVBlIrq1VXtu6",
-        "id": "4qGyc7iOQDVBlIrq1VXtu6",
+        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
+        "id": "7cftuQ1mezvQCWSHtP7eA9",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273fa7209e9266395ae0b217b8e",
+            "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02fa7209e9266395ae0b217b8e",
+            "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851fa7209e9266395ae0b217b8e",
+            "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
             "width": 64
           }
         ],
-        "name": "Ultimate (ft. Snow Tha Product)",
-        "release_date": "2022-08-26",
+        "name": "Homie Alone",
+        "release_date": "2022-07-29",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 17,
         "type": "album",
-        "uri": "spotify:album:4qGyc7iOQDVBlIrq1VXtu6"
+        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+            "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
           },
-          "href": "https://api.spotify.com/v1/artists/77AiFEVeAVj2ORpC85QVJs",
-          "id": "77AiFEVeAVj2ORpC85QVJs",
-          "name": "Steve Aoki",
+          "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+          "id": "7I85Ma5xjAo6nlvqOCIiWx",
+          "name": "Fntxy",
           "type": "artist",
-          "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-          "name": "Santa Fe Klan",
-          "type": "artist",
-          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-          },
-          "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
-          "id": "3p3jPcp8b7WL9XYj4xlsWj",
-          "name": "Snow Tha Product",
-          "type": "artist",
-          "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
+          "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
         }
       ],
       "available_markets": [
@@ -12262,23 +12222,23 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 213281,
+      "duration_ms": 169843,
       "explicit": true,
       "external_ids": {
-        "isrc": "USA2P2230126"
+        "isrc": "QM6P42209722"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3cQo8Sz2SaYHcPFXrqBxGT"
+        "spotify": "https://open.spotify.com/track/3yHkWH4TnQQgPUkwVdpzm6"
       },
-      "href": "https://api.spotify.com/v1/tracks/3cQo8Sz2SaYHcPFXrqBxGT",
-      "id": "3cQo8Sz2SaYHcPFXrqBxGT",
+      "href": "https://api.spotify.com/v1/tracks/3yHkWH4TnQQgPUkwVdpzm6",
+      "id": "3yHkWH4TnQQgPUkwVdpzm6",
       "is_local": false,
-      "name": "Ultimate (ft. Snow Tha Product)",
-      "popularity": 67,
-      "preview_url": "https://p.scdn.co/mp3-preview/5367b8f9a3095fb7e4bdb159b818f04bdedadb95?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 1,
+      "name": "Parked Paisas",
+      "popularity": 39,
+      "preview_url": "https://p.scdn.co/mp3-preview/86156218cc95f5fb23e09df2ffd8c493e4c24a4f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 15,
       "type": "track",
-      "uri": "spotify:track:3cQo8Sz2SaYHcPFXrqBxGT"
+      "uri": "spotify:track:3yHkWH4TnQQgPUkwVdpzm6"
     }
   ],
   "total": 50,
