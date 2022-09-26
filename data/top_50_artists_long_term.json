@@ -78,11 +78,10 @@
       },
       "followers": {
         "href": null,
-        "total": 178209
+        "total": 178418
       },
       "genres": [
         "mexican hip hop",
-        "perreo",
         "rap underground mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
@@ -115,7 +114,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24751
+        "total": 24750
       },
       "genres": [
         "mexican hip hop",
@@ -190,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 922842
+        "total": 923764
       },
       "genres": [
         "latin hip hop",
@@ -298,7 +297,7 @@
       },
       "followers": {
         "href": null,
-        "total": 179828
+        "total": 180002
       },
       "genres": [
         "mexican hip hop"
@@ -368,7 +367,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18720
+        "total": 18722
       },
       "genres": [
         "mexican hip hop",
@@ -478,11 +477,12 @@
       },
       "followers": {
         "href": null,
-        "total": 1226031
+        "total": 1226710
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
+        "perreo",
         "rap conciencia"
       ],
       "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
@@ -515,7 +515,7 @@
       },
       "followers": {
         "href": null,
-        "total": 152376
+        "total": 152520
       },
       "genres": [
         "trap mexicano"
@@ -550,7 +550,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2108503
+        "total": 2110040
       },
       "genres": [
         "latin hip hop",
@@ -588,7 +588,7 @@
       },
       "followers": {
         "href": null,
-        "total": 248572
+        "total": 248738
       },
       "genres": [
         "latin hip hop",
@@ -736,7 +736,7 @@
       },
       "followers": {
         "href": null,
-        "total": 688159
+        "total": 688804
       },
       "genres": [
         "latin hip hop",
@@ -774,7 +774,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1991913
+        "total": 1992620
       },
       "genres": [
         "latin alternative",
@@ -850,7 +850,7 @@
       },
       "followers": {
         "href": null,
-        "total": 91336
+        "total": 91411
       },
       "genres": [
         "trap mexicano"
@@ -1025,7 +1025,7 @@
       },
       "followers": {
         "href": null,
-        "total": 989725
+        "total": 990695
       },
       "genres": [
         "mexican hip hop"
@@ -1060,7 +1060,7 @@
       },
       "followers": {
         "href": null,
-        "total": 49904
+        "total": 49943
       },
       "genres": [
         "indie campechano",
@@ -1097,7 +1097,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1061377
+        "total": 1062715
       },
       "genres": [
         "latin hip hop",
@@ -1171,7 +1171,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2749736
+        "total": 2750195
       },
       "genres": [
         "latin afrobeat",
@@ -1220,8 +1220,7 @@
         "total": 10556
       },
       "genres": [
-        "latin alternative",
-        "mexican indie"
+        "latin alternative"
       ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
@@ -1289,7 +1288,7 @@
       },
       "followers": {
         "href": null,
-        "total": 583992
+        "total": 585284
       },
       "genres": [
         "mexican hip hop"
@@ -1359,7 +1358,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22750
+        "total": 22771
       },
       "genres": [
         "mexican hip hop"
@@ -1394,7 +1393,7 @@
       },
       "followers": {
         "href": null,
-        "total": 548234
+        "total": 548575
       },
       "genres": [
         "latin hip hop",
@@ -1720,7 +1719,7 @@
       },
       "followers": {
         "href": null,
-        "total": 251961
+        "total": 252091
       },
       "genres": [
         "boom bap espanol",
