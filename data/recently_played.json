@@ -1338,7 +1338,7 @@
         "id": "0wObw0J87etFOiNJOSvDNH",
         "is_local": false,
         "name": "Nobu",
-        "popularity": 43,
+        "popularity": 42,
         "preview_url": "https://p.scdn.co/mp3-preview/eda6434e2edcbaa2fe7aac89bb2a4f9a4d9d194a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 3,
         "type": "track",
@@ -3154,7 +3154,7 @@
         "id": "5XEVGtwVfLVHrgZURRlLPy",
         "is_local": false,
         "name": "Degeneraci\u00f3n Nacional",
-        "popularity": 45,
+        "popularity": 44,
         "preview_url": "https://p.scdn.co/mp3-preview/9bd78b62a07a4be2c006fd7475a10c663d0d8a2d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 13,
         "type": "track",
@@ -8642,7 +8642,7 @@
         "id": "0BwjjkIGCf1IUIa0rT2jds",
         "is_local": false,
         "name": "Malo",
-        "popularity": 47,
+        "popularity": 46,
         "preview_url": "https://p.scdn.co/mp3-preview/14b092ba1f429a2f7bf1f1b8d9f384de59a7cf59?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 3,
         "type": "track",
@@ -18471,7 +18471,7 @@
         "id": "5XEVGtwVfLVHrgZURRlLPy",
         "is_local": false,
         "name": "Degeneraci\u00f3n Nacional",
-        "popularity": 45,
+        "popularity": 44,
         "preview_url": "https://p.scdn.co/mp3-preview/9bd78b62a07a4be2c006fd7475a10c663d0d8a2d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 13,
         "type": "track",
@@ -22093,7 +22093,7 @@
         "id": "1XReTPKaJypMIXSvOW9YXV",
         "is_local": false,
         "name": "Semillas",
-        "popularity": 40,
+        "popularity": 39,
         "preview_url": "https://p.scdn.co/mp3-preview/13a9036b2ccbc24baa12bd7e2a971f133a6f12d6?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
@@ -22109,5 +22109,5 @@
     "before": "1663892670654"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1664265340000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1664266868000&limit=50"
 }
