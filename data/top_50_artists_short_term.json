@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4064990
+        "total": 4068671
       },
       "genres": [
         "mexican hip hop",
@@ -81,7 +81,7 @@
       },
       "followers": {
         "href": null,
-        "total": 91482
+        "total": 91568
       },
       "genres": [
         "trap mexicano"
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18725
+        "total": 18728
       },
       "genres": [
         "mexican hip hop",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5724
+        "total": 5726
       },
       "genres": [
         "mexican hip hop",
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 997468
+        "total": 998605
       },
       "genres": [
         "hip hop",
@@ -221,11 +221,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+      },
+      "followers": {
+        "href": null,
+        "total": 24756
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+      "id": "4RtYPfT9hi1qBolEuVArOG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb52e524de06c1650745b2da8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b52e524de06c1650745b2da8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b52e524de06c1650745b2da8",
+          "width": 160
+        }
+      ],
+      "name": "La Plebada",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
         "href": null,
-        "total": 3548711
+        "total": 3551197
       },
       "genres": [
         "mexican hip hop",
@@ -261,7 +297,7 @@
       },
       "followers": {
         "href": null,
-        "total": 211344
+        "total": 211511
       },
       "genres": [
         "latin hip hop",
@@ -298,7 +334,7 @@
       },
       "followers": {
         "href": null,
-        "total": 924680
+        "total": 925503
       },
       "genres": [
         "latin hip hop",
@@ -334,7 +370,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11852604
+        "total": 11861437
       },
       "genres": [
         "latin hip hop",
@@ -371,7 +407,7 @@
       },
       "followers": {
         "href": null,
-        "total": 115987
+        "total": 116074
       },
       "genres": [
         "mexican hip hop",
@@ -407,7 +443,7 @@
       },
       "followers": {
         "href": null,
-        "total": 152671
+        "total": 152829
       },
       "genres": [
         "trap mexicano"
@@ -438,47 +474,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-      },
-      "followers": {
-        "href": null,
-        "total": 24751
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-      "id": "4RtYPfT9hi1qBolEuVArOG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb52e524de06c1650745b2da8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b52e524de06c1650745b2da8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b52e524de06c1650745b2da8",
-          "width": 160
-        }
-      ],
-      "name": "La Plebada",
-      "popularity": 39,
-      "type": "artist",
-      "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
         "href": null,
-        "total": 1227494
+        "total": 1228215
       },
       "genres": [
         "latin hip hop",
@@ -515,7 +515,7 @@
       },
       "followers": {
         "href": null,
-        "total": 180177
+        "total": 180334
       },
       "genres": [
         "mexican hip hop"
@@ -550,7 +550,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1836567
+        "total": 1837806
       },
       "genres": [
         "colombian hip hop",
@@ -586,7 +586,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22796
+        "total": 22820
       },
       "genres": [
         "mexican hip hop"
@@ -621,7 +621,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6258337
+        "total": 6265810
       },
       "genres": [
         "mexican hip hop"
@@ -656,7 +656,7 @@
       },
       "followers": {
         "href": null,
-        "total": 586556
+        "total": 587785
       },
       "genres": [
         "mexican hip hop"
@@ -691,7 +691,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22127
+        "total": 22149
       },
       "genres": [
         "mexican hip hop",
@@ -729,7 +729,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18265
+        "total": 18269
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -762,7 +762,7 @@
       },
       "followers": {
         "href": null,
-        "total": 770859
+        "total": 771542
       },
       "genres": [
         "latin hip hop",
@@ -799,7 +799,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2089652
+        "total": 2091160
       },
       "genres": [
         "mexican hip hop",
@@ -836,7 +836,7 @@
       },
       "followers": {
         "href": null,
-        "total": 117145
+        "total": 117219
       },
       "genres": [
         "mexican hip hop",
@@ -873,7 +873,7 @@
       },
       "followers": {
         "href": null,
-        "total": 541143
+        "total": 541341
       },
       "genres": [
         "alternative r&b",
@@ -910,7 +910,7 @@
       },
       "followers": {
         "href": null,
-        "total": 139880
+        "total": 139922
       },
       "genres": [
         "latin alternative",
@@ -948,7 +948,7 @@
       },
       "followers": {
         "href": null,
-        "total": 56162029
+        "total": 56219718
       },
       "genres": [
         "reggaeton",
@@ -984,7 +984,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1642479
+        "total": 1644296
       },
       "genres": [
         "latin hip hop",
@@ -1020,7 +1020,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1064013
+        "total": 1065272
       },
       "genres": [
         "latin hip hop",
@@ -1056,7 +1056,7 @@
       },
       "followers": {
         "href": null,
-        "total": 349167
+        "total": 349373
       },
       "genres": [
         "mexican hip hop",
@@ -1092,7 +1092,7 @@
       },
       "followers": {
         "href": null,
-        "total": 248923
+        "total": 249073
       },
       "genres": [
         "latin hip hop",
@@ -1129,7 +1129,7 @@
       },
       "followers": {
         "href": null,
-        "total": 86528
+        "total": 86561
       },
       "genres": [
         "mexican hip hop",
@@ -1165,7 +1165,7 @@
       },
       "followers": {
         "href": null,
-        "total": 548965
+        "total": 549301
       },
       "genres": [
         "latin hip hop",
