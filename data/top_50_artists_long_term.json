@@ -1607,43 +1607,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-      },
-      "followers": {
-        "href": null,
-        "total": 1119195
-      },
-      "genres": [
-        "chicano rap",
-        "latin hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3mYFuz6iY7D9X78rOXg5CG",
-      "id": "3mYFuz6iY7D9X78rOXg5CG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb10878c506a126c91402b4be6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517410878c506a126c91402b4be6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17810878c506a126c91402b4be6",
-          "width": 160
-        }
-      ],
-      "name": "Akwid",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2ai0soTBUbXpAdBZBEKkmh"
       },
       "followers": {
@@ -1712,6 +1675,43 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+      },
+      "followers": {
+        "href": null,
+        "total": 1119195
+      },
+      "genres": [
+        "chicano rap",
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3mYFuz6iY7D9X78rOXg5CG",
+      "id": "3mYFuz6iY7D9X78rOXg5CG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb10878c506a126c91402b4be6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517410878c506a126c91402b4be6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17810878c506a126c91402b4be6",
+          "width": 160
+        }
+      ],
+      "name": "Akwid",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
     },
     {
       "external_urls": {
@@ -1791,41 +1791,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+        "spotify": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
       },
       "followers": {
         "href": null,
-        "total": 22241
+        "total": 20185
       },
       "genres": [
-        "mexican hip hop",
-        "rap regio",
-        "rap underground mexicano",
-        "trap mexicano"
+        "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/1NsRsBdRV7uWMw0SYaHo01",
-      "id": "1NsRsBdRV7uWMw0SYaHo01",
+      "href": "https://api.spotify.com/v1/artists/2nJOVl8u7PntefIs1Uwb4z",
+      "id": "2nJOVl8u7PntefIs1Uwb4z",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb206e39172400df73258a7cc7",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9a19279a616c73655571e4d3",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174206e39172400df73258a7cc7",
+          "url": "https://i.scdn.co/image/ab676161000051749a19279a616c73655571e4d3",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178206e39172400df73258a7cc7",
+          "url": "https://i.scdn.co/image/ab6761610000f1789a19279a616c73655571e4d3",
           "width": 160
         }
       ],
-      "name": "Phyzh Eye",
-      "popularity": 37,
+      "name": "Don Kalavera",
+      "popularity": 32,
       "type": "artist",
-      "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
+      "uri": "spotify:artist:2nJOVl8u7PntefIs1Uwb4z"
     }
   ],
   "total": 50,
