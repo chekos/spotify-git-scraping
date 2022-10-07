@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 92109
+        "total": 92181
       },
       "genres": [
         "trap mexicano"
@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18759
+        "total": 18763
       },
       "genres": [
         "mexican hip hop",
@@ -301,7 +301,7 @@
       },
       "followers": {
         "href": null,
-        "total": 932564
+        "total": 933333
       },
       "genres": [
         "latin hip hop",
@@ -412,7 +412,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13659
+        "total": 13663
       },
       "genres": [
         "mexican hip hop"
@@ -474,7 +474,7 @@
         }
       ],
       "name": "Iluminatik",
-      "popularity": 46,
+      "popularity": 47,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
     },
@@ -484,7 +484,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1847776
+        "total": 1848945
       },
       "genres": [
         "colombian hip hop",
@@ -595,7 +595,7 @@
       },
       "followers": {
         "href": null,
-        "total": 116659
+        "total": 116742
       },
       "genres": [
         "mexican hip hop",
@@ -702,7 +702,7 @@
       },
       "followers": {
         "href": null,
-        "total": 180571
+        "total": 180795
       },
       "genres": [
         "mexican hip hop",
@@ -738,7 +738,7 @@
       },
       "followers": {
         "href": null,
-        "total": 250356
+        "total": 250510
       },
       "genres": [
         "latin hip hop",
@@ -919,7 +919,7 @@
       },
       "followers": {
         "href": null,
-        "total": 999762
+        "total": 1000565
       },
       "genres": [
         "mexican hip hop"
@@ -1025,7 +1025,7 @@
       },
       "followers": {
         "href": null,
-        "total": 108580
+        "total": 108672
       },
       "genres": [
         "mexican hip hop",
@@ -1061,7 +1061,7 @@
       },
       "followers": {
         "href": null,
-        "total": 475594
+        "total": 475887
       },
       "genres": [
         "trap venezolano",
@@ -1087,7 +1087,7 @@
         }
       ],
       "name": "Akapellah",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     },
@@ -1097,7 +1097,7 @@
       },
       "followers": {
         "href": null,
-        "total": 551955
+        "total": 552234
       },
       "genres": [
         "latin hip hop",
@@ -1133,7 +1133,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1007673
+        "total": 1008604
       },
       "genres": [
         "hip hop",
@@ -1195,7 +1195,7 @@
         }
       ],
       "name": "Proof",
-      "popularity": 55,
+      "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
     },
@@ -1241,7 +1241,7 @@
       },
       "followers": {
         "href": null,
-        "total": 597740
+        "total": 598659
       },
       "genres": [
         "mexican hip hop"
@@ -1279,8 +1279,7 @@
         "total": 10692
       },
       "genres": [
-        "latin alternative",
-        "mexican indie"
+        "latin alternative"
       ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
@@ -1383,7 +1382,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22317
+        "total": 22338
       },
       "genres": [
         "mexican hip hop",
@@ -1421,7 +1420,7 @@
       },
       "followers": {
         "href": null,
-        "total": 117679
+        "total": 117737
       },
       "genres": [
         "mexican hip hop",
@@ -1458,7 +1457,7 @@
       },
       "followers": {
         "href": null,
-        "total": 97545
+        "total": 97609
       },
       "genres": [
         "mexican hip hop",
@@ -1494,7 +1493,7 @@
       },
       "followers": {
         "href": null,
-        "total": 48821
+        "total": 48845
       },
       "genres": [
         "mexican hip hop",
@@ -1531,7 +1530,7 @@
       },
       "followers": {
         "href": null,
-        "total": 694897
+        "total": 695441
       },
       "genres": [
         "latin hip hop",
@@ -1676,7 +1675,7 @@
       },
       "followers": {
         "href": null,
-        "total": 350926
+        "total": 351102
       },
       "genres": [
         "mexican hip hop",

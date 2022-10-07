@@ -1506,7 +1506,7 @@
       "id": "4saHEjXw7O1NXJOzBkUKKG",
       "is_local": false,
       "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
-      "popularity": 72,
+      "popularity": 73,
       "preview_url": "https://p.scdn.co/mp3-preview/0859f08bb1b6a80c229ae4930b105ce262da94f7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 16,
       "type": "track",
@@ -1763,7 +1763,7 @@
       "id": "4kZFlqkzoudEFmtan4njSn",
       "is_local": false,
       "name": "Sirios",
-      "popularity": 39,
+      "popularity": 40,
       "preview_url": "https://p.scdn.co/mp3-preview/a061c4f327ca05d0656146c8e4ba3cb3fe4470ff?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -2866,93 +2866,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-            },
-            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-            "id": "3AgxRYe2kXEfsZyB07hqJF",
-            "name": "Yoga Fire",
-            "type": "artist",
-            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0mIpceBen3APHHKsAe5SfK"
-        },
-        "href": "https://api.spotify.com/v1/albums/0mIpceBen3APHHKsAe5SfK",
-        "id": "0mIpceBen3APHHKsAe5SfK",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273884fd5af3440be229251cf70",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02884fd5af3440be229251cf70",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851884fd5af3440be229251cf70",
-            "width": 64
-          }
-        ],
-        "name": "Terremotos",
-        "release_date": "2016-11-09",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0mIpceBen3APHHKsAe5SfK"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-          },
-          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-          "id": "3AgxRYe2kXEfsZyB07hqJF",
-          "name": "Yoga Fire",
-          "type": "artist",
-          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-          },
-          "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
-          "id": "5ET6v0l25osw5BzztPsMvD",
-          "name": "Muelas De Gallo",
-          "type": "artist",
-          "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 225882,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZ5AB1628146"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0nWrPDrwAnG9xdFGYXs2Kn"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0nWrPDrwAnG9xdFGYXs2Kn",
-      "id": "0nWrPDrwAnG9xdFGYXs2Kn",
-      "is_local": false,
-      "name": "Terremotos",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:0nWrPDrwAnG9xdFGYXs2Kn"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -3187,6 +3100,93 @@
       "track_number": 11,
       "type": "track",
       "uri": "spotify:track:3JSqOJlOQA6ChDaBw4v4oW"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+            "id": "3AgxRYe2kXEfsZyB07hqJF",
+            "name": "Yoga Fire",
+            "type": "artist",
+            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0mIpceBen3APHHKsAe5SfK"
+        },
+        "href": "https://api.spotify.com/v1/albums/0mIpceBen3APHHKsAe5SfK",
+        "id": "0mIpceBen3APHHKsAe5SfK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273884fd5af3440be229251cf70",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02884fd5af3440be229251cf70",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851884fd5af3440be229251cf70",
+            "width": 64
+          }
+        ],
+        "name": "Terremotos",
+        "release_date": "2016-11-09",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0mIpceBen3APHHKsAe5SfK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+          "id": "3AgxRYe2kXEfsZyB07hqJF",
+          "name": "Yoga Fire",
+          "type": "artist",
+          "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
+          "id": "5ET6v0l25osw5BzztPsMvD",
+          "name": "Muelas De Gallo",
+          "type": "artist",
+          "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 225882,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZ5AB1628146"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0nWrPDrwAnG9xdFGYXs2Kn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0nWrPDrwAnG9xdFGYXs2Kn",
+      "id": "0nWrPDrwAnG9xdFGYXs2Kn",
+      "is_local": false,
+      "name": "Terremotos",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0nWrPDrwAnG9xdFGYXs2Kn"
     },
     {
       "album": {
@@ -10202,7 +10202,7 @@
       "id": "6xHHKx4prZ7PvADiAJUHle",
       "is_local": false,
       "name": "Modo Avion (feat. Trainer, Big Soto, Robot & Jarabe Kidd)",
-      "popularity": 23,
+      "popularity": 24,
       "preview_url": "https://p.scdn.co/mp3-preview/1a533cf0014c343e5d270400deb402b4e45d98c5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 15,
       "type": "track",
@@ -10686,7 +10686,7 @@
       "id": "4Zs49a8sp1KbFbqJFZhY0N",
       "is_local": false,
       "name": "Botas y Texana",
-      "popularity": 35,
+      "popularity": 36,
       "preview_url": "https://p.scdn.co/mp3-preview/693bd87de5164f8c22a57913df9b314f151f464f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 5,
       "type": "track",
