@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 339856
+        "total": 339977
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18763
+        "total": 18769
       },
       "genres": [
         "mexican hip hop",
@@ -82,7 +82,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4099753
+        "total": 4102244
       },
       "genres": [
         "mexican hip hop",
@@ -118,7 +118,7 @@
       },
       "followers": {
         "href": null,
-        "total": 92181
+        "total": 92243
       },
       "genres": [
         "trap mexicano"
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 933333
+        "total": 934088
       },
       "genres": [
         "latin hip hop",
@@ -215,7 +215,7 @@
         }
       ],
       "name": "Remik Gonzalez",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     },
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7224121
+        "total": 7237251
       },
       "genres": [
         "argentine hip hop",
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 181569
+        "total": 181658
       },
       "genres": [
         "mexican hip hop"
@@ -297,10 +297,11 @@
       },
       "followers": {
         "href": null,
-        "total": 180795
+        "total": 180982
       },
       "genres": [
         "mexican hip hop",
+        "perreo",
         "rap underground mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
@@ -333,7 +334,7 @@
       },
       "followers": {
         "href": null,
-        "total": 542845
+        "total": 543024
       },
       "genres": [
         "alternative r&b",
@@ -370,7 +371,7 @@
       },
       "followers": {
         "href": null,
-        "total": 86843
+        "total": 86863
       },
       "genres": [
         "mexican hip hop",
