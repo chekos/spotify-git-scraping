@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 339977
+        "total": 340098
       },
       "genres": [
         "latin hip hop",
@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18769
+        "total": 18770
       },
       "genres": [
         "mexican hip hop",
@@ -107,7 +107,7 @@
         }
       ],
       "name": "Yoga Fire",
-      "popularity": 52,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1999183
+        "total": 1999662
       },
       "genres": [
         "latin alternative",
@@ -374,7 +374,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13670
+        "total": 13673
       },
       "genres": [
         "mexican hip hop"
@@ -409,7 +409,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21564491
+        "total": 21574437
       },
       "genres": [
         "conscious hip hop",
@@ -595,7 +595,7 @@
       },
       "followers": {
         "href": null,
-        "total": 116808
+        "total": 116882
       },
       "genres": [
         "mexican hip hop",
@@ -848,7 +848,7 @@
       },
       "followers": {
         "href": null,
-        "total": 154182
+        "total": 154303
       },
       "genres": [
         "trap mexicano"
@@ -883,7 +883,7 @@
       },
       "followers": {
         "href": null,
-        "total": 50436
+        "total": 50475
       },
       "genres": [
         "indie campechano",
@@ -955,7 +955,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23000
+        "total": 23015
       },
       "genres": [
         "mexican hip hop"
@@ -1026,7 +1026,7 @@
       },
       "followers": {
         "href": null,
-        "total": 108765
+        "total": 108842
       },
       "genres": [
         "mexican hip hop",
@@ -1134,7 +1134,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1009480
+        "total": 1010225
       },
       "genres": [
         "hip hop",
@@ -1277,10 +1277,11 @@
       },
       "followers": {
         "href": null,
-        "total": 10710
+        "total": 10725
       },
       "genres": [
-        "latin alternative"
+        "latin alternative",
+        "mexican indie"
       ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
@@ -1607,7 +1608,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7640
+        "total": 7645
       },
       "genres": [
         "mexican hip hop",
@@ -1643,7 +1644,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12820
+        "total": 12830
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
@@ -1676,7 +1677,7 @@
       },
       "followers": {
         "href": null,
-        "total": 351264
+        "total": 351442
       },
       "genres": [
         "mexican hip hop",
@@ -1712,7 +1713,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1163364
+        "total": 1163734
       },
       "genres": [
         "latin alternative",
@@ -1755,7 +1756,7 @@
       },
       "followers": {
         "href": null,
-        "total": 502263
+        "total": 502564
       },
       "genres": [
         "trap mexicano"

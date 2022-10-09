@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 339977
+        "total": 340098
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18769
+        "total": 18770
       },
       "genres": [
         "mexican hip hop",
@@ -72,7 +72,7 @@
         }
       ],
       "name": "Yoga Fire",
-      "popularity": 52,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
