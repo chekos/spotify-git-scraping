@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 340098
+        "total": 340236
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18770
+        "total": 18778
       },
       "genres": [
         "mexican hip hop",
@@ -118,7 +118,7 @@
       },
       "followers": {
         "href": null,
-        "total": 92301
+        "total": 92365
       },
       "genres": [
         "trap mexicano"
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24793
+        "total": 24800
       },
       "genres": [
         "mexican hip hop",
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 181741
+        "total": 181833
       },
       "genres": [
         "mexican hip hop"
@@ -301,7 +301,6 @@
       },
       "genres": [
         "mexican hip hop",
-        "perreo",
         "rap underground mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
@@ -371,7 +370,7 @@
       },
       "followers": {
         "href": null,
-        "total": 86883
+        "total": 86904
       },
       "genres": [
         "mexican hip hop",
