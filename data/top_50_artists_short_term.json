@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 340236
+        "total": 340385
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18778
+        "total": 18780
       },
       "genres": [
         "mexican hip hop",
@@ -72,7 +72,7 @@
         }
       ],
       "name": "Yoga Fire",
-      "popularity": 53,
+      "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
@@ -82,7 +82,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4107654
+        "total": 4110246
       },
       "genres": [
         "mexican hip hop",
@@ -114,46 +114,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-      },
-      "followers": {
-        "href": null,
-        "total": 92365
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-      "id": "7I85Ma5xjAo6nlvqOCIiWx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb490e45484c32f08ab79f5abe",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174490e45484c32f08ab79f5abe",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178490e45484c32f08ab79f5abe",
-          "width": 160
-        }
-      ],
-      "name": "Fntxy",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
       },
       "followers": {
         "href": null,
-        "total": 24800
+        "total": 24804
       },
       "genres": [
         "mexican hip hop",
@@ -185,11 +150,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+      },
+      "followers": {
+        "href": null,
+        "total": 92429
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+      "id": "7I85Ma5xjAo6nlvqOCIiWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb490e45484c32f08ab79f5abe",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174490e45484c32f08ab79f5abe",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178490e45484c32f08ab79f5abe",
+          "width": 160
+        }
+      ],
+      "name": "Fntxy",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
         "href": null,
-        "total": 935753
+        "total": 936517
       },
       "genres": [
         "latin hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7265231
+        "total": 7277605
       },
       "genres": [
         "argentine hip hop",
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 181833
+        "total": 181928
       },
       "genres": [
         "mexican hip hop"
@@ -297,7 +297,7 @@
       },
       "followers": {
         "href": null,
-        "total": 181381
+        "total": 181577
       },
       "genres": [
         "mexican hip hop",
@@ -333,7 +333,7 @@
       },
       "followers": {
         "href": null,
-        "total": 543332
+        "total": 543498
       },
       "genres": [
         "alternative r&b",
@@ -370,7 +370,7 @@
       },
       "followers": {
         "href": null,
-        "total": 86904
+        "total": 86931
       },
       "genres": [
         "mexican hip hop",
