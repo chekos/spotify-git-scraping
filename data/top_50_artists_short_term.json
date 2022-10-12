@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 340385
+        "total": 340539
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18780
+        "total": 18784
       },
       "genres": [
         "mexican hip hop",
@@ -72,7 +72,7 @@
         }
       ],
       "name": "Yoga Fire",
-      "popularity": 52,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
@@ -82,7 +82,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4110246
+        "total": 4112801
       },
       "genres": [
         "mexican hip hop",
@@ -118,7 +118,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24804
+        "total": 24808
       },
       "genres": [
         "mexican hip hop",
@@ -154,7 +154,7 @@
       },
       "followers": {
         "href": null,
-        "total": 92429
+        "total": 92517
       },
       "genres": [
         "trap mexicano"
@@ -164,17 +164,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb490e45484c32f08ab79f5abe",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4b1dc8b01a7a0a1feef8ca09",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174490e45484c32f08ab79f5abe",
+          "url": "https://i.scdn.co/image/ab676161000051744b1dc8b01a7a0a1feef8ca09",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178490e45484c32f08ab79f5abe",
+          "url": "https://i.scdn.co/image/ab6761610000f1784b1dc8b01a7a0a1feef8ca09",
           "width": 160
         }
       ],
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 936517
+        "total": 937330
       },
       "genres": [
         "latin hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7277605
+        "total": 7289564
       },
       "genres": [
         "argentine hip hop",
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 181928
+        "total": 182017
       },
       "genres": [
         "mexican hip hop"
@@ -297,7 +297,7 @@
       },
       "followers": {
         "href": null,
-        "total": 181577
+        "total": 181794
       },
       "genres": [
         "mexican hip hop",
@@ -333,7 +333,7 @@
       },
       "followers": {
         "href": null,
-        "total": 543498
+        "total": 543654
       },
       "genres": [
         "alternative r&b",
@@ -370,7 +370,7 @@
       },
       "followers": {
         "href": null,
-        "total": 86931
+        "total": 86966
       },
       "genres": [
         "mexican hip hop",
