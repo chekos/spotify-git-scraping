@@ -1607,41 +1607,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2ai0soTBUbXpAdBZBEKkmh"
-      },
-      "followers": {
-        "href": null,
-        "total": 15336
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2ai0soTBUbXpAdBZBEKkmh",
-      "id": "2ai0soTBUbXpAdBZBEKkmh",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb787a3c2b32ea4cc98efe9af",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b787a3c2b32ea4cc98efe9af",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b787a3c2b32ea4cc98efe9af",
-          "width": 160
-        }
-      ],
-      "name": "Pistola Bang",
-      "popularity": 27,
-      "type": "artist",
-      "uri": "spotify:artist:2ai0soTBUbXpAdBZBEKkmh"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
       },
       "followers": {
@@ -1712,6 +1677,41 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ai0soTBUbXpAdBZBEKkmh"
+      },
+      "followers": {
+        "href": null,
+        "total": 15336
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2ai0soTBUbXpAdBZBEKkmh",
+      "id": "2ai0soTBUbXpAdBZBEKkmh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb787a3c2b32ea4cc98efe9af",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b787a3c2b32ea4cc98efe9af",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b787a3c2b32ea4cc98efe9af",
+          "width": 160
+        }
+      ],
+      "name": "Pistola Bang",
+      "popularity": 27,
+      "type": "artist",
+      "uri": "spotify:artist:2ai0soTBUbXpAdBZBEKkmh"
     },
     {
       "external_urls": {
