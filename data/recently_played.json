@@ -2715,7 +2715,7 @@
         "id": "3Wk8LYH507gOwd2ebMNjq9",
         "is_local": false,
         "name": "Chimenea",
-        "popularity": 43,
+        "popularity": 44,
         "preview_url": "https://p.scdn.co/mp3-preview/ebdd35f81afe6864c6b7208efefd0c3c1638e2cc?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 6,
         "type": "track",
@@ -4990,7 +4990,7 @@
         "id": "3ZAvXkfPFlSKpnZ4Q3RRVV",
         "is_local": false,
         "name": "Me Gusta",
-        "popularity": 31,
+        "popularity": 32,
         "preview_url": "https://p.scdn.co/mp3-preview/eb7475f9859befa502dccf266aa503b964e1d6a9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 8,
         "type": "track",
@@ -7275,7 +7275,7 @@
         "id": "77zBQ9qB6F8LKozVDMZXPp",
         "is_local": false,
         "name": "Pal Negocio",
-        "popularity": 39,
+        "popularity": 40,
         "preview_url": "https://p.scdn.co/mp3-preview/79e0a0f23a560593bf8814a07e78e23fe0ef7a72?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 14,
         "type": "track",
@@ -22967,5 +22967,5 @@
     "before": "1665520996211"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1665726117000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1665729219000&limit=50"
 }
