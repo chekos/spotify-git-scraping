@@ -1368,7 +1368,7 @@
         "id": "5JnjjGpTiKk1CtpbRwffvq",
         "is_local": false,
         "name": "Los Mismos",
-        "popularity": 47,
+        "popularity": 50,
         "preview_url": "https://p.scdn.co/mp3-preview/b60a078ee044100b923e6906a21afea825bb55b9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 6,
         "type": "track",
@@ -14649,7 +14649,7 @@
         "id": "7DxHxVvZkeW2UUrXYGmn3U",
         "is_local": false,
         "name": "Waze",
-        "popularity": 46,
+        "popularity": 47,
         "preview_url": "https://p.scdn.co/mp3-preview/90be934339f18eddea096744d2bcb21b6f02fd95?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 4,
         "type": "track",
@@ -17872,7 +17872,7 @@
         "id": "7DxHxVvZkeW2UUrXYGmn3U",
         "is_local": false,
         "name": "Waze",
-        "popularity": 46,
+        "popularity": 47,
         "preview_url": "https://p.scdn.co/mp3-preview/90be934339f18eddea096744d2bcb21b6f02fd95?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 4,
         "type": "track",
@@ -22967,5 +22967,5 @@
     "before": "1665520996211"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1665818344000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1665821951000&limit=50"
 }
