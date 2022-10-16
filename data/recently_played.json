@@ -2745,7 +2745,7 @@
         "id": "0TCpHQU3AxonyDdo6UD2qC",
         "is_local": false,
         "name": "Ranfla, Hyna, Dinero",
-        "popularity": 48,
+        "popularity": 47,
         "preview_url": "https://p.scdn.co/mp3-preview/1ec41673d47445e79ced59f66a6e5c4824c296f6?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 2,
         "type": "track",
@@ -6886,7 +6886,7 @@
         "id": "5JnjjGpTiKk1CtpbRwffvq",
         "is_local": false,
         "name": "Los Mismos",
-        "popularity": 50,
+        "popularity": 51,
         "preview_url": "https://p.scdn.co/mp3-preview/b60a078ee044100b923e6906a21afea825bb55b9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 6,
         "type": "track",
@@ -14200,7 +14200,7 @@
         "id": "6UYiF4Gtk7HQe37BhP8R2A",
         "is_local": false,
         "name": "La Galliza",
-        "popularity": 51,
+        "popularity": 52,
         "preview_url": "https://p.scdn.co/mp3-preview/e17bf64503574687e27e9393375ed6adf0f9896f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 7,
         "type": "track",
@@ -18331,7 +18331,7 @@
         "id": "0TCpHQU3AxonyDdo6UD2qC",
         "is_local": false,
         "name": "Ranfla, Hyna, Dinero",
-        "popularity": 48,
+        "popularity": 47,
         "preview_url": "https://p.scdn.co/mp3-preview/1ec41673d47445e79ced59f66a6e5c4824c296f6?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 2,
         "type": "track",
@@ -21105,7 +21105,7 @@
         "id": "0TCpHQU3AxonyDdo6UD2qC",
         "is_local": false,
         "name": "Ranfla, Hyna, Dinero",
-        "popularity": 48,
+        "popularity": 47,
         "preview_url": "https://p.scdn.co/mp3-preview/1ec41673d47445e79ced59f66a6e5c4824c296f6?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 2,
         "type": "track",
@@ -22957,5 +22957,5 @@
     "before": "1665538122762"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1665901187000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1665904734000&limit=50"
 }
