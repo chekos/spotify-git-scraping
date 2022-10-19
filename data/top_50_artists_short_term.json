@@ -185,6 +185,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+      },
+      "followers": {
+        "href": null,
+        "total": 1678913
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+      "id": "66RfYVdftqnuHRicyClgL0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfa68f9b68ee4427226d071bb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174fa68f9b68ee4427226d071bb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178fa68f9b68ee4427226d071bb",
+          "width": 160
+        }
+      ],
+      "name": "Dharius",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
@@ -218,6 +254,44 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+      },
+      "followers": {
+        "href": null,
+        "total": 2142578
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "rap conciencia",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+      "id": "1QhaqxeqF9sipS2gwbEKpu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb334c841c9a00210607162078",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174334c841c9a00210607162078",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178334c841c9a00210607162078",
+          "width": 160
+        }
+      ],
+      "name": "C-Kan",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
     },
     {
       "external_urls": {
@@ -326,9 +400,46 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+      },
+      "followers": {
+        "href": null,
+        "total": 2116709
+      },
+      "genres": [
+        "mexican hip hop",
+        "narco rap",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3TGeuw7OmACouH5JAKkX7I",
+      "id": "3TGeuw7OmACouH5JAKkX7I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2c034d8fb2306314c61cd848",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742c034d8fb2306314c61cd848",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782c034d8fb2306314c61cd848",
+          "width": 160
+        }
+      ],
+      "name": "MC Davo",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:3TGeuw7OmACouH5JAKkX7I"
     }
   ],
-  "total": 9,
+  "total": 12,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
