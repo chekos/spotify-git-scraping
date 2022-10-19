@@ -118,7 +118,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24823
+        "total": 24826
       },
       "genres": [
         "mexican hip hop",
@@ -154,7 +154,7 @@
       },
       "followers": {
         "href": null,
-        "total": 92891
+        "total": 92968
       },
       "genres": [
         "trap mexicano"
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 941947
+        "total": 942823
       },
       "genres": [
         "latin hip hop",
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 183029
+        "total": 183255
       },
       "genres": [
         "mexican hip hop",
@@ -288,7 +288,7 @@
         }
       ],
       "name": "Faruz Feet",
-      "popularity": 57,
+      "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
