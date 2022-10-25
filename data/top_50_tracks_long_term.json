@@ -2342,6 +2342,243 @@
     },
     {
       "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+            "id": "4RtYPfT9hi1qBolEuVArOG",
+            "name": "La Plebada",
+            "type": "artist",
+            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
+        },
+        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
+        "id": "6GPiGDV1SQaZJPuUSXmeKF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
+            "width": 64
+          }
+        ],
+        "name": "De Lo M\u00e1s Solicitado",
+        "release_date": "2019-05-09",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+          "id": "4RtYPfT9hi1qBolEuVArOG",
+          "name": "La Plebada",
+          "type": "artist",
+          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 171528,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZ5AB1940948"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3JSqOJlOQA6ChDaBw4v4oW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3JSqOJlOQA6ChDaBw4v4oW",
+      "id": "3JSqOJlOQA6ChDaBw4v4oW",
+      "is_local": false,
+      "name": "El R8",
+      "popularity": 34,
+      "preview_url": "https://p.scdn.co/mp3-preview/b9f845a779fa9dfd57af7535bbcd6888c8eda851?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3JSqOJlOQA6ChDaBw4v4oW"
+    },
+    {
+      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -2616,243 +2853,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:6O9jM3p5ZtHx9W2PRNRrWh"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-            },
-            "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-            "id": "4RtYPfT9hi1qBolEuVArOG",
-            "name": "La Plebada",
-            "type": "artist",
-            "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6GPiGDV1SQaZJPuUSXmeKF"
-        },
-        "href": "https://api.spotify.com/v1/albums/6GPiGDV1SQaZJPuUSXmeKF",
-        "id": "6GPiGDV1SQaZJPuUSXmeKF",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739771e87561c0edbf4948388b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029771e87561c0edbf4948388b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519771e87561c0edbf4948388b",
-            "width": 64
-          }
-        ],
-        "name": "De Lo M\u00e1s Solicitado",
-        "release_date": "2019-05-09",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:6GPiGDV1SQaZJPuUSXmeKF"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-          },
-          "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-          "id": "4RtYPfT9hi1qBolEuVArOG",
-          "name": "La Plebada",
-          "type": "artist",
-          "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 171528,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZ5AB1940948"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3JSqOJlOQA6ChDaBw4v4oW"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3JSqOJlOQA6ChDaBw4v4oW",
-      "id": "3JSqOJlOQA6ChDaBw4v4oW",
-      "is_local": false,
-      "name": "El R8",
-      "popularity": 34,
-      "preview_url": "https://p.scdn.co/mp3-preview/b9f845a779fa9dfd57af7535bbcd6888c8eda851?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 11,
-      "type": "track",
-      "uri": "spotify:track:3JSqOJlOQA6ChDaBw4v4oW"
     },
     {
       "album": {
@@ -4722,113 +4722,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-            },
-            "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
-            "id": "4o0NtnL2m0lzZmEdRas1qv",
-            "name": "Ovi",
-            "type": "artist",
-            "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4F0rGHT1EaBfRZg4u8NMxj"
-        },
-        "href": "https://api.spotify.com/v1/albums/4F0rGHT1EaBfRZg4u8NMxj",
-        "id": "4F0rGHT1EaBfRZg4u8NMxj",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273deed3507d6302e03972c218c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02deed3507d6302e03972c218c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851deed3507d6302e03972c218c",
-            "width": 64
-          }
-        ],
-        "name": "Vengo De Nada",
-        "release_date": "2020-08-11",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:4F0rGHT1EaBfRZg4u8NMxj"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-          },
-          "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
-          "id": "4o0NtnL2m0lzZmEdRas1qv",
-          "name": "Ovi",
-          "type": "artist",
-          "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-          },
-          "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
-          "id": "0elWFr7TW8piilVRYJUe4P",
-          "name": "Natanael Cano",
-          "type": "artist",
-          "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-          },
-          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-          "id": "4QFG9KrGWEbr6hNA58CAqE",
-          "name": "Aleman",
-          "type": "artist",
-          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-          },
-          "href": "https://api.spotify.com/v1/artists/2TQ4CGgxxCWHqa9yYIGDoU",
-          "id": "2TQ4CGgxxCWHqa9yYIGDoU",
-          "name": "Big Soto",
-          "type": "artist",
-          "uri": "spotify:artist:2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 221802,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "US3DF2068504"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/160ZND0RP8hdUgNhs27lC3"
-      },
-      "href": "https://api.spotify.com/v1/tracks/160ZND0RP8hdUgNhs27lC3",
-      "id": "160ZND0RP8hdUgNhs27lC3",
-      "is_local": false,
-      "name": "Vengo De Nada",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:160ZND0RP8hdUgNhs27lC3"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -5063,6 +4956,113 @@
       "track_number": 4,
       "type": "track",
       "uri": "spotify:track:01CASOFogcu3yZaARvxtAc"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+            },
+            "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
+            "id": "4o0NtnL2m0lzZmEdRas1qv",
+            "name": "Ovi",
+            "type": "artist",
+            "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4F0rGHT1EaBfRZg4u8NMxj"
+        },
+        "href": "https://api.spotify.com/v1/albums/4F0rGHT1EaBfRZg4u8NMxj",
+        "id": "4F0rGHT1EaBfRZg4u8NMxj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273deed3507d6302e03972c218c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02deed3507d6302e03972c218c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851deed3507d6302e03972c218c",
+            "width": 64
+          }
+        ],
+        "name": "Vengo De Nada",
+        "release_date": "2020-08-11",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4F0rGHT1EaBfRZg4u8NMxj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          },
+          "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
+          "id": "4o0NtnL2m0lzZmEdRas1qv",
+          "name": "Ovi",
+          "type": "artist",
+          "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          },
+          "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
+          "id": "0elWFr7TW8piilVRYJUe4P",
+          "name": "Natanael Cano",
+          "type": "artist",
+          "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+          "id": "4QFG9KrGWEbr6hNA58CAqE",
+          "name": "Aleman",
+          "type": "artist",
+          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+          },
+          "href": "https://api.spotify.com/v1/artists/2TQ4CGgxxCWHqa9yYIGDoU",
+          "id": "2TQ4CGgxxCWHqa9yYIGDoU",
+          "name": "Big Soto",
+          "type": "artist",
+          "uri": "spotify:artist:2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 221802,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "US3DF2068504"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/160ZND0RP8hdUgNhs27lC3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/160ZND0RP8hdUgNhs27lC3",
+      "id": "160ZND0RP8hdUgNhs27lC3",
+      "is_local": false,
+      "name": "Vengo De Nada",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:160ZND0RP8hdUgNhs27lC3"
     },
     {
       "album": {
@@ -6592,253 +6592,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5huUeSyl92U55yMr8WKvYv"
-        },
-        "href": "https://api.spotify.com/v1/albums/5huUeSyl92U55yMr8WKvYv",
-        "id": "5huUeSyl92U55yMr8WKvYv",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734870f1774d6ccdb458f8c47d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024870f1774d6ccdb458f8c47d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514870f1774d6ccdb458f8c47d",
-            "width": 64
-          }
-        ],
-        "name": "Perro Sin Cadena",
-        "release_date": "2019-12-13",
-        "release_date_precision": "day",
-        "total_tracks": 14,
-        "type": "album",
-        "uri": "spotify:album:5huUeSyl92U55yMr8WKvYv"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-          "name": "Remik Gonzalez",
-          "type": "artist",
-          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
-          },
-          "href": "https://api.spotify.com/v1/artists/4VECwDIJ0DYczPqCyP85kQ",
-          "id": "4VECwDIJ0DYczPqCyP85kQ",
-          "name": "Jay Romero",
-          "type": "artist",
-          "uri": "spotify:artist:4VECwDIJ0DYczPqCyP85kQ"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 167500,
-      "explicit": true,
-      "external_ids": {
-        "isrc": "QZHZ51954098"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/14caNW7a2eNEjUChgcDG01"
-      },
-      "href": "https://api.spotify.com/v1/tracks/14caNW7a2eNEjUChgcDG01",
-      "id": "14caNW7a2eNEjUChgcDG01",
-      "is_local": false,
-      "name": "Pinche Vago",
-      "popularity": 18,
-      "preview_url": "https://p.scdn.co/mp3-preview/b67b48bb7e0964351c034c64b16e735fbe9defe8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 12,
-      "type": "track",
-      "uri": "spotify:track:14caNW7a2eNEjUChgcDG01"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
             },
             "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
@@ -7079,6 +6832,253 @@
       "track_number": 5,
       "type": "track",
       "uri": "spotify:track:4hPl8CtzHoh9LMmKTFyiPl"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
+            "type": "artist",
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5huUeSyl92U55yMr8WKvYv"
+        },
+        "href": "https://api.spotify.com/v1/albums/5huUeSyl92U55yMr8WKvYv",
+        "id": "5huUeSyl92U55yMr8WKvYv",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734870f1774d6ccdb458f8c47d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024870f1774d6ccdb458f8c47d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514870f1774d6ccdb458f8c47d",
+            "width": 64
+          }
+        ],
+        "name": "Perro Sin Cadena",
+        "release_date": "2019-12-13",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:5huUeSyl92U55yMr8WKvYv"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+          "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+          "name": "Remik Gonzalez",
+          "type": "artist",
+          "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/4VECwDIJ0DYczPqCyP85kQ",
+          "id": "4VECwDIJ0DYczPqCyP85kQ",
+          "name": "Jay Romero",
+          "type": "artist",
+          "uri": "spotify:artist:4VECwDIJ0DYczPqCyP85kQ"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 167500,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZHZ51954098"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/14caNW7a2eNEjUChgcDG01"
+      },
+      "href": "https://api.spotify.com/v1/tracks/14caNW7a2eNEjUChgcDG01",
+      "id": "14caNW7a2eNEjUChgcDG01",
+      "is_local": false,
+      "name": "Pinche Vago",
+      "popularity": 18,
+      "preview_url": "https://p.scdn.co/mp3-preview/b67b48bb7e0964351c034c64b16e735fbe9defe8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:14caNW7a2eNEjUChgcDG01"
     },
     {
       "album": {
