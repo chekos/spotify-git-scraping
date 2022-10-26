@@ -1398,7 +1398,7 @@
         "id": "6XOyXByQuQDrNlEG5KYSpE",
         "is_local": false,
         "name": "D\u00e9jame Contarte",
-        "popularity": 8,
+        "popularity": 9,
         "preview_url": "https://p.scdn.co/mp3-preview/60a6ef337fff74e624c09a24a22ceb02940e3864?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 8,
         "type": "track",
@@ -23197,5 +23197,5 @@
     "before": "1666641584942"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1666768698000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1666772327000&limit=50"
 }
