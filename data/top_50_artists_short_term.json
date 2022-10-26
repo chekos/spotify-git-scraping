@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 342444
+        "total": 342602
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18846
+        "total": 18850
       },
       "genres": [
         "mexican hip hop",
@@ -82,7 +82,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24851
+        "total": 24857
       },
       "genres": [
         "mexican hip hop",
@@ -118,7 +118,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4148524
+        "total": 4151182
       },
       "genres": [
         "mexican hip hop",
@@ -154,7 +154,7 @@
       },
       "followers": {
         "href": null,
-        "total": 93327
+        "total": 93391
       },
       "genres": [
         "trap mexicano"
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1689145
+        "total": 1690766
       },
       "genres": [
         "latin hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 947866
+        "total": 948713
       },
       "genres": [
         "latin hip hop",
@@ -261,7 +261,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2152051
+        "total": 2153543
       },
       "genres": [
         "latin hip hop",
@@ -299,7 +299,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7449300
+        "total": 7459435
       },
       "genres": [
         "argentine hip hop",
@@ -336,7 +336,7 @@
       },
       "followers": {
         "href": null,
-        "total": 184612
+        "total": 184807
       },
       "genres": [
         "mexican hip hop",
@@ -372,7 +372,7 @@
       },
       "followers": {
         "href": null,
-        "total": 183164
+        "total": 183257
       },
       "genres": [
         "mexican hip hop"
@@ -403,11 +403,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+      },
+      "followers": {
+        "href": null,
+        "total": 23327
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba7970433fec7d8cd793a443d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a7970433fec7d8cd793a443d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a7970433fec7d8cd793a443d",
+          "width": 160
+        }
+      ],
+      "name": "Denilson",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
       },
       "followers": {
         "href": null,
-        "total": 2123795
+        "total": 2124914
       },
       "genres": [
         "mexican hip hop",
@@ -439,7 +474,7 @@
       "uri": "spotify:artist:3TGeuw7OmACouH5JAKkX7I"
     }
   ],
-  "total": 12,
+  "total": 13,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
