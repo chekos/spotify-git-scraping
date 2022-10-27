@@ -13003,7 +13003,7 @@
         "id": "3RfIrOvpmccRC4Z98DlLJm",
         "is_local": false,
         "name": "El Pasado Est\u00e1 Olvidado",
-        "popularity": 59,
+        "popularity": 58,
         "preview_url": "https://p.scdn.co/mp3-preview/c0778354e5f303a858ce27d8eb47c6056871d0bb?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
@@ -23257,5 +23257,5 @@
     "before": "1666647853444"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1666851540000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1666855068000&limit=50"
 }
