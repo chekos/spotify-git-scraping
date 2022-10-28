@@ -77,40 +77,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
       },
       "followers": {
         "href": null,
-        "total": 18859
+        "total": 93458
       },
       "genres": [
-        "mexican hip hop",
-        "rap underground mexicano",
         "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-      "id": "3AgxRYe2kXEfsZyB07hqJF",
+      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+      "id": "7I85Ma5xjAo6nlvqOCIiWx",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4b1dc8b01a7a0a1feef8ca09",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
+          "url": "https://i.scdn.co/image/ab676161000051744b1dc8b01a7a0a1feef8ca09",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
+          "url": "https://i.scdn.co/image/ab6761610000f1784b1dc8b01a7a0a1feef8ca09",
           "width": 160
         }
       ],
-      "name": "Yoga Fire",
-      "popularity": 53,
+      "name": "Fntxy",
+      "popularity": 58,
       "type": "artist",
-      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
     },
     {
       "external_urls": {
@@ -150,38 +148,40 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
         "href": null,
-        "total": 93458
+        "total": 18859
       },
       "genres": [
+        "mexican hip hop",
+        "rap underground mexicano",
         "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-      "id": "7I85Ma5xjAo6nlvqOCIiWx",
+      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+      "id": "3AgxRYe2kXEfsZyB07hqJF",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4b1dc8b01a7a0a1feef8ca09",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744b1dc8b01a7a0a1feef8ca09",
+          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784b1dc8b01a7a0a1feef8ca09",
+          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
           "width": 160
         }
       ],
-      "name": "Fntxy",
-      "popularity": 58,
+      "name": "Yoga Fire",
+      "popularity": 53,
       "type": "artist",
-      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
     {
       "external_urls": {
@@ -218,42 +218,6 @@
       "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-      },
-      "followers": {
-        "href": null,
-        "total": 949447
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb56c6d597493edcdf49efe53b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517456c6d597493edcdf49efe53b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17856c6d597493edcdf49efe53b",
-          "width": 160
-        }
-      ],
-      "name": "Remik Gonzalez",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     },
     {
       "external_urls": {
@@ -474,7 +438,7 @@
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     }
   ],
-  "total": 13,
+  "total": 12,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
