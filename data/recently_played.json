@@ -8752,7 +8752,7 @@
         "id": "3IcN1PrmKfRbrsLW15PHpx",
         "is_local": false,
         "name": "S.M.R.",
-        "popularity": 42,
+        "popularity": 41,
         "preview_url": "https://p.scdn.co/mp3-preview/c01b5adbe2e3fb916c34f97a750f1f9a78056b93?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 6,
         "type": "track",
@@ -23167,5 +23167,5 @@
     "before": "1666715429715"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1667027862000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1667031528000&limit=50"
 }
