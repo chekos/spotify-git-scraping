@@ -179,7 +179,7 @@
         }
       ],
       "name": "Faruz Feet",
-      "popularity": 57,
+      "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
@@ -652,7 +652,7 @@
         }
       ],
       "name": "Leyruk",
-      "popularity": 35,
+      "popularity": 34,
       "type": "artist",
       "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
@@ -1220,7 +1220,8 @@
         "total": 11054
       },
       "genres": [
-        "latin alternative"
+        "latin alternative",
+        "mexican indie"
       ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
@@ -1383,7 +1384,7 @@
         }
       ],
       "name": "Denilson",
-      "popularity": 46,
+      "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
@@ -1822,7 +1823,7 @@
         }
       ],
       "name": "Lil Supa",
-      "popularity": 52,
+      "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:0qHbO3z6lgLE6ZYCkQBo1K"
     }
