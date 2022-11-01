@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 343311
+        "total": 343445
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24877
+        "total": 24880
       },
       "genres": [
         "mexican hip hop",
@@ -81,7 +81,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18869
+        "total": 18875
       },
       "genres": [
         "mexican hip hop",
@@ -111,6 +111,41 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+      },
+      "followers": {
+        "href": null,
+        "total": 93736
+      },
+      "genres": [
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+      "id": "7I85Ma5xjAo6nlvqOCIiWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4b1dc8b01a7a0a1feef8ca09",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744b1dc8b01a7a0a1feef8ca09",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784b1dc8b01a7a0a1feef8ca09",
+          "width": 160
+        }
+      ],
+      "name": "Fntxy",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
     },
     {
       "external_urls": {
@@ -150,46 +185,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-      },
-      "followers": {
-        "href": null,
-        "total": 93678
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-      "id": "7I85Ma5xjAo6nlvqOCIiWx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4b1dc8b01a7a0a1feef8ca09",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744b1dc8b01a7a0a1feef8ca09",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784b1dc8b01a7a0a1feef8ca09",
-          "width": 160
-        }
-      ],
-      "name": "Fntxy",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
         "href": null,
-        "total": 1698809
+        "total": 1700440
       },
       "genres": [
         "latin hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2130612
+        "total": 2131679
       },
       "genres": [
         "mexican hip hop",
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2161131
+        "total": 2162581
       },
       "genres": [
         "latin hip hop",
@@ -300,7 +300,7 @@
       },
       "followers": {
         "href": null,
-        "total": 183681
+        "total": 183771
       },
       "genres": [
         "mexican hip hop"
@@ -335,7 +335,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7512340
+        "total": 7521956
       },
       "genres": [
         "argentine hip hop",
@@ -372,7 +372,7 @@
       },
       "followers": {
         "href": null,
-        "total": 185845
+        "total": 186046
       },
       "genres": [
         "mexican hip hop",
@@ -408,7 +408,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23415
+        "total": 23427
       },
       "genres": [
         "mexican hip hop"
