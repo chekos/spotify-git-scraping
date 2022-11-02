@@ -1379,6 +1379,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu"
+      },
+      "followers": {
+        "href": null,
+        "total": 7162
+      },
+      "genres": [
+        "milwaukee indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4AHhe1KXVCCoOdHQNjH5Zu",
+      "id": "4AHhe1KXVCCoOdHQNjH5Zu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb746494eb9829c626711f115b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174746494eb9829c626711f115b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178746494eb9829c626711f115b",
+          "width": 160
+        }
+      ],
+      "name": "REYNA",
+      "popularity": 27,
+      "type": "artist",
+      "uri": "spotify:artist:4AHhe1KXVCCoOdHQNjH5Zu"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
       },
       "followers": {
@@ -1778,43 +1813,6 @@
       "popularity": 33,
       "type": "artist",
       "uri": "spotify:artist:0XVOL55Wa1lbWs1tAsv5nf"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 794415
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "narco rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
-      "id": "31l8FA2bO5qxpqf8uhV5eZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
-          "width": 64
-        }
-      ],
-      "name": "Millonario & W. Corona",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     }
   ],
   "total": 50,
