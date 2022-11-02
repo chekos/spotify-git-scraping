@@ -5359,7 +5359,7 @@
         "id": "3qfPyQHjR0UShH7cBEfmTa",
         "is_local": false,
         "name": "100-0-100",
-        "popularity": 0,
+        "popularity": 8,
         "preview_url": "https://p.scdn.co/mp3-preview/59893d252e3e824520eaee31654b70924735e73b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
@@ -22767,5 +22767,5 @@
     "before": "1667231064036"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1667373478000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1667377145000&limit=50"
 }
