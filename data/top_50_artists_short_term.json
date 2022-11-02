@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 343445
+        "total": 343606
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24880
+        "total": 24886
       },
       "genres": [
         "mexican hip hop",
@@ -81,7 +81,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18875
+        "total": 18879
       },
       "genres": [
         "mexican hip hop",
@@ -118,7 +118,7 @@
       },
       "followers": {
         "href": null,
-        "total": 93736
+        "total": 93801
       },
       "genres": [
         "trap mexicano"
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4167204
+        "total": 4169700
       },
       "genres": [
         "mexican hip hop",
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1700440
+        "total": 1702084
       },
       "genres": [
         "latin hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2131679
+        "total": 2132701
       },
       "genres": [
         "mexican hip hop",
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2162581
+        "total": 2163880
       },
       "genres": [
         "latin hip hop",
@@ -300,7 +300,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7521956
+        "total": 7531855
       },
       "genres": [
         "argentine hip hop",
@@ -327,7 +327,7 @@
         }
       ],
       "name": "Bizarrap",
-      "popularity": 85,
+      "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
     }
