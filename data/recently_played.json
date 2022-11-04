@@ -2735,7 +2735,7 @@
         "id": "5RNxjTkOwABJK84hpwxq8x",
         "is_local": false,
         "name": "Fiyah to the Fascists",
-        "popularity": 19,
+        "popularity": 20,
         "preview_url": "https://p.scdn.co/mp3-preview/3e1fffefee7ecc2f6c081a00cec14389d081b504?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 2,
         "type": "track",
@@ -14964,7 +14964,7 @@
         "id": "3qfPyQHjR0UShH7cBEfmTa",
         "is_local": false,
         "name": "100-0-100",
-        "popularity": 18,
+        "popularity": 20,
         "preview_url": "https://p.scdn.co/mp3-preview/59893d252e3e824520eaee31654b70924735e73b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
@@ -17319,7 +17319,7 @@
         "id": "4hPl8CtzHoh9LMmKTFyiPl",
         "is_local": false,
         "name": "Lupe Esparza",
-        "popularity": 42,
+        "popularity": 41,
         "preview_url": "https://p.scdn.co/mp3-preview/db407ef286d383e4f8ff75b6dd6fde46f4c35497?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 5,
         "type": "track",
@@ -22803,5 +22803,5 @@
     "before": "1667237234330"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1667546271000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1667549955000&limit=50"
 }
