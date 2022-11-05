@@ -14125,6 +14125,16 @@
               "name": "Aleman",
               "type": "artist",
               "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+              },
+              "href": "https://api.spotify.com/v1/artists/2UZIAOlrnyZmyzt1nuXr9y",
+              "id": "2UZIAOlrnyZmyzt1nuXr9y",
+              "name": "Nicki Nicole",
+              "type": "artist",
+              "uri": "spotify:artist:2UZIAOlrnyZmyzt1nuXr9y"
             }
           ],
           "available_markets": [
@@ -19101,7 +19111,7 @@
         "id": "3DGMsCvYl6tcvTg1BJ5JAQ",
         "is_local": false,
         "name": "Buscando Nada",
-        "popularity": 41,
+        "popularity": 40,
         "preview_url": "https://p.scdn.co/mp3-preview/0cd3cfca558bd17c72ebdc0a3e0fc3f1ab3d22d5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 14,
         "type": "track",
@@ -22767,5 +22777,5 @@
     "before": "1667523251324"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1667629113000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1667632655000&limit=50"
 }
