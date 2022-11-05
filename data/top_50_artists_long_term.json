@@ -984,43 +984,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-      },
-      "followers": {
-        "href": null,
-        "total": 7552299
-      },
-      "genres": [
-        "argentine hip hop",
-        "pop venezolano",
-        "trap argentino"
-      ],
-      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
-      "id": "716NhGYqD1jl2wI1Qkgq36",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517412085fdb28f314e01ef73a19",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19",
-          "width": 160
-        }
-      ],
-      "name": "Bizarrap",
-      "popularity": 84,
-      "type": "artist",
-      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
@@ -1090,6 +1053,43 @@
       "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+      },
+      "followers": {
+        "href": null,
+        "total": 7552299
+      },
+      "genres": [
+        "argentine hip hop",
+        "pop venezolano",
+        "trap argentino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+      "id": "716NhGYqD1jl2wI1Qkgq36",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517412085fdb28f314e01ef73a19",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17812085fdb28f314e01ef73a19",
+          "width": 160
+        }
+      ],
+      "name": "Bizarrap",
+      "popularity": 84,
+      "type": "artist",
+      "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
     },
     {
       "external_urls": {
@@ -1831,7 +1831,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
+  "previous": null,
   "next": null
 }
