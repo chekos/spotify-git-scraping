@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 343873
+        "total": 344018
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24883
+        "total": 24884
       },
       "genres": [
         "mexican hip hop",
@@ -71,7 +71,7 @@
         }
       ],
       "name": "La Plebada",
-      "popularity": 38,
+      "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
     },
@@ -81,7 +81,7 @@
       },
       "followers": {
         "href": null,
-        "total": 93937
+        "total": 94015
       },
       "genres": [
         "trap mexicano"
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18888
+        "total": 18895
       },
       "genres": [
         "mexican hip hop",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4175010
+        "total": 4177835
       },
       "genres": [
         "mexican hip hop",
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1705201
+        "total": 1706866
       },
       "genres": [
         "latin hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7173
+        "total": 7176
       },
       "genres": [
         "milwaukee indie"
@@ -260,7 +260,7 @@
       },
       "followers": {
         "href": null,
-        "total": 212223
+        "total": 212378
       },
       "genres": [
         "mexican hip hop",
@@ -296,7 +296,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2134909
+        "total": 2136011
       },
       "genres": [
         "mexican hip hop",
@@ -333,7 +333,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2166710
+        "total": 2168127
       },
       "genres": [
         "latin hip hop",
@@ -361,7 +361,7 @@
         }
       ],
       "name": "C-Kan",
-      "popularity": 68,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
     }
@@ -369,7 +369,7 @@
   "total": 10,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
   "next": null
 }
