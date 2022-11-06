@@ -450,7 +450,7 @@
         "id": "0HyTU0WUgL7KXBON528BV0",
         "is_local": false,
         "name": "Star Trek",
-        "popularity": 36,
+        "popularity": 35,
         "preview_url": "https://p.scdn.co/mp3-preview/1dc8ba3fa7f0af1685b0f538f6f36e793969f366?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 6,
         "type": "track",
@@ -3603,7 +3603,7 @@
         "id": "0y5rqGII3CaaOzWozFIHbD",
         "is_local": false,
         "name": "Rider",
-        "popularity": 29,
+        "popularity": 28,
         "preview_url": "https://p.scdn.co/mp3-preview/8a2a75998a64205f77c62df74f502a9fd333791a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
@@ -7285,8 +7285,8 @@
         "id": "5NTc7bYupV1kk1XDlqgs4F",
         "is_local": false,
         "name": "No Digas Mi Nombre",
-        "popularity": 1,
-        "preview_url": "https://p.scdn.co/mp3-preview/bd84f04ec8facefd4b25e086a89ef7e87ae1f24a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/4dc69a15f7acc40fb8869493256016acbe65fb20?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 18,
         "type": "track",
         "uri": "spotify:track:5NTc7bYupV1kk1XDlqgs4F"
@@ -7732,8 +7732,8 @@
         "id": "40Nd5Z9eqTXrOjAzefU9K8",
         "is_local": false,
         "name": "Inframundo",
-        "popularity": 1,
-        "preview_url": "https://p.scdn.co/mp3-preview/2d84f5731b17fa154b8359ad474c801ac2b6cd90?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/5c5d026f584ce3027d9db9d31a9c725dfbb27c3b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 17,
         "type": "track",
         "uri": "spotify:track:40Nd5Z9eqTXrOjAzefU9K8"
@@ -8219,8 +8219,8 @@
         "id": "2BYNcoKMljJgRmreV5jrmv",
         "is_local": false,
         "name": "Jele",
-        "popularity": 2,
-        "preview_url": "https://p.scdn.co/mp3-preview/626509f9386e573bf8e5fa132a1444a26c6fb2fa?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/43e84812b80025a9f50d24e47ed0d4ec5f017820?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 16,
         "type": "track",
         "uri": "spotify:track:2BYNcoKMljJgRmreV5jrmv"
@@ -8676,8 +8676,8 @@
         "id": "75qifOPkcKBXt5lqGiQLCI",
         "is_local": false,
         "name": "Pantera",
-        "popularity": 5,
-        "preview_url": "https://p.scdn.co/mp3-preview/164bff3899b09bcb1138105ae4b5f9980129c5dc?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 40,
+        "preview_url": "https://p.scdn.co/mp3-preview/48464ec03b9d6ad3d329796082c5a9fc79e00877?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 15,
         "type": "track",
         "uri": "spotify:track:75qifOPkcKBXt5lqGiQLCI"
@@ -9133,8 +9133,8 @@
         "id": "1NuHrhcA3S9EygdCouQrvL",
         "is_local": false,
         "name": "Wake Up",
-        "popularity": 5,
-        "preview_url": "https://p.scdn.co/mp3-preview/816e9b22dc09c9c12c557e03d56f19f50030df82?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/6e64ad8026c29933a9ebed5c74e8576935b3f83c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 14,
         "type": "track",
         "uri": "spotify:track:1NuHrhcA3S9EygdCouQrvL"
@@ -9590,8 +9590,8 @@
         "id": "0fbm1PGnyhzbvRRoxO8Vd2",
         "is_local": false,
         "name": "Anya Mmiri",
-        "popularity": 5,
-        "preview_url": "https://p.scdn.co/mp3-preview/115ef02153a18bf508dbcdf247d96b25d2079a03?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/a722568923d0a9abe352e263b321257af262d830?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 13,
         "type": "track",
         "uri": "spotify:track:0fbm1PGnyhzbvRRoxO8Vd2"
@@ -10047,8 +10047,8 @@
         "id": "3y69a6CepJM4Z4tVTNiyv7",
         "is_local": false,
         "name": "Limoncello",
-        "popularity": 3,
-        "preview_url": "https://p.scdn.co/mp3-preview/c3d7cf41b967e016db34269e78ff41d57f7e1aa8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/8e9c072ab2606959243dc971ac063de020e49cdb?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 12,
         "type": "track",
         "uri": "spotify:track:3y69a6CepJM4Z4tVTNiyv7"
@@ -10524,8 +10524,8 @@
         "id": "6qBYHKN99lH5cZBHbfju1q",
         "is_local": false,
         "name": "Laayli' kuxa'ano'one",
-        "popularity": 2,
-        "preview_url": "https://p.scdn.co/mp3-preview/650da03aaa6e8279ec64b7580748a9100f22b347?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/f71022334a40f6eca320cbf952e33f15c38b4429?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:6qBYHKN99lH5cZBHbfju1q"
@@ -10981,8 +10981,8 @@
         "id": "0INhc870cm8AiSzujM3OlA",
         "is_local": false,
         "name": "They Want It, But No",
-        "popularity": 20,
-        "preview_url": "https://p.scdn.co/mp3-preview/1026387706ce5f9ae0f54980bb75c9b81c6f778b?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/7bcdc144df71c84caf1e6ecae15c193c4d49fea1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 10,
         "type": "track",
         "uri": "spotify:track:0INhc870cm8AiSzujM3OlA"
@@ -11428,8 +11428,8 @@
         "id": "6VVvzNsWQd62FIQyc4zBSR",
         "is_local": false,
         "name": "Coming Back For You",
-        "popularity": 12,
-        "preview_url": "https://p.scdn.co/mp3-preview/0e5c2b233bc159efc37b30ff68655fa11a6bf62d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/cc74fd0c74f1caa6f884fcaf25d9198c85180477?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 9,
         "type": "track",
         "uri": "spotify:track:6VVvzNsWQd62FIQyc4zBSR"
@@ -11875,8 +11875,8 @@
         "id": "5tjQeErXtiqO9LUVqYU9Ta",
         "is_local": false,
         "name": "Interlude",
-        "popularity": 5,
-        "preview_url": "https://p.scdn.co/mp3-preview/e1ba7975e37fc05dd30e69a8c35a577825f2e147?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/8918617bd0259f2e9b8a1454088cca3dae02a7f0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 8,
         "type": "track",
         "uri": "spotify:track:5tjQeErXtiqO9LUVqYU9Ta"
@@ -12332,8 +12332,8 @@
         "id": "6bJRwnylF1anxhi9qb7kMC",
         "is_local": false,
         "name": "La Vida",
-        "popularity": 4,
-        "preview_url": "https://p.scdn.co/mp3-preview/21b98089e1c4d4ae38fde5a9beb1e6a2e4a369cd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/07db134d194656b5445dee6c076ab956c69b2435?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 7,
         "type": "track",
         "uri": "spotify:track:6bJRwnylF1anxhi9qb7kMC"
@@ -13727,8 +13727,8 @@
         "id": "2BYNcoKMljJgRmreV5jrmv",
         "is_local": false,
         "name": "Jele",
-        "popularity": 2,
-        "preview_url": "https://p.scdn.co/mp3-preview/626509f9386e573bf8e5fa132a1444a26c6fb2fa?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/43e84812b80025a9f50d24e47ed0d4ec5f017820?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 16,
         "type": "track",
         "uri": "spotify:track:2BYNcoKMljJgRmreV5jrmv"
@@ -14184,8 +14184,8 @@
         "id": "75qifOPkcKBXt5lqGiQLCI",
         "is_local": false,
         "name": "Pantera",
-        "popularity": 5,
-        "preview_url": "https://p.scdn.co/mp3-preview/164bff3899b09bcb1138105ae4b5f9980129c5dc?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "popularity": 40,
+        "preview_url": "https://p.scdn.co/mp3-preview/48464ec03b9d6ad3d329796082c5a9fc79e00877?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 15,
         "type": "track",
         "uri": "spotify:track:75qifOPkcKBXt5lqGiQLCI"
@@ -22935,5 +22935,5 @@
     "before": "1667579599860"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1667715509000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1667719064000&limit=50"
 }
