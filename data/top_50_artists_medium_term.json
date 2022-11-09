@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 344390
+        "total": 344563
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 94206
+        "total": 94278
       },
       "genres": [
         "trap mexicano"
@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18908
+        "total": 18910
       },
       "genres": [
         "mexican hip hop",
@@ -117,7 +117,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4186817
+        "total": 4189571
       },
       "genres": [
         "mexican hip hop",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24896
+        "total": 24902
       },
       "genres": [
         "mexican hip hop",
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3657323
+        "total": 3660018
       },
       "genres": [
         "mexican hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7595061
+        "total": 7604398
       },
       "genres": [
         "argentine hip hop",
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 959302
+        "total": 960104
       },
       "genres": [
         "latin hip hop",
@@ -298,7 +298,7 @@
       },
       "followers": {
         "href": null,
-        "total": 58442863
+        "total": 58490592
       },
       "genres": [
         "reggaeton",
@@ -334,7 +334,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12188057
+        "total": 12195877
       },
       "genres": [
         "latin hip hop",
@@ -371,7 +371,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2011993
+        "total": 2012378
       },
       "genres": [
         "latin alternative",
@@ -411,7 +411,7 @@
       },
       "followers": {
         "href": null,
-        "total": 217665
+        "total": 217828
       },
       "genres": [
         "latin hip hop",
@@ -448,7 +448,7 @@
       },
       "followers": {
         "href": null,
-        "total": 184358
+        "total": 184475
       },
       "genres": [
         "mexican hip hop"
@@ -479,11 +479,49 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+      },
+      "followers": {
+        "href": null,
+        "total": 1257666
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "perreo",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9f5d7a4538c195c7dad2a6ca",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749f5d7a4538c195c7dad2a6ca",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789f5d7a4538c195c7dad2a6ca",
+          "width": 160
+        }
+      ],
+      "name": "Charles Ans",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
       },
       "followers": {
         "href": null,
-        "total": 5797
+        "total": 5802
       },
       "genres": [
         "mexican hip hop",
@@ -519,7 +557,7 @@
       },
       "followers": {
         "href": null,
-        "total": 158153
+        "total": 158263
       },
       "genres": [
         "trap mexicano"
@@ -554,7 +592,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13959
+        "total": 13969
       },
       "genres": [
         "mexican hip hop"
@@ -589,7 +627,7 @@
       },
       "followers": {
         "href": null,
-        "total": 119084
+        "total": 119162
       },
       "genres": [
         "mexican hip hop",
@@ -625,7 +663,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1886167
+        "total": 1887330
       },
       "genres": [
         "colombian hip hop",
@@ -661,7 +699,7 @@
       },
       "followers": {
         "href": null,
-        "total": 187472
+        "total": 187703
       },
       "genres": [
         "mexican hip hop",
@@ -693,41 +731,73 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
         "href": null,
-        "total": 1256979
+        "total": 23574
       },
       "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "perreo",
-        "rap conciencia"
+        "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9f5d7a4538c195c7dad2a6ca",
+          "url": "https://i.scdn.co/image/ab6761610000e5eba7970433fec7d8cd793a443d",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749f5d7a4538c195c7dad2a6ca",
+          "url": "https://i.scdn.co/image/ab67616100005174a7970433fec7d8cd793a443d",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789f5d7a4538c195c7dad2a6ca",
+          "url": "https://i.scdn.co/image/ab6761610000f178a7970433fec7d8cd793a443d",
           "width": 160
         }
       ],
-      "name": "Charles Ans",
-      "popularity": 68,
+      "name": "Denilson",
+      "popularity": 45,
       "type": "artist",
-      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 6545471
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf8f68ac376ecc8af052e3410",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f8f68ac376ecc8af052e3410",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f8f68ac376ecc8af052e3410",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
     {
       "external_urls": {
@@ -735,7 +805,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1712069
+        "total": 1713762
       },
       "genres": [
         "latin hip hop",
@@ -771,7 +841,7 @@
       },
       "followers": {
         "href": null,
-        "total": 255237
+        "total": 255405
       },
       "genres": [
         "latin hip hop",
@@ -804,73 +874,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
       },
       "followers": {
         "href": null,
-        "total": 6538924
+        "total": 111542
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "rap underground mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+      "id": "4V2V4PaSblStayYVWTGDbZ",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf8f68ac376ecc8af052e3410",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9183757ee06bda606fe0651b",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f8f68ac376ecc8af052e3410",
+          "url": "https://i.scdn.co/image/ab676161000051749183757ee06bda606fe0651b",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f8f68ac376ecc8af052e3410",
+          "url": "https://i.scdn.co/image/ab6761610000f1789183757ee06bda606fe0651b",
           "width": 160
         }
       ],
-      "name": "Santa Fe Klan",
-      "popularity": 76,
+      "name": "Geassassin",
+      "popularity": 52,
       "type": "artist",
-      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-      },
-      "followers": {
-        "href": null,
-        "total": 23546
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-      "id": "31opIYTivWACiXXzX2khlj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba7970433fec7d8cd793a443d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a7970433fec7d8cd793a443d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a7970433fec7d8cd793a443d",
-          "width": 160
-        }
-      ],
-      "name": "Denilson",
-      "popularity": 45,
-      "type": "artist",
-      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
     },
     {
       "external_urls": {
@@ -878,7 +914,7 @@
       },
       "followers": {
         "href": null,
-        "total": 78888
+        "total": 78925
       },
       "genres": [
         "mexican hip hop",
@@ -911,47 +947,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 111453
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
-      "id": "4V2V4PaSblStayYVWTGDbZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9183757ee06bda606fe0651b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749183757ee06bda606fe0651b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789183757ee06bda606fe0651b",
-          "width": 160
-        }
-      ],
-      "name": "Geassassin",
-      "popularity": 52,
-      "type": "artist",
-      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
         "href": null,
-        "total": 1028317
+        "total": 1029205
       },
       "genres": [
         "mexican hip hop"
@@ -986,7 +986,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2172791
+        "total": 2174314
       },
       "genres": [
         "latin hip hop",
@@ -1024,7 +1024,7 @@
       },
       "followers": {
         "href": null,
-        "total": 486014
+        "total": 486309
       },
       "genres": [
         "trap venezolano",
@@ -1060,7 +1060,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1038459
+        "total": 1039490
       },
       "genres": [
         "hip hop",
@@ -1096,7 +1096,7 @@
       },
       "followers": {
         "href": null,
-        "total": 630594
+        "total": 631575
       },
       "genres": [
         "mexican hip hop"
@@ -1131,7 +1131,7 @@
       },
       "followers": {
         "href": null,
-        "total": 126206
+        "total": 126296
       },
       "genres": [
         "mexican hip hop"
@@ -1166,7 +1166,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11142
+        "total": 11150
       },
       "genres": [
         "latin alternative"
@@ -1201,7 +1201,7 @@
       },
       "followers": {
         "href": null,
-        "total": 51619
+        "total": 51670
       },
       "genres": [
         "indie campechano",
@@ -1238,7 +1238,7 @@
       },
       "followers": {
         "href": null,
-        "total": 561638
+        "total": 561913
       },
       "genres": [
         "latin hip hop",
@@ -1274,7 +1274,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18388
+        "total": 18389
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -1307,7 +1307,7 @@
       },
       "followers": {
         "href": null,
-        "total": 99559
+        "total": 99624
       },
       "genres": [
         "mexican hip hop",
@@ -1343,7 +1343,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1310977
+        "total": 1312099
       },
       "genres": [
         "latin hip hop",
@@ -1380,7 +1380,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2139503
+        "total": 2140624
       },
       "genres": [
         "mexican hip hop",
@@ -1417,7 +1417,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7182
+        "total": 7183
       },
       "genres": [
         "milwaukee indie"
@@ -1485,7 +1485,7 @@
       },
       "followers": {
         "href": null,
-        "total": 712464
+        "total": 713006
       },
       "genres": [
         "latin hip hop",
@@ -1523,7 +1523,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22935
+        "total": 22962
       },
       "genres": [
         "mexican hip hop",
@@ -1561,7 +1561,7 @@
       },
       "followers": {
         "href": null,
-        "total": 356864
+        "total": 357058
       },
       "genres": [
         "mexican hip hop",
@@ -1597,7 +1597,7 @@
       },
       "followers": {
         "href": null,
-        "total": 15401
+        "total": 15399
       },
       "genres": [
         "trap mexicano"
@@ -1632,7 +1632,7 @@
       },
       "followers": {
         "href": null,
-        "total": 119492
+        "total": 119546
       },
       "genres": [
         "mexican hip hop",
@@ -1669,7 +1669,7 @@
       },
       "followers": {
         "href": null,
-        "total": 212777
+        "total": 212916
       },
       "genres": [
         "mexican hip hop",
@@ -1705,7 +1705,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1175858
+        "total": 1176255
       },
       "genres": [
         "latin alternative",
@@ -1748,7 +1748,7 @@
       },
       "followers": {
         "href": null,
-        "total": 549852
+        "total": 550004
       },
       "genres": [
         "alternative r&b",
@@ -1785,7 +1785,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3033
+        "total": 3043
       },
       "genres": [
         "rap underground mexicano"
