@@ -70,7 +70,7 @@
         }
       ],
       "name": "Fntxy",
-      "popularity": 57,
+      "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
     },
@@ -143,7 +143,7 @@
         }
       ],
       "name": "Aleman",
-      "popularity": 73,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
@@ -615,7 +615,7 @@
         }
       ],
       "name": "West Gold",
-      "popularity": 45,
+      "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
@@ -657,6 +657,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+      },
+      "followers": {
+        "href": null,
+        "total": 187472
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+      "id": "6tJRAxu0HwB2GI9GueEj4l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb180cf42f3c12a4059748ccfe",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174180cf42f3c12a4059748ccfe",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178180cf42f3c12a4059748ccfe",
+          "width": 160
+        }
+      ],
+      "name": "Faruz Feet",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
@@ -692,42 +728,6 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-      },
-      "followers": {
-        "href": null,
-        "total": 187472
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-      "id": "6tJRAxu0HwB2GI9GueEj4l",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb180cf42f3c12a4059748ccfe",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174180cf42f3c12a4059748ccfe",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178180cf42f3c12a4059748ccfe",
-          "width": 160
-        }
-      ],
-      "name": "Faruz Feet",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
     {
       "external_urls": {
@@ -1121,7 +1121,7 @@
         }
       ],
       "name": "Lefty Sm",
-      "popularity": 68,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     },
@@ -1191,7 +1191,7 @@
         }
       ],
       "name": "Nortec: Bostich + Fussible",
-      "popularity": 40,
+      "popularity": 39,
       "type": "artist",
       "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
     },
@@ -1572,17 +1572,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf09f58f0c06e4ee194f784ee",
+          "url": "https://i.scdn.co/image/ab6761610000e5eba34b51963abbc8906e4b5e27",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f09f58f0c06e4ee194f784ee",
+          "url": "https://i.scdn.co/image/ab67616100005174a34b51963abbc8906e4b5e27",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f09f58f0c06e4ee194f784ee",
+          "url": "https://i.scdn.co/image/ab6761610000f178a34b51963abbc8906e4b5e27",
           "width": 160
         }
       ],

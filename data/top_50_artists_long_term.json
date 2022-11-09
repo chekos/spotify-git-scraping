@@ -68,7 +68,7 @@
         }
       ],
       "name": "Aleman",
-      "popularity": 73,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
@@ -287,7 +287,7 @@
         }
       ],
       "name": "West Gold",
-      "popularity": 45,
+      "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
@@ -687,7 +687,7 @@
         }
       ],
       "name": "Fntxy",
-      "popularity": 57,
+      "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
     },
@@ -1242,7 +1242,7 @@
         }
       ],
       "name": "Nortec: Bostich + Fussible",
-      "popularity": 40,
+      "popularity": 39,
       "type": "artist",
       "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
     },
@@ -1277,7 +1277,7 @@
         }
       ],
       "name": "Lefty Sm",
-      "popularity": 68,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     },
@@ -1477,17 +1477,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf09f58f0c06e4ee194f784ee",
+          "url": "https://i.scdn.co/image/ab6761610000e5eba34b51963abbc8906e4b5e27",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f09f58f0c06e4ee194f784ee",
+          "url": "https://i.scdn.co/image/ab67616100005174a34b51963abbc8906e4b5e27",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f09f58f0c06e4ee194f784ee",
+          "url": "https://i.scdn.co/image/ab6761610000f178a34b51963abbc8906e4b5e27",
           "width": 160
         }
       ],
