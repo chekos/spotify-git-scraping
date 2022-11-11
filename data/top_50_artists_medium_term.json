@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 344697
+        "total": 344826
       },
       "genres": [
         "latin hip hop",
@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 94348
+        "total": 94414
       },
       "genres": [
         "trap mexicano"
@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18916
+        "total": 18924
       },
       "genres": [
         "mexican hip hop",
@@ -117,7 +117,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4192262
+        "total": 4195136
       },
       "genres": [
         "mexican hip hop",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24903
+        "total": 24906
       },
       "genres": [
         "mexican hip hop",
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3662656
+        "total": 3665404
       },
       "genres": [
         "mexican hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7613928
+        "total": 7623810
       },
       "genres": [
         "argentine hip hop",
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 960850
+        "total": 961651
       },
       "genres": [
         "latin hip hop",
@@ -298,7 +298,7 @@
       },
       "followers": {
         "href": null,
-        "total": 58537792
+        "total": 58586359
       },
       "genres": [
         "reggaeton",
@@ -334,7 +334,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12203747
+        "total": 12211821
       },
       "genres": [
         "latin hip hop",
@@ -371,7 +371,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2012710
+        "total": 2013132
       },
       "genres": [
         "latin alternative",
@@ -411,7 +411,7 @@
       },
       "followers": {
         "href": null,
-        "total": 217959
+        "total": 218110
       },
       "genres": [
         "latin hip hop",
@@ -448,7 +448,7 @@
       },
       "followers": {
         "href": null,
-        "total": 184540
+        "total": 184613
       },
       "genres": [
         "mexican hip hop"
@@ -483,7 +483,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1258361
+        "total": 1259090
       },
       "genres": [
         "latin hip hop",
@@ -557,7 +557,7 @@
       },
       "followers": {
         "href": null,
-        "total": 158371
+        "total": 158521
       },
       "genres": [
         "trap mexicano"
@@ -592,7 +592,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13980
+        "total": 13989
       },
       "genres": [
         "mexican hip hop"
@@ -623,11 +623,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+      },
+      "followers": {
+        "href": null,
+        "total": 188155
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+      "id": "6tJRAxu0HwB2GI9GueEj4l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb180cf42f3c12a4059748ccfe",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174180cf42f3c12a4059748ccfe",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178180cf42f3c12a4059748ccfe",
+          "width": 160
+        }
+      ],
+      "name": "Faruz Feet",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
       },
       "followers": {
         "href": null,
-        "total": 119241
+        "total": 119338
       },
       "genres": [
         "mexican hip hop",
@@ -663,7 +699,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1888445
+        "total": 1889635
       },
       "genres": [
         "colombian hip hop",
@@ -695,39 +731,40 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
       },
       "followers": {
         "href": null,
-        "total": 187893
+        "total": 255680
       },
       "genres": [
+        "latin hip hop",
         "mexican hip hop",
-        "rap underground mexicano"
+        "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-      "id": "6tJRAxu0HwB2GI9GueEj4l",
+      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
+      "id": "6viZnVSHavFUcW0blu6Mvw",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb180cf42f3c12a4059748ccfe",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5c29de06f5eb7f5d3b732270",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174180cf42f3c12a4059748ccfe",
+          "url": "https://i.scdn.co/image/ab676161000051745c29de06f5eb7f5d3b732270",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178180cf42f3c12a4059748ccfe",
+          "url": "https://i.scdn.co/image/ab6761610000f1785c29de06f5eb7f5d3b732270",
           "width": 160
         }
       ],
-      "name": "Faruz Feet",
-      "popularity": 56,
+      "name": "Simpson Ahuevo",
+      "popularity": 54,
       "type": "artist",
-      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
     },
     {
       "external_urls": {
@@ -735,7 +772,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23591
+        "total": 23601
       },
       "genres": [
         "mexican hip hop"
@@ -770,7 +807,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6551907
+        "total": 6558622
       },
       "genres": [
         "mexican hip hop"
@@ -805,7 +842,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1715338
+        "total": 1717083
       },
       "genres": [
         "latin hip hop",
@@ -837,48 +874,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-      },
-      "followers": {
-        "href": null,
-        "total": 255538
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
-      "id": "6viZnVSHavFUcW0blu6Mvw",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5c29de06f5eb7f5d3b732270",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745c29de06f5eb7f5d3b732270",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785c29de06f5eb7f5d3b732270",
-          "width": 160
-        }
-      ],
-      "name": "Simpson Ahuevo",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
       },
       "followers": {
         "href": null,
-        "total": 111622
+        "total": 111718
       },
       "genres": [
         "mexican hip hop",
@@ -914,7 +914,7 @@
       },
       "followers": {
         "href": null,
-        "total": 78953
+        "total": 78982
       },
       "genres": [
         "mexican hip hop",
@@ -951,7 +951,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1030012
+        "total": 1030907
       },
       "genres": [
         "mexican hip hop"
@@ -986,7 +986,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2175773
+        "total": 2177274
       },
       "genres": [
         "latin hip hop",
@@ -1024,7 +1024,7 @@
       },
       "followers": {
         "href": null,
-        "total": 486578
+        "total": 486832
       },
       "genres": [
         "trap venezolano",
@@ -1056,11 +1056,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+      },
+      "followers": {
+        "href": null,
+        "total": 126540
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+      "id": "2Gcx4c9rFAAloAYV2cMGUd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0c9e03c1d47fe50deed601c2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740c9e03c1d47fe50deed601c2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780c9e03c1d47fe50deed601c2",
+          "width": 160
+        }
+      ],
+      "name": "Proof",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
       },
       "followers": {
         "href": null,
-        "total": 1040535
+        "total": 1041592
       },
       "genres": [
         "hip hop",
@@ -1096,7 +1131,7 @@
       },
       "followers": {
         "href": null,
-        "total": 632531
+        "total": 633584
       },
       "genres": [
         "mexican hip hop"
@@ -1127,46 +1162,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-      },
-      "followers": {
-        "href": null,
-        "total": 126417
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-      "id": "2Gcx4c9rFAAloAYV2cMGUd",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0c9e03c1d47fe50deed601c2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740c9e03c1d47fe50deed601c2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780c9e03c1d47fe50deed601c2",
-          "width": 160
-        }
-      ],
-      "name": "Proof",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
       },
       "followers": {
         "href": null,
-        "total": 11163
+        "total": 11178
       },
       "genres": [
         "latin alternative"
@@ -1201,7 +1201,7 @@
       },
       "followers": {
         "href": null,
-        "total": 51696
+        "total": 51738
       },
       "genres": [
         "indie campechano",
@@ -1238,7 +1238,7 @@
       },
       "followers": {
         "href": null,
-        "total": 562220
+        "total": 562551
       },
       "genres": [
         "latin hip hop",
@@ -1274,7 +1274,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18392
+        "total": 18397
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -1303,47 +1303,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-      },
-      "followers": {
-        "href": null,
-        "total": 99683
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
-      "id": "5MRMYpdAWZawm3ivBeWvdK",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb6027486a8757146fad002b8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b6027486a8757146fad002b8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b6027486a8757146fad002b8",
-          "width": 160
-        }
-      ],
-      "name": "Teeam Revolver",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
       },
       "followers": {
         "href": null,
-        "total": 1313169
+        "total": 1314288
       },
       "genres": [
         "latin hip hop",
@@ -1376,11 +1340,82 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+      },
+      "followers": {
+        "href": null,
+        "total": 99754
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5MRMYpdAWZawm3ivBeWvdK",
+      "id": "5MRMYpdAWZawm3ivBeWvdK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb6027486a8757146fad002b8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b6027486a8757146fad002b8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b6027486a8757146fad002b8",
+          "width": 160
+        }
+      ],
+      "name": "Teeam Revolver",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
+      },
+      "followers": {
+        "href": null,
+        "total": 20592
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2nJOVl8u7PntefIs1Uwb4z",
+      "id": "2nJOVl8u7PntefIs1Uwb4z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9a19279a616c73655571e4d3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749a19279a616c73655571e4d3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789a19279a616c73655571e4d3",
+          "width": 160
+        }
+      ],
+      "name": "Don Kalavera",
+      "popularity": 31,
+      "type": "artist",
+      "uri": "spotify:artist:2nJOVl8u7PntefIs1Uwb4z"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
       },
       "followers": {
         "href": null,
-        "total": 2141666
+        "total": 2142736
       },
       "genres": [
         "mexican hip hop",
@@ -1417,7 +1452,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7184
+        "total": 7183
       },
       "genres": [
         "milwaukee indie"
@@ -1452,7 +1487,7 @@
       },
       "followers": {
         "href": null,
-        "total": 280
+        "total": 281
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/231yQfVjg9sGhTNsaym9ck",
@@ -1485,7 +1520,7 @@
       },
       "followers": {
         "href": null,
-        "total": 713543
+        "total": 714064
       },
       "genres": [
         "latin hip hop",
@@ -1523,7 +1558,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22979
+        "total": 23010
       },
       "genres": [
         "mexican hip hop",
@@ -1561,7 +1596,7 @@
       },
       "followers": {
         "href": null,
-        "total": 357219
+        "total": 357395
       },
       "genres": [
         "mexican hip hop",
@@ -1593,11 +1628,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6pu8qjuOYZRBYc1hiHEVL5"
+      },
+      "followers": {
+        "href": null,
+        "total": 3057
+      },
+      "genres": [
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6pu8qjuOYZRBYc1hiHEVL5",
+      "id": "6pu8qjuOYZRBYc1hiHEVL5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb36b0875e66a1adbfdb41640",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b36b0875e66a1adbfdb41640",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b36b0875e66a1adbfdb41640",
+          "width": 160
+        }
+      ],
+      "name": "Primero Company",
+      "popularity": 30,
+      "type": "artist",
+      "uri": "spotify:artist:6pu8qjuOYZRBYc1hiHEVL5"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2ai0soTBUbXpAdBZBEKkmh"
       },
       "followers": {
         "href": null,
-        "total": 15402
+        "total": 15404
       },
       "genres": [
         "trap mexicano"
@@ -1632,7 +1702,7 @@
       },
       "followers": {
         "href": null,
-        "total": 119595
+        "total": 119670
       },
       "genres": [
         "mexican hip hop",
@@ -1669,7 +1739,7 @@
       },
       "followers": {
         "href": null,
-        "total": 213049
+        "total": 213211
       },
       "genres": [
         "mexican hip hop",
@@ -1705,7 +1775,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1176630
+        "total": 1177042
       },
       "genres": [
         "latin alternative",
@@ -1741,78 +1811,6 @@
       "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:1RgXxY6uzWo9cjYYwwgVGq"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-      },
-      "followers": {
-        "href": null,
-        "total": 550171
-      },
-      "genres": [
-        "alternative r&b",
-        "rap latina",
-        "trap queen"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3p3jPcp8b7WL9XYj4xlsWj",
-      "id": "3p3jPcp8b7WL9XYj4xlsWj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0d214c67744b1864b3a0d7bc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740d214c67744b1864b3a0d7bc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780d214c67744b1864b3a0d7bc",
-          "width": 160
-        }
-      ],
-      "name": "Snow Tha Product",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6pu8qjuOYZRBYc1hiHEVL5"
-      },
-      "followers": {
-        "href": null,
-        "total": 3051
-      },
-      "genres": [
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6pu8qjuOYZRBYc1hiHEVL5",
-      "id": "6pu8qjuOYZRBYc1hiHEVL5",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb36b0875e66a1adbfdb41640",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b36b0875e66a1adbfdb41640",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b36b0875e66a1adbfdb41640",
-          "width": 160
-        }
-      ],
-      "name": "Primero Company",
-      "popularity": 30,
-      "type": "artist",
-      "uri": "spotify:artist:6pu8qjuOYZRBYc1hiHEVL5"
     }
   ],
   "total": 50,
