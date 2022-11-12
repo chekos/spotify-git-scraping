@@ -8223,7 +8223,7 @@
         "id": "0oSRu9SNIJQ5qoEB5LpVBC",
         "is_local": false,
         "name": "D.I.O.R",
-        "popularity": 0,
+        "popularity": 9,
         "preview_url": "https://p.scdn.co/mp3-preview/eea4c87c396d3fe105c44bc4a941f2300645a75d?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 5,
         "type": "track",
@@ -12823,7 +12823,7 @@
         "id": "6lQ7ubRjFRpxkRtlFnMJRl",
         "is_local": false,
         "name": "Arre",
-        "popularity": 60,
+        "popularity": 61,
         "preview_url": "https://p.scdn.co/mp3-preview/c69b77787de62b58c768845b2f6cacb8e82429ee?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
@@ -22299,5 +22299,5 @@
     "before": "1668098124702"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1668233919000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1668237474000&limit=50"
 }
