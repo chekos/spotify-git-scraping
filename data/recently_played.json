@@ -9000,7 +9000,7 @@
         "id": "3JSqOJlOQA6ChDaBw4v4oW",
         "is_local": false,
         "name": "El R8",
-        "popularity": 34,
+        "popularity": 33,
         "preview_url": "https://p.scdn.co/mp3-preview/b9f845a779fa9dfd57af7535bbcd6888c8eda851?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 11,
         "type": "track",
@@ -22609,5 +22609,5 @@
     "before": "1668214034161"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1668323866000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1668327520000&limit=50"
 }
