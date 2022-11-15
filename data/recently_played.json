@@ -20475,7 +20475,7 @@
         "id": "6n6TB8t4s2AQMMo9wiThDH",
         "is_local": false,
         "name": "Cl\u00e1sico",
-        "popularity": 13,
+        "popularity": 12,
         "preview_url": "https://p.scdn.co/mp3-preview/6d0294c13b00d9ce9d0419056027d1000a8c3b9c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
@@ -23283,5 +23283,5 @@
     "before": "1668442874820"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1668501307000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1668504404000&limit=50"
 }
