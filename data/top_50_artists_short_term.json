@@ -77,42 +77,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-      },
-      "followers": {
-        "href": null,
-        "total": 4215419
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-      "id": "4QFG9KrGWEbr6hNA58CAqE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6c1d2882997b15d14a7a7661",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746c1d2882997b15d14a7a7661",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786c1d2882997b15d14a7a7661",
-          "width": 160
-        }
-      ],
-      "name": "Aleman",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
@@ -150,6 +114,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+      },
+      "followers": {
+        "href": null,
+        "total": 4215419
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+      "id": "4QFG9KrGWEbr6hNA58CAqE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6c1d2882997b15d14a7a7661",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746c1d2882997b15d14a7a7661",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786c1d2882997b15d14a7a7661",
+          "width": 160
+        }
+      ],
+      "name": "Aleman",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
@@ -183,6 +183,41 @@
       "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+      },
+      "followers": {
+        "href": null,
+        "total": 185596
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
+      "id": "1FCItwxfRieMGhR0eRxotU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1ff03553d6893830a1828c81",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051741ff03553d6893830a1828c81",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1781ff03553d6893830a1828c81",
+          "width": 160
+        }
+      ],
+      "name": "Rich Vagos",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     },
     {
       "external_urls": {
@@ -257,6 +292,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+      },
+      "followers": {
+        "href": null,
+        "total": 1264205
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "perreo",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9f5d7a4538c195c7dad2a6ca",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749f5d7a4538c195c7dad2a6ca",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789f5d7a4538c195c7dad2a6ca",
+          "width": 160
+        }
+      ],
+      "name": "Charles Ans",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
       },
       "followers": {
@@ -292,38 +365,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
       },
       "followers": {
         "href": null,
-        "total": 185596
+        "total": 127240
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "rap underground mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
-      "id": "1FCItwxfRieMGhR0eRxotU",
+      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+      "id": "2Gcx4c9rFAAloAYV2cMGUd",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1ff03553d6893830a1828c81",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0c9e03c1d47fe50deed601c2",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741ff03553d6893830a1828c81",
+          "url": "https://i.scdn.co/image/ab676161000051740c9e03c1d47fe50deed601c2",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781ff03553d6893830a1828c81",
+          "url": "https://i.scdn.co/image/ab6761610000f1780c9e03c1d47fe50deed601c2",
           "width": 160
         }
       ],
-      "name": "Rich Vagos",
-      "popularity": 59,
+      "name": "Proof",
+      "popularity": 54,
       "type": "artist",
-      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
+      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
     },
     {
       "external_urls": {
@@ -360,6 +434,41 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+      },
+      "followers": {
+        "href": null,
+        "total": 11243
+      },
+      "genres": [
+        "latin alternative"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
+      "id": "3Jarv4dvk7d9k6AkqDUVJg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
+          "width": 160
+        }
+      ],
+      "name": "Nortec: Bostich + Fussible",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
     },
     {
       "external_urls": {
@@ -429,6 +538,42 @@
       "popularity": 26,
       "type": "artist",
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+      },
+      "followers": {
+        "href": null,
+        "total": 488623
+      },
+      "genres": [
+        "trap venezolano",
+        "venezuelan hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
+      "id": "6fMZytDgX1Q9OV6ndSugym",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09c68a8336b98ac8f9a973bd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409c68a8336b98ac8f9a973bd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809c68a8336b98ac8f9a973bd",
+          "width": 160
+        }
+      ],
+      "name": "Akapellah",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     },
     {
       "external_urls": {
@@ -543,80 +688,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-      },
-      "followers": {
-        "href": null,
-        "total": 1264205
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "perreo",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-      "id": "5lYeiQxUTcGKVgAuTqbTeL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9f5d7a4538c195c7dad2a6ca",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749f5d7a4538c195c7dad2a6ca",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789f5d7a4538c195c7dad2a6ca",
-          "width": 160
-        }
-      ],
-      "name": "Charles Ans",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-      },
-      "followers": {
-        "href": null,
-        "total": 488623
-      },
-      "genres": [
-        "trap venezolano",
-        "venezuelan hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
-      "id": "6fMZytDgX1Q9OV6ndSugym",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09c68a8336b98ac8f9a973bd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409c68a8336b98ac8f9a973bd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809c68a8336b98ac8f9a973bd",
-          "width": 160
-        }
-      ],
-      "name": "Akapellah",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
@@ -649,6 +720,77 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+      },
+      "followers": {
+        "href": null,
+        "total": 564823
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/30BSBWLKnYJION1lCPugXc",
+      "id": "30BSBWLKnYJION1lCPugXc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc0fe1ea17cee816cac70a9a4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c0fe1ea17cee816cac70a9a4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c0fe1ea17cee816cac70a9a4",
+          "width": 160
+        }
+      ],
+      "name": "Santa RM",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:30BSBWLKnYJION1lCPugXc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 6607238
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf8f68ac376ecc8af052e3410",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f8f68ac376ecc8af052e3410",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f8f68ac376ecc8af052e3410",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
     {
       "external_urls": {
@@ -725,42 +867,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-      },
-      "followers": {
-        "href": null,
-        "total": 127240
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-      "id": "2Gcx4c9rFAAloAYV2cMGUd",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0c9e03c1d47fe50deed601c2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740c9e03c1d47fe50deed601c2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780c9e03c1d47fe50deed601c2",
-          "width": 160
-        }
-      ],
-      "name": "Proof",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
       },
       "followers": {
@@ -798,39 +904,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
       },
       "followers": {
         "href": null,
-        "total": 564823
+        "total": 159356
       },
       "genres": [
-        "latin hip hop",
-        "mexican hip hop"
+        "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/30BSBWLKnYJION1lCPugXc",
-      "id": "30BSBWLKnYJION1lCPugXc",
+      "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+      "id": "30CTTIqrcr82nS6B40j975",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc0fe1ea17cee816cac70a9a4",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc90774a0c60d442d3004581b",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c0fe1ea17cee816cac70a9a4",
+          "url": "https://i.scdn.co/image/ab67616100005174c90774a0c60d442d3004581b",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c0fe1ea17cee816cac70a9a4",
+          "url": "https://i.scdn.co/image/ab6761610000f178c90774a0c60d442d3004581b",
           "width": 160
         }
       ],
-      "name": "Santa RM",
-      "popularity": 56,
+      "name": "Robot95",
+      "popularity": 59,
       "type": "artist",
-      "uri": "spotify:artist:30BSBWLKnYJION1lCPugXc"
+      "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
     },
     {
       "external_urls": {
@@ -866,76 +971,6 @@
       "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-      },
-      "followers": {
-        "href": null,
-        "total": 11243
-      },
-      "genres": [
-        "latin alternative"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
-      "id": "3Jarv4dvk7d9k6AkqDUVJg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
-          "width": 160
-        }
-      ],
-      "name": "Nortec: Bostich + Fussible",
-      "popularity": 39,
-      "type": "artist",
-      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-      },
-      "followers": {
-        "href": null,
-        "total": 6607238
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf8f68ac376ecc8af052e3410",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f8f68ac376ecc8af052e3410",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f8f68ac376ecc8af052e3410",
-          "width": 160
-        }
-      ],
-      "name": "Santa Fe Klan",
-      "popularity": 76,
-      "type": "artist",
-      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
     {
       "external_urls": {
@@ -1048,6 +1083,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
+      },
+      "followers": {
+        "href": null,
+        "total": 20673
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2nJOVl8u7PntefIs1Uwb4z",
+      "id": "2nJOVl8u7PntefIs1Uwb4z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9a19279a616c73655571e4d3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749a19279a616c73655571e4d3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789a19279a616c73655571e4d3",
+          "width": 160
+        }
+      ],
+      "name": "Don Kalavera",
+      "popularity": 31,
+      "type": "artist",
+      "uri": "spotify:artist:2nJOVl8u7PntefIs1Uwb4z"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2uG7vLSehD2quPeYSPkT73"
       },
       "followers": {
@@ -1081,41 +1151,6 @@
       "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:2uG7vLSehD2quPeYSPkT73"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-      },
-      "followers": {
-        "href": null,
-        "total": 159356
-      },
-      "genres": [
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-      "id": "30CTTIqrcr82nS6B40j975",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc90774a0c60d442d3004581b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c90774a0c60d442d3004581b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c90774a0c60d442d3004581b",
-          "width": 160
-        }
-      ],
-      "name": "Robot95",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
     },
     {
       "external_urls": {
@@ -1406,7 +1441,7 @@
       "uri": "spotify:artist:5GcWBUX00IPuWVGMIRK1sS"
     }
   ],
-  "total": 39,
+  "total": 40,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
