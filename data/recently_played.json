@@ -6148,7 +6148,7 @@
         "id": "7GOcCfJS2zpmEHQB7nqvg1",
         "is_local": false,
         "name": "No Se F\u00eda",
-        "popularity": 41,
+        "popularity": 42,
         "preview_url": "https://p.scdn.co/mp3-preview/8f4b440946f7c88fc5deb68015bbd0da03bfd3fd?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 3,
         "type": "track",
@@ -22877,5 +22877,5 @@
     "before": "1668714102430"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1669357871000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1669360942000&limit=50"
 }
