@@ -107,7 +107,7 @@
         }
       ],
       "name": "Yoga Fire",
-      "popularity": 51,
+      "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
@@ -117,7 +117,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4265846
+        "total": 4269871
       },
       "genres": [
         "mexican hip hop",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24991
+        "total": 24995
       },
       "genres": [
         "mexican hip hop",
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3736446
+        "total": 3740718
       },
       "genres": [
         "mexican hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 980392
+        "total": 981404
       },
       "genres": [
         "latin hip hop",
@@ -369,7 +369,7 @@
       },
       "followers": {
         "href": null,
-        "total": 161775
+        "total": 161945
       },
       "genres": [
         "trap mexicano"
@@ -404,7 +404,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6716217
+        "total": 6724145
       },
       "genres": [
         "mexican hip hop"
@@ -732,7 +732,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1754702
+        "total": 1756883
       },
       "genres": [
         "latin hip hop",
@@ -804,7 +804,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14182
+        "total": 14190
       },
       "genres": [
         "mexican hip hop"
@@ -913,7 +913,7 @@
       },
       "followers": {
         "href": null,
-        "total": 79751
+        "total": 79781
       },
       "genres": [
         "mexican hip hop",
@@ -940,7 +940,7 @@
         }
       ],
       "name": "Leyruk",
-      "popularity": 34,
+      "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
@@ -1012,7 +1012,7 @@
         }
       ],
       "name": "Wk",
-      "popularity": 44,
+      "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
     },
@@ -1202,7 +1202,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11396
+        "total": 11406
       },
       "genres": [
         "latin alternative"
@@ -1237,7 +1237,7 @@
       },
       "followers": {
         "href": null,
-        "total": 113540
+        "total": 113639
       },
       "genres": [
         "mexican hip hop",
@@ -1311,7 +1311,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18465
+        "total": 18468
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -1449,7 +1449,7 @@
       },
       "followers": {
         "href": null,
-        "total": 20836
+        "total": 20846
       },
       "genres": [
         "mexican hip hop"
@@ -1521,7 +1521,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7253
+        "total": 7254
       },
       "genres": [
         "milwaukee indie"
@@ -1735,7 +1735,7 @@
       },
       "followers": {
         "href": null,
-        "total": 101468
+        "total": 101549
       },
       "genres": [
         "mexican hip hop",
