@@ -3164,7 +3164,7 @@
         "id": "584peG6yLQWVcv8MjAOqT6",
         "is_local": false,
         "name": "El Camino",
-        "popularity": 25,
+        "popularity": 24,
         "preview_url": "https://p.scdn.co/mp3-preview/56db075fc36accfac6bf52cbd04a8c3aabf7f9ff?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 10,
         "type": "track",
@@ -21174,7 +21174,7 @@
         "id": "584peG6yLQWVcv8MjAOqT6",
         "is_local": false,
         "name": "El Camino",
-        "popularity": 25,
+        "popularity": 24,
         "preview_url": "https://p.scdn.co/mp3-preview/56db075fc36accfac6bf52cbd04a8c3aabf7f9ff?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 10,
         "type": "track",
@@ -22537,5 +22537,5 @@
     "before": "1669996658081"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1670358227000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1670361698000&limit=50"
 }
