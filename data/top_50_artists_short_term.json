@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 97113
+        "total": 97200
       },
       "genres": [
         "trap mexicano",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 191054
+        "total": 191156
       },
       "genres": [
         "mexican hip hop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19055
+        "total": 19059
       },
       "genres": [
         "mexican hip hop",
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 350442
+        "total": 350635
       },
       "genres": [
         "latin hip hop",
@@ -156,7 +156,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25049
+        "total": 25054
       },
       "genres": [
         "mexican hip hop",
@@ -193,7 +193,7 @@
       },
       "followers": {
         "href": null,
-        "total": 809222
+        "total": 809625
       },
       "genres": [
         "cantautor",
@@ -234,7 +234,7 @@
       },
       "followers": {
         "href": null,
-        "total": 196896
+        "total": 197125
       },
       "genres": [
         "mexican hip hop",
@@ -488,7 +488,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24297
+        "total": 24310
       },
       "genres": [
         "mexican hip hop",
@@ -561,7 +561,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2027565
+        "total": 2027862
       },
       "genres": [
         "latin alternative",
@@ -591,7 +591,7 @@
         }
       ],
       "name": "Molotov",
-      "popularity": 65,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
     }
