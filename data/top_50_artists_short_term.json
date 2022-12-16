@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 97200
+        "total": 97271
       },
       "genres": [
         "trap mexicano",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 191156
+        "total": 191288
       },
       "genres": [
         "mexican hip hop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 350635
+        "total": 350840
       },
       "genres": [
         "latin hip hop",
@@ -118,7 +118,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19059
+        "total": 19065
       },
       "genres": [
         "mexican hip hop",
@@ -156,7 +156,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25054
+        "total": 25057
       },
       "genres": [
         "mexican hip hop",
@@ -193,7 +193,7 @@
       },
       "followers": {
         "href": null,
-        "total": 809625
+        "total": 810054
       },
       "genres": [
         "cantautor",
@@ -234,10 +234,11 @@
       },
       "followers": {
         "href": null,
-        "total": 197125
+        "total": 197382
       },
       "genres": [
         "mexican hip hop",
+        "perreo",
         "rap underground mexicano",
         "urbano mexicano"
       ],
@@ -271,7 +272,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4309237
+        "total": 4312745
       },
       "genres": [
         "mexican hip hop",
@@ -307,7 +308,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14313
+        "total": 14321
       },
       "genres": [
         "mexican hip hop",
@@ -343,7 +344,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8093323
+        "total": 8104814
       },
       "genres": [
         "argentine hip hop",
@@ -375,6 +376,42 @@
       "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+      },
+      "followers": {
+        "href": null,
+        "total": 9224257
+      },
+      "genres": [
+        "pop",
+        "r&b"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+      "id": "7tYKF4w9nC0nq9CsPZTHyP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747eb7f6371aad8e67e01f0a03",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787eb7f6371aad8e67e01f0a03",
+          "width": 160
+        }
+      ],
+      "name": "SZA",
+      "popularity": 92,
+      "type": "artist",
+      "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
     },
     {
       "external_urls": {
@@ -411,48 +448,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-      },
-      "followers": {
-        "href": null,
-        "total": 9188410
-      },
-      "genres": [
-        "pop",
-        "r&b",
-        "rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
-      "id": "7tYKF4w9nC0nq9CsPZTHyP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747eb7f6371aad8e67e01f0a03",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787eb7f6371aad8e67e01f0a03",
-          "width": 160
-        }
-      ],
-      "name": "SZA",
-      "popularity": 91,
-      "type": "artist",
-      "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
       },
       "followers": {
         "href": null,
-        "total": 991008
+        "total": 991884
       },
       "genres": [
         "latin hip hop",
@@ -488,7 +488,7 @@
       },
       "followers": {
         "href": null,
-        "total": 53269
+        "total": 53322
       },
       "genres": [
         "indie campechano",
@@ -525,7 +525,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24310
+        "total": 24326
       },
       "genres": [
         "mexican hip hop",
@@ -561,7 +561,7 @@
       },
       "followers": {
         "href": null,
-        "total": 60678382
+        "total": 60741651
       },
       "genres": [
         "reggaeton",
@@ -598,7 +598,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2027862
+        "total": 2028248
       },
       "genres": [
         "latin alternative",
