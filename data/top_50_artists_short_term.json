@@ -44,7 +44,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9261451
+        "total": 9299122
       },
       "genres": [
         "pop",
@@ -70,7 +70,7 @@
         }
       ],
       "name": "SZA",
-      "popularity": 92,
+      "popularity": 93,
       "type": "artist",
       "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
     },
@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 350993
+        "total": 351161
       },
       "genres": [
         "latin hip hop",
@@ -120,7 +120,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25060
+        "total": 25065
       },
       "genres": [
         "mexican hip hop",
@@ -157,7 +157,7 @@
       },
       "followers": {
         "href": null,
-        "total": 97354
+        "total": 97414
       },
       "genres": [
         "trap mexicano",
@@ -193,7 +193,7 @@
       },
       "followers": {
         "href": null,
-        "total": 810526
+        "total": 811087
       },
       "genres": [
         "cantautor",
@@ -234,7 +234,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4316294
+        "total": 4319766
       },
       "genres": [
         "mexican hip hop",
@@ -306,7 +306,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8116109
+        "total": 8127769
       },
       "genres": [
         "argentine hip hop",
@@ -345,7 +345,7 @@
       },
       "followers": {
         "href": null,
-        "total": 992718
+        "total": 993528
       },
       "genres": [
         "latin hip hop",
@@ -447,11 +447,57 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+      },
+      "followers": {
+        "href": null,
+        "total": 3342652
+      },
+      "genres": [
+        "argentine rock",
+        "latin alternative",
+        "latin pop",
+        "latin rock",
+        "mexican pop",
+        "rock en espanol",
+        "ska argentino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+      "id": "4TK1gDgb7QKoPFlzRrBRgR",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/0a44319db623b112c3fddca7a1ef88b5756265cd",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1c47795e21794ab947aa466283026148163d4bf5",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/f611096759364ce80a459c8fcc3e47d789ba34a7",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4957431c9881f30a238aeb0c2bc76e05e6a46831",
+          "width": 64
+        }
+      ],
+      "name": "Los Enanitos Verdes",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
         "href": null,
-        "total": 24345
+        "total": 24366
       },
       "genres": [
         "mexican hip hop",
@@ -524,7 +570,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2028575
+        "total": 2028947
       },
       "genres": [
         "latin alternative",
@@ -564,7 +610,7 @@
       },
       "followers": {
         "href": null,
-        "total": 56866
+        "total": 56902
       },
       "genres": [
         "nueva ola peruana",
@@ -596,7 +642,7 @@
       "uri": "spotify:artist:4HYB35YLMCRIzQobpWs5yv"
     }
   ],
-  "total": 16,
+  "total": 17,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
