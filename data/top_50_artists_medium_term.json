@@ -82,7 +82,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19069
+        "total": 19072
       },
       "genres": [
         "mexican hip hop",
@@ -413,7 +413,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6807876
+        "total": 6814506
       },
       "genres": [
         "mexican hip hop"
@@ -520,7 +520,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12547052
+        "total": 12557704
       },
       "genres": [
         "latin hip hop",
@@ -632,7 +632,7 @@
       },
       "followers": {
         "href": null,
-        "total": 60804941
+        "total": 60870835
       },
       "genres": [
         "reggaeton",
@@ -780,7 +780,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14329
+        "total": 14336
       },
       "genres": [
         "mexican hip hop",
@@ -1001,7 +1001,7 @@
       },
       "followers": {
         "href": null,
-        "total": 53364
+        "total": 53407
       },
       "genres": [
         "indie campechano",
@@ -1287,7 +1287,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23918
+        "total": 23938
       },
       "genres": [
         "mexican hip hop",
@@ -1325,7 +1325,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18524
+        "total": 18528
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -1536,7 +1536,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7266
+        "total": 7268
       },
       "genres": [
         "milwaukee indie"
@@ -1571,7 +1571,7 @@
       },
       "followers": {
         "href": null,
-        "total": 363691
+        "total": 363839
       },
       "genres": [
         "mexican hip hop",
@@ -1824,7 +1824,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
+  "previous": null,
   "next": null
 }
