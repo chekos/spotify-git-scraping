@@ -44,7 +44,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3342652
+        "total": 3344325
       },
       "genres": [
         "argentine rock",
@@ -90,7 +90,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9299122
+        "total": 9331709
       },
       "genres": [
         "pop",
@@ -126,7 +126,7 @@
       },
       "followers": {
         "href": null,
-        "total": 351161
+        "total": 351341
       },
       "genres": [
         "latin hip hop",
@@ -166,7 +166,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25065
+        "total": 25071
       },
       "genres": [
         "mexican hip hop",
@@ -239,7 +239,7 @@
       },
       "followers": {
         "href": null,
-        "total": 811087
+        "total": 811535
       },
       "genres": [
         "cantautor",
@@ -280,7 +280,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4319766
+        "total": 4322977
       },
       "genres": [
         "mexican hip hop",
@@ -316,7 +316,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14336
+        "total": 14344
       },
       "genres": [
         "mexican hip hop",
@@ -391,7 +391,7 @@
       },
       "followers": {
         "href": null,
-        "total": 993528
+        "total": 994333
       },
       "genres": [
         "latin hip hop",
@@ -427,7 +427,7 @@
       },
       "followers": {
         "href": null,
-        "total": 53407
+        "total": 53444
       },
       "genres": [
         "indie campechano",
@@ -487,7 +487,7 @@
         }
       ],
       "name": "C\u00f3digo KM",
-      "popularity": 11,
+      "popularity": 10,
       "type": "artist",
       "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
     },
@@ -497,7 +497,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24366
+        "total": 24379
       },
       "genres": [
         "mexican hip hop",
@@ -570,7 +570,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2028947
+        "total": 2029213
       },
       "genres": [
         "latin alternative",
