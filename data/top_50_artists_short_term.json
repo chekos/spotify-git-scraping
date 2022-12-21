@@ -6,13 +6,12 @@
       },
       "followers": {
         "href": null,
-        "total": 19079
+        "total": 19087
       },
       "genres": [
         "mexican hip hop",
         "rap underground mexicano",
-        "trap mexicano",
-        "urbano mexicano"
+        "trap mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
       "id": "3AgxRYe2kXEfsZyB07hqJF",
@@ -116,7 +115,7 @@
         }
       ],
       "name": "SZA",
-      "popularity": 93,
+      "popularity": 94,
       "type": "artist",
       "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
     },
@@ -126,15 +125,14 @@
       },
       "followers": {
         "href": null,
-        "total": 351517
+        "total": 351727
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
         "perreo",
         "rap underground mexicano",
-        "rock en espanol",
-        "urbano mexicano"
+        "rock en espanol"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -166,7 +164,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25074
+        "total": 25076
       },
       "genres": [
         "mexican hip hop",
@@ -203,7 +201,7 @@
       },
       "followers": {
         "href": null,
-        "total": 97556
+        "total": 97641
       },
       "genres": [
         "trap mexicano",
@@ -319,8 +317,7 @@
         "total": 14368
       },
       "genres": [
-        "mexican hip hop",
-        "urbano mexicano"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
       "id": "2Ch5zHsrWSpgq7g0WI2UFD",
@@ -352,7 +349,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8147205
+        "total": 8158099
       },
       "genres": [
         "argentine hip hop",
@@ -497,7 +494,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24402
+        "total": 24427
       },
       "genres": [
         "mexican hip hop",
@@ -610,7 +607,7 @@
       },
       "followers": {
         "href": null,
-        "total": 56962
+        "total": 56990
       },
       "genres": [
         "nueva ola peruana",

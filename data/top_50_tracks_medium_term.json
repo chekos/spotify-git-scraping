@@ -7254,7 +7254,7 @@
       "id": "7lBE9JV5hOgiJhJrpDslzI",
       "is_local": false,
       "name": "Placoseo Como Se Debe",
-      "popularity": 40,
+      "popularity": 39,
       "preview_url": "https://p.scdn.co/mp3-preview/0efb16cabf0e9bfec3ef0de0d2c4052c913a694f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 2,
       "type": "track",
@@ -7995,7 +7995,7 @@
       "id": "4er6QVHwMxgfXaBQgpoDqD",
       "is_local": false,
       "name": "Encajuelao",
-      "popularity": 22,
+      "popularity": 21,
       "preview_url": "https://p.scdn.co/mp3-preview/1b725f0503d537f4a895a4f3a3deeafebbc2c076?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 10,
       "type": "track",
@@ -12264,7 +12264,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0",
   "next": null
 }

@@ -10,8 +10,7 @@
       },
       "genres": [
         "mexican hip hop",
-        "rap conciencia",
-        "urbano mexicano"
+        "rap conciencia"
       ],
       "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
       "id": "2hejA1Dkf8v8R0koF44FvW",
@@ -79,15 +78,14 @@
       },
       "followers": {
         "href": null,
-        "total": 351517
+        "total": 351727
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
         "perreo",
         "rap underground mexicano",
-        "rock en espanol",
-        "urbano mexicano"
+        "rock en espanol"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -159,6 +157,7 @@
       },
       "genres": [
         "mexican hip hop",
+        "perreo",
         "rap underground mexicano",
         "urbano mexicano"
       ],
@@ -192,7 +191,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25074
+        "total": 25076
       },
       "genres": [
         "mexican hip hop",
@@ -266,7 +265,7 @@
       },
       "followers": {
         "href": null,
-        "total": 191747
+        "total": 191908
       },
       "genres": [
         "mexican hip hop",
@@ -302,7 +301,7 @@
       },
       "followers": {
         "href": null,
-        "total": 122728
+        "total": 122801
       },
       "genres": [
         "mexican hip hop",
@@ -338,13 +337,12 @@
       },
       "followers": {
         "href": null,
-        "total": 19079
+        "total": 19087
       },
       "genres": [
         "mexican hip hop",
         "rap underground mexicano",
-        "trap mexicano",
-        "urbano mexicano"
+        "trap mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
       "id": "3AgxRYe2kXEfsZyB07hqJF",
@@ -523,7 +521,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2229834
+        "total": 2231053
       },
       "genres": [
         "latin hip hop",
@@ -597,7 +595,7 @@
       },
       "followers": {
         "href": null,
-        "total": 262497
+        "total": 262685
       },
       "genres": [
         "latin hip hop",
@@ -635,7 +633,7 @@
       },
       "followers": {
         "href": null,
-        "total": 97556
+        "total": 97641
       },
       "genres": [
         "trap mexicano",
@@ -671,7 +669,7 @@
       },
       "followers": {
         "href": null,
-        "total": 80283
+        "total": 80312
       },
       "genres": [
         "mexican hip hop",
@@ -698,7 +696,7 @@
         }
       ],
       "name": "Leyruk",
-      "popularity": 35,
+      "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
@@ -748,7 +746,7 @@
       },
       "followers": {
         "href": null,
-        "total": 737459
+        "total": 738107
       },
       "genres": [
         "latin hip hop",
@@ -859,7 +857,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1787620
+        "total": 1789595
       },
       "genres": [
         "latin hip hop",
@@ -898,8 +896,7 @@
         "total": 14368
       },
       "genres": [
-        "mexican hip hop",
-        "urbano mexicano"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
       "id": "2Ch5zHsrWSpgq7g0WI2UFD",
@@ -964,7 +961,7 @@
       },
       "followers": {
         "href": null,
-        "total": 498403
+        "total": 498721
       },
       "genres": [
         "trap venezolano",
@@ -1037,7 +1034,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8147205
+        "total": 8158099
       },
       "genres": [
         "argentine hip hop",
@@ -1076,7 +1073,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1068381
+        "total": 1069389
       },
       "genres": [
         "mexican hip hop",
@@ -1138,7 +1135,7 @@
         }
       ],
       "name": "TREN LOKOTE",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
     },
@@ -1148,7 +1145,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2580228
+        "total": 2580835
       },
       "genres": [
         "hip hop",
@@ -1185,7 +1182,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2783117
+        "total": 2783526
       },
       "genres": [
         "latin afrobeat",
@@ -1231,7 +1228,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11569
+        "total": 11586
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
@@ -1264,7 +1261,7 @@
       },
       "followers": {
         "href": null,
-        "total": 673672
+        "total": 674701
       },
       "genres": [
         "mexican hip hop"
@@ -1299,7 +1296,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5876
+        "total": 5878
       },
       "genres": [
         "mexican hip hop",
@@ -1325,7 +1322,7 @@
         }
       ],
       "name": "Ballin",
-      "popularity": 27,
+      "popularity": 28,
       "type": "artist",
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
     },
@@ -1335,7 +1332,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4151928
+        "total": 4154768
       },
       "genres": [
         "norteno"
@@ -1370,7 +1367,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24402
+        "total": 24427
       },
       "genres": [
         "mexican hip hop",
@@ -1406,7 +1403,7 @@
       },
       "followers": {
         "href": null,
-        "total": 51324
+        "total": 51359
       },
       "genres": [
         "mexican hip hop",
@@ -1443,7 +1440,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7898
+        "total": 7908
       },
       "genres": [
         "mexican hip hop",
@@ -1469,7 +1466,7 @@
         }
       ],
       "name": "Tabernario",
-      "popularity": 34,
+      "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:2uG7vLSehD2quPeYSPkT73"
     },
@@ -1479,7 +1476,7 @@
       },
       "followers": {
         "href": null,
-        "total": 575554
+        "total": 575862
       },
       "genres": [
         "latin hip hop",
@@ -1515,12 +1512,11 @@
       },
       "followers": {
         "href": null,
-        "total": 364138
+        "total": 364303
       },
       "genres": [
         "mexican hip hop",
-        "rap underground mexicano",
-        "urbano mexicano"
+        "rap underground mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/6JG2QQcaQBzinELNvu9PRk",
       "id": "6JG2QQcaQBzinELNvu9PRk",
@@ -1552,7 +1548,7 @@
       },
       "followers": {
         "href": null,
-        "total": 529005
+        "total": 529430
       },
       "genres": [
         "trap mexicano",
@@ -1588,7 +1584,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22328746
+        "total": 22339110
       },
       "genres": [
         "conscious hip hop",
@@ -1662,7 +1658,7 @@
       },
       "followers": {
         "href": null,
-        "total": 262959
+        "total": 263113
       },
       "genres": [
         "boom bap espanol",
@@ -1701,7 +1697,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1171884
+        "total": 1172760
       },
       "genres": [
         "chicano rap",
@@ -1738,7 +1734,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1361771
+        "total": 1363073
       },
       "genres": [
         "latin hip hop",
@@ -1775,7 +1771,7 @@
       },
       "followers": {
         "href": null,
-        "total": 830998
+        "total": 831812
       },
       "genres": [
         "latin hip hop",
@@ -1846,7 +1842,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
+  "previous": null,
   "next": null
 }
