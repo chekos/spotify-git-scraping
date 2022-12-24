@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 97777
+        "total": 97842
       },
       "genres": [
         "trap mexicano",
@@ -81,7 +81,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19098
+        "total": 19099
       },
       "genres": [
         "mexican hip hop",
@@ -154,7 +154,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25084
+        "total": 25089
       },
       "genres": [
         "mexican hip hop",
@@ -302,7 +302,7 @@
       },
       "followers": {
         "href": null,
-        "total": 192170
+        "total": 192293
       },
       "genres": [
         "mexican hip hop",
@@ -338,7 +338,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5884
+        "total": 5888
       },
       "genres": [
         "mexican hip hop",
@@ -374,7 +374,7 @@
       },
       "followers": {
         "href": null,
-        "total": 164669
+        "total": 164803
       },
       "genres": [
         "trap mexicano",
@@ -445,7 +445,7 @@
       },
       "followers": {
         "href": null,
-        "total": 122978
+        "total": 123046
       },
       "genres": [
         "mexican hip hop",
@@ -481,7 +481,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1946554
+        "total": 1947896
       },
       "genres": [
         "colombian hip hop",
@@ -591,7 +591,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2233625
+        "total": 2234877
       },
       "genres": [
         "latin hip hop",
@@ -666,7 +666,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1295446
+        "total": 1296237
       },
       "genres": [
         "latin hip hop",
@@ -731,7 +731,7 @@
         }
       ],
       "name": "Denilson",
-      "popularity": 50,
+      "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
@@ -767,7 +767,7 @@
         }
       ],
       "name": "Dharius",
-      "popularity": 65,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
@@ -777,7 +777,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14386
+        "total": 14394
       },
       "genres": [
         "mexican hip hop"
@@ -812,7 +812,7 @@
       },
       "followers": {
         "href": null,
-        "total": 499366
+        "total": 499629
       },
       "genres": [
         "trap venezolano",
@@ -838,7 +838,7 @@
         }
       ],
       "name": "Akapellah",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     },
@@ -852,7 +852,6 @@
       },
       "genres": [
         "mexican hip hop",
-        "perreo",
         "rap underground mexicano",
         "urbano mexicano"
       ],
@@ -886,7 +885,7 @@
       },
       "followers": {
         "href": null,
-        "total": 263047
+        "total": 263192
       },
       "genres": [
         "latin hip hop",
@@ -997,7 +996,7 @@
       },
       "followers": {
         "href": null,
-        "total": 53654
+        "total": 53691
       },
       "genres": [
         "indie campechano",
@@ -1034,7 +1033,7 @@
       },
       "followers": {
         "href": null,
-        "total": 132211
+        "total": 132333
       },
       "genres": [
         "mexican hip hop",
@@ -1107,7 +1106,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1087586
+        "total": 1088557
       },
       "genres": [
         "hip hop",
@@ -1143,7 +1142,7 @@
       },
       "followers": {
         "href": null,
-        "total": 676707
+        "total": 677627
       },
       "genres": [
         "mexican hip hop"
@@ -1178,7 +1177,7 @@
       },
       "followers": {
         "href": null,
-        "total": 576469
+        "total": 576765
       },
       "genres": [
         "latin hip hop",
@@ -1204,7 +1203,7 @@
         }
       ],
       "name": "Santa RM",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:30BSBWLKnYJION1lCPugXc"
     },
@@ -1283,7 +1282,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24042
+        "total": 24068
       },
       "genres": [
         "mexican hip hop",
@@ -1321,7 +1320,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18542
+        "total": 18546
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -1354,7 +1353,7 @@
       },
       "followers": {
         "href": null,
-        "total": 530330
+        "total": 530715
       },
       "genres": [
         "trap mexicano",
@@ -1423,7 +1422,7 @@
       },
       "followers": {
         "href": null,
-        "total": 122615
+        "total": 122679
       },
       "genres": [
         "mexican hip hop",
@@ -1460,7 +1459,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3352169
+        "total": 3354083
       },
       "genres": [
         "argentine rock",
@@ -1506,7 +1505,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21012
+        "total": 21018
       },
       "genres": [
         "mexican hip hop"
@@ -1541,7 +1540,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2194269
+        "total": 2195487
       },
       "genres": [
         "mexican hip hop",
@@ -1578,7 +1577,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7276
+        "total": 7279
       },
       "genres": [
         "milwaukee indie"
@@ -1649,7 +1648,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9448355
+        "total": 9474597
       },
       "genres": [
         "pop",
@@ -1759,7 +1758,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2745
+        "total": 2749
       },
       "genres": [
         "urbano mexicano"
@@ -1829,7 +1828,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
+  "previous": null,
   "next": null
 }
