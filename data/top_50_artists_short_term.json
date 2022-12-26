@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25089
+        "total": 25090
       },
       "genres": [
         "mexican hip hop",
@@ -43,7 +43,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3356148
+        "total": 3358350
       },
       "genres": [
         "argentine rock",
@@ -89,7 +89,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9497923
+        "total": 9525089
       },
       "genres": [
         "pop",
@@ -125,14 +125,15 @@
       },
       "followers": {
         "href": null,
-        "total": 352406
+        "total": 352555
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
         "perreo",
         "rap underground mexicano",
-        "rock en espanol"
+        "rock en espanol",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -164,7 +165,7 @@
       },
       "followers": {
         "href": null,
-        "total": 97912
+        "total": 97978
       },
       "genres": [
         "trap mexicano",
@@ -200,12 +201,13 @@
       },
       "followers": {
         "href": null,
-        "total": 19101
+        "total": 19105
       },
       "genres": [
         "mexican hip hop",
         "rap underground mexicano",
-        "trap mexicano"
+        "trap mexicano",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
       "id": "3AgxRYe2kXEfsZyB07hqJF",
@@ -237,10 +239,11 @@
       },
       "followers": {
         "href": null,
-        "total": 14402
+        "total": 14404
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
       "id": "2Ch5zHsrWSpgq7g0WI2UFD",
@@ -272,7 +275,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4344227
+        "total": 4348323
       },
       "genres": [
         "mexican hip hop",
@@ -308,7 +311,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8206350
+        "total": 8225329
       },
       "genres": [
         "argentine hip hop",
@@ -380,7 +383,7 @@
       },
       "followers": {
         "href": null,
-        "total": 999527
+        "total": 1000451
       },
       "genres": [
         "latin hip hop",
@@ -416,7 +419,7 @@
       },
       "followers": {
         "href": null,
-        "total": 61328406
+        "total": 61430843
       },
       "genres": [
         "reggaeton",
@@ -443,7 +446,7 @@
         }
       ],
       "name": "Bad Bunny",
-      "popularity": 99,
+      "popularity": 100,
       "type": "artist",
       "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
     },
@@ -453,7 +456,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2031316
+        "total": 2031639
       },
       "genres": [
         "latin alternative",
@@ -493,7 +496,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24521
+        "total": 24536
       },
       "genres": [
         "mexican hip hop",
@@ -529,7 +532,7 @@
       },
       "followers": {
         "href": null,
-        "total": 57081
+        "total": 57110
       },
       "genres": [
         "nueva ola peruana",
@@ -566,7 +569,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1297029
+        "total": 1297735
       },
       "genres": [
         "latin hip hop",
@@ -603,7 +606,7 @@
   "total": 16,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
   "next": null
 }
