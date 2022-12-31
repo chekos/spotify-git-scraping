@@ -155,11 +155,10 @@
       },
       "followers": {
         "href": null,
-        "total": 200747
+        "total": 201001
       },
       "genres": [
         "mexican hip hop",
-        "perreo",
         "rap underground mexicano",
         "urbano mexicano"
       ],
@@ -193,7 +192,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25095
+        "total": 25094
       },
       "genres": [
         "mexican hip hop",
@@ -267,7 +266,7 @@
       },
       "followers": {
         "href": null,
-        "total": 193143
+        "total": 193278
       },
       "genres": [
         "mexican hip hop",
@@ -303,7 +302,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19114
+        "total": 19117
       },
       "genres": [
         "mexican hip hop",
@@ -341,7 +340,7 @@
       },
       "followers": {
         "href": null,
-        "total": 123538
+        "total": 123629
       },
       "genres": [
         "mexican hip hop",
@@ -412,7 +411,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1956836
+        "total": 1958338
       },
       "genres": [
         "colombian hip hop",
@@ -448,7 +447,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1301484
+        "total": 1302349
       },
       "genres": [
         "latin hip hop",
@@ -524,7 +523,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2243133
+        "total": 2244455
       },
       "genres": [
         "latin hip hop",
@@ -562,7 +561,7 @@
       },
       "followers": {
         "href": null,
-        "total": 165592
+        "total": 165713
       },
       "genres": [
         "trap mexicano",
@@ -598,7 +597,7 @@
       },
       "followers": {
         "href": null,
-        "total": 264175
+        "total": 264326
       },
       "genres": [
         "latin hip hop",
@@ -636,7 +635,7 @@
       },
       "followers": {
         "href": null,
-        "total": 98316
+        "total": 98399
       },
       "genres": [
         "trap mexicano",
@@ -709,7 +708,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2033157
+        "total": 2033534
       },
       "genres": [
         "latin alternative",
@@ -749,7 +748,7 @@
       },
       "followers": {
         "href": null,
-        "total": 744139
+        "total": 744799
       },
       "genres": [
         "latin hip hop",
@@ -823,7 +822,7 @@
       },
       "followers": {
         "href": null,
-        "total": 225863
+        "total": 226035
       },
       "genres": [
         "latin hip hop",
@@ -860,7 +859,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1808188
+        "total": 1810334
       },
       "genres": [
         "latin hip hop",
@@ -965,7 +964,7 @@
       },
       "followers": {
         "href": null,
-        "total": 501501
+        "total": 501819
       },
       "genres": [
         "trap venezolano",
@@ -1077,7 +1076,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1078327
+        "total": 1079301
       },
       "genres": [
         "mexican hip hop",
@@ -1149,7 +1148,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2587274
+        "total": 2588059
       },
       "genres": [
         "hip hop",
@@ -1186,7 +1185,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2787282
+        "total": 2787775
       },
       "genres": [
         "latin afrobeat",
@@ -1234,9 +1233,7 @@
         "href": null,
         "total": 11698
       },
-      "genres": [
-        "latin alternative"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
       "images": [
@@ -1267,7 +1264,7 @@
       },
       "followers": {
         "href": null,
-        "total": 683813
+        "total": 684817
       },
       "genres": [
         "mexican hip hop"
@@ -1338,7 +1335,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4185732
+        "total": 4189355
       },
       "genres": [
         "norteno"
@@ -1373,7 +1370,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24609
+        "total": 24627
       },
       "genres": [
         "mexican hip hop",
@@ -1409,7 +1406,7 @@
       },
       "followers": {
         "href": null,
-        "total": 51745
+        "total": 51785
       },
       "genres": [
         "mexican hip hop",
@@ -1482,7 +1479,7 @@
       },
       "followers": {
         "href": null,
-        "total": 578697
+        "total": 579003
       },
       "genres": [
         "latin hip hop",
@@ -1555,7 +1552,7 @@
       },
       "followers": {
         "href": null,
-        "total": 533353
+        "total": 533794
       },
       "genres": [
         "trap mexicano",
@@ -1665,7 +1662,7 @@
       },
       "followers": {
         "href": null,
-        "total": 264459
+        "total": 264614
       },
       "genres": [
         "boom bap espanol",
@@ -1704,7 +1701,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1180215
+        "total": 1181119
       },
       "genres": [
         "chicano rap",
@@ -1741,7 +1738,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1375590
+        "total": 1377019
       },
       "genres": [
         "latin hip hop",
@@ -1778,7 +1775,7 @@
       },
       "followers": {
         "href": null,
-        "total": 839720
+        "total": 840615
       },
       "genres": [
         "latin hip hop",
@@ -1815,7 +1812,7 @@
       },
       "followers": {
         "href": null,
-        "total": 132979
+        "total": 133087
       },
       "genres": [
         "mexican hip hop",
