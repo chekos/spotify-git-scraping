@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25094
+        "total": 25098
       },
       "genres": [
         "mexican hip hop",
@@ -43,7 +43,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3369742
+        "total": 3372071
       },
       "genres": [
         "argentine rock",
@@ -89,7 +89,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9663587
+        "total": 9690210
       },
       "genres": [
         "pop",
@@ -115,9 +115,45 @@
         }
       ],
       "name": "SZA",
-      "popularity": 94,
+      "popularity": 95,
       "type": "artist",
       "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+      },
+      "followers": {
+        "href": null,
+        "total": 98478
+      },
+      "genres": [
+        "trap mexicano",
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+      "id": "7I85Ma5xjAo6nlvqOCIiWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4b1dc8b01a7a0a1feef8ca09",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744b1dc8b01a7a0a1feef8ca09",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784b1dc8b01a7a0a1feef8ca09",
+          "width": 160
+        }
+      ],
+      "name": "Fntxy",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
     },
     {
       "external_urls": {
@@ -125,7 +161,7 @@
       },
       "followers": {
         "href": null,
-        "total": 353466
+        "total": 353643
       },
       "genres": [
         "latin hip hop",
@@ -165,7 +201,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19117
+        "total": 19127
       },
       "genres": [
         "mexican hip hop",
@@ -199,47 +235,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-      },
-      "followers": {
-        "href": null,
-        "total": 98399
-      },
-      "genres": [
-        "trap mexicano",
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-      "id": "7I85Ma5xjAo6nlvqOCIiWx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4b1dc8b01a7a0a1feef8ca09",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744b1dc8b01a7a0a1feef8ca09",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784b1dc8b01a7a0a1feef8ca09",
-          "width": 160
-        }
-      ],
-      "name": "Fntxy",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
       },
       "followers": {
         "href": null,
-        "total": 14453
+        "total": 14465
       },
       "genres": [
         "mexican hip hop",
@@ -275,7 +275,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4369500
+        "total": 4373427
       },
       "genres": [
         "mexican hip hop",
@@ -334,7 +334,7 @@
         }
       ],
       "name": "C\u00f3digo KM",
-      "popularity": 10,
+      "popularity": 9,
       "type": "artist",
       "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
     },
@@ -344,7 +344,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24627
+        "total": 24646
       },
       "genres": [
         "mexican hip hop",
@@ -380,7 +380,7 @@
       },
       "followers": {
         "href": null,
-        "total": 57253
+        "total": 57276
       },
       "genres": [
         "nueva ola peruana",
@@ -417,7 +417,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1302349
+        "total": 1303248
       },
       "genres": [
         "latin hip hop",
