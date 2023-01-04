@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25104
+        "total": 25114
       },
       "genres": [
         "mexican hip hop",
@@ -43,7 +43,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3375797
+        "total": 3377957
       },
       "genres": [
         "argentine rock",
@@ -89,7 +89,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9743839
+        "total": 9769209
       },
       "genres": [
         "pop",
@@ -125,7 +125,7 @@
       },
       "followers": {
         "href": null,
-        "total": 98620
+        "total": 98710
       },
       "genres": [
         "trap mexicano",
@@ -161,14 +161,15 @@
       },
       "followers": {
         "href": null,
-        "total": 353940
+        "total": 354125
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
         "perreo",
         "rap underground mexicano",
-        "rock en espanol"
+        "rock en espanol",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -200,12 +201,13 @@
       },
       "followers": {
         "href": null,
-        "total": 19134
+        "total": 19140
       },
       "genres": [
         "mexican hip hop",
         "rap underground mexicano",
-        "trap mexicano"
+        "trap mexicano",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
       "id": "3AgxRYe2kXEfsZyB07hqJF",
@@ -233,11 +235,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+      },
+      "followers": {
+        "href": null,
+        "total": 123955
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+      "id": "1gPiNBRjOB9XochAAFR3iM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
+          "width": 160
+        }
+      ],
+      "name": "West Gold",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
       },
       "followers": {
         "href": null,
-        "total": 4380141
+        "total": 4384116
       },
       "genres": [
         "mexican hip hop",
@@ -273,10 +311,11 @@
       },
       "followers": {
         "href": null,
-        "total": 14486
+        "total": 14504
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/2Ch5zHsrWSpgq7g0WI2UFD",
       "id": "2Ch5zHsrWSpgq7g0WI2UFD",
@@ -308,7 +347,7 @@
       },
       "followers": {
         "href": null,
-        "total": 226454
+        "total": 226619
       },
       "genres": [
         "latin hip hop",
@@ -345,7 +384,7 @@
       },
       "followers": {
         "href": null,
-        "total": 57326
+        "total": 57350
       },
       "genres": [
         "nueva ola peruana",
@@ -382,7 +421,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1304692
+        "total": 1305625
       },
       "genres": [
         "latin hip hop",
@@ -416,7 +455,7 @@
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     }
   ],
-  "total": 11,
+  "total": 12,
   "limit": 50,
   "offset": 0,
   "previous": null,
