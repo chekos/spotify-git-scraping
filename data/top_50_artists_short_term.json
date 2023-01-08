@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19157
+        "total": 19160
       },
       "genres": [
         "mexican hip hop",
@@ -33,7 +33,7 @@
         }
       ],
       "name": "Yoga Fire",
-      "popularity": 52,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
@@ -43,7 +43,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25128
+        "total": 25135
       },
       "genres": [
         "mexican hip hop",
@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 354611
+        "total": 354751
       },
       "genres": [
         "latin hip hop",
@@ -119,7 +119,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3383922
+        "total": 3385995
       },
       "genres": [
         "argentine rock",
@@ -161,13 +161,50 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+      },
+      "followers": {
+        "href": null,
+        "total": 1012577
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb56c6d597493edcdf49efe53b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517456c6d597493edcdf49efe53b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17856c6d597493edcdf49efe53b",
+          "width": 160
+        }
+      ],
+      "name": "Remik Gonzalez",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
       },
       "followers": {
         "href": null,
-        "total": 98949
+        "total": 99020
       },
       "genres": [
+        "rap underground mexicano",
         "trap mexicano",
         "urbano mexicano"
       ],
@@ -201,7 +238,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9843339
+        "total": 9868860
       },
       "genres": [
         "pop",
@@ -233,47 +270,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-      },
-      "followers": {
-        "href": null,
-        "total": 1011596
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb56c6d597493edcdf49efe53b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517456c6d597493edcdf49efe53b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17856c6d597493edcdf49efe53b",
-          "width": 160
-        }
-      ],
-      "name": "Remik Gonzalez",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
         "href": null,
-        "total": 3833734
+        "total": 3837506
       },
       "genres": [
         "mexican hip hop",
@@ -310,7 +311,7 @@
       },
       "followers": {
         "href": null,
-        "total": 503559
+        "total": 503788
       },
       "genres": [
         "trap venezolano",
@@ -346,7 +347,7 @@
       },
       "followers": {
         "href": null,
-        "total": 124196
+        "total": 124274
       },
       "genres": [
         "mexican hip hop",
@@ -382,7 +383,7 @@
       },
       "followers": {
         "href": null,
-        "total": 227079
+        "total": 227235
       },
       "genres": [
         "latin hip hop",
@@ -419,7 +420,7 @@
       },
       "followers": {
         "href": null,
-        "total": 80907
+        "total": 80939
       },
       "genres": [
         "mexican hip hop",
@@ -456,7 +457,7 @@
       },
       "followers": {
         "href": null,
-        "total": 62302770
+        "total": 62368620
       },
       "genres": [
         "reggaeton",
@@ -493,7 +494,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12785272
+        "total": 12799046
       },
       "genres": [
         "latin hip hop",
@@ -530,7 +531,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2251732
+        "total": 2252731
       },
       "genres": [
         "latin hip hop",
@@ -568,7 +569,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1967788
+        "total": 1969297
       },
       "genres": [
         "colombian hip hop",
@@ -604,7 +605,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8381159
+        "total": 8393225
       },
       "genres": [
         "argentine hip hop",
@@ -643,7 +644,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4395552
+        "total": 4399819
       },
       "genres": [
         "mexican hip hop",
@@ -679,7 +680,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14533
+        "total": 14541
       },
       "genres": [
         "mexican hip hop"
@@ -714,7 +715,7 @@
       },
       "followers": {
         "href": null,
-        "total": 57411
+        "total": 57445
       },
       "genres": [
         "nueva ola peruana",
@@ -751,7 +752,7 @@
       },
       "followers": {
         "href": null,
-        "total": 116296
+        "total": 116376
       },
       "genres": [
         "mexican hip hop",
@@ -787,7 +788,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1308068
+        "total": 1308772
       },
       "genres": [
         "latin hip hop",
