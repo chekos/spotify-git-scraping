@@ -14469,7 +14469,7 @@
         "id": "7lBE9JV5hOgiJhJrpDslzI",
         "is_local": false,
         "name": "Placoseo Como Se Debe",
-        "popularity": 40,
+        "popularity": 41,
         "preview_url": "https://p.scdn.co/mp3-preview/0efb16cabf0e9bfec3ef0de0d2c4052c913a694f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 2,
         "type": "track",
@@ -21407,7 +21407,6 @@
             "EE",
             "EG",
             "ES",
-            "ET",
             "FI",
             "FJ",
             "FM",
@@ -21857,7 +21856,6 @@
             "EE",
             "EG",
             "ES",
-            "ET",
             "FI",
             "FJ",
             "FM",
@@ -22307,7 +22305,6 @@
             "EE",
             "EG",
             "ES",
-            "ET",
             "FI",
             "FJ",
             "FM",
@@ -22777,7 +22774,6 @@
             "EE",
             "EG",
             "ES",
-            "ET",
             "FI",
             "FJ",
             "FM",
@@ -23187,5 +23183,5 @@
     "before": "1673119651070"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1673594258000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1673597895000&limit=50"
 }
