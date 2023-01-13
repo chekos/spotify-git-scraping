@@ -636,7 +636,6 @@
         "total": 99384
       },
       "genres": [
-        "rap underground mexicano",
         "trap mexicano",
         "urbano mexicano"
       ],
@@ -1231,7 +1230,9 @@
         "href": null,
         "total": 11848
       },
-      "genres": [],
+      "genres": [
+        "latin alternative"
+      ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
       "images": [
@@ -1649,7 +1650,7 @@
         }
       ],
       "name": "Teeam Revolver",
-      "popularity": 52,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
     },
