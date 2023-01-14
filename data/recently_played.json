@@ -20981,7 +20981,6 @@
             "EE",
             "EG",
             "ES",
-            "ET",
             "FI",
             "FJ",
             "FM",
@@ -21432,7 +21431,6 @@
             "EE",
             "EG",
             "ES",
-            "ET",
             "FI",
             "FJ",
             "FM",
@@ -22344,7 +22342,6 @@
             "EE",
             "EG",
             "ES",
-            "ET",
             "FI",
             "FJ",
             "FM",
@@ -22745,5 +22742,5 @@
     "before": "1673209467509"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1673651837000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1673655880000&limit=50"
 }
