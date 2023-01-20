@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 12951304
       },
       "genres": [
         "latin hip hop",
@@ -43,7 +43,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 1023550
       },
       "genres": [
         "latin hip hop",
@@ -79,7 +79,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 506645
       },
       "genres": [
         "trap venezolano",
@@ -115,7 +115,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 356773
       },
       "genres": [
         "latin hip hop",
@@ -144,7 +144,7 @@
         }
       ],
       "name": "La Banda Baston",
-      "popularity": 54,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
     },
@@ -154,7 +154,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 19226
       },
       "genres": [
         "mexican hip hop",
@@ -191,7 +191,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 25197
       },
       "genres": [
         "mexican hip hop",
@@ -227,7 +227,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 3879726
       },
       "genres": [
         "mexican hip hop",
@@ -263,7 +263,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 99888
       },
       "genres": [
         "rap underground mexicano",
@@ -300,7 +300,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 125223
       },
       "genres": [
         "mexican hip hop",
@@ -336,7 +336,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 4443684
       },
       "genres": [
         "mexican hip hop",
@@ -372,7 +372,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 206107
       },
       "genres": [
         "mexican hip hop",
@@ -409,7 +409,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 229066
       },
       "genres": [
         "latin hip hop",
@@ -446,7 +446,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 2262702
       },
       "genres": [
         "latin hip hop",
@@ -484,7 +484,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 81304
       },
       "genres": [
         "mexican hip hop",
@@ -521,7 +521,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 117270
       },
       "genres": [
         "mexican hip hop",
@@ -557,7 +557,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 24981
       },
       "genres": [
         "mexican hip hop",
@@ -593,7 +593,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 63093280
       },
       "genres": [
         "reggaeton",
@@ -630,7 +630,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 7034049
       },
       "genres": [
         "mexican hip hop"
@@ -665,7 +665,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 703137
       },
       "genres": [
         "mexican hip hop"
@@ -700,7 +700,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 1986024
       },
       "genres": [
         "colombian hip hop",
@@ -736,7 +736,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 1099120
       },
       "genres": [
         "mexican hip hop",
@@ -772,7 +772,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 8701436
       },
       "genres": [
         "argentine hip hop",
@@ -811,7 +811,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 195760
       },
       "genres": [
         "mexican hip hop",
@@ -847,7 +847,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 856386
       },
       "genres": [
         "latin hip hop",
@@ -884,7 +884,7 @@
       },
       "followers": {
         "href": null,
-        "total": null
+        "total": 1855185
       },
       "genres": [
         "latin hip hop",
@@ -918,7 +918,7 @@
   "total": 25,
   "limit": 50,
   "offset": 0,
-  "previous": null,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
+  "previous": null,
   "next": null
 }
