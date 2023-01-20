@@ -452,7 +452,7 @@
         "id": "2xnPKvJmDer74QjhITINGn",
         "is_local": false,
         "name": "Ayer",
-        "popularity": 36,
+        "popularity": 37,
         "preview_url": "https://p.scdn.co/mp3-preview/c161571a09956b820f5ac74ff5775fb5f9906d69?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 6,
         "type": "track",
@@ -8740,7 +8740,7 @@
         "id": "7pXwx7adDm53P1mHDcz21Y",
         "is_local": false,
         "name": "Roberto G\u00f3mez Bola\u00f1os",
-        "popularity": 51,
+        "popularity": 52,
         "preview_url": "https://p.scdn.co/mp3-preview/d9ca10f19edbfc34b41ed56cf8c420d161fc9ee3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 5,
         "type": "track",
@@ -23015,5 +23015,5 @@
     "before": "1673978144070"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1674199025000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1674202699000&limit=50"
 }
