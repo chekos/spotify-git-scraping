@@ -6,14 +6,13 @@
       },
       "followers": {
         "href": null,
-        "total": 357068
+        "total": 357241
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
         "perreo",
-        "rap underground mexicano",
-        "rock en espanol"
+        "rap underground mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -48,7 +47,6 @@
         "total": 100146
       },
       "genres": [
-        "rap underground mexicano",
         "trap mexicano",
         "urbano mexicano"
       ],
@@ -119,7 +117,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4450640
+        "total": 4454370
       },
       "genres": [
         "mexican hip hop",
@@ -191,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3886200
+        "total": 3889747
       },
       "genres": [
         "mexican hip hop",
@@ -217,7 +215,7 @@
         }
       ],
       "name": "Gera MX",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
     },
@@ -300,7 +298,7 @@
       },
       "followers": {
         "href": null,
-        "total": 195992
+        "total": 196101
       },
       "genres": [
         "mexican hip hop",
@@ -336,7 +334,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7045910
+        "total": 7052145
       },
       "genres": [
         "mexican hip hop"
@@ -371,7 +369,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5965
+        "total": 5967
       },
       "genres": [
         "mexican hip hop",
@@ -407,7 +405,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2264355
+        "total": 2265204
       },
       "genres": [
         "latin hip hop",
@@ -445,7 +443,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8744158
+        "total": 8764353
       },
       "genres": [
         "argentine hip hop",
@@ -484,7 +482,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1319464
+        "total": 1320225
       },
       "genres": [
         "latin hip hop",
@@ -559,7 +557,7 @@
       },
       "followers": {
         "href": null,
-        "total": 125358
+        "total": 125431
       },
       "genres": [
         "mexican hip hop",
@@ -595,7 +593,7 @@
       },
       "followers": {
         "href": null,
-        "total": 229338
+        "total": 229470
       },
       "genres": [
         "latin hip hop",
@@ -668,7 +666,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14627
+        "total": 14632
       },
       "genres": [
         "mexican hip hop"
@@ -703,7 +701,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1100927
+        "total": 1101944
       },
       "genres": [
         "mexican hip hop",
@@ -739,7 +737,7 @@
       },
       "followers": {
         "href": null,
-        "total": 206584
+        "total": 206839
       },
       "genres": [
         "mexican hip hop",
@@ -766,7 +764,7 @@
         }
       ],
       "name": "Faruz Feet",
-      "popularity": 59,
+      "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
@@ -776,13 +774,12 @@
       },
       "followers": {
         "href": null,
-        "total": 267774
+        "total": 267934
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
-        "trap mexicano",
-        "urbano mexicano"
+        "trap mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
       "id": "6viZnVSHavFUcW0blu6Mvw",
@@ -851,7 +848,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25004
+        "total": 25025
       },
       "genres": [
         "mexican hip hop",
@@ -887,7 +884,7 @@
       },
       "followers": {
         "href": null,
-        "total": 135515
+        "total": 135607
       },
       "genres": [
         "mexican hip hop",
@@ -923,7 +920,7 @@
       },
       "followers": {
         "href": null,
-        "total": 168784
+        "total": 168929
       },
       "genres": [
         "trap mexicano",
@@ -959,7 +956,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1118550
+        "total": 1119344
       },
       "genres": [
         "hip hop",
@@ -995,7 +992,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1988635
+        "total": 1990054
       },
       "genres": [
         "colombian hip hop",
@@ -1031,7 +1028,7 @@
       },
       "followers": {
         "href": null,
-        "total": 584827
+        "total": 585061
       },
       "genres": [
         "latin hip hop",
@@ -1067,7 +1064,7 @@
       },
       "followers": {
         "href": null,
-        "total": 11970
+        "total": 11982
       },
       "genres": [
         "latin alternative"
@@ -1137,7 +1134,7 @@
       },
       "followers": {
         "href": null,
-        "total": 542406
+        "total": 542800
       },
       "genres": [
         "trap mexicano",
@@ -1247,7 +1244,7 @@
       },
       "followers": {
         "href": null,
-        "total": 704890
+        "total": 705854
       },
       "genres": [
         "mexican hip hop"
@@ -1282,7 +1279,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18614
+        "total": 18616
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -1315,7 +1312,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3412642
+        "total": 3414673
       },
       "genres": [
         "argentine rock",
@@ -1361,7 +1358,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2224580
+        "total": 2225480
       },
       "genres": [
         "mexican hip hop",
@@ -1398,7 +1395,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7315
+        "total": 7316
       },
       "genres": [
         "milwaukee indie"
@@ -1469,7 +1466,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10185239
+        "total": 10209096
       },
       "genres": [
         "pop",
@@ -1538,7 +1535,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24711
+        "total": 24729
       },
       "genres": [
         "mexican hip hop",
@@ -1576,7 +1573,7 @@
       },
       "followers": {
         "href": null,
-        "total": 105042
+        "total": 105129
       },
       "genres": [
         "mexican hip hop",
@@ -1612,7 +1609,7 @@
       },
       "followers": {
         "href": null,
-        "total": 224077
+        "total": 224211
       },
       "genres": [
         "mexican hip hop",
@@ -1721,7 +1718,7 @@
       },
       "followers": {
         "href": null,
-        "total": 566542
+        "total": 566855
       },
       "genres": [
         "alternative r&b",
@@ -1758,7 +1755,7 @@
       },
       "followers": {
         "href": null,
-        "total": 117368
+        "total": 117454
       },
       "genres": [
         "mexican hip hop",
@@ -1794,7 +1791,7 @@
       },
       "followers": {
         "href": null,
-        "total": 55090
+        "total": 55140
       },
       "genres": [
         "indie campechano",
@@ -1829,7 +1826,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
   "next": null
 }
