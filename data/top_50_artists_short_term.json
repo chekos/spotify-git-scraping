@@ -6,13 +6,14 @@
       },
       "followers": {
         "href": null,
-        "total": 357607
+        "total": 357788
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
         "perreo",
-        "rap underground mexicano"
+        "rap underground mexicano",
+        "rock en espanol"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -81,7 +82,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19251
+        "total": 19256
       },
       "genres": [
         "mexican hip hop",
@@ -154,7 +155,7 @@
       },
       "followers": {
         "href": null,
-        "total": 507781
+        "total": 508034
       },
       "genres": [
         "trap venezolano",
@@ -225,7 +226,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3897183
+        "total": 3900755
       },
       "genres": [
         "mexican hip hop",
@@ -297,7 +298,7 @@
       },
       "followers": {
         "href": null,
-        "total": 207411
+        "total": 207681
       },
       "genres": [
         "mexican hip hop",
@@ -334,7 +335,7 @@
       },
       "followers": {
         "href": null,
-        "total": 100323
+        "total": 100418
       },
       "genres": [
         "trap mexicano",
@@ -370,7 +371,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2893
+        "total": 2896
       },
       "genres": [
         "urbano mexicano"
@@ -441,7 +442,7 @@
       },
       "followers": {
         "href": null,
-        "total": 229803
+        "total": 229986
       },
       "genres": [
         "latin hip hop",
@@ -478,7 +479,7 @@
       },
       "followers": {
         "href": null,
-        "total": 196350
+        "total": 196492
       },
       "genres": [
         "mexican hip hop",
@@ -514,7 +515,7 @@
       },
       "followers": {
         "href": null,
-        "total": 125582
+        "total": 125675
       },
       "genres": [
         "mexican hip hop",
@@ -540,7 +541,7 @@
         }
       ],
       "name": "West Gold",
-      "popularity": 47,
+      "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
@@ -550,7 +551,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2266848
+        "total": 2267636
       },
       "genres": [
         "latin hip hop",
@@ -599,17 +600,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbaaf11d94da66eee2c0105da",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5bd2ce976208da354db83478",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174baaf11d94da66eee2c0105da",
+          "url": "https://i.scdn.co/image/ab676161000051745bd2ce976208da354db83478",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178baaf11d94da66eee2c0105da",
+          "url": "https://i.scdn.co/image/ab6761610000f1785bd2ce976208da354db83478",
           "width": 160
         }
       ],
@@ -624,7 +625,7 @@
       },
       "followers": {
         "href": null,
-        "total": 81449
+        "total": 81476
       },
       "genres": [
         "mexican hip hop",
@@ -734,7 +735,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1993285
+        "total": 1994824
       },
       "genres": [
         "colombian hip hop",
@@ -770,7 +771,7 @@
       },
       "followers": {
         "href": null,
-        "total": 135832
+        "total": 135943
       },
       "genres": [
         "mexican hip hop",
@@ -842,7 +843,7 @@
       },
       "followers": {
         "href": null,
-        "total": 707550
+        "total": 708417
       },
       "genres": [
         "mexican hip hop"
@@ -852,17 +853,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6d66d282043eaf6762f81d07",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746d66d282043eaf6762f81d07",
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786d66d282043eaf6762f81d07",
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
           "width": 160
         }
       ],
@@ -1015,7 +1016,7 @@
         }
       ],
       "name": "Bizarrap",
-      "popularity": 89,
+      "popularity": 90,
       "type": "artist",
       "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
     }

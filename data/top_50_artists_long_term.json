@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3897183
+        "total": 3900755
       },
       "genres": [
         "mexican hip hop",
@@ -78,13 +78,14 @@
       },
       "followers": {
         "href": null,
-        "total": 357607
+        "total": 357788
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
         "perreo",
-        "rap underground mexicano"
+        "rap underground mexicano",
+        "rock en espanol"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -188,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 207411
+        "total": 207681
       },
       "genres": [
         "mexican hip hop",
@@ -262,7 +263,7 @@
       },
       "followers": {
         "href": null,
-        "total": 196350
+        "total": 196492
       },
       "genres": [
         "mexican hip hop",
@@ -298,7 +299,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19251
+        "total": 19256
       },
       "genres": [
         "mexican hip hop",
@@ -370,7 +371,7 @@
       },
       "followers": {
         "href": null,
-        "total": 125582
+        "total": 125675
       },
       "genres": [
         "mexican hip hop",
@@ -396,7 +397,7 @@
         }
       ],
       "name": "West Gold",
-      "popularity": 47,
+      "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
@@ -411,7 +412,6 @@
       "genres": [
         "latin hip hop",
         "mexican hip hop",
-        "perreo",
         "rap conciencia",
         "urbano mexicano"
       ],
@@ -482,7 +482,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2266848
+        "total": 2267636
       },
       "genres": [
         "latin hip hop",
@@ -556,12 +556,13 @@
       },
       "followers": {
         "href": null,
-        "total": 268243
+        "total": 268427
       },
       "genres": [
         "latin hip hop",
         "mexican hip hop",
-        "trap mexicano"
+        "trap mexicano",
+        "urbano mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
       "id": "6viZnVSHavFUcW0blu6Mvw",
@@ -593,7 +594,7 @@
       },
       "followers": {
         "href": null,
-        "total": 100323
+        "total": 100418
       },
       "genres": [
         "trap mexicano",
@@ -629,7 +630,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1993285
+        "total": 1994824
       },
       "genres": [
         "colombian hip hop",
@@ -665,7 +666,7 @@
       },
       "followers": {
         "href": null,
-        "total": 81449
+        "total": 81476
       },
       "genres": [
         "mexican hip hop",
@@ -702,7 +703,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2043508
+        "total": 2043922
       },
       "genres": [
         "latin alternative",
@@ -732,7 +733,7 @@
         }
       ],
       "name": "Molotov",
-      "popularity": 66,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
     },
@@ -742,7 +743,7 @@
       },
       "followers": {
         "href": null,
-        "total": 759953
+        "total": 760544
       },
       "genres": [
         "latin hip hop",
@@ -816,7 +817,7 @@
       },
       "followers": {
         "href": null,
-        "total": 229803
+        "total": 229986
       },
       "genres": [
         "latin hip hop",
@@ -889,7 +890,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14647
+        "total": 14652
       },
       "genres": [
         "mexican hip hop"
@@ -957,7 +958,7 @@
       },
       "followers": {
         "href": null,
-        "total": 507781
+        "total": 508034
       },
       "genres": [
         "trap venezolano",
@@ -993,7 +994,7 @@
       },
       "followers": {
         "href": null,
-        "total": 55234
+        "total": 55270
       },
       "genres": [
         "indie campechano",
@@ -1059,7 +1060,7 @@
         }
       ],
       "name": "Bizarrap",
-      "popularity": 89,
+      "popularity": 90,
       "type": "artist",
       "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
     },
@@ -1131,7 +1132,7 @@
         }
       ],
       "name": "TREN LOKOTE",
-      "popularity": 61,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
     },
@@ -1141,7 +1142,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2605597
+        "total": 2606280
       },
       "genres": [
         "hip hop",
@@ -1178,7 +1179,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2798966
+        "total": 2799382
       },
       "genres": [
         "latin afrobeat",
@@ -1259,7 +1260,7 @@
       },
       "followers": {
         "href": null,
-        "total": 707550
+        "total": 708417
       },
       "genres": [
         "mexican hip hop"
@@ -1269,17 +1270,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6d66d282043eaf6762f81d07",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746d66d282043eaf6762f81d07",
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786d66d282043eaf6762f81d07",
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
           "width": 160
         }
       ],
@@ -1294,7 +1295,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5975
+        "total": 5976
       },
       "genres": [
         "mexican hip hop",
@@ -1330,7 +1331,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4258341
+        "total": 4260957
       },
       "genres": [
         "norteno"
@@ -1355,7 +1356,7 @@
         }
       ],
       "name": "Los Tigres Del Norte",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:3hYtANQYrE6pd2PbtEyTIy"
     },
@@ -1376,17 +1377,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbaaf11d94da66eee2c0105da",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5bd2ce976208da354db83478",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174baaf11d94da66eee2c0105da",
+          "url": "https://i.scdn.co/image/ab676161000051745bd2ce976208da354db83478",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178baaf11d94da66eee2c0105da",
+          "url": "https://i.scdn.co/image/ab6761610000f1785bd2ce976208da354db83478",
           "width": 160
         }
       ],
@@ -1413,17 +1414,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5a16c5942367291ff53e49d9",
+          "url": "https://i.scdn.co/image/ab6761610000e5eba7205e514f725d31ab23cec4",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745a16c5942367291ff53e49d9",
+          "url": "https://i.scdn.co/image/ab67616100005174a7205e514f725d31ab23cec4",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785a16c5942367291ff53e49d9",
+          "url": "https://i.scdn.co/image/ab6761610000f178a7205e514f725d31ab23cec4",
           "width": 160
         }
       ],
@@ -1438,7 +1439,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8076
+        "total": 8080
       },
       "genres": [
         "mexican hip hop",
@@ -1474,7 +1475,7 @@
       },
       "followers": {
         "href": null,
-        "total": 369917
+        "total": 370105
       },
       "genres": [
         "mexican hip hop",
@@ -1510,7 +1511,7 @@
       },
       "followers": {
         "href": null,
-        "total": 543666
+        "total": 544135
       },
       "genres": [
         "trap mexicano",
@@ -1536,7 +1537,7 @@
         }
       ],
       "name": "Ad\u00e1n Cruz",
-      "popularity": 61,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
     },
@@ -1582,7 +1583,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22709488
+        "total": 22719190
       },
       "genres": [
         "conscious hip hop",
@@ -1620,7 +1621,7 @@
       },
       "followers": {
         "href": null,
-        "total": 105281
+        "total": 105373
       },
       "genres": [
         "mexican hip hop",
@@ -1656,7 +1657,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1205024
+        "total": 1206125
       },
       "genres": [
         "chicano rap",
@@ -1693,7 +1694,7 @@
       },
       "followers": {
         "href": null,
-        "total": 268039
+        "total": 268164
       },
       "genres": [
         "boom bap espanol",
@@ -1732,7 +1733,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1412157
+        "total": 1413523
       },
       "genres": [
         "latin hip hop",
@@ -1806,7 +1807,7 @@
       },
       "followers": {
         "href": null,
-        "total": 135832
+        "total": 135943
       },
       "genres": [
         "mexican hip hop",
@@ -1840,7 +1841,7 @@
   "total": 50,
   "limit": 50,
   "offset": 0,
-  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
   "next": null
 }
