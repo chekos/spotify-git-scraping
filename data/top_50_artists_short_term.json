@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13127929
+        "total": 13142059
       },
       "genres": [
         "latin hip hop",
@@ -36,42 +36,6 @@
       "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-      },
-      "followers": {
-        "href": null,
-        "total": 1034564
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb56c6d597493edcdf49efe53b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517456c6d597493edcdf49efe53b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17856c6d597493edcdf49efe53b",
-          "width": 160
-        }
-      ],
-      "name": "Remik Gonzalez",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     },
     {
       "external_urls": {
@@ -111,11 +75,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+      },
+      "followers": {
+        "href": null,
+        "total": 1035574
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb56c6d597493edcdf49efe53b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517456c6d597493edcdf49efe53b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17856c6d597493edcdf49efe53b",
+          "width": 160
+        }
+      ],
+      "name": "Remik Gonzalez",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
         "href": null,
-        "total": 19280
+        "total": 19283
       },
       "genres": [
         "mexican hip hop",
@@ -151,7 +151,7 @@
       },
       "followers": {
         "href": null,
-        "total": 358788
+        "total": 358976
       },
       "genres": [
         "latin hip hop",
@@ -190,7 +190,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2920
+        "total": 2922
       },
       "genres": [
         "urbano mexicano"
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7104586
+        "total": 7112714
       },
       "genres": [
         "mexican hip hop"
@@ -260,7 +260,7 @@
       },
       "followers": {
         "href": null,
-        "total": 197210
+        "total": 197357
       },
       "genres": [
         "mexican hip hop",
@@ -296,7 +296,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3921014
+        "total": 3924467
       },
       "genres": [
         "mexican hip hop",
@@ -332,7 +332,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4486969
+        "total": 4490673
       },
       "genres": [
         "mexican hip hop",
@@ -368,7 +368,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25175
+        "total": 25193
       },
       "genres": [
         "mexican hip hop",
@@ -404,7 +404,7 @@
       },
       "followers": {
         "href": null,
-        "total": 509355
+        "total": 509615
       },
       "genres": [
         "trap venezolano",
@@ -440,7 +440,7 @@
       },
       "followers": {
         "href": null,
-        "total": 170290
+        "total": 170464
       },
       "genres": [
         "trap mexicano",
@@ -476,7 +476,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1111121
+        "total": 1112347
       },
       "genres": [
         "mexican hip hop"
@@ -507,11 +507,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+      },
+      "followers": {
+        "href": null,
+        "total": 101055
+      },
+      "genres": [
+        "trap mexicano",
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+      "id": "7I85Ma5xjAo6nlvqOCIiWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4b1dc8b01a7a0a1feef8ca09",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744b1dc8b01a7a0a1feef8ca09",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784b1dc8b01a7a0a1feef8ca09",
+          "width": 160
+        }
+      ],
+      "name": "Fntxy",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
       },
       "followers": {
         "href": null,
-        "total": 209291
+        "total": 209598
       },
       "genres": [
         "mexican hip hop",
@@ -544,47 +580,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-      },
-      "followers": {
-        "href": null,
-        "total": 100969
-      },
-      "genres": [
-        "trap mexicano",
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
-      "id": "7I85Ma5xjAo6nlvqOCIiWx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4b1dc8b01a7a0a1feef8ca09",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744b1dc8b01a7a0a1feef8ca09",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784b1dc8b01a7a0a1feef8ca09",
-          "width": 160
-        }
-      ],
-      "name": "Fntxy",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
       },
       "followers": {
         "href": null,
-        "total": 866111
+        "total": 867089
       },
       "genres": [
         "latin hip hop",
@@ -621,7 +621,7 @@
       },
       "followers": {
         "href": null,
-        "total": 230910
+        "total": 231072
       },
       "genres": [
         "latin hip hop",
@@ -658,7 +658,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1883904
+        "total": 1886030
       },
       "genres": [
         "latin hip hop",
@@ -684,7 +684,7 @@
         }
       ],
       "name": "Dharius",
-      "popularity": 66,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
@@ -694,7 +694,7 @@
       },
       "followers": {
         "href": null,
-        "total": 713536
+        "total": 714478
       },
       "genres": [
         "mexican hip hop"
@@ -729,7 +729,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18627
+        "total": 18631
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
