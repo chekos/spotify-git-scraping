@@ -6051,7 +6051,7 @@
         "id": "7DKpmCRj7QBuA49CH9gu6l",
         "is_local": false,
         "name": "Nubes",
-        "popularity": 43,
+        "popularity": 42,
         "preview_url": "https://p.scdn.co/mp3-preview/0ef248ca746672c6d9fe2b56e9263fa1c6104a79?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
@@ -10716,7 +10716,7 @@
         "id": "6G2sWxMuVUGN8kuVwtnDT7",
         "is_local": false,
         "name": "Somos o No Somos",
-        "popularity": 19,
+        "popularity": 18,
         "preview_url": "https://p.scdn.co/mp3-preview/76b271fab15cba789ea23652c3f243d0297e0a93?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 5,
         "type": "track",
@@ -18513,7 +18513,7 @@
         "id": "5XEVGtwVfLVHrgZURRlLPy",
         "is_local": false,
         "name": "Degeneraci\u00f3n Nacional",
-        "popularity": 33,
+        "popularity": 32,
         "preview_url": "https://p.scdn.co/mp3-preview/ed4441810ef942e580045a35add78abd12cfa74f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 13,
         "type": "track",
@@ -21289,7 +21289,7 @@
         "id": "4hPl8CtzHoh9LMmKTFyiPl",
         "is_local": false,
         "name": "Lupe Esparza",
-        "popularity": 35,
+        "popularity": 34,
         "preview_url": "https://p.scdn.co/mp3-preview/7035b6dfa4ce2ff1e33a77ae27780ec6ca630d85?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 5,
         "type": "track",
@@ -22207,5 +22207,5 @@
     "before": "1675213574529"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1675754447000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1675758517000&limit=50"
 }
