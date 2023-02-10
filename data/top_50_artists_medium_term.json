@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 360165
+        "total": 360346
       },
       "genres": [
         "latin hip hop",
@@ -44,7 +44,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19300
+        "total": 19305
       },
       "genres": [
         "mexican hip hop",
@@ -81,7 +81,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4514286
+        "total": 4517490
       },
       "genres": [
         "mexican hip hop",
@@ -117,7 +117,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25286
+        "total": 25293
       },
       "genres": [
         "mexican hip hop",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 101640
+        "total": 101714
       },
       "genres": [
         "rap underground mexicano",
@@ -190,7 +190,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1042112
+        "total": 1043013
       },
       "genres": [
         "latin hip hop",
@@ -226,7 +226,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13224182
+        "total": 13234952
       },
       "genres": [
         "latin hip hop",
@@ -263,7 +263,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3944470
+        "total": 3947357
       },
       "genres": [
         "mexican hip hop",
@@ -299,7 +299,7 @@
       },
       "followers": {
         "href": null,
-        "total": 198111
+        "total": 198286
       },
       "genres": [
         "mexican hip hop",
@@ -335,7 +335,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6009
+        "total": 6012
       },
       "genres": [
         "mexican hip hop",
@@ -371,7 +371,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7166130
+        "total": 7173584
       },
       "genres": [
         "mexican hip hop"
@@ -406,7 +406,7 @@
       },
       "followers": {
         "href": null,
-        "total": 511389
+        "total": 511633
       },
       "genres": [
         "trap venezolano",
@@ -442,7 +442,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1334930
+        "total": 1335896
       },
       "genres": [
         "latin hip hop",
@@ -481,7 +481,7 @@
       },
       "followers": {
         "href": null,
-        "total": 232198
+        "total": 232363
       },
       "genres": [
         "mexican hip hop",
@@ -517,7 +517,7 @@
       },
       "followers": {
         "href": null,
-        "total": 211355
+        "total": 211589
       },
       "genres": [
         "mexican hip hop",
@@ -550,11 +550,49 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+      },
+      "followers": {
+        "href": null,
+        "total": 2288538
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "rap conciencia",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+      "id": "1QhaqxeqF9sipS2gwbEKpu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb334c841c9a00210607162078",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174334c841c9a00210607162078",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178334c841c9a00210607162078",
+          "width": 160
+        }
+      ],
+      "name": "C-Kan",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
         "href": null,
-        "total": 1899901
+        "total": 1901841
       },
       "genres": [
         "latin hip hop",
@@ -586,11 +624,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+      },
+      "followers": {
+        "href": null,
+        "total": 126860
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+      "id": "1gPiNBRjOB9XochAAFR3iM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
+          "width": 160
+        }
+      ],
+      "name": "West Gold",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
       "followers": {
         "href": null,
-        "total": 64214443
+        "total": 64268955
       },
       "genres": [
         "reggaeton",
@@ -627,7 +701,7 @@
       },
       "followers": {
         "href": null,
-        "total": 55908
+        "total": 55950
       },
       "genres": [
         "indie campechano",
@@ -660,47 +734,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
-      },
-      "followers": {
-        "href": null,
-        "total": 126792
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap underground mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-      "id": "1gPiNBRjOB9XochAAFR3iM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
-          "width": 160
-        }
-      ],
-      "name": "West Gold",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
         "href": null,
-        "total": 1119345
+        "total": 1120309
       },
       "genres": [
         "mexican hip hop",
@@ -736,7 +774,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25299
+        "total": 25320
       },
       "genres": [
         "mexican hip hop",
@@ -772,7 +810,7 @@
       },
       "followers": {
         "href": null,
-        "total": 171470
+        "total": 171609
       },
       "genres": [
         "trap mexicano",
@@ -783,17 +821,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc90774a0c60d442d3004581b",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb31cfcbd9e4a7daefd997c46a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c90774a0c60d442d3004581b",
+          "url": "https://i.scdn.co/image/ab6761610000517431cfcbd9e4a7daefd997c46a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c90774a0c60d442d3004581b",
+          "url": "https://i.scdn.co/image/ab6761610000f17831cfcbd9e4a7daefd997c46a",
           "width": 160
         }
       ],
@@ -808,7 +846,7 @@
       },
       "followers": {
         "href": null,
-        "total": 270681
+        "total": 270847
       },
       "genres": [
         "latin hip hop",
@@ -846,7 +884,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2936
+        "total": 2944
       },
       "genres": [
         "urbano mexicano"
@@ -881,7 +919,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2015321
+        "total": 2016877
       },
       "genres": [
         "colombian hip hop",
@@ -917,7 +955,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12200
+        "total": 12212
       },
       "genres": [
         "latin alternative"
@@ -948,49 +986,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-      },
-      "followers": {
-        "href": null,
-        "total": 2286908
-      },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "rap conciencia",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-      "id": "1QhaqxeqF9sipS2gwbEKpu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb334c841c9a00210607162078",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174334c841c9a00210607162078",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178334c841c9a00210607162078",
-          "width": 160
-        }
-      ],
-      "name": "C-Kan",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
       },
       "followers": {
         "href": null,
-        "total": 137491
+        "total": 137598
       },
       "genres": [
         "mexican hip hop",
@@ -1026,7 +1026,7 @@
       },
       "followers": {
         "href": null,
-        "total": 81958
+        "total": 81978
       },
       "genres": [
         "mexican hip hop",
@@ -1063,7 +1063,7 @@
       },
       "followers": {
         "href": null,
-        "total": 723334
+        "total": 724509
       },
       "genres": [
         "mexican hip hop"
@@ -1098,7 +1098,7 @@
       },
       "followers": {
         "href": null,
-        "total": 589906
+        "total": 590180
       },
       "genres": [
         "latin hip hop",
@@ -1124,7 +1124,7 @@
         }
       ],
       "name": "Santa RM",
-      "popularity": 59,
+      "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:30BSBWLKnYJION1lCPugXc"
     },
@@ -1134,7 +1134,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14786
+        "total": 14790
       },
       "genres": [
         "mexican hip hop"
@@ -1169,7 +1169,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9072833
+        "total": 9091322
       },
       "genres": [
         "argentine hip hop",
@@ -1208,7 +1208,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3448091
+        "total": 3450040
       },
       "genres": [
         "argentine rock",
@@ -1254,7 +1254,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1433500
+        "total": 1434778
       },
       "genres": [
         "latin hip hop",
@@ -1291,7 +1291,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2241625
+        "total": 2242429
       },
       "genres": [
         "mexican hip hop",
@@ -1331,7 +1331,6 @@
         "total": 7342
       },
       "genres": [
-        "indie poptimism",
         "milwaukee indie"
       ],
       "href": "https://api.spotify.com/v1/artists/4AHhe1KXVCCoOdHQNjH5Zu",
@@ -1364,7 +1363,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10568047
+        "total": 10591108
       },
       "genres": [
         "pop",
@@ -1400,7 +1399,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25159
+        "total": 25181
       },
       "genres": [
         "mexican hip hop",
@@ -1438,7 +1437,7 @@
       },
       "followers": {
         "href": null,
-        "total": 549761
+        "total": 550152
       },
       "genres": [
         "trap mexicano",
@@ -1474,7 +1473,7 @@
       },
       "followers": {
         "href": null,
-        "total": 227015
+        "total": 227164
       },
       "genres": [
         "mexican hip hop",
@@ -1511,7 +1510,7 @@
       },
       "followers": {
         "href": null,
-        "total": 119047
+        "total": 119155
       },
       "genres": [
         "mexican hip hop",
@@ -1547,7 +1546,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18650
+        "total": 18654
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
@@ -1570,7 +1569,7 @@
         }
       ],
       "name": "Danger",
-      "popularity": 35,
+      "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:23TYM4mYLQjyJLr4x89MjH"
     },
@@ -1580,7 +1579,7 @@
       },
       "followers": {
         "href": null,
-        "total": 836617
+        "total": 836995
       },
       "genres": [
         "cantautor",
@@ -1650,11 +1649,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
+      },
+      "followers": {
+        "href": null,
+        "total": 21465
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2nJOVl8u7PntefIs1Uwb4z",
+      "id": "2nJOVl8u7PntefIs1Uwb4z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9a19279a616c73655571e4d3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749a19279a616c73655571e4d3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789a19279a616c73655571e4d3",
+          "width": 160
+        }
+      ],
+      "name": "Don Kalavera",
+      "popularity": 35,
+      "type": "artist",
+      "uri": "spotify:artist:2nJOVl8u7PntefIs1Uwb4z"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
       },
       "followers": {
         "href": null,
-        "total": 873002
+        "total": 873795
       },
       "genres": [
         "latin hip hop",
@@ -1691,7 +1725,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1246064
+        "total": 1247363
       },
       "genres": [
         "latin hip hop",
@@ -1727,7 +1761,7 @@
       },
       "followers": {
         "href": null,
-        "total": 372642
+        "total": 372812
       },
       "genres": [
         "mexican hip hop",
@@ -1763,7 +1797,7 @@
       },
       "followers": {
         "href": null,
-        "total": 572476
+        "total": 572740
       },
       "genres": [
         "alternative r&b",
@@ -1793,41 +1827,6 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:3p3jPcp8b7WL9XYj4xlsWj"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
-      },
-      "followers": {
-        "href": null,
-        "total": 21455
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2nJOVl8u7PntefIs1Uwb4z",
-      "id": "2nJOVl8u7PntefIs1Uwb4z",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9a19279a616c73655571e4d3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749a19279a616c73655571e4d3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789a19279a616c73655571e4d3",
-          "width": 160
-        }
-      ],
-      "name": "Don Kalavera",
-      "popularity": 35,
-      "type": "artist",
-      "uri": "spotify:artist:2nJOVl8u7PntefIs1Uwb4z"
     }
   ],
   "total": 50,
