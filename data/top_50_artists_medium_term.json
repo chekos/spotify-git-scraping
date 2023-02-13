@@ -45,7 +45,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19311
+        "total": 19315
       },
       "genres": [
         "mexican hip hop",
@@ -82,7 +82,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4523806
+        "total": 4527225
       },
       "genres": [
         "mexican hip hop",
@@ -192,7 +192,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13255616
+        "total": 13266949
       },
       "genres": [
         "latin hip hop",
@@ -705,7 +705,7 @@
       },
       "followers": {
         "href": null,
-        "total": 64373079
+        "total": 64430223
       },
       "genres": [
         "reggaeton",
@@ -1175,7 +1175,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14791
+        "total": 14801
       },
       "genres": [
         "mexican hip hop",
@@ -1211,7 +1211,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9129743
+        "total": 9149033
       },
       "genres": [
         "argentine hip hop",
@@ -1250,7 +1250,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3454167
+        "total": 3456342
       },
       "genres": [
         "argentine rock",
@@ -1296,7 +1296,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25224
+        "total": 25251
       },
       "genres": [
         "mexican hip hop",
@@ -1626,7 +1626,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18659
+        "total": 18660
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
