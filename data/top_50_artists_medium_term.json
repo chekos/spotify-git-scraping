@@ -626,7 +626,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2301364
+        "total": 2303008
       },
       "genres": [
         "latin hip hop",
@@ -1207,7 +1207,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9234316
+        "total": 9252985
       },
       "genres": [
         "argentine hip hop",
@@ -1548,7 +1548,7 @@
       },
       "followers": {
         "href": null,
-        "total": 553027
+        "total": 553349
       },
       "genres": [
         "trap mexicano",
@@ -1727,7 +1727,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18668
+        "total": 18667
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
