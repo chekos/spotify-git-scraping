@@ -12,8 +12,7 @@
         "latin hip hop",
         "mexican hip hop",
         "perreo",
-        "rap underground mexicano",
-        "rock en espanol"
+        "rap underground mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -445,7 +444,6 @@
         "total": 234990
       },
       "genres": [
-        "latin hip hop",
         "mexican hip hop",
         "rap underground mexicano"
       ],
@@ -990,7 +988,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1455364
+        "total": 1456542
       },
       "genres": [
         "latin hip hop",
@@ -1132,7 +1130,7 @@
       },
       "followers": {
         "href": null,
-        "total": 82494
+        "total": 82526
       },
       "genres": [
         "mexican hip hop",
@@ -1209,8 +1207,7 @@
       },
       "genres": [
         "mexican hip hop",
-        "rap underground mexicano",
-        "urbano mexicano"
+        "rap underground mexicano"
       ],
       "href": "https://api.spotify.com/v1/artists/6JG2QQcaQBzinELNvu9PRk",
       "id": "6JG2QQcaQBzinELNvu9PRk",
@@ -1316,7 +1313,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3484288
+        "total": 3486069
       },
       "genres": [
         "argentine rock",
@@ -1398,7 +1395,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7371
+        "total": 7373
       },
       "genres": [
         "milwaukee indie"
