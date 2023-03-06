@@ -11243,7 +11243,7 @@
         "id": "0RG0QWkQYTgmfvmy0MFU1Y",
         "is_local": false,
         "name": "Its A Mess",
-        "popularity": 2,
+        "popularity": 1,
         "preview_url": "https://p.scdn.co/mp3-preview/faa1e53b67633990a4364db4e38f93c42f02e385?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
@@ -21927,5 +21927,5 @@
     "before": "1677276214875"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1678112242000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1678115868000&limit=50"
 }
