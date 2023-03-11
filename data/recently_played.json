@@ -12692,7 +12692,7 @@
         "id": "6AHT9TyhToIdGcXV7JyZjr",
         "is_local": false,
         "name": "Prendido",
-        "popularity": 1,
+        "popularity": 0,
         "preview_url": "https://p.scdn.co/mp3-preview/beda5f46a444f230f49dee61e48be1482f7253f0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
@@ -22480,5 +22480,5 @@
     "before": "1678125990883"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1678526459000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1678530268000&limit=50"
 }
