@@ -1980,7 +1980,7 @@
       "id": "55ZATsjPlTeSTNJOuW90pW",
       "is_local": false,
       "name": "Shorty Party",
-      "popularity": 85,
+      "popularity": 86,
       "preview_url": "https://p.scdn.co/mp3-preview/861a31225cff10db2eedeb5c28bf6d0a4ecc4bc9?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -4470,7 +4470,7 @@
       "id": "7pXwx7adDm53P1mHDcz21Y",
       "is_local": false,
       "name": "Roberto G\u00f3mez Bola\u00f1os",
-      "popularity": 47,
+      "popularity": 48,
       "preview_url": "https://p.scdn.co/mp3-preview/765c9df98b4f5e569e10cbd39192c1e5fb04518f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 5,
       "type": "track",
@@ -7421,13 +7421,13 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3Mp8C0vL1gSAS6DLYdLL0U"
+            "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
           },
-          "href": "https://api.spotify.com/v1/artists/3Mp8C0vL1gSAS6DLYdLL0U",
-          "id": "3Mp8C0vL1gSAS6DLYdLL0U",
+          "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
+          "id": "1jVhcHIGJuk16eqY1Mdtuk",
           "name": "Dee",
           "type": "artist",
-          "uri": "spotify:artist:3Mp8C0vL1gSAS6DLYdLL0U"
+          "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
         },
         {
           "external_urls": {
@@ -8018,7 +8018,7 @@
       "id": "77zBQ9qB6F8LKozVDMZXPp",
       "is_local": false,
       "name": "Pal Negocio",
-      "popularity": 35,
+      "popularity": 36,
       "preview_url": "https://p.scdn.co/mp3-preview/f81c7eb032f8e367b9fd2bddce32408b1fc2dbb0?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 14,
       "type": "track",
@@ -8593,7 +8593,7 @@
       "id": "6vTX1n0ZFlX722ei4lhqTL",
       "is_local": false,
       "name": "Hago Ruido",
-      "popularity": 36,
+      "popularity": 37,
       "preview_url": "https://p.scdn.co/mp3-preview/641cde40f7f75d01d777d90f09a8775881da2476?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -9808,7 +9808,7 @@
       "id": "2WNPCBgCQmcKqbFJQC9pK8",
       "is_local": false,
       "name": "Esta Vida Me Encanta (feat. Zimple & Don Aero)",
-      "popularity": 64,
+      "popularity": 65,
       "preview_url": "https://p.scdn.co/mp3-preview/17df06820b7741950614aec07b617f7c28e2790c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 5,
       "type": "track",
