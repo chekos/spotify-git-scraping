@@ -23242,5 +23242,5 @@
     "before": "1678308738344"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1679120282000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1679123804000&limit=50"
 }
