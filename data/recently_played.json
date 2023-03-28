@@ -15316,7 +15316,7 @@
         "id": "1CjpaNIGC4spV6S3m0k6FL",
         "is_local": false,
         "name": "Ni la Suerte Ni el Fuego",
-        "popularity": 34,
+        "popularity": 35,
         "preview_url": "https://p.scdn.co/mp3-preview/641902ff1a19bc6276449f59baa4c6efe9722469?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 13,
         "type": "track",
@@ -23214,5 +23214,5 @@
     "before": "1679693867983"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1679987812000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1679991498000&limit=50"
 }
