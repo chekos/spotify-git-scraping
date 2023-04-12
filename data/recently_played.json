@@ -3645,7 +3645,7 @@
         "id": "3epVmLoAxkA9Oi2XtoETVr",
         "is_local": false,
         "name": "Soliloquio",
-        "popularity": 17,
+        "popularity": 18,
         "preview_url": "https://p.scdn.co/mp3-preview/b4bb6291d6dbf1c87463b2d93213e1e12da4c40c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 5,
         "type": "track",
@@ -15205,7 +15205,7 @@
         "id": "2Zz421KygKxmx3jNwIEamm",
         "is_local": false,
         "name": "Aprend\u00ed",
-        "popularity": 27,
+        "popularity": 28,
         "preview_url": "https://p.scdn.co/mp3-preview/77ccb63e9d1aa19d917db9925f4accc6df6cdb6a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 12,
         "type": "track",
@@ -16169,7 +16169,7 @@
         "id": "3rEdLP0tEgsWsTgrYU4TfY",
         "is_local": false,
         "name": "Suena",
-        "popularity": 18,
+        "popularity": 19,
         "preview_url": "https://p.scdn.co/mp3-preview/25e4feea07b57bced9b1f86a36f819e6ef40c51a?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 4,
         "type": "track",
@@ -23055,5 +23055,5 @@
     "before": "1680994461027"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1681280285000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?before=1681283817000&limit=50"
 }
