@@ -68,7 +68,7 @@
         }
       ],
       "name": "Robot95",
-      "popularity": 61,
+      "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
     },
@@ -90,17 +90,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe025eda5d1d57d6d12df03ce",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe2bf3bb7c48c859b90237f63",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e025eda5d1d57d6d12df03ce",
+          "url": "https://i.scdn.co/image/ab67616100005174e2bf3bb7c48c859b90237f63",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e025eda5d1d57d6d12df03ce",
+          "url": "https://i.scdn.co/image/ab6761610000f178e2bf3bb7c48c859b90237f63",
           "width": 160
         }
       ],
@@ -928,7 +928,7 @@
         }
       ],
       "name": "El Pinche Mara",
-      "popularity": 54,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
     },
