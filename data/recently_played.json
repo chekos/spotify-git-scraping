@@ -3,7 +3,6 @@
     {
       "track": {
         "album": {
-          "album_group": "single",
           "album_type": "single",
           "artists": [
             {
@@ -78,6 +77,7 @@
             "EE",
             "EG",
             "ES",
+            "ET",
             "FI",
             "FJ",
             "FM",
