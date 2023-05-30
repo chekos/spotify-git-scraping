@@ -9918,7 +9918,7 @@
       "id": "2g00YIKdeyDowMsrgsZUSx",
       "is_local": false,
       "name": "Dolo",
-      "popularity": 21,
+      "popularity": 20,
       "preview_url": "https://p.scdn.co/mp3-preview/412bcb73f75d0064f792ea797546a4f7f39042c7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -10165,7 +10165,7 @@
       "id": "7eg5ULKbZ6M897SYk1h4xf",
       "is_local": false,
       "name": "No Hay M\u00e1s",
-      "popularity": 20,
+      "popularity": 19,
       "preview_url": "https://p.scdn.co/mp3-preview/53a6e55d827fc7681e0931463bc08578126cd46f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 10,
       "type": "track",
@@ -11785,6 +11785,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=long_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
