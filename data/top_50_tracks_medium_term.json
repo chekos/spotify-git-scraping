@@ -6139,7 +6139,7 @@
       "id": "1sdcX32ub17bJ6YbJvK9Vc",
       "is_local": false,
       "name": "Tr\u00f3pico de C\u00e1ncer II",
-      "popularity": 25,
+      "popularity": 26,
       "preview_url": "https://p.scdn.co/mp3-preview/e3f044c075235bb8b25a576accceebe86c0be249?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 6,
       "type": "track",
@@ -12345,6 +12345,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
