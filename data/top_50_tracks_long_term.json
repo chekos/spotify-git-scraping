@@ -2897,113 +2897,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-            },
-            "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
-            "id": "4o0NtnL2m0lzZmEdRas1qv",
-            "name": "Ovi",
-            "type": "artist",
-            "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4F0rGHT1EaBfRZg4u8NMxj"
-        },
-        "href": "https://api.spotify.com/v1/albums/4F0rGHT1EaBfRZg4u8NMxj",
-        "id": "4F0rGHT1EaBfRZg4u8NMxj",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273deed3507d6302e03972c218c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02deed3507d6302e03972c218c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851deed3507d6302e03972c218c",
-            "width": 64
-          }
-        ],
-        "name": "Vengo De Nada",
-        "release_date": "2020-08-11",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:4F0rGHT1EaBfRZg4u8NMxj"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-          },
-          "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
-          "id": "4o0NtnL2m0lzZmEdRas1qv",
-          "name": "Ovi",
-          "type": "artist",
-          "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-          },
-          "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
-          "id": "0elWFr7TW8piilVRYJUe4P",
-          "name": "Natanael Cano",
-          "type": "artist",
-          "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-          },
-          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
-          "id": "4QFG9KrGWEbr6hNA58CAqE",
-          "name": "Aleman",
-          "type": "artist",
-          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-          },
-          "href": "https://api.spotify.com/v1/artists/2TQ4CGgxxCWHqa9yYIGDoU",
-          "id": "2TQ4CGgxxCWHqa9yYIGDoU",
-          "name": "Big Soto",
-          "type": "artist",
-          "uri": "spotify:artist:2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 221802,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "US3DF2068504"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/160ZND0RP8hdUgNhs27lC3"
-      },
-      "href": "https://api.spotify.com/v1/tracks/160ZND0RP8hdUgNhs27lC3",
-      "id": "160ZND0RP8hdUgNhs27lC3",
-      "is_local": false,
-      "name": "Vengo De Nada",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:160ZND0RP8hdUgNhs27lC3"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
             },
             "href": "https://api.spotify.com/v1/artists/3fo4UvMNzZUCFS90Roh5iK",
@@ -3234,6 +3127,380 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:2SKCG5dtZJh7vwhWJi7rCZ"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+            },
+            "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
+            "id": "4o0NtnL2m0lzZmEdRas1qv",
+            "name": "Ovi",
+            "type": "artist",
+            "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4F0rGHT1EaBfRZg4u8NMxj"
+        },
+        "href": "https://api.spotify.com/v1/albums/4F0rGHT1EaBfRZg4u8NMxj",
+        "id": "4F0rGHT1EaBfRZg4u8NMxj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273deed3507d6302e03972c218c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02deed3507d6302e03972c218c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851deed3507d6302e03972c218c",
+            "width": 64
+          }
+        ],
+        "name": "Vengo De Nada",
+        "release_date": "2020-08-11",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:4F0rGHT1EaBfRZg4u8NMxj"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          },
+          "href": "https://api.spotify.com/v1/artists/4o0NtnL2m0lzZmEdRas1qv",
+          "id": "4o0NtnL2m0lzZmEdRas1qv",
+          "name": "Ovi",
+          "type": "artist",
+          "uri": "spotify:artist:4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          },
+          "href": "https://api.spotify.com/v1/artists/0elWFr7TW8piilVRYJUe4P",
+          "id": "0elWFr7TW8piilVRYJUe4P",
+          "name": "Natanael Cano",
+          "type": "artist",
+          "uri": "spotify:artist:0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          },
+          "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+          "id": "4QFG9KrGWEbr6hNA58CAqE",
+          "name": "Aleman",
+          "type": "artist",
+          "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+          },
+          "href": "https://api.spotify.com/v1/artists/2TQ4CGgxxCWHqa9yYIGDoU",
+          "id": "2TQ4CGgxxCWHqa9yYIGDoU",
+          "name": "Big Soto",
+          "type": "artist",
+          "uri": "spotify:artist:2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 221802,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "US3DF2068504"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/160ZND0RP8hdUgNhs27lC3"
+      },
+      "href": "https://api.spotify.com/v1/tracks/160ZND0RP8hdUgNhs27lC3",
+      "id": "160ZND0RP8hdUgNhs27lC3",
+      "is_local": false,
+      "name": "Vengo De Nada",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:160ZND0RP8hdUgNhs27lC3"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+            },
+            "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+            "id": "31opIYTivWACiXXzX2khlj",
+            "name": "Denilson",
+            "type": "artist",
+            "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+            },
+            "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+            "id": "0U8dIwzBn17JkhYxmznp6T",
+            "name": "Jayrick",
+            "type": "artist",
+            "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5HMWKVH3tJnZAriq0YeeQ8"
+        },
+        "href": "https://api.spotify.com/v1/albums/5HMWKVH3tJnZAriq0YeeQ8",
+        "id": "5HMWKVH3tJnZAriq0YeeQ8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bebac2476bbad01da5723920",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bebac2476bbad01da5723920",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bebac2476bbad01da5723920",
+            "width": 64
+          }
+        ],
+        "name": "C\u00d3DIGOS",
+        "release_date": "2021-05-14",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:5HMWKVH3tJnZAriq0YeeQ8"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+          },
+          "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+          "id": "31opIYTivWACiXXzX2khlj",
+          "name": "Denilson",
+          "type": "artist",
+          "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+          "id": "0U8dIwzBn17JkhYxmznp6T",
+          "name": "Jayrick",
+          "type": "artist",
+          "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+          "name": "Santa Fe Klan",
+          "type": "artist",
+          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 204866,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZHZ42114118"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qr5vMJhYTfQxsplxALCXF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5qr5vMJhYTfQxsplxALCXF",
+      "id": "5qr5vMJhYTfQxsplxALCXF",
+      "is_local": false,
+      "name": "L\u00e1grimas y Sangre",
+      "popularity": 45,
+      "preview_url": "https://p.scdn.co/mp3-preview/45c55e2fe92f2b80fbf6dd6e79a9ccbf78f879ea?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5qr5vMJhYTfQxsplxALCXF"
     },
     {
       "album": {
@@ -3511,273 +3778,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:6xe2EUOW5eT7ZP4nHAaP5M"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-            },
-            "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-            "id": "31opIYTivWACiXXzX2khlj",
-            "name": "Denilson",
-            "type": "artist",
-            "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-            },
-            "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-            "id": "0U8dIwzBn17JkhYxmznp6T",
-            "name": "Jayrick",
-            "type": "artist",
-            "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5HMWKVH3tJnZAriq0YeeQ8"
-        },
-        "href": "https://api.spotify.com/v1/albums/5HMWKVH3tJnZAriq0YeeQ8",
-        "id": "5HMWKVH3tJnZAriq0YeeQ8",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273bebac2476bbad01da5723920",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02bebac2476bbad01da5723920",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851bebac2476bbad01da5723920",
-            "width": 64
-          }
-        ],
-        "name": "C\u00d3DIGOS",
-        "release_date": "2021-05-14",
-        "release_date_precision": "day",
-        "total_tracks": 8,
-        "type": "album",
-        "uri": "spotify:album:5HMWKVH3tJnZAriq0YeeQ8"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-          },
-          "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-          "id": "31opIYTivWACiXXzX2khlj",
-          "name": "Denilson",
-          "type": "artist",
-          "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-          },
-          "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-          "id": "0U8dIwzBn17JkhYxmznp6T",
-          "name": "Jayrick",
-          "type": "artist",
-          "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-          },
-          "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-          "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-          "name": "Santa Fe Klan",
-          "type": "artist",
-          "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 204866,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "QZHZ42114118"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/5qr5vMJhYTfQxsplxALCXF"
-      },
-      "href": "https://api.spotify.com/v1/tracks/5qr5vMJhYTfQxsplxALCXF",
-      "id": "5qr5vMJhYTfQxsplxALCXF",
-      "is_local": false,
-      "name": "L\u00e1grimas y Sangre",
-      "popularity": 45,
-      "preview_url": "https://p.scdn.co/mp3-preview/45c55e2fe92f2b80fbf6dd6e79a9ccbf78f879ea?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:5qr5vMJhYTfQxsplxALCXF"
     },
     {
       "album": {
@@ -5649,7 +5649,7 @@
       "id": "4Zs49a8sp1KbFbqJFZhY0N",
       "is_local": false,
       "name": "Botas y Texana",
-      "popularity": 35,
+      "popularity": 34,
       "preview_url": "https://p.scdn.co/mp3-preview/a2a4f5f71563620028033574dd4f01d72a29806c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 5,
       "type": "track",
