@@ -67,6 +67,7 @@
             "EE",
             "EG",
             "ES",
+            "ET",
             "FI",
             "FJ",
             "FM",
@@ -209,17 +210,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e5e1d88f05c330125a99b20a",
+              "url": "https://i.scdn.co/image/ab67616d0000b273092ea385be9adbc4977c5df1",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02e5e1d88f05c330125a99b20a",
+              "url": "https://i.scdn.co/image/ab67616d00001e02092ea385be9adbc4977c5df1",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851e5e1d88f05c330125a99b20a",
+              "url": "https://i.scdn.co/image/ab67616d00004851092ea385be9adbc4977c5df1",
               "width": 64
             }
           ],
@@ -441,7 +442,7 @@
         "id": "0dqvOUjae0tMy3N0gJsuND",
         "is_local": false,
         "name": "All\u00e1 Afuera",
-        "popularity": 21,
+        "popularity": 25,
         "preview_url": "https://p.scdn.co/mp3-preview/400ff8fdf36e0a2e122389b50e1e55e5b31170f1?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
