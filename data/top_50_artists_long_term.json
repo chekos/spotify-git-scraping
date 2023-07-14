@@ -287,6 +287,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb46fe0ede5d60fbf125cb706f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517446fe0ede5d60fbf125cb706f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17846fe0ede5d60fbf125cb706f",
+          "width": 160
+        }
+      ],
+      "name": "Remik Gonzalez",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
@@ -320,41 +355,6 @@
       "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb46fe0ede5d60fbf125cb706f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517446fe0ede5d60fbf125cb706f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17846fe0ede5d60fbf125cb706f",
-          "width": 160
-        }
-      ],
-      "name": "Remik Gonzalez",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     },
     {
       "external_urls": {
@@ -644,7 +644,7 @@
         }
       ],
       "name": "Nanpa B\u00e1sico",
-      "popularity": 69,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
     },
@@ -714,7 +714,7 @@
         }
       ],
       "name": "Dharius",
-      "popularity": 63,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
@@ -930,7 +930,7 @@
         }
       ],
       "name": "Robot95",
-      "popularity": 58,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
     },
@@ -1069,7 +1069,7 @@
         }
       ],
       "name": "Nortec: Bostich + Fussible",
-      "popularity": 38,
+      "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
     },
@@ -1436,7 +1436,7 @@
         }
       ],
       "name": "Lil Supa",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:0qHbO3z6lgLE6ZYCkQBo1K"
     },
@@ -1542,7 +1542,7 @@
         }
       ],
       "name": "Primero Company",
-      "popularity": 28,
+      "popularity": 27,
       "type": "artist",
       "uri": "spotify:artist:6pu8qjuOYZRBYc1hiHEVL5"
     },
