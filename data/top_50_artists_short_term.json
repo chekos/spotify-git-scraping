@@ -38,6 +38,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
+      "id": "1jVhcHIGJuk16eqY1Mdtuk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd21eb12d02ea733de173b23c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d21eb12d02ea733de173b23c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d21eb12d02ea733de173b23c",
+          "width": 160
+        }
+      ],
+      "name": "Dee",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
       },
       "followers": {
@@ -105,42 +141,6 @@
       "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
-      "id": "1jVhcHIGJuk16eqY1Mdtuk",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd21eb12d02ea733de173b23c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d21eb12d02ea733de173b23c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d21eb12d02ea733de173b23c",
-          "width": 160
-        }
-      ],
-      "name": "Dee",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
     },
     {
       "external_urls": {
@@ -321,6 +321,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe92128b535bd2a7c7f892202",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e92128b535bd2a7c7f892202",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e92128b535bd2a7c7f892202",
+          "width": 160
+        }
+      ],
+      "name": "Denilson",
+      "popularity": 42,
+      "type": "artist",
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
       },
       "followers": {
@@ -388,42 +424,6 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-      "id": "31opIYTivWACiXXzX2khlj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe92128b535bd2a7c7f892202",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e92128b535bd2a7c7f892202",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e92128b535bd2a7c7f892202",
-          "width": 160
-        }
-      ],
-      "name": "Denilson",
-      "popularity": 42,
-      "type": "artist",
-      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
     {
       "external_urls": {
@@ -677,6 +677,75 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
+          "width": 160
+        }
+      ],
+      "name": "Charles Ans",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
+      "id": "4AxSQnOMPd42KI149MWsub",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc86e7939785e0dc4905ca7ab",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c86e7939785e0dc4905ca7ab",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c86e7939785e0dc4905ca7ab",
+          "width": 160
+        }
+      ],
+      "name": "Eddie Zuko",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
       },
       "followers": {
@@ -747,42 +816,6 @@
       "popularity": 33,
       "type": "artist",
       "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-      "id": "5lYeiQxUTcGKVgAuTqbTeL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
-          "width": 160
-        }
-      ],
-      "name": "Charles Ans",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
     {
       "external_urls": {
@@ -993,39 +1026,6 @@
       "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/4AxSQnOMPd42KI149MWsub",
-      "id": "4AxSQnOMPd42KI149MWsub",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc86e7939785e0dc4905ca7ab",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c86e7939785e0dc4905ca7ab",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c86e7939785e0dc4905ca7ab",
-          "width": 160
-        }
-      ],
-      "name": "Eddie Zuko",
-      "popularity": 45,
-      "type": "artist",
-      "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
     },
     {
       "external_urls": {
