@@ -351,7 +351,7 @@
         }
       ],
       "name": "La Banda Baston",
-      "popularity": 50,
+      "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
     },
@@ -1287,7 +1287,7 @@
         }
       ],
       "name": "Eddie Zuko",
-      "popularity": 46,
+      "popularity": 47,
       "type": "artist",
       "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
     },
@@ -1818,6 +1818,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
