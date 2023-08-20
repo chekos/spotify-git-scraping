@@ -1037,7 +1037,7 @@
         }
       ],
       "name": "Desert Ni\u00f1os",
-      "popularity": 35,
+      "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
     },
@@ -1672,7 +1672,7 @@
         }
       ],
       "name": "DRZUPREEME",
-      "popularity": 19,
+      "popularity": 20,
       "type": "artist",
       "uri": "spotify:artist:0wkxgIUSVvrpkfE5B3i3eV"
     },
@@ -1823,6 +1823,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
