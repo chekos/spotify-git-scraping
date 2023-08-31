@@ -819,7 +819,7 @@
         }
       ],
       "name": "Dharius",
-      "popularity": 63,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
@@ -1813,6 +1813,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
