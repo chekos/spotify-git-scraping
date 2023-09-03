@@ -52,7 +52,7 @@ jobs:
     - name: Get tracks played in the last hour
       run: |-
         timestamp="$(jq -r '.cursors | if (.after) then (.after|tonumber/1000 | strftime("%Y-%m-%d %T")) else null end' data/recently_played.json)"
-        if [ -z "$timestamp" ]; then
+        if [ ! -z "$timestamp" ]; then
           timestamp="$(date -d "1 hour ago" +%s)"
         fi
         echo "$timestamp"
