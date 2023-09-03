@@ -53,7 +53,7 @@ jobs:
       run: |-
         timestamp="$(jq -r '.cursors | if (.after) then (.after|tonumber/1000 | strftime("%Y-%m-%d %T")) else null end' data/recently_played.json)"
         if [ ! -z "$timestamp" ]; then
-          timestamp="$(date -d "1 hour ago" +%s)"
+          timestamp="$(date -d "1 hour ago" +'%Y-%m-%d %T')"
         fi
         echo "$timestamp"
         esporifai get-recently-played after \
