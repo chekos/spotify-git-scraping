@@ -52,7 +52,7 @@ jobs:
     - name: Get tracks played in the last hour
       run: |-
         esporifai get-recently-played after \
-        "$(jq -r '.cursors.after|tonumber/1000 | strftime("%Y-%m-%d %T")' data/recently_played.json)" \
+        "$(jq -r '.cursors.after|tonumber/1000 | strftime("%Y-%m-%d %T")' data/recently_played.json || date -d '1 hour ago' +%s )" \
         --limit 50 \
         --time-zone UTC \
         --output data/recently_played.json
