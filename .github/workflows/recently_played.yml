@@ -51,7 +51,7 @@ jobs:
         REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
     - name: Get tracks played in the last hour
       run: |-
-        timestamp="$(jq -r '.cursors.after?|tonumber/1000 | strftime("%Y-%m-%d %T")' data/recently_played.json 2>/dev/null)"
+        timestamp="$(jq -r '.cursors | if (.after) then (.after|tonumber/1000 | strftime("%Y-%m-%d %T")) else null end' data/recently_played.json)"
         if [ -z "$timestamp" ]; then
           timestamp="$(date -d "1 hour ago" +%s)"
         fi
