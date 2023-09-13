@@ -31,7 +31,7 @@
         }
       ],
       "name": "Lefty Sm",
-      "popularity": 73,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     },
@@ -317,7 +317,7 @@
         }
       ],
       "name": "Neto Pe\u00f1a",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
     },
@@ -424,6 +424,41 @@
       "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+      "id": "6tJRAxu0HwB2GI9GueEj4l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd7e871a9619f17ccb44cfc40",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d7e871a9619f17ccb44cfc40",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d7e871a9619f17ccb44cfc40",
+          "width": 160
+        }
+      ],
+      "name": "Faruz Feet",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
     {
       "external_urls": {
@@ -612,7 +647,7 @@
       "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     }
   ],
-  "total": 17,
+  "total": 18,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
