@@ -3,17 +3,27 @@
     {
       "track": {
         "album": {
-          "album_type": "album",
+          "album_type": "single",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+                "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
               },
-              "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-              "id": "3ScIigEm9KZUrUQtXzBmKJ",
-              "name": "Cozy Cuz",
+              "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+              "id": "31opIYTivWACiXXzX2khlj",
+              "name": "Denilson",
               "type": "artist",
-              "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+              "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+              },
+              "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+              "id": "6tJRAxu0HwB2GI9GueEj4l",
+              "name": "Faruz Feet",
+              "type": "artist",
+              "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
             }
           ],
           "available_markets": [
@@ -203,44 +213,54 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3DV9mnh2iZ9imAhsSLpHRE"
+            "spotify": "https://open.spotify.com/album/5InhJktEVmsMZMjs3btorG"
           },
-          "href": "https://api.spotify.com/v1/albums/3DV9mnh2iZ9imAhsSLpHRE",
-          "id": "3DV9mnh2iZ9imAhsSLpHRE",
+          "href": "https://api.spotify.com/v1/albums/5InhJktEVmsMZMjs3btorG",
+          "id": "5InhJktEVmsMZMjs3btorG",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27392cf7defcd53171aae459684",
+              "url": "https://i.scdn.co/image/ab67616d0000b273ac5a1a8a671c6be281776c22",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0292cf7defcd53171aae459684",
+              "url": "https://i.scdn.co/image/ab67616d00001e02ac5a1a8a671c6be281776c22",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485192cf7defcd53171aae459684",
+              "url": "https://i.scdn.co/image/ab67616d00004851ac5a1a8a671c6be281776c22",
               "width": 64
             }
           ],
-          "name": "Pura Calidad",
-          "release_date": "2023-06-30",
+          "name": "Sed de Ganar",
+          "release_date": "2021-02-28",
           "release_date_precision": "day",
-          "total_tracks": 9,
+          "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:3DV9mnh2iZ9imAhsSLpHRE"
+          "uri": "spotify:album:5InhJktEVmsMZMjs3btorG"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+              "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
             },
-            "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-            "id": "3ScIigEm9KZUrUQtXzBmKJ",
-            "name": "Cozy Cuz",
+            "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+            "id": "31opIYTivWACiXXzX2khlj",
+            "name": "Denilson",
             "type": "artist",
-            "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+            "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+            },
+            "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+            "id": "6tJRAxu0HwB2GI9GueEj4l",
+            "name": "Faruz Feet",
+            "type": "artist",
+            "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
           }
         ],
         "available_markets": [
@@ -430,41 +450,41 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 149600,
+        "duration_ms": 161000,
         "explicit": true,
         "external_ids": {
-          "isrc": "QM7282351705"
+          "isrc": "QZGLM2100234"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/5XNuvzeuzaMp1v8TCgt5Ic"
+          "spotify": "https://open.spotify.com/track/0nu0muJL39ZhAdZHB4gjcc"
         },
-        "href": "https://api.spotify.com/v1/tracks/5XNuvzeuzaMp1v8TCgt5Ic",
-        "id": "5XNuvzeuzaMp1v8TCgt5Ic",
+        "href": "https://api.spotify.com/v1/tracks/0nu0muJL39ZhAdZHB4gjcc",
+        "id": "0nu0muJL39ZhAdZHB4gjcc",
         "is_local": false,
-        "name": "Vamos Ay!",
-        "popularity": 19,
-        "preview_url": "https://p.scdn.co/mp3-preview/2151a64a14982a8a4a74273bf8af3809e2aa416f?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-        "track_number": 7,
+        "name": "Sed de Ganar",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/77bf482cdca3cd3f1ed7fa22b5e2e3455c2b516e?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:5XNuvzeuzaMp1v8TCgt5Ic"
+        "uri": "spotify:track:0nu0muJL39ZhAdZHB4gjcc"
       },
-      "played_at": "2023-09-18T22:55:46.718Z",
+      "played_at": "2023-09-18T23:57:27.890Z",
       "context": null
     },
     {
       "track": {
         "album": {
-          "album_type": "single",
+          "album_type": "album",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+                "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
               },
-              "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
-              "id": "3H1jLGJzOPn3WbEv6fvJ3M",
-              "name": "Palmasur",
+              "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+              "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+              "name": "Remik Gonzalez",
               "type": "artist",
-              "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
+              "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
             }
           ],
           "available_markets": [
@@ -654,44 +674,54 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/6IObXVY8Z6oG92MfWQZDb7"
+            "spotify": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
           },
-          "href": "https://api.spotify.com/v1/albums/6IObXVY8Z6oG92MfWQZDb7",
-          "id": "6IObXVY8Z6oG92MfWQZDb7",
+          "href": "https://api.spotify.com/v1/albums/5PZxScqkkCa4bjdZcq9fuh",
+          "id": "5PZxScqkkCa4bjdZcq9fuh",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736f433973b845cdf66e29fdcf",
+              "url": "https://i.scdn.co/image/ab67616d0000b273ef7cec265c47368fe04a82a2",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026f433973b845cdf66e29fdcf",
+              "url": "https://i.scdn.co/image/ab67616d00001e02ef7cec265c47368fe04a82a2",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516f433973b845cdf66e29fdcf",
+              "url": "https://i.scdn.co/image/ab67616d00004851ef7cec265c47368fe04a82a2",
               "width": 64
             }
           ],
-          "name": "Lo-Fi en la Micro",
-          "release_date": "2020-09-08",
+          "name": "High Con Class XIII",
+          "release_date": "2017-05-17",
           "release_date_precision": "day",
-          "total_tracks": 1,
+          "total_tracks": 13,
           "type": "album",
-          "uri": "spotify:album:6IObXVY8Z6oG92MfWQZDb7"
+          "uri": "spotify:album:5PZxScqkkCa4bjdZcq9fuh"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
             },
-            "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
-            "id": "3H1jLGJzOPn3WbEv6fvJ3M",
-            "name": "Palmasur",
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
             "type": "artist",
-            "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+            "id": "4QFG9KrGWEbr6hNA58CAqE",
+            "name": "Alemán",
+            "type": "artist",
+            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
           }
         ],
         "available_markets": [
@@ -881,25 +911,25 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 153230,
-        "explicit": false,
+        "duration_ms": 209146,
+        "explicit": true,
         "external_ids": {
-          "isrc": "QZK6J2031062"
+          "isrc": "usdy41746405"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/6YeGCk4Iafikmg9gn4YNW7"
+          "spotify": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
         },
-        "href": "https://api.spotify.com/v1/tracks/6YeGCk4Iafikmg9gn4YNW7",
-        "id": "6YeGCk4Iafikmg9gn4YNW7",
+        "href": "https://api.spotify.com/v1/tracks/5CFTbLlcyy5ITkMXgE9qLZ",
+        "id": "5CFTbLlcyy5ITkMXgE9qLZ",
         "is_local": false,
-        "name": "Lo-Fi en la Micro",
-        "popularity": 33,
-        "preview_url": "https://p.scdn.co/mp3-preview/8b0e5fca42fb08583f718656b7d35e41286fafa5?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-        "track_number": 1,
+        "name": "Mañanero",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/b57ac37b49ab2f0cc0f1a18845007fc00683a24c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "track_number": 3,
         "type": "track",
-        "uri": "spotify:track:6YeGCk4Iafikmg9gn4YNW7"
+        "uri": "spotify:track:5CFTbLlcyy5ITkMXgE9qLZ"
       },
-      "played_at": "2023-09-18T22:53:19.220Z",
+      "played_at": "2023-09-18T23:54:46.098Z",
       "context": null
     }
   ]
