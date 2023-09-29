@@ -2047,7 +2047,7 @@
       "id": "3RfIrOvpmccRC4Z98DlLJm",
       "is_local": false,
       "name": "El Pasado Est\u00e1 Olvidado",
-      "popularity": 28,
+      "popularity": 27,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -5652,7 +5652,7 @@
       "id": "4Zs49a8sp1KbFbqJFZhY0N",
       "is_local": false,
       "name": "Botas y Texana",
-      "popularity": 31,
+      "popularity": 32,
       "preview_url": "https://p.scdn.co/mp3-preview/a2a4f5f71563620028033574dd4f01d72a29806c?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 5,
       "type": "track",
@@ -8002,7 +8002,7 @@
       "id": "2g00YIKdeyDowMsrgsZUSx",
       "is_local": false,
       "name": "Dolo",
-      "popularity": 19,
+      "popularity": 20,
       "preview_url": "https://p.scdn.co/mp3-preview/412bcb73f75d0064f792ea797546a4f7f39042c7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -11685,6 +11685,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0&time_range=long_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
