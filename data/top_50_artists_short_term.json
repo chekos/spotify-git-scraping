@@ -294,6 +294,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+      "id": "3AgxRYe2kXEfsZyB07hqJF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
+          "width": 160
+        }
+      ],
+      "name": "Yoga Fire",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
       },
       "followers": {
@@ -361,42 +397,6 @@
       "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-      "id": "3AgxRYe2kXEfsZyB07hqJF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
-          "width": 160
-        }
-      ],
-      "name": "Yoga Fire",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
     {
       "external_urls": {
@@ -721,6 +721,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
+      "id": "2Gcx4c9rFAAloAYV2cMGUd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4578f87fa79b63d1746474ff",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744578f87fa79b63d1746474ff",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784578f87fa79b63d1746474ff",
+          "width": 160
+        }
+      ],
+      "name": "Proof",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
       },
       "followers": {
@@ -753,6 +788,39 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
+      "id": "3Jarv4dvk7d9k6AkqDUVJg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbc168167ee8c037105459b37",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bc168167ee8c037105459b37",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bc168167ee8c037105459b37",
+          "width": 160
+        }
+      ],
+      "name": "Nortec: Bostich + Fussible",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
     },
     {
       "external_urls": {
@@ -822,7 +890,7 @@
         }
       ],
       "name": "SanelliX",
-      "popularity": 42,
+      "popularity": 41,
       "type": "artist",
       "uri": "spotify:artist:0sk0gTYhiFal4UfEKbpnGu"
     },
@@ -930,7 +998,7 @@
         }
       ],
       "name": "Nanpa B\u00e1sico",
-      "popularity": 70,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
     },
@@ -1043,7 +1111,7 @@
       "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
     }
   ],
-  "total": 29,
+  "total": 31,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
