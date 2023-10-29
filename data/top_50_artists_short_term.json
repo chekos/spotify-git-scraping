@@ -2,41 +2,6 @@
   "items": [
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-      },
-      "followers": {
-        "href": null,
-        "total": 0
-      },
-      "genres": [
-        "lo-fi latino"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
-      "id": "3H1jLGJzOPn3WbEv6fvJ3M",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9685cc378ddc30f3f90a6e73",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749685cc378ddc30f3f90a6e73",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789685cc378ddc30f3f90a6e73",
-          "width": 160
-        }
-      ],
-      "name": "Palmasur",
-      "popularity": 39,
-      "type": "artist",
-      "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
       },
       "followers": {
@@ -76,6 +41,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+      },
+      "followers": {
+        "href": null,
+        "total": 0
+      },
+      "genres": [
+        "lo-fi latino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
+      "id": "3H1jLGJzOPn3WbEv6fvJ3M",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9685cc378ddc30f3f90a6e73",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749685cc378ddc30f3f90a6e73",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789685cc378ddc30f3f90a6e73",
+          "width": 160
+        }
+      ],
+      "name": "Palmasur",
+      "popularity": 38,
+      "type": "artist",
+      "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
       },
       "followers": {
@@ -106,7 +106,7 @@
         }
       ],
       "name": "Jayrick",
-      "popularity": 56,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
     },
@@ -141,7 +141,7 @@
         }
       ],
       "name": "Lefty Sm",
-      "popularity": 77,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     },
@@ -212,7 +212,7 @@
         }
       ],
       "name": "Faruz Feet",
-      "popularity": 58,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
@@ -294,7 +294,7 @@
         }
       ],
       "name": "Yoga Fire",
-      "popularity": 50,
+      "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
@@ -329,7 +329,7 @@
         }
       ],
       "name": "Rich Vagos",
-      "popularity": 59,
+      "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     },
@@ -365,7 +365,7 @@
         }
       ],
       "name": "Alem\u00e1n",
-      "popularity": 73,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
@@ -435,7 +435,7 @@
         }
       ],
       "name": "Iluminatik",
-      "popularity": 44,
+      "popularity": 43,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
     },
@@ -540,7 +540,7 @@
         }
       ],
       "name": "Geassassin",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
     },
@@ -576,7 +576,7 @@
         }
       ],
       "name": "Charles Ans",
-      "popularity": 68,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
@@ -716,7 +716,7 @@
         }
       ],
       "name": "Nortec: Bostich + Fussible",
-      "popularity": 39,
+      "popularity": 38,
       "type": "artist",
       "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
     },
@@ -753,7 +753,7 @@
         }
       ],
       "name": "Leyruk",
-      "popularity": 32,
+      "popularity": 31,
       "type": "artist",
       "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
@@ -860,7 +860,7 @@
         }
       ],
       "name": "SpoonBeats",
-      "popularity": 44,
+      "popularity": 43,
       "type": "artist",
       "uri": "spotify:artist:4oEls8QwyhaJninX4RFdcl"
     },
@@ -895,7 +895,7 @@
         }
       ],
       "name": "La Banda Baston",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
     },
@@ -931,7 +931,7 @@
         }
       ],
       "name": "Denilson",
-      "popularity": 44,
+      "popularity": 43,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
