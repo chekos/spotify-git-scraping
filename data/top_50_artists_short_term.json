@@ -329,7 +329,7 @@
         }
       ],
       "name": "Rich Vagos",
-      "popularity": 58,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     },
@@ -400,7 +400,7 @@
         }
       ],
       "name": "Yoga Fire",
-      "popularity": 49,
+      "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
@@ -470,7 +470,7 @@
         }
       ],
       "name": "Iluminatik",
-      "popularity": 43,
+      "popularity": 42,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
     },
@@ -579,7 +579,7 @@
         }
       ],
       "name": "Charles Ans",
-      "popularity": 67,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
@@ -1049,6 +1049,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
