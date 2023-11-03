@@ -318,7 +318,7 @@
         }
       ],
       "name": "Cartel De Santa",
-      "popularity": 75,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
     },
@@ -714,7 +714,7 @@
         }
       ],
       "name": "Desert Ni\u00f1os",
-      "popularity": 34,
+      "popularity": 33,
       "type": "artist",
       "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
     },
@@ -1034,7 +1034,7 @@
         }
       ],
       "name": "Nortec: Bostich + Fussible",
-      "popularity": 38,
+      "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:3Jarv4dvk7d9k6AkqDUVJg"
     },
@@ -1800,6 +1800,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
