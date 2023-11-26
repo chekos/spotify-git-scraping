@@ -68,7 +68,7 @@
         }
       ],
       "name": "Alem\u00e1n",
-      "popularity": 71,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
@@ -245,7 +245,7 @@
         }
       ],
       "name": "Yoga Fire",
-      "popularity": 49,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
@@ -389,7 +389,7 @@
         }
       ],
       "name": "Charles Ans",
-      "popularity": 66,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
@@ -1355,7 +1355,7 @@
         }
       ],
       "name": "Millonario & W. Corona",
-      "popularity": 55,
+      "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     },
@@ -1804,6 +1804,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
