@@ -1141,7 +1141,7 @@
         }
       ],
       "name": "Ballin",
-      "popularity": 21,
+      "popularity": 22,
       "type": "artist",
       "uri": "spotify:artist:35BPWrbRCzHa7yWWvCi8BI"
     },
@@ -1215,7 +1215,7 @@
         }
       ],
       "name": "Iluminatik",
-      "popularity": 42,
+      "popularity": 43,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
     },
@@ -1613,7 +1613,7 @@
         }
       ],
       "name": "Dee",
-      "popularity": 48,
+      "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
     },
@@ -1795,7 +1795,7 @@
         }
       ],
       "name": "Mike Diaz",
-      "popularity": 36,
+      "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:5pR3pEU0bCMZhhAzag3DUz"
     }
@@ -1804,6 +1804,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
