@@ -1115,7 +1115,7 @@
         }
       ],
       "name": "Jasmine Alvarado",
-      "popularity": 10,
+      "popularity": 11,
       "type": "artist",
       "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
     },
@@ -1368,7 +1368,7 @@
         }
       ],
       "name": "Eddie Zuko",
-      "popularity": 47,
+      "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:4AxSQnOMPd42KI149MWsub"
     },
@@ -1812,6 +1812,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0",
-  "previous": null,
-  "next": null
+  "next": null,
+  "previous": null
 }
