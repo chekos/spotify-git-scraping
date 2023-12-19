@@ -699,7 +699,7 @@
         }
       ],
       "name": "Gloria Lynne",
-      "popularity": 25,
+      "popularity": 26,
       "type": "artist",
       "uri": "spotify:artist:2XThtYxaIaPS5o9soX7kAu"
     },
@@ -815,6 +815,6 @@
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=short_term",
-  "next": null,
-  "previous": null
+  "previous": null,
+  "next": null
 }
