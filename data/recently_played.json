@@ -3,27 +3,27 @@
     {
       "track": {
         "album": {
-          "album_type": "album",
+          "album_type": "single",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+                "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
               },
-              "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-              "id": "2hejA1Dkf8v8R0koF44FvW",
-              "name": "Gera MX",
+              "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
+              "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
+              "name": "Iluminatik",
               "type": "artist",
-              "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+              "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
             },
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+                "spotify": "https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6"
               },
-              "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-              "id": "0U8dIwzBn17JkhYxmznp6T",
-              "name": "Jayrick",
+              "href": "https://api.spotify.com/v1/artists/7CvKsTEWv1BS3LydN8HgG6",
+              "id": "7CvKsTEWv1BS3LydN8HgG6",
+              "name": "ILUMINATIK BUFFON",
               "type": "artist",
-              "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+              "uri": "spotify:artist:7CvKsTEWv1BS3LydN8HgG6"
             }
           ],
           "available_markets": [
@@ -213,64 +213,54 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/0SJjqErbyJDc46YKzV4ein"
+            "spotify": "https://open.spotify.com/album/1T1iS00hEIyLbvAZl5UO7G"
           },
-          "href": "https://api.spotify.com/v1/albums/0SJjqErbyJDc46YKzV4ein",
-          "id": "0SJjqErbyJDc46YKzV4ein",
+          "href": "https://api.spotify.com/v1/albums/1T1iS00hEIyLbvAZl5UO7G",
+          "id": "1T1iS00hEIyLbvAZl5UO7G",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27327b2adc27e4d9675993b362b",
+              "url": "https://i.scdn.co/image/ab67616d0000b273ffba69006684feb5d328e093",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0227b2adc27e4d9675993b362b",
+              "url": "https://i.scdn.co/image/ab67616d00001e02ffba69006684feb5d328e093",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485127b2adc27e4d9675993b362b",
+              "url": "https://i.scdn.co/image/ab67616d00004851ffba69006684feb5d328e093",
               "width": 64
             }
           ],
-          "name": "444 Paradise \"Encerrado, No Enterrado\"",
-          "release_date": "2020-09-28",
+          "name": "Depresi\u00f3n",
+          "release_date": "2022-05-03",
           "release_date_precision": "day",
-          "total_tracks": 7,
+          "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:0SJjqErbyJDc46YKzV4ein"
+          "uri": "spotify:album:1T1iS00hEIyLbvAZl5UO7G"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+              "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
             },
-            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-            "id": "2hejA1Dkf8v8R0koF44FvW",
-            "name": "Gera MX",
+            "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
+            "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
+            "name": "Iluminatik",
             "type": "artist",
-            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+            "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+              "spotify": "https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6"
             },
-            "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-            "id": "0U8dIwzBn17JkhYxmznp6T",
-            "name": "Jayrick",
+            "href": "https://api.spotify.com/v1/artists/7CvKsTEWv1BS3LydN8HgG6",
+            "id": "7CvKsTEWv1BS3LydN8HgG6",
+            "name": "ILUMINATIK BUFFON",
             "type": "artist",
-            "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-            },
-            "href": "https://api.spotify.com/v1/artists/0zfvfy9XlborSqXNRhi8Bk",
-            "id": "0zfvfy9XlborSqXNRhi8Bk",
-            "name": "Samantha Barr\u00f3n",
-            "type": "artist",
-            "uri": "spotify:artist:0zfvfy9XlborSqXNRhi8Bk"
+            "uri": "spotify:artist:7CvKsTEWv1BS3LydN8HgG6"
           }
         ],
         "available_markets": [
@@ -460,31 +450,31 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 272000,
+        "duration_ms": 285360,
         "explicit": true,
         "external_ids": {
-          "isrc": "QZNJV2030100"
+          "isrc": "UKU932230951"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/00Lz6oOMNjlCthAaiQLsfr"
+          "spotify": "https://open.spotify.com/track/59dEwZknYlLhKZZs9VTsms"
         },
-        "href": "https://api.spotify.com/v1/tracks/00Lz6oOMNjlCthAaiQLsfr",
-        "id": "00Lz6oOMNjlCthAaiQLsfr",
+        "href": "https://api.spotify.com/v1/tracks/59dEwZknYlLhKZZs9VTsms",
+        "id": "59dEwZknYlLhKZZs9VTsms",
         "is_local": false,
-        "name": "Maldito Rom\u00e1ntico",
-        "popularity": 57,
-        "preview_url": "https://p.scdn.co/mp3-preview/302984cdd65194bcdaf313e58a07dccad0232665?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-        "track_number": 6,
+        "name": "Depresi\u00f3n",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/0e279c2b13d3c4ef0493b5b41e9ebf918e612789?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:00Lz6oOMNjlCthAaiQLsfr"
+        "uri": "spotify:track:59dEwZknYlLhKZZs9VTsms"
       },
-      "played_at": "2023-12-30T18:45:31.553Z",
+      "played_at": "2023-12-30T19:23:58.923Z",
       "context": {
         "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU"
         },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU",
         "uri": "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU"
       }
     },
@@ -495,13 +485,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+                "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
               },
-              "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
-              "id": "4r1ZDYKzPt3iIjuq8LbT6X",
-              "name": "Aczino",
+              "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
+              "id": "3ScIigEm9KZUrUQtXzBmKJ",
+              "name": "Cozy Cuz",
               "type": "artist",
-              "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
+              "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
             }
           ],
           "available_markets": [
@@ -584,6 +574,7 @@
             "JO",
             "PS",
             "IN",
+            "BY",
             "KZ",
             "MD",
             "UA",
@@ -690,44 +681,54 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/68MBg9nXOdCbLD8ebxQWfw"
+            "spotify": "https://open.spotify.com/album/3DV9mnh2iZ9imAhsSLpHRE"
           },
-          "href": "https://api.spotify.com/v1/albums/68MBg9nXOdCbLD8ebxQWfw",
-          "id": "68MBg9nXOdCbLD8ebxQWfw",
+          "href": "https://api.spotify.com/v1/albums/3DV9mnh2iZ9imAhsSLpHRE",
+          "id": "3DV9mnh2iZ9imAhsSLpHRE",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27304de113da84defe9428c5302",
+              "url": "https://i.scdn.co/image/ab67616d0000b27392cf7defcd53171aae459684",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0204de113da84defe9428c5302",
+              "url": "https://i.scdn.co/image/ab67616d00001e0292cf7defcd53171aae459684",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485104de113da84defe9428c5302",
+              "url": "https://i.scdn.co/image/ab67616d0000485192cf7defcd53171aae459684",
               "width": 64
             }
           ],
-          "name": "El G.O.A.T.",
-          "release_date": "2023-04-21",
+          "name": "Pura Calidad",
+          "release_date": "2023-06-30",
           "release_date_precision": "day",
-          "total_tracks": 12,
+          "total_tracks": 9,
           "type": "album",
-          "uri": "spotify:album:68MBg9nXOdCbLD8ebxQWfw"
+          "uri": "spotify:album:3DV9mnh2iZ9imAhsSLpHRE"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+              "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
             },
-            "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
-            "id": "4r1ZDYKzPt3iIjuq8LbT6X",
-            "name": "Aczino",
+            "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
+            "id": "3ScIigEm9KZUrUQtXzBmKJ",
+            "name": "Cozy Cuz",
             "type": "artist",
-            "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
+            "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
+            "id": "5ET6v0l25osw5BzztPsMvD",
+            "name": "Muelas De Gallo",
+            "type": "artist",
+            "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
           }
         ],
         "available_markets": [
@@ -810,6 +811,7 @@
           "JO",
           "PS",
           "IN",
+          "BY",
           "KZ",
           "MD",
           "UA",
@@ -916,40 +918,40 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 255440,
-        "explicit": true,
+        "duration_ms": 202500,
+        "explicit": false,
         "external_ids": {
-          "isrc": "MXUM72200309"
+          "isrc": "QM7282351698"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/3XFZZBTWUvClRpmXG1NV0D"
+          "spotify": "https://open.spotify.com/track/3XozjVRagNagKwYLqjlute"
         },
-        "href": "https://api.spotify.com/v1/tracks/3XFZZBTWUvClRpmXG1NV0D",
-        "id": "3XFZZBTWUvClRpmXG1NV0D",
+        "href": "https://api.spotify.com/v1/tracks/3XozjVRagNagKwYLqjlute",
+        "id": "3XozjVRagNagKwYLqjlute",
         "is_local": false,
-        "name": "El G.O.A.T.",
-        "popularity": 25,
-        "preview_url": "https://p.scdn.co/mp3-preview/3e9e1b9287d9143c6e5400544233733c14788e88?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
-        "track_number": 1,
+        "name": "Algo Bien",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/4cb17b9fcdf533939defd5bae1c0a24521f29aa8?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "track_number": 3,
         "type": "track",
-        "uri": "spotify:track:3XFZZBTWUvClRpmXG1NV0D"
+        "uri": "spotify:track:3XozjVRagNagKwYLqjlute"
       },
-      "played_at": "2023-12-30T18:39:57.350Z",
+      "played_at": "2023-12-30T19:22:43.138Z",
       "context": {
         "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU"
         },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU",
         "uri": "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU"
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1703961931553&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1703964238923&limit=50",
   "cursors": {
-    "after": "1703961931553",
-    "before": "1703961597350"
+    "after": "1703964238923",
+    "before": "1703964163138"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1703960110000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1703963823000&limit=50"
 }
