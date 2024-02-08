@@ -3,5 +3,5 @@
   "next": null,
   "cursors": null,
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1707391136000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1707394639000&limit=50"
 }
