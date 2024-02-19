@@ -468,7 +468,7 @@
         "type": "track",
         "uri": "spotify:track:729kMWkfzHPcum2dMczWoa"
       },
-      "played_at": "2024-02-19T18:58:45.315Z",
+      "played_at": "2024-02-19T19:42:12.044Z",
       "context": {
         "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
@@ -479,11 +479,11 @@
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1708369125315&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1708371732044&limit=50",
   "cursors": {
-    "after": "1708369125315",
-    "before": "1708369125315"
+    "after": "1708371732044",
+    "before": "1708371732044"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1708366538000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1708370213000&limit=50"
 }
