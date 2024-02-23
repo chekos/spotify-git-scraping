@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1738268
+        "total": 1741857
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4630358
+        "total": 4632105
       },
       "genres": [
         "mexican hip hop",
@@ -77,7 +77,7 @@
       },
       "followers": {
         "href": null,
-        "total": 15716746
+        "total": 15722341
       },
       "genres": [
         "latin hip hop",
@@ -113,7 +113,7 @@
       },
       "followers": {
         "href": null,
-        "total": 276367
+        "total": 276705
       },
       "genres": [
         "mexican hip hop"
@@ -148,7 +148,7 @@
       },
       "followers": {
         "href": null,
-        "total": 390892
+        "total": 390969
       },
       "genres": [
         "mexican hip hop"
@@ -183,7 +183,7 @@
       },
       "followers": {
         "href": null,
-        "total": 341494
+        "total": 341979
       },
       "genres": [
         "mexican hip hop",
@@ -215,11 +215,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+      },
+      "followers": {
+        "href": null,
+        "total": 22348
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+      "id": "3AgxRYe2kXEfsZyB07hqJF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
+          "width": 160
+        }
+      ],
+      "name": "Yoga Fire",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
       },
       "followers": {
         "href": null,
-        "total": 5371
+        "total": 5379
       },
       "genres": [
         "urbano mexicano"
@@ -254,7 +290,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5129257
+        "total": 5131064
       },
       "genres": [
         "mexican hip hop",
@@ -290,7 +326,7 @@
       },
       "followers": {
         "href": null,
-        "total": 275538
+        "total": 275706
       },
       "genres": [
         "mexican hip hop"
@@ -325,7 +361,7 @@
       },
       "followers": {
         "href": null,
-        "total": 270613
+        "total": 270732
       },
       "genres": [
         "mexican hip hop"
@@ -360,7 +396,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2371543
+        "total": 2372654
       },
       "genres": [
         "colombian hip hop",
@@ -396,7 +432,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18151
+        "total": 18168
       },
       "genres": [
         "mexican hip hop"
@@ -431,7 +467,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8867095
+        "total": 8871875
       },
       "genres": [
         "mexican hip hop"
@@ -462,11 +498,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+      },
+      "followers": {
+        "href": null,
+        "total": 1567289
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
+          "width": 160
+        }
+      ],
+      "name": "Charles Ans",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
         "href": null,
-        "total": 1403643
+        "total": 1404394
       },
       "genres": [
         "mexican hip hop"
@@ -501,7 +573,7 @@
       },
       "followers": {
         "href": null,
-        "total": 131494
+        "total": 131575
       },
       "genres": [
         "trap mexicano"
@@ -536,7 +608,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1166554
+        "total": 1166935
       },
       "genres": [
         "mexican hip hop"
@@ -567,47 +639,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-      },
-      "followers": {
-        "href": null,
-        "total": 22336
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-      "id": "3AgxRYe2kXEfsZyB07hqJF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
-          "width": 160
-        }
-      ],
-      "name": "Yoga Fire",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
       },
       "followers": {
         "href": null,
-        "total": 7313721
+        "total": 7327950
       },
       "genres": [
         "corrido",
@@ -645,7 +681,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13897702
+        "total": 13920166
       },
       "genres": [
         "corrido",
@@ -679,7 +715,7 @@
       "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
     }
   ],
-  "total": 19,
+  "total": 20,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
