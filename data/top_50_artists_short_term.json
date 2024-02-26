@@ -2,38 +2,38 @@
   "items": [
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
         "href": null,
-        "total": 277351
+        "total": 1753417
       },
       "genres": [
         "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
-      "id": "1FCItwxfRieMGhR0eRxotU",
+      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb13f5b553726505f96845dc63",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517413f5b553726505f96845dc63",
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17813f5b553726505f96845dc63",
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
           "width": 160
         }
       ],
-      "name": "Rich Vagos",
-      "popularity": 59,
+      "name": "Lefty Sm",
+      "popularity": 74,
       "type": "artist",
-      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
+      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     },
     {
       "external_urls": {
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4635496
+        "total": 4637037
       },
       "genres": [
         "mexican hip hop",
@@ -73,11 +73,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+      },
+      "followers": {
+        "href": null,
+        "total": 277649
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
+      "id": "1FCItwxfRieMGhR0eRxotU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb13f5b553726505f96845dc63",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517413f5b553726505f96845dc63",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17813f5b553726505f96845dc63",
+          "width": 160
+        }
+      ],
+      "name": "Rich Vagos",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
       },
       "followers": {
         "href": null,
-        "total": 391113
+        "total": 391164
       },
       "genres": [
         "mexican hip hop"
@@ -112,7 +147,7 @@
       },
       "followers": {
         "href": null,
-        "total": 15734822
+        "total": 15740849
       },
       "genres": [
         "latin hip hop",
@@ -144,46 +179,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-      },
-      "followers": {
-        "href": null,
-        "total": 1749612
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
-          "width": 160
-        }
-      ],
-      "name": "Lefty Sm",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
       },
       "followers": {
         "href": null,
-        "total": 2375325
+        "total": 2376674
       },
       "genres": [
         "colombian hip hop",
@@ -219,7 +219,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22375
+        "total": 22393
       },
       "genres": [
         "mexican hip hop",
@@ -255,7 +255,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5135062
+        "total": 5136929
       },
       "genres": [
         "mexican hip hop",
@@ -291,7 +291,7 @@
       },
       "followers": {
         "href": null,
-        "total": 276014
+        "total": 276151
       },
       "genres": [
         "mexican hip hop"
@@ -326,7 +326,7 @@
       },
       "followers": {
         "href": null,
-        "total": 131729
+        "total": 131814
       },
       "genres": [
         "trap mexicano"
@@ -361,7 +361,7 @@
       },
       "followers": {
         "href": null,
-        "total": 655318
+        "total": 655632
       },
       "genres": [
         "latin hip hop",
@@ -397,7 +397,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5413
+        "total": 5423
       },
       "genres": [
         "urbano mexicano"
@@ -432,7 +432,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8888127
+        "total": 8892745
       },
       "genres": [
         "mexican hip hop"
@@ -467,7 +467,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1568848
+        "total": 1569537
       },
       "genres": [
         "mexican hip hop",
@@ -503,7 +503,7 @@
       },
       "followers": {
         "href": null,
-        "total": 342949
+        "total": 343407
       },
       "genres": [
         "mexican hip hop",
@@ -539,7 +539,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1167730
+        "total": 1168124
       },
       "genres": [
         "mexican hip hop"
@@ -574,7 +574,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7359116
+        "total": 7374127
       },
       "genres": [
         "corrido",
@@ -612,7 +612,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13969133
+        "total": 13993022
       },
       "genres": [
         "corrido",
