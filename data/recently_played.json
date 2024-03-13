@@ -7,6 +7,26 @@
           "artists": [
             {
               "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+              },
+              "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+              "id": "3L7OHIT4kfdcDSnnGM0TKN",
+              "name": "El Pinche Mara",
+              "type": "artist",
+              "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+              },
+              "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+              "id": "1QhaqxeqF9sipS2gwbEKpu",
+              "name": "C-Kan",
+              "type": "artist",
+              "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+            },
+            {
+              "external_urls": {
                 "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
               },
               "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
@@ -203,35 +223,55 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp"
+            "spotify": "https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe"
           },
-          "href": "https://api.spotify.com/v1/albums/3h9sn7qACkviYYhvey79hp",
-          "id": "3h9sn7qACkviYYhvey79hp",
+          "href": "https://api.spotify.com/v1/albums/7CfBFVgvd2aEXHHYWbgiJe",
+          "id": "7CfBFVgvd2aEXHHYWbgiJe",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2738331f07480c48162b8b20a64",
+              "url": "https://i.scdn.co/image/ab67616d0000b2733b29a6ceb7ded9c40f0f9481",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e028331f07480c48162b8b20a64",
+              "url": "https://i.scdn.co/image/ab67616d00001e023b29a6ceb7ded9c40f0f9481",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048518331f07480c48162b8b20a64",
+              "url": "https://i.scdn.co/image/ab67616d000048513b29a6ceb7ded9c40f0f9481",
               "width": 64
             }
           ],
-          "name": "Volando",
-          "release_date": "2020-11-16",
+          "name": "Todo x Nada",
+          "release_date": "2023-07-07",
           "release_date_precision": "day",
           "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:3h9sn7qACkviYYhvey79hp"
+          "uri": "spotify:album:7CfBFVgvd2aEXHHYWbgiJe"
         },
         "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+            "id": "3L7OHIT4kfdcDSnnGM0TKN",
+            "name": "El Pinche Mara",
+            "type": "artist",
+            "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+            "id": "1QhaqxeqF9sipS2gwbEKpu",
+            "name": "C-Kan",
+            "type": "artist",
+            "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+          },
           {
             "external_urls": {
               "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
@@ -241,6 +281,16 @@
             "name": "Lefty Sm",
             "type": "artist",
             "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
           }
         ],
         "available_markets": [
@@ -430,40 +480,40 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 218000,
+        "duration_ms": 374571,
         "explicit": true,
         "external_ids": {
-          "isrc": "USANG2102659"
+          "isrc": "DGA052347837"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4"
+          "spotify": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
         },
-        "href": "https://api.spotify.com/v1/tracks/1aHD6BlYi6rsJCetEWH9f4",
-        "id": "1aHD6BlYi6rsJCetEWH9f4",
+        "href": "https://api.spotify.com/v1/tracks/2VHgL82Mtbso1VoMikWkS7",
+        "id": "2VHgL82Mtbso1VoMikWkS7",
         "is_local": false,
-        "name": "Volando",
-        "popularity": 73,
-        "preview_url": "https://p.scdn.co/mp3-preview/25e6f1027a7dddcb821085738a600bb7700fd0c7?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "name": "Todo x Nada",
+        "popularity": 61,
+        "preview_url": "https://p.scdn.co/mp3-preview/119cd77025405ba4bd964b55e1aee92531e66c42?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:1aHD6BlYi6rsJCetEWH9f4"
+        "uri": "spotify:track:2VHgL82Mtbso1VoMikWkS7"
       },
-      "played_at": "2024-03-13T02:41:58.657Z",
+      "played_at": "2024-03-13T03:30:03.596Z",
       "context": {
         "type": "playlist",
+        "href": "https://api.spotify.com/v1/playlists/39ysRvsf2FeDhc1SWuzyvU",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/39ysRvsf2FeDhc1SWuzyvU"
         },
-        "href": "https://api.spotify.com/v1/playlists/39ysRvsf2FeDhc1SWuzyvU",
         "uri": "spotify:playlist:39ysRvsf2FeDhc1SWuzyvU"
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1710297718657&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1710300603596&limit=50",
   "cursors": {
-    "after": "1710297718657",
-    "before": "1710297718657"
+    "after": "1710300603596",
+    "before": "1710300603596"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1710296530000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1710300196000&limit=50"
 }
