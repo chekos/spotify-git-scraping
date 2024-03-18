@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1829759
+        "total": 1833646
       },
       "genres": [
         "mexican hip hop"
@@ -37,47 +37,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-      },
-      "followers": {
-        "href": null,
-        "total": 1587307
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-      "id": "5lYeiQxUTcGKVgAuTqbTeL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
-          "width": 160
-        }
-      ],
-      "name": "Charles Ans",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
         "href": null,
-        "total": 4677687
+        "total": 4679728
       },
       "genres": [
         "mexican hip hop",
@@ -109,11 +73,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+      },
+      "followers": {
+        "href": null,
+        "total": 1588129
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+      "id": "5lYeiQxUTcGKVgAuTqbTeL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
+          "width": 160
+        }
+      ],
+      "name": "Charles Ans",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
       },
       "followers": {
         "href": null,
-        "total": 5185662
+        "total": 5188258
       },
       "genres": [
         "mexican hip hop",
@@ -149,7 +149,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1424630
+        "total": 1425564
       },
       "genres": [
         "mexican hip hop"
@@ -180,11 +180,49 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+      },
+      "followers": {
+        "href": null,
+        "total": 2779454
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop",
+        "rap conciencia",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+      "id": "1QhaqxeqF9sipS2gwbEKpu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb23c75d4293636fcb8538ba9f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517423c75d4293636fcb8538ba9f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17823c75d4293636fcb8538ba9f",
+          "width": 160
+        }
+      ],
+      "name": "C-Kan",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
       },
       "followers": {
         "href": null,
-        "total": 2252809
+        "total": 2254409
       },
       "genres": [
         "cantautora mexicana",
@@ -223,7 +261,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2816540
+        "total": 2817231
       },
       "genres": [
         "latin afrobeat",
@@ -269,7 +307,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4606790
+        "total": 4608764
       },
       "genres": [
         "colombian pop",
@@ -307,7 +345,7 @@
       },
       "followers": {
         "href": null,
-        "total": 393159
+        "total": 393258
       },
       "genres": [
         "mexican hip hop"
@@ -342,7 +380,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3971214
+        "total": 3973513
       },
       "genres": [
         "argentine rock",
@@ -388,7 +426,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5591
+        "total": 5598
       },
       "genres": [
         "urbano mexicano"
@@ -423,7 +461,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1177672
+        "total": 1178221
       },
       "genres": [
         "mexican hip hop"
@@ -458,7 +496,7 @@
       },
       "followers": {
         "href": null,
-        "total": 216036
+        "total": 216076
       },
       "genres": [
         "bases de freestyle",
@@ -490,7 +528,7 @@
       "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
     }
   ],
-  "total": 13,
+  "total": 14,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
