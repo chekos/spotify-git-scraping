@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1881177
+        "total": 1884562
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2702891
+        "total": 2703344
       },
       "genres": [
         "detroit hip hop",
@@ -74,11 +74,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+      },
+      "followers": {
+        "href": null,
+        "total": 15981444
+      },
+      "genres": [
+        "latin hip hop",
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+      "id": "07PdYoE4jVRF6Ut40GgVSP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb72d02b5f21c6364c3d1928d7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517472d02b5f21c6364c3d1928d7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7",
+          "width": 160
+        }
+      ],
+      "name": "Cartel De Santa",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
         "href": null,
-        "total": 4707043
+        "total": 4708789
       },
       "genres": [
         "mexican hip hop",
@@ -114,7 +150,7 @@
       },
       "followers": {
         "href": null,
-        "total": 539263
+        "total": 539396
       },
       "genres": [
         "country rap",
@@ -150,7 +186,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1599487
+        "total": 1600244
       },
       "genres": [
         "mexican hip hop",
@@ -186,7 +222,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12554127
+        "total": 12572413
       },
       "genres": [
         "corridos tumbados",
@@ -222,7 +258,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5221865
+        "total": 5224086
       },
       "genres": [
         "mexican hip hop",
@@ -258,7 +294,7 @@
       },
       "followers": {
         "href": null,
-        "total": 143293
+        "total": 143329
       },
       "genres": [
         "mexican hip hop"
@@ -293,7 +329,7 @@
       },
       "followers": {
         "href": null,
-        "total": 310248
+        "total": 310325
       },
       "genres": [
         "mexican hip hop",
@@ -329,7 +365,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22880
+        "total": 22892
       },
       "genres": [
         "mexican hip hop",
@@ -365,7 +401,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2270519
+        "total": 2271587
       },
       "genres": [
         "cantautora mexicana",
@@ -404,13 +440,12 @@
       },
       "followers": {
         "href": null,
-        "total": 2825279
+        "total": 2825857
       },
       "genres": [
         "latin afrobeat",
         "latin alternative",
         "latin hip hop",
-        "latin rock",
         "puerto rican rock",
         "rap conciencia",
         "reggaeton",
@@ -451,7 +486,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23984
+        "total": 24039
       },
       "genres": [
         "mexican hip hop"
@@ -476,7 +511,7 @@
         }
       ],
       "name": "Jayrick",
-      "popularity": 58,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
     },
@@ -486,7 +521,7 @@
       },
       "followers": {
         "href": null,
-        "total": 34395
+        "total": 34427
       },
       "genres": [
         "mexican hip hop",
@@ -522,7 +557,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4633876
+        "total": 4635701
       },
       "genres": [
         "colombian pop",
@@ -560,7 +595,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4000465
+        "total": 4002430
       },
       "genres": [
         "argentine rock",
@@ -606,7 +641,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1184638
+        "total": 1185105
       },
       "genres": [
         "mexican hip hop"
@@ -636,7 +671,7 @@
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     }
   ],
-  "total": 17,
+  "total": 18,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
