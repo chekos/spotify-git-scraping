@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1906833
+        "total": 1910597
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2706367
+        "total": 2706825
       },
       "genres": [
         "detroit hip hop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 16017722
+        "total": 16023585
       },
       "genres": [
         "latin hip hop",
@@ -110,47 +110,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-      },
-      "followers": {
-        "href": null,
-        "total": 4721149
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-      "id": "2hejA1Dkf8v8R0koF44FvW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb48b9eba65f74037e0a53c313",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517448b9eba65f74037e0a53c313",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17848b9eba65f74037e0a53c313",
-          "width": 160
-        }
-      ],
-      "name": "Gera MX",
-      "popularity": 76,
-      "type": "artist",
-      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
       },
       "followers": {
         "href": null,
-        "total": 540605
+        "total": 540786
       },
       "genres": [
         "country rap",
@@ -182,11 +146,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+      },
+      "followers": {
+        "href": null,
+        "total": 4722983
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb48b9eba65f74037e0a53c313",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517448b9eba65f74037e0a53c313",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17848b9eba65f74037e0a53c313",
+          "width": 160
+        }
+      ],
+      "name": "Gera MX",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
         "href": null,
-        "total": 1605600
+        "total": 1606427
       },
       "genres": [
         "mexican hip hop",
@@ -222,7 +222,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12692065
+        "total": 12712476
       },
       "genres": [
         "corridos tumbados",
@@ -258,7 +258,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5239060
+        "total": 5241391
       },
       "genres": [
         "mexican hip hop",
@@ -294,7 +294,7 @@
       },
       "followers": {
         "href": null,
-        "total": 143556
+        "total": 143587
       },
       "genres": [
         "mexican hip hop"
@@ -329,7 +329,7 @@
       },
       "followers": {
         "href": null,
-        "total": 310817
+        "total": 310888
       },
       "genres": [
         "mexican hip hop",
@@ -365,7 +365,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22990
+        "total": 23008
       },
       "genres": [
         "mexican hip hop",
@@ -397,11 +397,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+      },
+      "followers": {
+        "href": null,
+        "total": 365339
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap femenino mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
+      "id": "0SmgVe3giVHaJjGmIz8xA4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2141cce2875b4f9304549e31",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742141cce2875b4f9304549e31",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782141cce2875b4f9304549e31",
+          "width": 160
+        }
+      ],
+      "name": "Yoss Bones",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
       },
       "followers": {
         "href": null,
-        "total": 2278596
+        "total": 2279798
       },
       "genres": [
         "cantautora mexicana",
@@ -440,7 +476,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2829325
+        "total": 2829876
       },
       "genres": [
         "latin afrobeat",
@@ -482,11 +518,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+      },
+      "followers": {
+        "href": null,
+        "total": 1444385
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+      "id": "0U5RYP2HMdGv2GhicLhkOI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
+          "width": 160
+        }
+      ],
+      "name": "Neto Pe\u00f1a",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
       },
       "followers": {
         "href": null,
-        "total": 24354
+        "total": 24414
       },
       "genres": [
         "mexican hip hop"
@@ -521,7 +592,7 @@
       },
       "followers": {
         "href": null,
-        "total": 34582
+        "total": 34605
       },
       "genres": [
         "mexican hip hop",
@@ -557,7 +628,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4645795
+        "total": 4647512
       },
       "genres": [
         "colombian pop",
@@ -595,7 +666,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4013621
+        "total": 4015690
       },
       "genres": [
         "argentine rock",
@@ -641,7 +712,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1187963
+        "total": 1188458
       },
       "genres": [
         "mexican hip hop"
@@ -671,7 +742,7 @@
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     }
   ],
-  "total": 18,
+  "total": 20,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
