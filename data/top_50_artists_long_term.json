@@ -605,7 +605,7 @@
         }
       ],
       "name": "Dee",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
     },
@@ -643,6 +643,42 @@
       "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+      },
+      "followers": {
+        "href": null,
+        "total": 34953
+      },
+      "genres": [
+        "mexican hip hop",
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
+      "id": "31opIYTivWACiXXzX2khlj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf0ce3fa45277d67ef3c24798",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f0ce3fa45277d67ef3c24798",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f0ce3fa45277d67ef3c24798",
+          "width": 160
+        }
+      ],
+      "name": "Denilson",
+      "popularity": 43,
+      "type": "artist",
+      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
     {
       "external_urls": {
@@ -1089,42 +1125,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-      },
-      "followers": {
-        "href": null,
-        "total": 34953
-      },
-      "genres": [
-        "mexican hip hop",
-        "urbano mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
-      "id": "31opIYTivWACiXXzX2khlj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf0ce3fa45277d67ef3c24798",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f0ce3fa45277d67ef3c24798",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f0ce3fa45277d67ef3c24798",
-          "width": 160
-        }
-      ],
-      "name": "Denilson",
-      "popularity": 43,
-      "type": "artist",
-      "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
       },
       "followers": {
@@ -1335,7 +1335,7 @@
         }
       ],
       "name": "C\u00f3digo KM",
-      "popularity": 6,
+      "popularity": 5,
       "type": "artist",
       "uri": "spotify:artist:231yQfVjg9sGhTNsaym9ck"
     },
@@ -1512,7 +1512,7 @@
         }
       ],
       "name": "Jasmine Alvarado",
-      "popularity": 14,
+      "popularity": 12,
       "type": "artist",
       "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
     },
