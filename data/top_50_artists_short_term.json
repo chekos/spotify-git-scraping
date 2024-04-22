@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1958837
+        "total": 1961348
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2713276
+        "total": 2709495
       },
       "genres": [
         "detroit hip hop",
@@ -68,7 +68,7 @@
         }
       ],
       "name": "Tech N9ne",
-      "popularity": 66,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:6UBA15slIuadJ8h2lPRPos"
     },
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 16101475
+        "total": 16064051
       },
       "genres": [
         "latin hip hop",
@@ -104,7 +104,7 @@
         }
       ],
       "name": "Cartel De Santa",
-      "popularity": 76,
+      "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
     },
@@ -114,7 +114,7 @@
       },
       "followers": {
         "href": null,
-        "total": 542924
+        "total": 541909
       },
       "genres": [
         "country rap",
@@ -150,7 +150,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1456060
+        "total": 1451550
       },
       "genres": [
         "mexican hip hop"
@@ -185,7 +185,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23172
+        "total": 23149
       },
       "genres": [
         "mexican hip hop",
@@ -221,7 +221,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1194601
+        "total": 1190565
       },
       "genres": [
         "mexican hip hop"
@@ -246,7 +246,7 @@
         }
       ],
       "name": "Remik Gonzalez",
-      "popularity": 56,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     },
@@ -256,7 +256,7 @@
       },
       "followers": {
         "href": null,
-        "total": 372439
+        "total": 372132
       },
       "genres": [
         "mexican hip hop",
@@ -282,7 +282,7 @@
         }
       ],
       "name": "Yoss Bones",
-      "popularity": 63,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
     }
