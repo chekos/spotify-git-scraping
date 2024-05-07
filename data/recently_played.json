@@ -446,7 +446,7 @@
         "type": "track",
         "uri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3"
       },
-      "played_at": "2024-05-07T15:17:10.499Z",
+      "played_at": "2024-05-07T15:30:54.701Z",
       "context": {
         "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/7KbclkIpY2Ke115orWrC9l",
@@ -902,7 +902,7 @@
         "type": "track",
         "uri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3"
       },
-      "played_at": "2024-05-07T15:12:35.512Z",
+      "played_at": "2024-05-07T15:26:19.615Z",
       "context": {
         "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/7KbclkIpY2Ke115orWrC9l",
@@ -1358,7 +1358,7 @@
         "type": "track",
         "uri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3"
       },
-      "played_at": "2024-05-07T15:08:01.184Z",
+      "played_at": "2024-05-07T15:21:45.479Z",
       "context": {
         "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/7KbclkIpY2Ke115orWrC9l",
@@ -1369,11 +1369,11 @@
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1715095030499&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1715095854701&limit=50",
   "cursors": {
-    "after": "1715095030499",
-    "before": "1715094481184"
+    "after": "1715095854701",
+    "before": "1715095305479"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1715091440000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1715095070000&limit=50"
 }
