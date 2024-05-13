@@ -2,11 +2,49 @@
   "items": [
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "followers": {
+        "href": null,
+        "total": 28709313
+      },
+      "genres": [
+        "conscious hip hop",
+        "hip hop",
+        "rap",
+        "west coast rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174437b9e2a82505b3d93ff1022",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178437b9e2a82505b3d93ff1022",
+          "width": 160
+        }
+      ],
+      "name": "Kendrick Lamar",
+      "popularity": 90,
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
         "href": null,
-        "total": 2041814
+        "total": 2045456
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +79,7 @@
       },
       "followers": {
         "href": null,
-        "total": 288803
+        "total": 288938
       },
       "genres": [
         "mexican hip hop"
@@ -72,49 +110,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-      },
-      "followers": {
-        "href": null,
-        "total": 28656288
-      },
-      "genres": [
-        "conscious hip hop",
-        "hip hop",
-        "rap",
-        "west coast rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
-      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174437b9e2a82505b3d93ff1022",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178437b9e2a82505b3d93ff1022",
-          "width": 160
-        }
-      ],
-      "name": "Kendrick Lamar",
-      "popularity": 90,
-      "type": "artist",
-      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
         "href": null,
-        "total": 1464764
+        "total": 1465549
       },
       "genres": [
         "mexican hip hop"
@@ -149,7 +149,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1250360
+        "total": 1251265
       },
       "genres": [
         "mexican hip hop"
@@ -184,7 +184,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23398
+        "total": 23411
       },
       "genres": [
         "mexican hip hop",
@@ -220,7 +220,7 @@
       },
       "followers": {
         "href": null,
-        "total": 87528011
+        "total": 87586682
       },
       "genres": [
         "canadian hip hop",
@@ -259,7 +259,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1196447
+        "total": 1196826
       },
       "genres": [
         "mexican hip hop"
