@@ -11076,7 +11076,7 @@
       "id": "3O7aFrnyTmEsLwaKtOonqd",
       "is_local": false,
       "name": "Alcohol Amargo",
-      "popularity": 38,
+      "popularity": 37,
       "preview_url": "https://p.scdn.co/mp3-preview/1a5fd9c5b1382795735a8c1331ae66b5f8f6aed3?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
       "track_number": 1,
       "type": "track",
@@ -22623,7 +22623,7 @@
       "uri": "spotify:track:5VcZAOKJCIys1mTgkpd6FV"
     }
   ],
-  "total": 1410,
+  "total": 1411,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=long_term",
