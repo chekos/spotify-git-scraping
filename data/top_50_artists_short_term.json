@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2056180
+        "total": 2059756
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 28852847
+        "total": 28897436
       },
       "genres": [
         "conscious hip hop",
@@ -75,11 +75,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+      },
+      "followers": {
+        "href": null,
+        "total": 397344
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
+          "width": 160
+        }
+      ],
+      "name": "La Banda Baston",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
       },
       "followers": {
         "href": null,
-        "total": 289350
+        "total": 289506
       },
       "genres": [
         "mexican hip hop"
@@ -114,7 +149,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10369826
+        "total": 10374163
       },
       "genres": [
         "hip hop",
@@ -151,7 +186,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1468038
+        "total": 1468865
       },
       "genres": [
         "mexican hip hop"
@@ -186,7 +221,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3061
+        "total": 3064
       },
       "genres": [
         "lo-fi latino"
@@ -221,7 +256,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5521
+        "total": 5523
       },
       "genres": [
         "lo-fi latino"
@@ -256,7 +291,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1253814
+        "total": 1254656
       },
       "genres": [
         "mexican hip hop"
@@ -291,7 +326,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23458
+        "total": 23466
       },
       "genres": [
         "mexican hip hop",
@@ -327,7 +362,7 @@
       },
       "followers": {
         "href": null,
-        "total": 87765401
+        "total": 87851031
       },
       "genres": [
         "canadian hip hop",
@@ -366,7 +401,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1677
+        "total": 1680
       },
       "genres": [
         "lo-fi latino"
@@ -401,7 +436,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5871
+        "total": 5873
       },
       "genres": [
         "lo-fi latino",
@@ -437,7 +472,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7034
+        "total": 7041
       },
       "genres": [
         "lo-fi latino"
@@ -472,7 +507,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1197889
+        "total": 1198252
       },
       "genres": [
         "mexican hip hop"
@@ -502,7 +537,7 @@
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     }
   ],
-  "total": 14,
+  "total": 15,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
