@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2088733
+        "total": 2092535
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 397999
+        "total": 398086
       },
       "genres": [
         "mexican hip hop"
@@ -76,7 +76,7 @@
       },
       "followers": {
         "href": null,
-        "total": 29209927
+        "total": 29244714
       },
       "genres": [
         "conscious hip hop",
@@ -110,11 +110,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+      },
+      "followers": {
+        "href": null,
+        "total": 1476165
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+      "id": "0U5RYP2HMdGv2GhicLhkOI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
+          "width": 160
+        }
+      ],
+      "name": "Neto Pe\u00f1a",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
       },
       "followers": {
         "href": null,
-        "total": 10408206
+        "total": 10412235
       },
       "genres": [
         "hip hop",
@@ -151,7 +186,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23601
+        "total": 23613
       },
       "genres": [
         "mexican hip hop",
@@ -183,46 +218,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-      },
-      "followers": {
-        "href": null,
-        "total": 1475392
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-      "id": "0U5RYP2HMdGv2GhicLhkOI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
-          "width": 160
-        }
-      ],
-      "name": "Neto Pe\u00f1a",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
       },
       "followers": {
         "href": null,
-        "total": 3100
+        "total": 3103
       },
       "genres": [
         "lo-fi latino"
@@ -257,7 +257,7 @@
       },
       "followers": {
         "href": null,
-        "total": 291333
+        "total": 291642
       },
       "genres": [
         "mexican hip hop"
@@ -292,7 +292,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5537
+        "total": 5539
       },
       "genres": [
         "lo-fi latino"
@@ -327,7 +327,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2088873
+        "total": 2090594
       },
       "genres": [
         "mexican hip hop"
@@ -362,7 +362,7 @@
       },
       "followers": {
         "href": null,
-        "total": 88734340
+        "total": 88847416
       },
       "genres": [
         "canadian hip hop",
@@ -401,7 +401,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1699
+        "total": 1702
       },
       "genres": [
         "lo-fi latino"
@@ -472,7 +472,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7063
+        "total": 7066
       },
       "genres": [
         "lo-fi latino"
