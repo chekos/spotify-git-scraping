@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2092535
+        "total": 2096128
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 398086
+        "total": 398151
       },
       "genres": [
         "mexican hip hop"
@@ -76,7 +76,7 @@
       },
       "followers": {
         "href": null,
-        "total": 29244714
+        "total": 29277247
       },
       "genres": [
         "conscious hip hop",
@@ -114,7 +114,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1476165
+        "total": 1477013
       },
       "genres": [
         "mexican hip hop"
@@ -149,7 +149,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10412235
+        "total": 10416199
       },
       "genres": [
         "hip hop",
@@ -186,7 +186,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23613
+        "total": 23627
       },
       "genres": [
         "mexican hip hop",
@@ -218,11 +218,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+      },
+      "followers": {
+        "href": null,
+        "total": 27465
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+      "id": "4RtYPfT9hi1qBolEuVArOG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb52e524de06c1650745b2da8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b52e524de06c1650745b2da8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b52e524de06c1650745b2da8",
+          "width": 160
+        }
+      ],
+      "name": "La Plebada",
+      "popularity": 29,
+      "type": "artist",
+      "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
       },
       "followers": {
         "href": null,
-        "total": 3103
+        "total": 3107
       },
       "genres": [
         "lo-fi latino"
@@ -257,7 +293,7 @@
       },
       "followers": {
         "href": null,
-        "total": 291642
+        "total": 291823
       },
       "genres": [
         "mexican hip hop"
@@ -292,7 +328,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5539
+        "total": 5541
       },
       "genres": [
         "lo-fi latino"
@@ -327,7 +363,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2090594
+        "total": 2092193
       },
       "genres": [
         "mexican hip hop"
@@ -358,11 +394,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+      },
+      "followers": {
+        "href": null,
+        "total": 6207
+      },
+      "genres": [
+        "urbano mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
+      "id": "3ScIigEm9KZUrUQtXzBmKJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb878347da0922ea7bf07e2e17",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174878347da0922ea7bf07e2e17",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178878347da0922ea7bf07e2e17",
+          "width": 160
+        }
+      ],
+      "name": "Cozy Cuz",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
       },
       "followers": {
         "href": null,
-        "total": 88847416
+        "total": 88980379
       },
       "genres": [
         "canadian hip hop",
@@ -401,7 +472,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1702
+        "total": 1707
       },
       "genres": [
         "lo-fi latino"
@@ -436,7 +507,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5887
+        "total": 5890
       },
       "genres": [
         "lo-fi latino",
@@ -472,7 +543,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7066
+        "total": 7072
       },
       "genres": [
         "lo-fi latino"
@@ -502,7 +573,7 @@
       "uri": "spotify:artist:6XToOxid134FKnslBTQZW1"
     }
   ],
-  "total": 14,
+  "total": 16,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
