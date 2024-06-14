@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 399422
+        "total": 399499
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2154196
+        "total": 2157385
       },
       "genres": [
         "mexican hip hop"
@@ -76,7 +76,7 @@
       },
       "followers": {
         "href": null,
-        "total": 27578
+        "total": 27583
       },
       "genres": [
         "mexican hip hop",
@@ -112,7 +112,7 @@
       },
       "followers": {
         "href": null,
-        "total": 16324856
+        "total": 16329302
       },
       "genres": [
         "latin hip hop",
@@ -144,11 +144,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+      },
+      "followers": {
+        "href": null,
+        "total": 23994
+      },
+      "genres": [
+        "mexican hip hop",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+      "id": "3AgxRYe2kXEfsZyB07hqJF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
+          "width": 160
+        }
+      ],
+      "name": "Yoga Fire",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
       },
       "followers": {
         "href": null,
-        "total": 16495487
+        "total": 16516686
       },
       "genres": [
         "corrido",
@@ -187,7 +223,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1490172
+        "total": 1490956
       },
       "genres": [
         "mexican hip hop"
@@ -222,7 +258,7 @@
       },
       "followers": {
         "href": null,
-        "total": 27519
+        "total": 27575
       },
       "genres": [
         "mexican hip hop"
@@ -257,7 +293,7 @@
       },
       "followers": {
         "href": null,
-        "total": 13960632
+        "total": 14020428
       },
       "genres": [
         "corridos tumbados",
@@ -293,7 +329,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1278444
+        "total": 1279274
       },
       "genres": [
         "mexican hip hop"
@@ -324,47 +360,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-      },
-      "followers": {
-        "href": null,
-        "total": 23972
-      },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-      "id": "3AgxRYe2kXEfsZyB07hqJF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
-          "width": 160
-        }
-      ],
-      "name": "Yoga Fire",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
       },
       "followers": {
         "href": null,
-        "total": 294934
+        "total": 295106
       },
       "genres": [
         "mexican hip hop"
@@ -399,7 +399,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6367
+        "total": 6378
       },
       "genres": [
         "urbano mexicano"
@@ -434,7 +434,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4840103
+        "total": 4841927
       },
       "genres": [
         "mexican hip hop",
@@ -470,7 +470,7 @@
       },
       "followers": {
         "href": null,
-        "total": 36184
+        "total": 36196
       },
       "genres": [
         "mexican hip hop",
@@ -506,7 +506,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1657226
+        "total": 1658018
       },
       "genres": [
         "mexican hip hop",
