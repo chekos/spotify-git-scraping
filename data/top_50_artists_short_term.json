@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2160515
+        "total": 2163945
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 27593
+        "total": 27598
       },
       "genres": [
         "mexican hip hop",
@@ -77,7 +77,7 @@
       },
       "followers": {
         "href": null,
-        "total": 16333369
+        "total": 16337839
       },
       "genres": [
         "latin hip hop",
@@ -113,7 +113,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24013
+        "total": 24028
       },
       "genres": [
         "mexican hip hop",
@@ -149,7 +149,7 @@
       },
       "followers": {
         "href": null,
-        "total": 16537050
+        "total": 16559759
       },
       "genres": [
         "corrido",
@@ -184,11 +184,82 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 14103554
+      },
+      "genres": [
+        "corridos tumbados",
+        "sad sierreno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc08ef51312b27a1237bec73f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c08ef51312b27a1237bec73f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c08ef51312b27a1237bec73f",
+          "width": 160
+        }
+      ],
+      "name": "Peso Pluma",
+      "popularity": 88,
+      "type": "artist",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+      },
+      "followers": {
+        "href": null,
+        "total": 399641
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
+          "width": 160
+        }
+      ],
+      "name": "La Banda Baston",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
         "href": null,
-        "total": 1491753
+        "total": 1492477
       },
       "genres": [
         "mexican hip hop"
@@ -223,7 +294,7 @@
       },
       "followers": {
         "href": null,
-        "total": 27627
+        "total": 27673
       },
       "genres": [
         "mexican hip hop"
@@ -254,39 +325,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
         "href": null,
-        "total": 14090463
+        "total": 4845495
       },
       "genres": [
-        "corridos tumbados",
-        "sad sierreno"
+        "mexican hip hop",
+        "rap conciencia"
       ],
-      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
-      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc08ef51312b27a1237bec73f",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd538754c49d48ea3ae41865e",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c08ef51312b27a1237bec73f",
+          "url": "https://i.scdn.co/image/ab67616100005174d538754c49d48ea3ae41865e",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c08ef51312b27a1237bec73f",
+          "url": "https://i.scdn.co/image/ab6761610000f178d538754c49d48ea3ae41865e",
           "width": 160
         }
       ],
-      "name": "Peso Pluma",
-      "popularity": 88,
+      "name": "Gera MX",
+      "popularity": 74,
       "type": "artist",
-      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
     },
     {
       "external_urls": {
@@ -294,7 +365,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1280088
+        "total": 1280973
       },
       "genres": [
         "mexican hip hop"
@@ -325,46 +396,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-      },
-      "followers": {
-        "href": null,
-        "total": 399581
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
-          "width": 160
-        }
-      ],
-      "name": "La Banda Baston",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
       },
       "followers": {
         "href": null,
-        "total": 9319228
+        "total": 9336105
       },
       "genres": [
         "corrido",
@@ -402,7 +438,7 @@
       },
       "followers": {
         "href": null,
-        "total": 295290
+        "total": 295450
       },
       "genres": [
         "mexican hip hop"
@@ -437,7 +473,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6383
+        "total": 6391
       },
       "genres": [
         "urbano mexicano"
@@ -468,47 +504,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-      },
-      "followers": {
-        "href": null,
-        "total": 4843688
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-      "id": "2hejA1Dkf8v8R0koF44FvW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd538754c49d48ea3ae41865e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d538754c49d48ea3ae41865e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d538754c49d48ea3ae41865e",
-          "width": 160
-        }
-      ],
-      "name": "Gera MX",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
         "href": null,
-        "total": 36225
+        "total": 36246
       },
       "genres": [
         "mexican hip hop",
@@ -544,7 +544,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1658700
+        "total": 1659440
       },
       "genres": [
         "mexican hip hop",
