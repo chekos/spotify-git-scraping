@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 16358803
+        "total": 16362668
       },
       "genres": [
         "latin hip hop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 16673398
+        "total": 16695655
       },
       "genres": [
         "corrido",
@@ -113,46 +113,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-      },
-      "followers": {
-        "href": null,
-        "total": 400134
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
-          "width": 160
-        }
-      ],
-      "name": "La Banda Baston",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
         "href": null,
-        "total": 2180025
+        "total": 2183040
       },
       "genres": [
         "mexican hip hop"
@@ -183,11 +148,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+      },
+      "followers": {
+        "href": null,
+        "total": 400215
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
+          "width": 160
+        }
+      ],
+      "name": "La Banda Baston",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
       },
       "followers": {
         "href": null,
-        "total": 14258780
+        "total": 14324475
       },
       "genres": [
         "corridos tumbados",
@@ -223,7 +223,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4854930
+        "total": 4856794
       },
       "genres": [
         "mexican hip hop",
@@ -259,7 +259,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24112
+        "total": 24131
       },
       "genres": [
         "mexican hip hop",
@@ -295,7 +295,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6431
+        "total": 6441
       },
       "genres": [
         "urbano mexicano"
@@ -330,7 +330,7 @@
       },
       "followers": {
         "href": null,
-        "total": 27877
+        "total": 27926
       },
       "genres": [
         "mexican hip hop"
@@ -365,7 +365,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9416418
+        "total": 9432200
       },
       "genres": [
         "corrido",
@@ -403,7 +403,7 @@
       },
       "followers": {
         "href": null,
-        "total": 36359
+        "total": 36379
       },
       "genres": [
         "mexican hip hop",
@@ -439,7 +439,7 @@
       },
       "followers": {
         "href": null,
-        "total": 296325
+        "total": 296530
       },
       "genres": [
         "mexican hip hop"
@@ -474,7 +474,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1496185
+        "total": 1496912
       },
       "genres": [
         "mexican hip hop"
@@ -509,7 +509,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5540127
+        "total": 5542460
       },
       "genres": [
         "corrido",
@@ -547,7 +547,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1663202
+        "total": 1663956
       },
       "genres": [
         "mexican hip hop",
