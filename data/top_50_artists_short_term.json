@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 14635024
+        "total": 14649095
       },
       "genres": [
         "corridos tumbados",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2213744
+        "total": 2216729
       },
       "genres": [
         "mexican hip hop"
@@ -77,7 +77,7 @@
       },
       "followers": {
         "href": null,
-        "total": 16401420
+        "total": 16406636
       },
       "genres": [
         "latin hip hop",
@@ -109,11 +109,117 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+      },
+      "followers": {
+        "href": null,
+        "total": 1217159
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8faa1ce9f316b7b6dc33ee10",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748faa1ce9f316b7b6dc33ee10",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788faa1ce9f316b7b6dc33ee10",
+          "width": 160
+        }
+      ],
+      "name": "Remik Gonzalez",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+      },
+      "followers": {
+        "href": null,
+        "total": 4877817
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd538754c49d48ea3ae41865e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d538754c49d48ea3ae41865e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d538754c49d48ea3ae41865e",
+          "width": 160
+        }
+      ],
+      "name": "Gera MX",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+      },
+      "followers": {
+        "href": null,
+        "total": 401109
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
+          "width": 160
+        }
+      ],
+      "name": "La Banda Baston",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
       },
       "followers": {
         "href": null,
-        "total": 16913444
+        "total": 16934319
       },
       "genres": [
         "corrido",
@@ -148,46 +254,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-      },
-      "followers": {
-        "href": null,
-        "total": 401011
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
-          "width": 160
-        }
-      ],
-      "name": "La Banda Baston",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
         "href": null,
-        "total": 1504221
+        "total": 1505043
       },
       "genres": [
         "mexican hip hop"
@@ -218,47 +289,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-      },
-      "followers": {
-        "href": null,
-        "total": 4875482
-      },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-      "id": "2hejA1Dkf8v8R0koF44FvW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd538754c49d48ea3ae41865e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d538754c49d48ea3ae41865e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d538754c49d48ea3ae41865e",
-          "width": 160
-        }
-      ],
-      "name": "Gera MX",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
       },
       "followers": {
         "href": null,
-        "total": 6518
+        "total": 6525
       },
       "genres": [
         "urbano mexicano"
@@ -293,7 +328,7 @@
       },
       "followers": {
         "href": null,
-        "total": 218311
+        "total": 218327
       },
       "genres": [
         "bases de freestyle",
@@ -330,7 +365,7 @@
       },
       "followers": {
         "href": null,
-        "total": 27667
+        "total": 27672
       },
       "genres": [
         "mexican hip hop",
@@ -362,38 +397,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
       },
       "followers": {
         "href": null,
-        "total": 1216592
+        "total": 5403845
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "trap mexicano"
       ],
-      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+      "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+      "id": "4QFG9KrGWEbr6hNA58CAqE",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8faa1ce9f316b7b6dc33ee10",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6c1d2882997b15d14a7a7661",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748faa1ce9f316b7b6dc33ee10",
+          "url": "https://i.scdn.co/image/ab676161000051746c1d2882997b15d14a7a7661",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788faa1ce9f316b7b6dc33ee10",
+          "url": "https://i.scdn.co/image/ab6761610000f1786c1d2882997b15d14a7a7661",
           "width": 160
         }
       ],
-      "name": "Remik Gonzalez",
-      "popularity": 56,
+      "name": "Alem\u00e1n",
+      "popularity": 72,
       "type": "artist",
-      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+      "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
     {
       "external_urls": {
@@ -401,7 +437,7 @@
       },
       "followers": {
         "href": null,
-        "total": 24260
+        "total": 24270
       },
       "genres": [
         "mexican hip hop",
@@ -437,7 +473,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2972919
+        "total": 2974666
       },
       "genres": [
         "latin hip hop",
@@ -470,7 +506,7 @@
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
     }
   ],
-  "total": 13,
+  "total": 14,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
