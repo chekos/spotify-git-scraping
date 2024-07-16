@@ -6,11 +6,9 @@
       },
       "followers": {
         "href": null,
-        "total": 2255138
+        "total": 2258420
       },
-      "genres": [
-        "mexican hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
       "id": "6eXHRfK9Ad3IpMpSAqvcDf",
       "images": [
@@ -41,12 +39,9 @@
       },
       "followers": {
         "href": null,
-        "total": 14912495
+        "total": 14925756
       },
-      "genres": [
-        "corridos tumbados",
-        "sad sierreno"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
       "id": "12GqGscKJx3aE4t07u7eVZ",
       "images": [
@@ -77,12 +72,9 @@
       },
       "followers": {
         "href": null,
-        "total": 16471372
+        "total": 16476945
       },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
       "id": "07PdYoE4jVRF6Ut40GgVSP",
       "images": [
@@ -113,12 +105,9 @@
       },
       "followers": {
         "href": null,
-        "total": 4903924
+        "total": 4906203
       },
-      "genres": [
-        "mexican hip hop",
-        "rap conciencia"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
       "id": "2hejA1Dkf8v8R0koF44FvW",
       "images": [
@@ -149,11 +138,9 @@
       },
       "followers": {
         "href": null,
-        "total": 1223723
+        "total": 1224231
       },
-      "genres": [
-        "mexican hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
       "id": "4Hzj6dfl1y5x5TzCSsvLB6",
       "images": [
@@ -184,15 +171,9 @@
       },
       "followers": {
         "href": null,
-        "total": 17182247
+        "total": 17203682
       },
-      "genres": [
-        "corrido",
-        "corridos tumbados",
-        "musica mexicana",
-        "sad sierreno",
-        "sierreno"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
       "id": "7Gi6gjaWy3DxyilpF1a8Is",
       "images": [
@@ -223,11 +204,9 @@
       },
       "followers": {
         "href": null,
-        "total": 6639
+        "total": 6646
       },
-      "genres": [
-        "urbano mexicano"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
       "id": "3ScIigEm9KZUrUQtXzBmKJ",
       "images": [
@@ -258,11 +237,9 @@
       },
       "followers": {
         "href": null,
-        "total": 401918
+        "total": 401981
       },
-      "genres": [
-        "mexican hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
       "images": [
@@ -293,13 +270,9 @@
       },
       "followers": {
         "href": null,
-        "total": 218610
+        "total": 218615
       },
-      "genres": [
-        "bases de freestyle",
-        "mexican hip hop",
-        "peruvian hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
       "id": "4r1ZDYKzPt3iIjuq8LbT6X",
       "images": [
@@ -330,11 +303,9 @@
       },
       "followers": {
         "href": null,
-        "total": 327509
+        "total": 327952
       },
-      "genres": [
-        "mexican hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
       "id": "1FCItwxfRieMGhR0eRxotU",
       "images": [
@@ -365,11 +336,9 @@
       },
       "followers": {
         "href": null,
-        "total": 1514420
+        "total": 1515218
       },
-      "genres": [
-        "mexican hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
       "id": "0U5RYP2HMdGv2GhicLhkOI",
       "images": [
@@ -400,12 +369,9 @@
       },
       "followers": {
         "href": null,
-        "total": 27747
+        "total": 27750
       },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
       "id": "4RtYPfT9hi1qBolEuVArOG",
       "images": [
@@ -436,12 +402,9 @@
       },
       "followers": {
         "href": null,
-        "total": 2524122
+        "total": 2525222
       },
-      "genres": [
-        "colombian hip hop",
-        "mexican hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
       "id": "1cUpGtXcSQsovNYEZOQgOG",
       "images": [
@@ -472,12 +435,9 @@
       },
       "followers": {
         "href": null,
-        "total": 5427558
+        "total": 5430446
       },
-      "genres": [
-        "mexican hip hop",
-        "trap mexicano"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
       "id": "4QFG9KrGWEbr6hNA58CAqE",
       "images": [
@@ -508,11 +468,9 @@
       },
       "followers": {
         "href": null,
-        "total": 9220795
+        "total": 9222823
       },
-      "genres": [
-        "mexican hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
       "id": "4tm8CEdm4pkQsEh4jIr9Yp",
       "images": [
@@ -543,11 +501,9 @@
       },
       "followers": {
         "href": null,
-        "total": 2679045
+        "total": 2680440
       },
-      "genres": [
-        "mexican hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
       "id": "66RfYVdftqnuHRicyClgL0",
       "images": [
@@ -578,14 +534,9 @@
       },
       "followers": {
         "href": null,
-        "total": 2996576
+        "total": 2998377
       },
-      "genres": [
-        "latin hip hop",
-        "mexican hip hop",
-        "rap conciencia",
-        "trap mexicano"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
       "id": "1QhaqxeqF9sipS2gwbEKpu",
       "images": [
