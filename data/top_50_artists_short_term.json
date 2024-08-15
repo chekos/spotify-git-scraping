@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1234739
+        "total": 1234756
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6070889
+        "total": 6075494
       },
       "genres": [
         "latin alternative",
@@ -80,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 16707401
+        "total": 16719036
       },
       "genres": [
         "latin hip hop",
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 17915899
+        "total": 17945022
       },
       "genres": [
         "corrido",
@@ -151,11 +151,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+      },
+      "followers": {
+        "href": null,
+        "total": 82960
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap underground mexicano",
+        "trap mexicano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
+      "id": "4H3ePoFDdsl36QwB96jZzg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb58d8945e3be2c310751ad544",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517458d8945e3be2c310751ad544",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17858d8945e3be2c310751ad544",
+          "width": 160
+        }
+      ],
+      "name": "Leyruk",
+      "popularity": 32,
+      "type": "artist",
+      "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
       },
       "followers": {
         "href": null,
-        "total": 146108
+        "total": 146114
       },
       "genres": [
         "mexican hip hop"
@@ -190,7 +227,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5016431
+        "total": 5022798
       },
       "genres": [
         "mexican hip hop",
@@ -226,7 +263,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3830094
+        "total": 3832444
       },
       "genres": [
         "latin alternative",
@@ -266,7 +303,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1663708
+        "total": 1664118
       },
       "genres": [
         "latin alternative",
@@ -305,7 +342,7 @@
       },
       "followers": {
         "href": null,
-        "total": 84336107
+        "total": 84305803
       },
       "genres": [
         "reggaeton",
@@ -342,7 +379,7 @@
       },
       "followers": {
         "href": null,
-        "total": 15271841
+        "total": 15227228
       },
       "genres": [
         "corridos tumbados",
@@ -374,11 +411,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+      },
+      "followers": {
+        "href": null,
+        "total": 2390836
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
+          "width": 160
+        }
+      ],
+      "name": "Lefty Sm",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
       },
       "followers": {
         "href": null,
-        "total": 7598860
+        "total": 7611859
       },
       "genres": [
         "r&b en espanol",
@@ -413,46 +485,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-      },
-      "followers": {
-        "href": null,
-        "total": 2385122
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
-          "width": 160
-        }
-      ],
-      "name": "Lefty Sm",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
       },
       "followers": {
         "href": null,
-        "total": 15998306
+        "total": 16018027
       },
       "genres": [
         "argentine hip hop",
@@ -491,7 +528,7 @@
       },
       "followers": {
         "href": null,
-        "total": 146280
+        "total": 146370
       },
       "genres": [
         "trap mexicano"
@@ -526,7 +563,7 @@
       },
       "followers": {
         "href": null,
-        "total": 29588
+        "total": 29609
       },
       "genres": [
         "mexican hip hop"
@@ -561,7 +598,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2445126
+        "total": 2446230
       },
       "genres": [
         "cantautora mexicana",
@@ -595,7 +632,7 @@
       "uri": "spotify:artist:2QWIScpFDNxmS6ZEMIUvgm"
     }
   ],
-  "total": 16,
+  "total": 17,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
