@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1239995
+        "total": 1240256
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 30628
+        "total": 30679
       },
       "genres": [
         "mexican hip hop"
@@ -76,7 +76,7 @@
       },
       "followers": {
         "href": null,
-        "total": 98346
+        "total": 98383
       },
       "genres": [
         "mexican hip hop"
@@ -111,7 +111,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3240352
+        "total": 3241532
       },
       "genres": [
         "east coast hip hop",
@@ -150,7 +150,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18863185
+        "total": 18888672
       },
       "genres": [
         "corrido",
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 17036629
+        "total": 17042860
       },
       "genres": [
         "latin hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3139993
+        "total": 3141771
       },
       "genres": [
         "latin hip hop",
@@ -263,7 +263,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2551949
+        "total": 2555508
       },
       "genres": [
         "mexican hip hop"
@@ -294,11 +294,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+      },
+      "followers": {
+        "href": null,
+        "total": 1849764
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
+      "id": "6DjBv6gyR1HLsvwGUOD5V9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb428f9c22cf2fb08eabb084f6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174428f9c22cf2fb08eabb084f6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178428f9c22cf2fb08eabb084f6",
+          "width": 160
+        }
+      ],
+      "name": "TREN LOKOTE",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
       },
       "followers": {
         "href": null,
-        "total": 16020308
+        "total": 16041757
       },
       "genres": [
         "corridos tumbados",
@@ -330,46 +365,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-      },
-      "followers": {
-        "href": null,
-        "total": 1849359
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
-      "id": "6DjBv6gyR1HLsvwGUOD5V9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb428f9c22cf2fb08eabb084f6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174428f9c22cf2fb08eabb084f6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178428f9c22cf2fb08eabb084f6",
-          "width": 160
-        }
-      ],
-      "name": "TREN LOKOTE",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
         "href": null,
-        "total": 25099
+        "total": 25112
       },
       "genres": [
         "mexican hip hop",
@@ -405,7 +405,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7245
+        "total": 7246
       },
       "genres": [
         "mexican hip hop",
@@ -441,7 +441,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7117
+        "total": 7122
       },
       "genres": [
         "urbano mexicano"
