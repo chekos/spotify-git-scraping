@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1248013
+        "total": 1248355
       },
       "genres": [
         "mexican hip hop"
@@ -41,7 +41,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2631832
+        "total": 2634812
       },
       "genres": [
         "mexican hip hop"
@@ -76,7 +76,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2784127
+        "total": 2785954
       },
       "genres": [
         "mexican hip hop"
@@ -111,7 +111,7 @@
       },
       "followers": {
         "href": null,
-        "total": 17185523
+        "total": 17191473
       },
       "genres": [
         "latin hip hop",
@@ -147,7 +147,7 @@
       },
       "followers": {
         "href": null,
-        "total": 31944
+        "total": 32014
       },
       "genres": [
         "mexican hip hop"
@@ -178,50 +178,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-      },
-      "followers": {
-        "href": null,
-        "total": 3274420
-      },
-      "genres": [
-        "east coast hip hop",
-        "gangster rap",
-        "hardcore hip hop",
-        "hip hop",
-        "rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
-      "id": "34EP7KEpOjXcM2TCat1ISk",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe60866298962b71792b2bf1a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e60866298962b71792b2bf1a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e60866298962b71792b2bf1a",
-          "width": 160
-        }
-      ],
-      "name": "Wu-Tang Clan",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
       },
       "followers": {
         "href": null,
-        "total": 445940
+        "total": 446442
       },
       "genres": [
         "mexican hip hop",
@@ -257,7 +218,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1371433
+        "total": 1372403
       },
       "genres": [
         "mexican hip hop"
@@ -288,11 +249,50 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      },
+      "followers": {
+        "href": null,
+        "total": 3275797
+      },
+      "genres": [
+        "east coast hip hop",
+        "gangster rap",
+        "hardcore hip hop",
+        "hip hop",
+        "rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+      "id": "34EP7KEpOjXcM2TCat1ISk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe60866298962b71792b2bf1a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e60866298962b71792b2bf1a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e60866298962b71792b2bf1a",
+          "width": 160
+        }
+      ],
+      "name": "Wu-Tang Clan",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
       },
       "followers": {
         "href": null,
-        "total": 3186166
+        "total": 3188035
       },
       "genres": [
         "latin hip hop",
@@ -330,7 +330,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3911121
+        "total": 3912521
       },
       "genres": [
         "conscious hip hop",
@@ -371,7 +371,7 @@
       },
       "followers": {
         "href": null,
-        "total": 220413
+        "total": 220437
       },
       "genres": [
         "bases de freestyle",
@@ -408,7 +408,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25326
+        "total": 25335
       },
       "genres": [
         "mexican hip hop",
@@ -440,11 +440,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+      },
+      "followers": {
+        "href": null,
+        "total": 5216028
+      },
+      "genres": [
+        "mexican hip hop",
+        "rap conciencia"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb663bea91b7e4ea8fd6d890c4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174663bea91b7e4ea8fd6d890c4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178663bea91b7e4ea8fd6d890c4",
+          "width": 160
+        }
+      ],
+      "name": "Gera MX",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
       },
       "followers": {
         "href": null,
-        "total": 405971
+        "total": 406008
       },
       "genres": [
         "mexican hip hop"
@@ -479,7 +515,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1861582
+        "total": 1862092
       },
       "genres": [
         "mexican hip hop"
@@ -507,9 +543,45 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+      },
+      "followers": {
+        "href": null,
+        "total": 776677
+      },
+      "genres": [
+        "trap venezolano",
+        "venezuelan hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
+      "id": "6fMZytDgX1Q9OV6ndSugym",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1cfe013315d7b22b38ec1804",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051741cfe013315d7b22b38ec1804",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1781cfe013315d7b22b38ec1804",
+          "width": 160
+        }
+      ],
+      "name": "Akapellah",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     }
   ],
-  "total": 14,
+  "total": 16,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
