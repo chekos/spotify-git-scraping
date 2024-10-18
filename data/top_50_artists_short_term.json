@@ -2,46 +2,11 @@
   "items": [
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-      },
-      "followers": {
-        "href": null,
-        "total": 1249564
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8faa1ce9f316b7b6dc33ee10",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748faa1ce9f316b7b6dc33ee10",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788faa1ce9f316b7b6dc33ee10",
-          "width": 160
-        }
-      ],
-      "name": "Remik Gonzalez",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
         "href": null,
-        "total": 2646684
+        "total": 2649403
       },
       "genres": [
         "mexican hip hop"
@@ -72,11 +37,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+      },
+      "followers": {
+        "href": null,
+        "total": 1249924
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8faa1ce9f316b7b6dc33ee10",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748faa1ce9f316b7b6dc33ee10",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788faa1ce9f316b7b6dc33ee10",
+          "width": 160
+        }
+      ],
+      "name": "Remik Gonzalez",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
         "href": null,
-        "total": 17213831
+        "total": 17219160
       },
       "genres": [
         "latin hip hop",
@@ -112,7 +112,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2792671
+        "total": 2794483
       },
       "genres": [
         "mexican hip hop"
@@ -147,7 +147,7 @@
       },
       "followers": {
         "href": null,
-        "total": 32296
+        "total": 32367
       },
       "genres": [
         "mexican hip hop"
@@ -182,7 +182,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1376349
+        "total": 1377253
       },
       "genres": [
         "mexican hip hop"
@@ -217,7 +217,7 @@
       },
       "followers": {
         "href": null,
-        "total": 448315
+        "total": 448768
       },
       "genres": [
         "mexican hip hop",
@@ -253,7 +253,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3194848
+        "total": 3196413
       },
       "genres": [
         "latin hip hop",
@@ -291,7 +291,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3917711
+        "total": 3918970
       },
       "genres": [
         "conscious hip hop",
@@ -332,7 +332,7 @@
       },
       "followers": {
         "href": null,
-        "total": 777819
+        "total": 778134
       },
       "genres": [
         "trap venezolano",
