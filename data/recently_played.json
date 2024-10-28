@@ -7,13 +7,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+                "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
               },
-              "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-              "id": "5lYeiQxUTcGKVgAuTqbTeL",
-              "name": "Charles Ans",
+              "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
+              "id": "645xd9cHiiLqqehoLzLMDR",
+              "name": "Ad\u00e1n Cruz",
               "type": "artist",
-              "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+              "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
             }
           ],
           "available_markets": [
@@ -204,44 +204,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv"
+            "spotify": "https://open.spotify.com/album/28UMKbtvUg31nRPHz1aGOi"
           },
-          "href": "https://api.spotify.com/v1/albums/5MYr57wJSDfVi4DnvSwPPv",
-          "id": "5MYr57wJSDfVi4DnvSwPPv",
+          "href": "https://api.spotify.com/v1/albums/28UMKbtvUg31nRPHz1aGOi",
+          "id": "28UMKbtvUg31nRPHz1aGOi",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273092328aa3aac94153f738a6e",
+              "url": "https://i.scdn.co/image/ab67616d0000b2730dc291da87728b12672d313c",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02092328aa3aac94153f738a6e",
+              "url": "https://i.scdn.co/image/ab67616d00001e020dc291da87728b12672d313c",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851092328aa3aac94153f738a6e",
+              "url": "https://i.scdn.co/image/ab67616d000048510dc291da87728b12672d313c",
               "width": 64
             }
           ],
-          "name": "Suave",
-          "release_date": "2019-07-05",
+          "name": "Malona",
+          "release_date": "2018-12-17",
           "release_date_precision": "day",
           "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:5MYr57wJSDfVi4DnvSwPPv"
+          "uri": "spotify:album:28UMKbtvUg31nRPHz1aGOi"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+              "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
             },
-            "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
-            "id": "5lYeiQxUTcGKVgAuTqbTeL",
-            "name": "Charles Ans",
+            "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
+            "id": "645xd9cHiiLqqehoLzLMDR",
+            "name": "Ad\u00e1n Cruz",
             "type": "artist",
-            "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+            "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
           }
         ],
         "available_markets": [
@@ -432,40 +432,40 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 214500,
-        "explicit": false,
+        "duration_ms": 180062,
+        "explicit": true,
         "external_ids": {
-          "isrc": "QZGLM1930828"
+          "isrc": "US7VG1869593"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
+          "spotify": "https://open.spotify.com/track/5ENfygeOuZXT6Ug7ind40j"
         },
-        "href": "https://api.spotify.com/v1/tracks/60Q52tRITuGCBbbt6zQPqQ",
-        "id": "60Q52tRITuGCBbbt6zQPqQ",
+        "href": "https://api.spotify.com/v1/tracks/5ENfygeOuZXT6Ug7ind40j",
+        "id": "5ENfygeOuZXT6Ug7ind40j",
         "is_local": false,
-        "name": "Suave",
-        "popularity": 48,
-        "preview_url": "https://p.scdn.co/mp3-preview/29d844c7a41d5ba1875d0d2087e6c965adedeafc?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
+        "name": "Malona",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/dda009ef2edced4c6dda64f0d63e69705ee59769?cid=5a0ffed4bc0642d794ffd4ab473c1b8f",
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:60Q52tRITuGCBbbt6zQPqQ"
+        "uri": "spotify:track:5ENfygeOuZXT6Ug7ind40j"
       },
-      "played_at": "2024-10-27T22:18:50.843Z",
+      "played_at": "2024-10-28T00:15:25.433Z",
       "context": {
         "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
+        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1730067530843&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1730074525433&limit=50",
   "cursors": {
-    "after": "1730067530843",
-    "before": "1730067530843"
+    "after": "1730074525433",
+    "before": "1730074525433"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1730067469000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1730072038000&limit=50"
 }
