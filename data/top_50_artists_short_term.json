@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 17739667
+        "total": 17753303
       },
       "genres": [
         "bolero",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 37910
+        "total": 37980
       },
       "genres": [
         "mexican hip hop"
@@ -77,7 +77,7 @@
       },
       "followers": {
         "href": null,
-        "total": 409077
+        "total": 409108
       },
       "genres": [
         "mexican hip hop"
@@ -112,7 +112,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2859796
+        "total": 2862697
       },
       "genres": [
         "mexican hip hop"
@@ -147,7 +147,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1447757
+        "total": 1448793
       },
       "genres": [
         "mexican hip hop"
@@ -182,7 +182,7 @@
       },
       "followers": {
         "href": null,
-        "total": 292646
+        "total": 292788
       },
       "genres": [
         "trap mexicano"
@@ -217,7 +217,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5749186
+        "total": 5750861
       },
       "genres": [
         "mexican hip hop",
@@ -253,7 +253,7 @@
       },
       "followers": {
         "href": null,
-        "total": 160109
+        "total": 160157
       },
       "genres": [
         "mexican hip hop"
@@ -288,7 +288,7 @@
       },
       "followers": {
         "href": null,
-        "total": 35568544
+        "total": 35599707
       },
       "genres": [
         "conscious hip hop",
@@ -326,7 +326,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2912008
+        "total": 2913718
       },
       "genres": [
         "mexican hip hop"
@@ -361,7 +361,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1273874
+        "total": 1274245
       },
       "genres": [
         "mexican hip hop"
@@ -392,11 +392,126 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+      },
+      "followers": {
+        "href": null,
+        "total": 392001
+      },
+      "genres": [
+        "cantautora mexicana",
+        "jazz mexicano",
+        "mexican indie",
+        "nuevo folklore mexicano",
+        "veracruz indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/72VywtXEoONiBLNu3ibGI7",
+      "id": "72VywtXEoONiBLNu3ibGI7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbca27b871b38e6a76803155c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bca27b871b38e6a76803155c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bca27b871b38e6a76803155c",
+          "width": 160
+        }
+      ],
+      "name": "Silvana Estrada",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:72VywtXEoONiBLNu3ibGI7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+      },
+      "followers": {
+        "href": null,
+        "total": 4846867
+      },
+      "genres": [
+        "cantautora mexicana",
+        "latin alternative",
+        "latin pop",
+        "mexican pop",
+        "rock en espanol",
+        "veracruz indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1hcdI2N1023RvSwLzTtdsp",
+      "id": "1hcdI2N1023RvSwLzTtdsp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc3c42a12891de47e2a39a95a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c3c42a12891de47e2a39a95a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c3c42a12891de47e2a39a95a",
+          "width": 160
+        }
+      ],
+      "name": "Natalia Lafourcade",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:1hcdI2N1023RvSwLzTtdsp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+      },
+      "followers": {
+        "href": null,
+        "total": 4561365
+      },
+      "genres": [
+        "cantautora mexicana",
+        "mexican pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0XK6kT7xcZAlcYrNjOgzJe",
+      "id": "0XK6kT7xcZAlcYrNjOgzJe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb13022e44760fe2175dc11a0f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517413022e44760fe2175dc11a0f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17813022e44760fe2175dc11a0f",
+          "width": 160
+        }
+      ],
+      "name": "Carla Morrison",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:0XK6kT7xcZAlcYrNjOgzJe"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
       },
       "followers": {
         "href": null,
-        "total": 38476
+        "total": 38488
       },
       "genres": [
         "mexican hip hop"
@@ -431,7 +546,7 @@
       },
       "followers": {
         "href": null,
-        "total": 26056
+        "total": 26071
       },
       "genres": [
         "mexican hip hop",
@@ -463,11 +578,84 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+      },
+      "followers": {
+        "href": null,
+        "total": 966728
+      },
+      "genres": [
+        "flamenco",
+        "rumba",
+        "world"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3jc496ljiyrS3ECrD7QiqL",
+      "id": "3jc496ljiyrS3ECrD7QiqL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0021ec9649c85befdf9cc4a9",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740021ec9649c85befdf9cc4a9",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780021ec9649c85befdf9cc4a9",
+          "width": 160
+        }
+      ],
+      "name": "Gipsy Kings",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:3jc496ljiyrS3ECrD7QiqL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+      },
+      "followers": {
+        "href": null,
+        "total": 4009058
+      },
+      "genres": [
+        "mexican pop",
+        "tejano"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6IE6z7DcZIT4Ml3Fh5Ivch",
+      "id": "6IE6z7DcZIT4Ml3Fh5Ivch",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0e20a9e55782c42122e38409",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740e20a9e55782c42122e38409",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780e20a9e55782c42122e38409",
+          "width": 160
+        }
+      ],
+      "name": "Selena",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:6IE6z7DcZIT4Ml3Fh5Ivch"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
         "href": null,
-        "total": 17625019
+        "total": 17631171
       },
       "genres": [
         "latin hip hop",
@@ -499,11 +687,84 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+      },
+      "followers": {
+        "href": null,
+        "total": 336526
+      },
+      "genres": [
+        "nueva cancion",
+        "ranchera",
+        "trova"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0WC6O2ZzUcDYvcmt2mGh8c",
+      "id": "0WC6O2ZzUcDYvcmt2mGh8c",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb275f7d6fed33ccd0c3b7045b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174275f7d6fed33ccd0c3b7045b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178275f7d6fed33ccd0c3b7045b",
+          "width": 160
+        }
+      ],
+      "name": "Chavela Vargas",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:0WC6O2ZzUcDYvcmt2mGh8c"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 18306716
+      },
+      "genres": [
+        "corridos tumbados",
+        "sad sierreno"
+      ],
+      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e5283f5b671cf618b82a2696",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e5283f5b671cf618b82a2696",
+          "width": 160
+        }
+      ],
+      "name": "Peso Pluma",
+      "popularity": 93,
+      "type": "artist",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
       },
       "followers": {
         "href": null,
-        "total": 7653
+        "total": 7657
       },
       "genres": [
         "urbano mexicano"
@@ -538,7 +799,7 @@
       },
       "followers": {
         "href": null,
-        "total": 296716
+        "total": 296749
       },
       "genres": [
         "mexican hip hop"
@@ -568,7 +829,7 @@
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
     }
   ],
-  "total": 16,
+  "total": 23,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
