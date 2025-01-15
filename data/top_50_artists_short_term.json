@@ -6,9 +6,10 @@
       },
       "followers": {
         "href": null,
-        "total": 17985990
+        "total": 17995883
       },
       "genres": [
+        "mariachi",
         "bolero",
         "latin pop"
       ],
@@ -32,7 +33,7 @@
         }
       ],
       "name": "Luis Miguel",
-      "popularity": 85,
+      "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:2nszmSgqreHSdJA3zWPyrW"
     },
@@ -42,10 +43,12 @@
       },
       "followers": {
         "href": null,
-        "total": 39625
+        "total": 39735
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "electro corridos",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
       "id": "0U8dIwzBn17JkhYxmznp6T",
@@ -77,10 +80,11 @@
       },
       "followers": {
         "href": null,
-        "total": 2915801
+        "total": 2918278
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
       "id": "6eXHRfK9Ad3IpMpSAqvcDf",
@@ -112,11 +116,12 @@
       },
       "followers": {
         "href": null,
-        "total": 5805541
+        "total": 5808944
       },
       "genres": [
         "mexican hip hop",
-        "trap mexicano"
+        "latin hip hop",
+        "electro corridos"
       ],
       "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
       "id": "4QFG9KrGWEbr6hNA58CAqE",
@@ -151,8 +156,7 @@
         "total": 28030
       },
       "genres": [
-        "mexican hip hop",
-        "trap mexicano"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
       "id": "4RtYPfT9hi1qBolEuVArOG",
@@ -174,7 +178,7 @@
         }
       ],
       "name": "La Plebada",
-      "popularity": 32,
+      "popularity": 31,
       "type": "artist",
       "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
     },
@@ -184,11 +188,11 @@
       },
       "followers": {
         "href": null,
-        "total": 17761218
+        "total": 17767836
       },
       "genres": [
-        "latin hip hop",
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
       "id": "07PdYoE4jVRF6Ut40GgVSP",
@@ -220,7 +224,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1471078
+        "total": 1472147
       },
       "genres": [
         "mexican hip hop"
@@ -255,37 +259,35 @@
       },
       "followers": {
         "href": null,
-        "total": 4882919
+        "total": 4884836
       },
       "genres": [
-        "cantautora mexicana",
-        "latin alternative",
-        "latin pop",
-        "mexican pop",
-        "rock en espanol",
-        "veracruz indie"
+        "latin folk",
+        "bolero",
+        "latin indie",
+        "latin alternative"
       ],
       "href": "https://api.spotify.com/v1/artists/1hcdI2N1023RvSwLzTtdsp",
       "id": "1hcdI2N1023RvSwLzTtdsp",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb81090bb679605b57ba204d94",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc3c42a12891de47e2a39a95a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517481090bb679605b57ba204d94",
+          "url": "https://i.scdn.co/image/ab67616100005174c3c42a12891de47e2a39a95a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17881090bb679605b57ba204d94",
+          "url": "https://i.scdn.co/image/ab6761610000f178c3c42a12891de47e2a39a95a",
           "width": 160
         }
       ],
       "name": "Natalia Lafourcade",
-      "popularity": 74,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:1hcdI2N1023RvSwLzTtdsp"
     },
@@ -295,14 +297,12 @@
       },
       "followers": {
         "href": null,
-        "total": 395209
+        "total": 395392
       },
       "genres": [
-        "cantautora mexicana",
-        "jazz mexicano",
+        "latin folk",
         "mexican indie",
-        "nuevo folklore mexicano",
-        "veracruz indie"
+        "latin indie"
       ],
       "href": "https://api.spotify.com/v1/artists/72VywtXEoONiBLNu3ibGI7",
       "id": "72VywtXEoONiBLNu3ibGI7",
@@ -324,7 +324,7 @@
         }
       ],
       "name": "Silvana Estrada",
-      "popularity": 57,
+      "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:72VywtXEoONiBLNu3ibGI7"
     },
@@ -334,11 +334,10 @@
       },
       "followers": {
         "href": null,
-        "total": 4594342
+        "total": 4595971
       },
       "genres": [
-        "cantautora mexicana",
-        "mexican pop"
+        "latin indie"
       ],
       "href": "https://api.spotify.com/v1/artists/0XK6kT7xcZAlcYrNjOgzJe",
       "id": "0XK6kT7xcZAlcYrNjOgzJe",
@@ -370,13 +369,11 @@
       },
       "followers": {
         "href": null,
-        "total": 36185183
+        "total": 36210282
       },
       "genres": [
-        "conscious hip hop",
         "hip hop",
-        "rap",
-        "west coast rap"
+        "west coast hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
       "id": "2YZyLoL8N0Wb9xBt1NhZWg",
@@ -398,7 +395,7 @@
         }
       ],
       "name": "Kendrick Lamar",
-      "popularity": 96,
+      "popularity": 95,
       "type": "artist",
       "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     },
@@ -408,10 +405,11 @@
       },
       "followers": {
         "href": null,
-        "total": 38630
+        "total": 38636
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/31opIYTivWACiXXzX2khlj",
       "id": "31opIYTivWACiXXzX2khlj",
@@ -443,12 +441,10 @@
       },
       "followers": {
         "href": null,
-        "total": 973544
+        "total": 973795
       },
       "genres": [
-        "flamenco",
-        "rumba",
-        "world"
+        "flamenco"
       ],
       "href": "https://api.spotify.com/v1/artists/3jc496ljiyrS3ECrD7QiqL",
       "id": "3jc496ljiyrS3ECrD7QiqL",
@@ -480,11 +476,12 @@
       },
       "followers": {
         "href": null,
-        "total": 4031139
+        "total": 4031952
       },
       "genres": [
-        "mexican pop",
-        "tejano"
+        "tejano",
+        "cumbia",
+        "m\u00fasica mexicana"
       ],
       "href": "https://api.spotify.com/v1/artists/6IE6z7DcZIT4Ml3Fh5Ivch",
       "id": "6IE6z7DcZIT4Ml3Fh5Ivch",
@@ -506,7 +503,7 @@
         }
       ],
       "name": "Selena",
-      "popularity": 72,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:6IE6z7DcZIT4Ml3Fh5Ivch"
     },
@@ -516,12 +513,14 @@
       },
       "followers": {
         "href": null,
-        "total": 337654
+        "total": 337712
       },
       "genres": [
-        "nueva cancion",
+        "bolero",
+        "trova",
         "ranchera",
-        "trova"
+        "mariachi",
+        "latin folk"
       ],
       "href": "https://api.spotify.com/v1/artists/0WC6O2ZzUcDYvcmt2mGh8c",
       "id": "0WC6O2ZzUcDYvcmt2mGh8c",
@@ -553,10 +552,11 @@
       },
       "followers": {
         "href": null,
-        "total": 321104
+        "total": 321214
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
       "id": "6tJRAxu0HwB2GI9GueEj4l",
@@ -578,7 +578,7 @@
         }
       ],
       "name": "Faruz Feet",
-      "popularity": 60,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
@@ -588,11 +588,11 @@
       },
       "followers": {
         "href": null,
-        "total": 5471907
+        "total": 5474945
       },
       "genres": [
         "mexican hip hop",
-        "rap conciencia"
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
       "id": "2hejA1Dkf8v8R0koF44FvW",
@@ -624,10 +624,11 @@
       },
       "followers": {
         "href": null,
-        "total": 297695
+        "total": 297763
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
       "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
@@ -659,15 +660,9 @@
       },
       "followers": {
         "href": null,
-        "total": 1541846
+        "total": 1542161
       },
-      "genres": [
-        "conscious hip hop",
-        "hip hop",
-        "rap",
-        "southern hip hop",
-        "trap"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/28ExwzUQsvgJooOI0X1mr3",
       "id": "28ExwzUQsvgJooOI0X1mr3",
       "images": [
