@@ -7,13 +7,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+                "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
               },
-              "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
-              "id": "36QJpDe2go2KgaRleHCDTp",
-              "name": "Led Zeppelin",
+              "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+              "id": "4OBJLual30L7gRl5UkeRcT",
+              "name": "T.I.",
               "type": "artist",
-              "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+              "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
             }
           ],
           "available_markets": [
@@ -96,7 +96,6 @@
             "JO",
             "PS",
             "IN",
-            "BY",
             "KZ",
             "MD",
             "UA",
@@ -123,7 +122,6 @@
             "BZ",
             "BT",
             "BW",
-            "BF",
             "CV",
             "CW",
             "DM",
@@ -148,7 +146,6 @@
             "NE",
             "PW",
             "PG",
-            "PR",
             "WS",
             "SM",
             "ST",
@@ -166,7 +163,6 @@
             "TV",
             "VU",
             "AZ",
-            "BN",
             "BI",
             "KH",
             "CM",
@@ -181,10 +177,8 @@
             "MO",
             "MR",
             "MN",
-            "NP",
             "RW",
             "TG",
-            "UZ",
             "ZW",
             "BJ",
             "MG",
@@ -204,504 +198,64 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+            "spotify": "https://open.spotify.com/album/4LE0rkWoiZV5ciq4UCzLia"
           },
-          "href": "https://api.spotify.com/v1/albums/6P5QHz4XtxOmS5EuiGIPut",
-          "id": "6P5QHz4XtxOmS5EuiGIPut",
+          "href": "https://api.spotify.com/v1/albums/4LE0rkWoiZV5ciq4UCzLia",
+          "id": "4LE0rkWoiZV5ciq4UCzLia",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb",
+              "url": "https://i.scdn.co/image/ab67616d0000b273a5913746d545f9f83b3dcda2",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0290a50cfe99a4c19ff3cbfbdb",
+              "url": "https://i.scdn.co/image/ab67616d00001e02a5913746d545f9f83b3dcda2",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485190a50cfe99a4c19ff3cbfbdb",
+              "url": "https://i.scdn.co/image/ab67616d00004851a5913746d545f9f83b3dcda2",
               "width": 64
             }
           ],
-          "name": "Led Zeppelin III (Remaster)",
-          "release_date": "1970",
-          "release_date_precision": "year",
-          "total_tracks": 10,
-          "type": "album",
-          "uri": "spotify:album:6P5QHz4XtxOmS5EuiGIPut"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-            },
-            "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
-            "id": "36QJpDe2go2KgaRleHCDTp",
-            "name": "Led Zeppelin",
-            "type": "artist",
-            "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "PR",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "disc_number": 1,
-        "duration_ms": 146250,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "USAT21300934"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
-        },
-        "href": "https://api.spotify.com/v1/tracks/78lgmZwycJ3nzsdgmPPGNx",
-        "id": "78lgmZwycJ3nzsdgmPPGNx",
-        "is_local": false,
-        "name": "Immigrant Song - Remaster",
-        "popularity": 74,
-        "preview_url": null,
-        "track_number": 1,
-        "type": "track",
-        "uri": "spotify:track:78lgmZwycJ3nzsdgmPPGNx"
-      },
-      "played_at": "2025-01-18T05:14:24.890Z",
-      "context": {
-        "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/37i9dQZF1FoyQGyinuuvRu"
-        },
-        "uri": "spotify:playlist:37i9dQZF1FoyQGyinuuvRu"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-              },
-              "href": "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
-              "id": "2AM4ilv6UzW0uMRuqKtDgN",
-              "name": "ZZ Top",
-              "type": "artist",
-              "uri": "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "PR",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-          },
-          "href": "https://api.spotify.com/v1/albums/0DOXzXXIHrYOxUvyCsucfX",
-          "id": "0DOXzXXIHrYOxUvyCsucfX",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273db9c5945ce3a3f873695d18a",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02db9c5945ce3a3f873695d18a",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851db9c5945ce3a3f873695d18a",
-              "width": 64
-            }
-          ],
-          "name": "Tres Hombres (Expanded 2006 Remaster)",
-          "release_date": "1973-07-26",
+          "name": "Us Or Else: Letter To The System",
+          "release_date": "2016-12-16",
           "release_date_precision": "day",
-          "total_tracks": 13,
+          "total_tracks": 15,
           "type": "album",
-          "uri": "spotify:album:0DOXzXXIHrYOxUvyCsucfX"
+          "uri": "spotify:album:4LE0rkWoiZV5ciq4UCzLia"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+              "spotify": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
             },
-            "href": "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
-            "id": "2AM4ilv6UzW0uMRuqKtDgN",
-            "name": "ZZ Top",
+            "href": "https://api.spotify.com/v1/artists/4OBJLual30L7gRl5UkeRcT",
+            "id": "4OBJLual30L7gRl5UkeRcT",
+            "name": "T.I.",
             "type": "artist",
-            "uri": "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
+            "uri": "spotify:artist:4OBJLual30L7gRl5UkeRcT"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3qFkaN2Ktrlml2VB3GBqOM"
+            },
+            "href": "https://api.spotify.com/v1/artists/3qFkaN2Ktrlml2VB3GBqOM",
+            "id": "3qFkaN2Ktrlml2VB3GBqOM",
+            "name": "B Rossi",
+            "type": "artist",
+            "uri": "spotify:artist:3qFkaN2Ktrlml2VB3GBqOM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+            "id": "2N4EYkIlG1kv25g6Wv8LGI",
+            "name": "Killer Mike",
+            "type": "artist",
+            "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
           }
         ],
         "available_markets": [
@@ -784,7 +338,6 @@
           "JO",
           "PS",
           "IN",
-          "BY",
           "KZ",
           "MD",
           "UA",
@@ -811,7 +364,6 @@
           "BZ",
           "BT",
           "BW",
-          "BF",
           "CV",
           "CW",
           "DM",
@@ -836,7 +388,6 @@
           "NE",
           "PW",
           "PG",
-          "PR",
           "WS",
           "SM",
           "ST",
@@ -854,7 +405,6 @@
           "TV",
           "VU",
           "AZ",
-          "BN",
           "BI",
           "KH",
           "CM",
@@ -869,10 +419,8 @@
           "MO",
           "MR",
           "MN",
-          "NP",
           "RW",
           "TG",
-          "UZ",
           "ZW",
           "BJ",
           "MG",
@@ -892,25 +440,25 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 230480,
-        "explicit": false,
+        "duration_ms": 232000,
+        "explicit": true,
         "external_ids": {
-          "isrc": "USWB10505222"
+          "isrc": "QZ2UA1600024"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
+          "spotify": "https://open.spotify.com/track/7JRj3Kz1MNp1pCj64H1EtA"
         },
-        "href": "https://api.spotify.com/v1/tracks/0u6JFVn0KHHlidZxNL9gVE",
-        "id": "0u6JFVn0KHHlidZxNL9gVE",
+        "href": "https://api.spotify.com/v1/tracks/7JRj3Kz1MNp1pCj64H1EtA",
+        "id": "7JRj3Kz1MNp1pCj64H1EtA",
         "is_local": false,
-        "name": "La Grange (2005 Remaster)",
-        "popularity": 78,
+        "name": "40 Acres",
+        "popularity": 13,
         "preview_url": null,
-        "track_number": 8,
+        "track_number": 12,
         "type": "track",
-        "uri": "spotify:track:0u6JFVn0KHHlidZxNL9gVE"
+        "uri": "spotify:track:7JRj3Kz1MNp1pCj64H1EtA"
       },
-      "played_at": "2025-01-18T05:06:33.114Z",
+      "played_at": "2025-01-18T05:22:59.210Z",
       "context": {
         "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
@@ -927,13 +475,33 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+                "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
               },
-              "href": "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
-              "id": "2AM4ilv6UzW0uMRuqKtDgN",
-              "name": "ZZ Top",
+              "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+              "id": "4RnBFZRiMLRyZy0AzzTg2C",
+              "name": "Run The Jewels",
               "type": "artist",
-              "uri": "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
+              "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+              },
+              "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+              "id": "57UnSUpae3SbRekxNa5Kgl",
+              "name": "El-P",
+              "type": "artist",
+              "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+              },
+              "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+              "id": "2N4EYkIlG1kv25g6Wv8LGI",
+              "name": "Killer Mike",
+              "type": "artist",
+              "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
             }
           ],
           "available_markets": [
@@ -1124,44 +692,84 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
+            "spotify": "https://open.spotify.com/album/74LenWKjMdGa2qJiI1sxwT"
           },
-          "href": "https://api.spotify.com/v1/albums/4KW6YVbF8E3kexYcl0k4IK",
-          "id": "4KW6YVbF8E3kexYcl0k4IK",
+          "href": "https://api.spotify.com/v1/albums/74LenWKjMdGa2qJiI1sxwT",
+          "id": "74LenWKjMdGa2qJiI1sxwT",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273a2b4f98f60e3cacf3866b2e3",
+              "url": "https://i.scdn.co/image/ab67616d0000b27342898aa855aa284ad4b2c1ff",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02a2b4f98f60e3cacf3866b2e3",
+              "url": "https://i.scdn.co/image/ab67616d00001e0242898aa855aa284ad4b2c1ff",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851a2b4f98f60e3cacf3866b2e3",
+              "url": "https://i.scdn.co/image/ab67616d0000485142898aa855aa284ad4b2c1ff",
               "width": 64
             }
           ],
-          "name": "Eliminator",
-          "release_date": "1983-03-23",
+          "name": "RTJ4",
+          "release_date": "2020-06-03",
           "release_date_precision": "day",
           "total_tracks": 11,
           "type": "album",
-          "uri": "spotify:album:4KW6YVbF8E3kexYcl0k4IK"
+          "uri": "spotify:album:74LenWKjMdGa2qJiI1sxwT"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+              "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
             },
-            "href": "https://api.spotify.com/v1/artists/2AM4ilv6UzW0uMRuqKtDgN",
-            "id": "2AM4ilv6UzW0uMRuqKtDgN",
-            "name": "ZZ Top",
+            "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+            "id": "57UnSUpae3SbRekxNa5Kgl",
+            "name": "El-P",
             "type": "artist",
-            "uri": "spotify:artist:2AM4ilv6UzW0uMRuqKtDgN"
+            "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+            "id": "2N4EYkIlG1kv25g6Wv8LGI",
+            "name": "Killer Mike",
+            "type": "artist",
+            "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+            },
+            "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+            "id": "4RnBFZRiMLRyZy0AzzTg2C",
+            "name": "Run The Jewels",
+            "type": "artist",
+            "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+            },
+            "href": "https://api.spotify.com/v1/artists/1jKpNUjiz4KXgaAZD5FI9S",
+            "id": "1jKpNUjiz4KXgaAZD5FI9S",
+            "name": "Zack De La Rocha",
+            "type": "artist",
+            "uri": "spotify:artist:1jKpNUjiz4KXgaAZD5FI9S"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+            "id": "2RdwBSPQiwcmiDo9kixcl8",
+            "name": "Pharrell Williams",
+            "type": "artist",
+            "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
           }
         ],
         "available_markets": [
@@ -1352,25 +960,25 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 258026,
-        "explicit": false,
+        "duration_ms": 205160,
+        "explicit": true,
         "external_ids": {
-          "isrc": "USWB10702682"
+          "isrc": "QMRSZ2001024"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom"
+          "spotify": "https://open.spotify.com/track/0YdjfAmUyxF4Dh0HNEhmoI"
         },
-        "href": "https://api.spotify.com/v1/tracks/0bRNszTbTFLNlunAeh7eom",
-        "id": "0bRNszTbTFLNlunAeh7eom",
+        "href": "https://api.spotify.com/v1/tracks/0YdjfAmUyxF4Dh0HNEhmoI",
+        "id": "0YdjfAmUyxF4Dh0HNEhmoI",
         "is_local": false,
-        "name": "Sharp Dressed Man (2008 Remaster)",
-        "popularity": 75,
+        "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
+        "popularity": 43,
         "preview_url": null,
-        "track_number": 3,
+        "track_number": 7,
         "type": "track",
-        "uri": "spotify:track:0bRNszTbTFLNlunAeh7eom"
+        "uri": "spotify:track:0YdjfAmUyxF4Dh0HNEhmoI"
       },
-      "played_at": "2025-01-18T05:00:49.599Z",
+      "played_at": "2025-01-18T05:19:06.009Z",
       "context": {
         "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1FoyQGyinuuvRu",
