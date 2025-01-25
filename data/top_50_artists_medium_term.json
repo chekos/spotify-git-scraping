@@ -359,7 +359,7 @@
         }
       ],
       "name": "Kendrick Lamar",
-      "popularity": 94,
+      "popularity": 93,
       "type": "artist",
       "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     },
@@ -1468,7 +1468,7 @@
         }
       ],
       "name": "Los Enanitos Verdes",
-      "popularity": 72,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
     },
@@ -1541,7 +1541,7 @@
         }
       ],
       "name": "Ad\u00e1n Cruz",
-      "popularity": 61,
+      "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
     },
@@ -1726,7 +1726,7 @@
         }
       ],
       "name": "Natalia Lafourcade",
-      "popularity": 72,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:1hcdI2N1023RvSwLzTtdsp"
     },
@@ -1784,17 +1784,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf51d038edbda19eed060184d",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb34e45cf65382f2eed6752b2e",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f51d038edbda19eed060184d",
+          "url": "https://i.scdn.co/image/ab6761610000517434e45cf65382f2eed6752b2e",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f51d038edbda19eed060184d",
+          "url": "https://i.scdn.co/image/ab6761610000f17834e45cf65382f2eed6752b2e",
           "width": 160
         }
       ],
