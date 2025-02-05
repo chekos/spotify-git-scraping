@@ -395,7 +395,7 @@
         }
       ],
       "name": "Leyruk",
-      "popularity": 32,
+      "popularity": 31,
       "type": "artist",
       "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
@@ -795,7 +795,7 @@
         }
       ],
       "name": "Faruz Feet",
-      "popularity": 58,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
@@ -964,17 +964,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbca8a9fb2641ce18cd0457aa",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
+          "url": "https://i.scdn.co/image/ab67616100005174bca8a9fb2641ce18cd0457aa",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
+          "url": "https://i.scdn.co/image/ab6761610000f178bca8a9fb2641ce18cd0457aa",
           "width": 160
         }
       ],
@@ -1026,6 +1026,78 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+      },
+      "followers": {
+        "href": null,
+        "total": 1568636
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3mYFuz6iY7D9X78rOXg5CG",
+      "id": "3mYFuz6iY7D9X78rOXg5CG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb6a7dae26d7f8a3896d55988",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b6a7dae26d7f8a3896d55988",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b6a7dae26d7f8a3896d55988",
+          "width": 160
+        }
+      ],
+      "name": "Akwid",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 9740631
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf70d400817421baff34f54f6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f70d400817421baff34f54f6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f70d400817421baff34f54f6",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
       },
       "followers": {
@@ -1041,17 +1113,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf35b3932775200e07056a4b5",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8817cafb81ed736adf29a7b7",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f35b3932775200e07056a4b5",
+          "url": "https://i.scdn.co/image/ab676161000051748817cafb81ed736adf29a7b7",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f35b3932775200e07056a4b5",
+          "url": "https://i.scdn.co/image/ab6761610000f1788817cafb81ed736adf29a7b7",
           "width": 160
         }
       ],
@@ -1095,42 +1167,6 @@
       "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-      },
-      "followers": {
-        "href": null,
-        "total": 9740631
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf70d400817421baff34f54f6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f70d400817421baff34f54f6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f70d400817421baff34f54f6",
-          "width": 160
-        }
-      ],
-      "name": "Santa Fe Klan",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
     {
       "external_urls": {
@@ -1677,42 +1713,6 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:0XK6kT7xcZAlcYrNjOgzJe"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-      },
-      "followers": {
-        "href": null,
-        "total": 1568636
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3mYFuz6iY7D9X78rOXg5CG",
-      "id": "3mYFuz6iY7D9X78rOXg5CG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb6a7dae26d7f8a3896d55988",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b6a7dae26d7f8a3896d55988",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b6a7dae26d7f8a3896d55988",
-          "width": 160
-        }
-      ],
-      "name": "Akwid",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:3mYFuz6iY7D9X78rOXg5CG"
     },
     {
       "external_urls": {
