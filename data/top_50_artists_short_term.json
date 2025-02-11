@@ -370,6 +370,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 19478229
+      },
+      "genres": [
+        "corrido",
+        "corridos tumbados",
+        "corridos b\u00e9licos",
+        "m\u00fasica mexicana",
+        "sad sierre\u00f1o",
+        "electro corridos",
+        "banda"
+      ],
+      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e5283f5b671cf618b82a2696",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e5283f5b671cf618b82a2696",
+          "width": 160
+        }
+      ],
+      "name": "Peso Pluma",
+      "popularity": 90,
+      "type": "artist",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
       },
       "followers": {
@@ -438,47 +479,6 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:6UBA15slIuadJ8h2lPRPos"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 19478229
-      },
-      "genres": [
-        "corrido",
-        "corridos tumbados",
-        "corridos b\u00e9licos",
-        "m\u00fasica mexicana",
-        "sad sierre\u00f1o",
-        "electro corridos",
-        "banda"
-      ],
-      "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
-      "id": "12GqGscKJx3aE4t07u7eVZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe5283f5b671cf618b82a2696",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e5283f5b671cf618b82a2696",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e5283f5b671cf618b82a2696",
-          "width": 160
-        }
-      ],
-      "name": "Peso Pluma",
-      "popularity": 90,
-      "type": "artist",
-      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ"
     },
     {
       "external_urls": {
