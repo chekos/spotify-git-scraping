@@ -104,7 +104,7 @@
         }
       ],
       "name": "Alem\u00e1n",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
@@ -334,8 +334,8 @@
       "genres": [
         "reggaeton",
         "trap latino",
-        "urbano latino",
-        "latin"
+        "latin",
+        "urbano latino"
       ],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
@@ -564,25 +564,24 @@
         "ska",
         "latin alternative",
         "mexican hip hop",
-        "latin hip hop",
-        "mexican ska"
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/27Owkm4TGlMqb0BqaEt3PW",
       "id": "27Owkm4TGlMqb0BqaEt3PW",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdd75f12d84502dc5001eabe3",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe9e454f050cf4f1437457766",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174dd75f12d84502dc5001eabe3",
+          "url": "https://i.scdn.co/image/ab67616100005174e9e454f050cf4f1437457766",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178dd75f12d84502dc5001eabe3",
+          "url": "https://i.scdn.co/image/ab6761610000f178e9e454f050cf4f1437457766",
           "width": 160
         }
       ],
@@ -1226,17 +1225,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebee8809cb56babbdffad6dc97",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ee8809cb56babbdffad6dc97",
+          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ee8809cb56babbdffad6dc97",
+          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
           "width": 160
         }
       ],
@@ -1298,17 +1297,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf51d038edbda19eed060184d",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb34e45cf65382f2eed6752b2e",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f51d038edbda19eed060184d",
+          "url": "https://i.scdn.co/image/ab6761610000517434e45cf65382f2eed6752b2e",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f51d038edbda19eed060184d",
+          "url": "https://i.scdn.co/image/ab6761610000f17834e45cf65382f2eed6752b2e",
           "width": 160
         }
       ],

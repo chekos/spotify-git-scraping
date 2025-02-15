@@ -15,8 +15,7 @@
         "ska",
         "latin alternative",
         "mexican hip hop",
-        "latin hip hop",
-        "mexican ska"
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/27Owkm4TGlMqb0BqaEt3PW",
       "id": "27Owkm4TGlMqb0BqaEt3PW",
@@ -147,7 +146,7 @@
         }
       ],
       "name": "Alem\u00e1n",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
     },
@@ -270,8 +269,8 @@
       "genres": [
         "reggaeton",
         "trap latino",
-        "urbano latino",
-        "latin"
+        "latin",
+        "urbano latino"
       ],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
