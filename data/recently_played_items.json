@@ -432,25 +432,25 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 199299,
+        "duration_ms": 181969,
         "explicit": true,
         "external_ids": {
-          "isrc": "QM6P42209620"
+          "isrc": "QM6P42209677"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0wObw0J87etFOiNJOSvDNH"
+          "spotify": "https://open.spotify.com/track/7DxHxVvZkeW2UUrXYGmn3U"
         },
-        "href": "https://api.spotify.com/v1/tracks/0wObw0J87etFOiNJOSvDNH",
-        "id": "0wObw0J87etFOiNJOSvDNH",
+        "href": "https://api.spotify.com/v1/tracks/7DxHxVvZkeW2UUrXYGmn3U",
+        "id": "7DxHxVvZkeW2UUrXYGmn3U",
         "is_local": false,
-        "name": "Nobu",
-        "popularity": 34,
+        "name": "Waze",
+        "popularity": 41,
         "preview_url": null,
-        "track_number": 3,
+        "track_number": 4,
         "type": "track",
-        "uri": "spotify:track:0wObw0J87etFOiNJOSvDNH"
+        "uri": "spotify:track:7DxHxVvZkeW2UUrXYGmn3U"
       },
-      "played_at": "2025-02-16T22:12:03.002Z",
+      "played_at": "2025-02-16T22:23:56.544Z",
       "context": {
         "type": "album",
         "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
