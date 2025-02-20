@@ -272,22 +272,22 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee8809cb56babbdffad6dc97",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab67616100005174ee8809cb56babbdffad6dc97",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab6761610000f178ee8809cb56babbdffad6dc97",
           "width": 160
         }
       ],
       "name": "Dharius",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
@@ -766,7 +766,7 @@
         }
       ],
       "name": "Iluminatik",
-      "popularity": 44,
+      "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
     },
@@ -802,7 +802,7 @@
         }
       ],
       "name": "Rich Vagos",
-      "popularity": 61,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     },
@@ -1261,17 +1261,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb75e86a27e54aae43e6325973",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb14477d70085ed52a0de07289",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517475e86a27e54aae43e6325973",
+          "url": "https://i.scdn.co/image/ab6761610000517414477d70085ed52a0de07289",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17875e86a27e54aae43e6325973",
+          "url": "https://i.scdn.co/image/ab6761610000f17814477d70085ed52a0de07289",
           "width": 160
         }
       ],
@@ -1349,7 +1349,7 @@
         }
       ],
       "name": "Aczino",
-      "popularity": 48,
+      "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
     },
