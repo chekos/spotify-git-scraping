@@ -2,6 +2,42 @@
   "items": [
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+      },
+      "followers": {
+        "href": null,
+        "total": 5602765
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb663bea91b7e4ea8fd6d890c4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174663bea91b7e4ea8fd6d890c4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178663bea91b7e4ea8fd6d890c4",
+          "width": 160
+        }
+      ],
+      "name": "Gera MX",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
       },
       "followers": {
@@ -107,42 +143,6 @@
       "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-      },
-      "followers": {
-        "href": null,
-        "total": 5602765
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-      "id": "2hejA1Dkf8v8R0koF44FvW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb663bea91b7e4ea8fd6d890c4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174663bea91b7e4ea8fd6d890c4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178663bea91b7e4ea8fd6d890c4",
-          "width": 160
-        }
-      ],
-      "name": "Gera MX",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
     },
     {
       "external_urls": {
@@ -276,17 +276,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebee8809cb56babbdffad6dc97",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ee8809cb56babbdffad6dc97",
+          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ee8809cb56babbdffad6dc97",
+          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
           "width": 160
         }
       ],
@@ -294,6 +294,42 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 163266
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+      "id": "4V2V4PaSblStayYVWTGDbZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3f4e21dab79667b7f93cb340",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743f4e21dab79667b7f93cb340",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783f4e21dab79667b7f93cb340",
+          "width": 160
+        }
+      ],
+      "name": "Geassassin",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
     },
     {
       "external_urls": {
@@ -479,42 +515,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-      },
-      "followers": {
-        "href": null,
-        "total": 3054154
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
-          "width": 160
-        }
-      ],
-      "name": "Lefty Sm",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
       },
       "followers": {
@@ -549,6 +549,42 @@
       "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+      },
+      "followers": {
+        "href": null,
+        "total": 3054154
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
+          "width": 160
+        }
+      ],
+      "name": "Lefty Sm",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     },
     {
       "external_urls": {
@@ -608,17 +644,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb99a6ccc4aae5ae5404c9eb30",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaa534de724c7a565c07bb3f5",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517499a6ccc4aae5ae5404c9eb30",
+          "url": "https://i.scdn.co/image/ab67616100005174aa534de724c7a565c07bb3f5",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17899a6ccc4aae5ae5404c9eb30",
+          "url": "https://i.scdn.co/image/ab6761610000f178aa534de724c7a565c07bb3f5",
           "width": 160
         }
       ],
@@ -810,7 +846,7 @@
       "uri": "spotify:artist:3sgFRtyBnxXD5ESfmbK4dl"
     }
   ],
-  "total": 22,
+  "total": 23,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
