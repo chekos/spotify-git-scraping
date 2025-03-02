@@ -260,6 +260,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 163266
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+      "id": "4V2V4PaSblStayYVWTGDbZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3f4e21dab79667b7f93cb340",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743f4e21dab79667b7f93cb340",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783f4e21dab79667b7f93cb340",
+          "width": 160
+        }
+      ],
+      "name": "Geassassin",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
@@ -294,42 +330,6 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 163266
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
-      "id": "4V2V4PaSblStayYVWTGDbZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3f4e21dab79667b7f93cb340",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743f4e21dab79667b7f93cb340",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783f4e21dab79667b7f93cb340",
-          "width": 160
-        }
-      ],
-      "name": "Geassassin",
-      "popularity": 52,
-      "type": "artist",
-      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
     },
     {
       "external_urls": {
@@ -665,6 +665,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+      },
+      "followers": {
+        "href": null,
+        "total": 4138602
+      },
+      "genres": [
+        "mexican hip hop",
+        "corrido",
+        "corridos b\u00e9licos"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0rJ0xlAQI0wLRucDRoQQbO",
+      "id": "0rJ0xlAQI0wLRucDRoQQbO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5a818c1188ac5c2f3ba82f82",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745a818c1188ac5c2f3ba82f82",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785a818c1188ac5c2f3ba82f82",
+          "width": 160
+        }
+      ],
+      "name": "El Makabelico",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:0rJ0xlAQI0wLRucDRoQQbO"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
       },
       "followers": {
@@ -846,7 +883,7 @@
       "uri": "spotify:artist:3sgFRtyBnxXD5ESfmbK4dl"
     }
   ],
-  "total": 23,
+  "total": 24,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
