@@ -524,8 +524,8 @@
         "rock en espa\u00f1ol",
         "mexican rock",
         "latin rock",
-        "latin alternative",
         "ska",
+        "latin alternative",
         "mexican hip hop",
         "latin hip hop"
       ],
@@ -790,17 +790,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee8809cb56babbdffad6dc97",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab67616100005174ee8809cb56babbdffad6dc97",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab6761610000f178ee8809cb56babbdffad6dc97",
           "width": 160
         }
       ],
@@ -955,43 +955,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-      },
-      "followers": {
-        "href": null,
-        "total": 3462103
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop",
-        "rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-      "id": "1QhaqxeqF9sipS2gwbEKpu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb23c75d4293636fcb8538ba9f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517423c75d4293636fcb8538ba9f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17823c75d4293636fcb8538ba9f",
-          "width": 160
-        }
-      ],
-      "name": "C-Kan",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
       },
       "followers": {
@@ -1026,6 +989,43 @@
       "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+      },
+      "followers": {
+        "href": null,
+        "total": 3462103
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop",
+        "rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+      "id": "1QhaqxeqF9sipS2gwbEKpu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb23c75d4293636fcb8538ba9f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517423c75d4293636fcb8538ba9f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17823c75d4293636fcb8538ba9f",
+          "width": 160
+        }
+      ],
+      "name": "C-Kan",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
     },
     {
       "external_urls": {
