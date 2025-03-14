@@ -3,17 +3,17 @@
     {
       "track": {
         "album": {
-          "album_type": "album",
+          "album_type": "single",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+                "spotify": "https://open.spotify.com/artist/79VjkJJEo8D7HbNfDWfFtJ"
               },
-              "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
-              "id": "2N2aJ1SXQxMkhHD8C6fhYD",
-              "name": "Millonario",
+              "href": "https://api.spotify.com/v1/artists/79VjkJJEo8D7HbNfDWfFtJ",
+              "id": "79VjkJJEo8D7HbNfDWfFtJ",
+              "name": "Homegrown Mafia",
               "type": "artist",
-              "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
+              "uri": "spotify:artist:79VjkJJEo8D7HbNfDWfFtJ"
             }
           ],
           "available_markets": [
@@ -204,54 +204,94 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3"
+            "spotify": "https://open.spotify.com/album/71oExaKpAW0XrtIRcocaGU"
           },
-          "href": "https://api.spotify.com/v1/albums/2M9NJUv0KbyZzINUyMcmM3",
-          "id": "2M9NJUv0KbyZzINUyMcmM3",
+          "href": "https://api.spotify.com/v1/albums/71oExaKpAW0XrtIRcocaGU",
+          "id": "71oExaKpAW0XrtIRcocaGU",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27331776f1f63f5fb804e082fff",
+              "url": "https://i.scdn.co/image/ab67616d0000b273d0af68dbc85a3298fda7e3bf",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0231776f1f63f5fb804e082fff",
+              "url": "https://i.scdn.co/image/ab67616d00001e02d0af68dbc85a3298fda7e3bf",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485131776f1f63f5fb804e082fff",
+              "url": "https://i.scdn.co/image/ab67616d00004851d0af68dbc85a3298fda7e3bf",
               "width": 64
             }
           ],
-          "name": "Millonario Sin Corona",
-          "release_date": "2016-06-17",
+          "name": "Homegrizzy Boyz",
+          "release_date": "2016-11-18",
           "release_date_precision": "day",
-          "total_tracks": 13,
+          "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:2M9NJUv0KbyZzINUyMcmM3"
+          "uri": "spotify:album:71oExaKpAW0XrtIRcocaGU"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+              "spotify": "https://open.spotify.com/artist/79VjkJJEo8D7HbNfDWfFtJ"
             },
-            "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
-            "id": "2N2aJ1SXQxMkhHD8C6fhYD",
-            "name": "Millonario",
+            "href": "https://api.spotify.com/v1/artists/79VjkJJEo8D7HbNfDWfFtJ",
+            "id": "79VjkJJEo8D7HbNfDWfFtJ",
+            "name": "Homegrown Mafia",
             "type": "artist",
-            "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
+            "uri": "spotify:artist:79VjkJJEo8D7HbNfDWfFtJ"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/50A4LkkoiVLuJAtcRvfqYh"
+              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
             },
-            "href": "https://api.spotify.com/v1/artists/50A4LkkoiVLuJAtcRvfqYh",
-            "id": "50A4LkkoiVLuJAtcRvfqYh",
-            "name": "Babo",
+            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+            "id": "4QFG9KrGWEbr6hNA58CAqE",
+            "name": "Alemán",
             "type": "artist",
-            "uri": "spotify:artist:50A4LkkoiVLuJAtcRvfqYh"
+            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/1GKIlPFdcewHtpDVCQ8zmJ",
+            "id": "1GKIlPFdcewHtpDVCQ8zmJ",
+            "name": "Brray",
+            "type": "artist",
+            "uri": "spotify:artist:1GKIlPFdcewHtpDVCQ8zmJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Mp8C0vL1gSAS6DLYdLL0U"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Mp8C0vL1gSAS6DLYdLL0U",
+            "id": "3Mp8C0vL1gSAS6DLYdLL0U",
+            "name": "Dee",
+            "type": "artist",
+            "uri": "spotify:artist:3Mp8C0vL1gSAS6DLYdLL0U"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+            },
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
+            "type": "artist",
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+            "id": "3AgxRYe2kXEfsZyB07hqJF",
+            "name": "Yoga Fire",
+            "type": "artist",
+            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
           }
         ],
         "available_markets": [
@@ -442,30 +482,30 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 203413,
+        "duration_ms": 224858,
         "explicit": true,
         "external_ids": {
-          "isrc": "MX3601500006"
+          "isrc": "QZ5AB1634429"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7ICsw0j1Ln2cJDkFzqrGUS"
+          "spotify": "https://open.spotify.com/track/57IuCyRE5czPizBtvrExZn"
         },
-        "href": "https://api.spotify.com/v1/tracks/7ICsw0j1Ln2cJDkFzqrGUS",
-        "id": "7ICsw0j1Ln2cJDkFzqrGUS",
+        "href": "https://api.spotify.com/v1/tracks/57IuCyRE5czPizBtvrExZn",
+        "id": "57IuCyRE5czPizBtvrExZn",
         "is_local": false,
-        "name": "De Aquí los Veo",
-        "popularity": 62,
+        "name": "Homegrizzy Boyz",
+        "popularity": 39,
         "preview_url": null,
-        "track_number": 6,
+        "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:7ICsw0j1Ln2cJDkFzqrGUS"
+        "uri": "spotify:track:57IuCyRE5czPizBtvrExZn"
       },
-      "played_at": "2025-03-14T15:17:15.415Z",
+      "played_at": "2025-03-14T15:33:48.213Z",
       "context": {
+        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "type": "playlist",
         "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
@@ -477,13 +517,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+                "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
               },
-              "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
-              "id": "51yyeVxyvecgePAWXmeLUE",
-              "name": "Daniel, Me Estás Matando",
+              "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+              "id": "07PdYoE4jVRF6Ut40GgVSP",
+              "name": "Cartel De Santa",
               "type": "artist",
-              "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
+              "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
             }
           ],
           "available_markets": [
@@ -674,44 +714,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/0f5Bxz0icXVD2B4BldVU0z"
+            "spotify": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
           },
-          "href": "https://api.spotify.com/v1/albums/0f5Bxz0icXVD2B4BldVU0z",
-          "id": "0f5Bxz0icXVD2B4BldVU0z",
+          "href": "https://api.spotify.com/v1/albums/6XpSHxvcHf2VbRpDnMN091",
+          "id": "6XpSHxvcHf2VbRpDnMN091",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d7bca8730d6c29fbb2b05e15",
+              "url": "https://i.scdn.co/image/ab67616d0000b273253c87f9234b079eebf0165f",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02d7bca8730d6c29fbb2b05e15",
+              "url": "https://i.scdn.co/image/ab67616d00001e02253c87f9234b079eebf0165f",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851d7bca8730d6c29fbb2b05e15",
+              "url": "https://i.scdn.co/image/ab67616d00004851253c87f9234b079eebf0165f",
               "width": 64
             }
           ],
-          "name": "Grandes Éxitos del Boleroglam, Vol. 2 (Track by Track)",
-          "release_date": "2021-12-25",
+          "name": "Sincopa",
+          "release_date": "2011-07-26",
           "release_date_precision": "day",
-          "total_tracks": 33,
+          "total_tracks": 16,
           "type": "album",
-          "uri": "spotify:album:0f5Bxz0icXVD2B4BldVU0z"
+          "uri": "spotify:album:6XpSHxvcHf2VbRpDnMN091"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+              "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
             },
-            "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
-            "id": "51yyeVxyvecgePAWXmeLUE",
-            "name": "Daniel, Me Estás Matando",
+            "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+            "id": "07PdYoE4jVRF6Ut40GgVSP",
+            "name": "Cartel De Santa",
             "type": "artist",
-            "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
+            "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
           }
         ],
         "available_markets": [
@@ -902,30 +942,30 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 217173,
-        "explicit": false,
+        "duration_ms": 292160,
+        "explicit": true,
         "external_ids": {
-          "isrc": "QZNJX2192404"
+          "isrc": "MXF011000131"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/58Ayt5NUdhem7qkydIugdd"
+          "spotify": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
         },
-        "href": "https://api.spotify.com/v1/tracks/58Ayt5NUdhem7qkydIugdd",
-        "id": "58Ayt5NUdhem7qkydIugdd",
+        "href": "https://api.spotify.com/v1/tracks/5Mn06i1d9H1KaiFbQDQPhT",
+        "id": "5Mn06i1d9H1KaiFbQDQPhT",
         "is_local": false,
-        "name": "Pudimos Ser",
-        "popularity": 13,
+        "name": "Bombos y Tarolas",
+        "popularity": 64,
         "preview_url": null,
-        "track_number": 11,
+        "track_number": 5,
         "type": "track",
-        "uri": "spotify:track:58Ayt5NUdhem7qkydIugdd"
+        "uri": "spotify:track:5Mn06i1d9H1KaiFbQDQPhT"
       },
-      "played_at": "2025-03-14T15:13:51.501Z",
+      "played_at": "2025-03-14T15:30:02.820Z",
       "context": {
+        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "type": "playlist",
         "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
@@ -937,13 +977,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+                "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
               },
-              "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
-              "id": "51yyeVxyvecgePAWXmeLUE",
-              "name": "Daniel, Me Estás Matando",
+              "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+              "id": "3AgxRYe2kXEfsZyB07hqJF",
+              "name": "Yoga Fire",
               "type": "artist",
-              "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
+              "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
             }
           ],
           "available_markets": [
@@ -1134,44 +1174,64 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/0f5Bxz0icXVD2B4BldVU0z"
+            "spotify": "https://open.spotify.com/album/3hoeuEtUWX5WknLcRtXQUX"
           },
-          "href": "https://api.spotify.com/v1/albums/0f5Bxz0icXVD2B4BldVU0z",
-          "id": "0f5Bxz0icXVD2B4BldVU0z",
+          "href": "https://api.spotify.com/v1/albums/3hoeuEtUWX5WknLcRtXQUX",
+          "id": "3hoeuEtUWX5WknLcRtXQUX",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d7bca8730d6c29fbb2b05e15",
+              "url": "https://i.scdn.co/image/ab67616d0000b273aa019e87cd739868f220d9a5",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02d7bca8730d6c29fbb2b05e15",
+              "url": "https://i.scdn.co/image/ab67616d00001e02aa019e87cd739868f220d9a5",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851d7bca8730d6c29fbb2b05e15",
+              "url": "https://i.scdn.co/image/ab67616d00004851aa019e87cd739868f220d9a5",
               "width": 64
             }
           ],
-          "name": "Grandes Éxitos del Boleroglam, Vol. 2 (Track by Track)",
-          "release_date": "2021-12-25",
+          "name": "Ciudad del Diablo",
+          "release_date": "2016-10-25",
           "release_date_precision": "day",
-          "total_tracks": 33,
+          "total_tracks": 9,
           "type": "album",
-          "uri": "spotify:album:0f5Bxz0icXVD2B4BldVU0z"
+          "uri": "spotify:album:3hoeuEtUWX5WknLcRtXQUX"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+              "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
             },
-            "href": "https://api.spotify.com/v1/artists/51yyeVxyvecgePAWXmeLUE",
-            "id": "51yyeVxyvecgePAWXmeLUE",
-            "name": "Daniel, Me Estás Matando",
+            "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+            "id": "3AgxRYe2kXEfsZyB07hqJF",
+            "name": "Yoga Fire",
             "type": "artist",
-            "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
+            "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+            "id": "4QFG9KrGWEbr6hNA58CAqE",
+            "name": "Alemán",
+            "type": "artist",
+            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fCRMqA18mcwhcf5Rng0VF"
+            },
+            "href": "https://api.spotify.com/v1/artists/0fCRMqA18mcwhcf5Rng0VF",
+            "id": "0fCRMqA18mcwhcf5Rng0VF",
+            "name": "Gogo Ras",
+            "type": "artist",
+            "uri": "spotify:artist:0fCRMqA18mcwhcf5Rng0VF"
           }
         ],
         "available_markets": [
@@ -1362,30 +1422,530 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 217173,
-        "explicit": false,
+        "duration_ms": 228963,
+        "explicit": true,
         "external_ids": {
-          "isrc": "QZNJX2192404"
+          "isrc": "QZ5AB1623918"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/58Ayt5NUdhem7qkydIugdd"
+          "spotify": "https://open.spotify.com/track/2NZjahLyQQHDuWOL6bSJGb"
         },
-        "href": "https://api.spotify.com/v1/tracks/58Ayt5NUdhem7qkydIugdd",
-        "id": "58Ayt5NUdhem7qkydIugdd",
+        "href": "https://api.spotify.com/v1/tracks/2NZjahLyQQHDuWOL6bSJGb",
+        "id": "2NZjahLyQQHDuWOL6bSJGb",
         "is_local": false,
-        "name": "Pudimos Ser",
-        "popularity": 13,
+        "name": "Chapo Guzmán",
+        "popularity": 29,
         "preview_url": null,
-        "track_number": 11,
+        "track_number": 9,
         "type": "track",
-        "uri": "spotify:track:58Ayt5NUdhem7qkydIugdd"
+        "uri": "spotify:track:2NZjahLyQQHDuWOL6bSJGb"
       },
-      "played_at": "2025-03-14T15:09:56.210Z",
+      "played_at": "2025-03-14T15:25:10.109Z",
       "context": {
+        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
+        "type": "playlist",
+        "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/3WyJImKjA4PH3EXWIWBokJ",
+              "id": "3WyJImKjA4PH3EXWIWBokJ",
+              "name": "Someone Sm1",
+              "type": "artist",
+              "uri": "spotify:artist:3WyJImKjA4PH3EXWIWBokJ"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+              },
+              "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+              "id": "3L7OHIT4kfdcDSnnGM0TKN",
+              "name": "El Pinche Mara",
+              "type": "artist",
+              "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+              },
+              "href": "https://api.spotify.com/v1/artists/0nOyxRsVicKeiBbB6zdIMu",
+              "id": "0nOyxRsVicKeiBbB6zdIMu",
+              "name": "Kinto Sol",
+              "type": "artist",
+              "uri": "spotify:artist:0nOyxRsVicKeiBbB6zdIMu"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "AU",
+            "AT",
+            "BE",
+            "BO",
+            "BR",
+            "BG",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "DE",
+            "EC",
+            "EE",
+            "SV",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HN",
+            "HK",
+            "HU",
+            "IS",
+            "IE",
+            "IT",
+            "LV",
+            "LT",
+            "LU",
+            "MY",
+            "MT",
+            "MX",
+            "NL",
+            "NZ",
+            "NI",
+            "NO",
+            "PA",
+            "PY",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "SG",
+            "SK",
+            "ES",
+            "SE",
+            "CH",
+            "TW",
+            "TR",
+            "UY",
+            "US",
+            "GB",
+            "AD",
+            "LI",
+            "MC",
+            "ID",
+            "JP",
+            "TH",
+            "VN",
+            "RO",
+            "IL",
+            "ZA",
+            "SA",
+            "AE",
+            "BH",
+            "QA",
+            "OM",
+            "KW",
+            "EG",
+            "MA",
+            "DZ",
+            "TN",
+            "LB",
+            "JO",
+            "PS",
+            "IN",
+            "BY",
+            "KZ",
+            "MD",
+            "UA",
+            "AL",
+            "BA",
+            "HR",
+            "ME",
+            "MK",
+            "RS",
+            "SI",
+            "KR",
+            "BD",
+            "PK",
+            "LK",
+            "GH",
+            "KE",
+            "NG",
+            "TZ",
+            "UG",
+            "AG",
+            "AM",
+            "BS",
+            "BB",
+            "BZ",
+            "BT",
+            "BW",
+            "BF",
+            "CV",
+            "CW",
+            "DM",
+            "FJ",
+            "GM",
+            "GE",
+            "GD",
+            "GW",
+            "GY",
+            "HT",
+            "JM",
+            "KI",
+            "LS",
+            "LR",
+            "MW",
+            "MV",
+            "ML",
+            "MH",
+            "FM",
+            "NA",
+            "NR",
+            "NE",
+            "PW",
+            "PG",
+            "PR",
+            "WS",
+            "SM",
+            "ST",
+            "SN",
+            "SC",
+            "SL",
+            "SB",
+            "KN",
+            "LC",
+            "VC",
+            "SR",
+            "TL",
+            "TO",
+            "TT",
+            "TV",
+            "VU",
+            "AZ",
+            "BN",
+            "BI",
+            "KH",
+            "CM",
+            "TD",
+            "KM",
+            "GQ",
+            "SZ",
+            "GA",
+            "GN",
+            "KG",
+            "LA",
+            "MO",
+            "MR",
+            "MN",
+            "NP",
+            "RW",
+            "TG",
+            "UZ",
+            "ZW",
+            "BJ",
+            "MG",
+            "MU",
+            "MZ",
+            "AO",
+            "CI",
+            "DJ",
+            "ZM",
+            "CD",
+            "CG",
+            "IQ",
+            "LY",
+            "TJ",
+            "VE",
+            "ET",
+            "XK"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5bd7fllIZnL6fim47ptfw6"
+          },
+          "href": "https://api.spotify.com/v1/albums/5bd7fllIZnL6fim47ptfw6",
+          "id": "5bd7fllIZnL6fim47ptfw6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a5c1301b3037d0ca19e85842",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a5c1301b3037d0ca19e85842",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a5c1301b3037d0ca19e85842",
+              "width": 64
+            }
+          ],
+          "name": "Acostumbrado a Esto",
+          "release_date": "2020-04-24",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5bd7fllIZnL6fim47ptfw6"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/3WyJImKjA4PH3EXWIWBokJ",
+            "id": "3WyJImKjA4PH3EXWIWBokJ",
+            "name": "Someone Sm1",
+            "type": "artist",
+            "uri": "spotify:artist:3WyJImKjA4PH3EXWIWBokJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+            "id": "3L7OHIT4kfdcDSnnGM0TKN",
+            "name": "El Pinche Mara",
+            "type": "artist",
+            "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+            },
+            "href": "https://api.spotify.com/v1/artists/0nOyxRsVicKeiBbB6zdIMu",
+            "id": "0nOyxRsVicKeiBbB6zdIMu",
+            "name": "Kinto Sol",
+            "type": "artist",
+            "uri": "spotify:artist:0nOyxRsVicKeiBbB6zdIMu"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "PR",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
+        "disc_number": 1,
+        "duration_ms": 244746,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QZGLS2010285"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0D9NY44Ep0VGMMRJmuGNTi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0D9NY44Ep0VGMMRJmuGNTi",
+        "id": "0D9NY44Ep0VGMMRJmuGNTi",
+        "is_local": false,
+        "name": "Acostumbrado a Esto",
+        "popularity": 3,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0D9NY44Ep0VGMMRJmuGNTi"
+      },
+      "played_at": "2025-03-14T15:21:20.651Z",
+      "context": {
         "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
+        },
         "type": "playlist",
         "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
