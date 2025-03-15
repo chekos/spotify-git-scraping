@@ -3,17 +3,27 @@
     {
       "track": {
         "album": {
-          "album_type": "compilation",
+          "album_type": "single",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
+                "spotify": "https://open.spotify.com/artist/1qj6ju6brFpx4KXJegtkMu"
               },
-              "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
-              "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
-              "name": "Iluminatik",
+              "href": "https://api.spotify.com/v1/artists/1qj6ju6brFpx4KXJegtkMu",
+              "id": "1qj6ju6brFpx4KXJegtkMu",
+              "name": "RUTA 633",
               "type": "artist",
-              "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
+              "uri": "spotify:artist:1qj6ju6brFpx4KXJegtkMu"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+              },
+              "href": "https://api.spotify.com/v1/artists/52QQ2BADyRwXsS8uqLu2Hl",
+              "id": "52QQ2BADyRwXsS8uqLu2Hl",
+              "name": "T-Killa",
+              "type": "artist",
+              "uri": "spotify:artist:52QQ2BADyRwXsS8uqLu2Hl"
             }
           ],
           "available_markets": [
@@ -204,44 +214,54 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj"
+            "spotify": "https://open.spotify.com/album/0m8dcmYLSGPbI1JNPJOHrG"
           },
-          "href": "https://api.spotify.com/v1/albums/4eMRJj1sPqXwzAMmFexfzj",
-          "id": "4eMRJj1sPqXwzAMmFexfzj",
+          "href": "https://api.spotify.com/v1/albums/0m8dcmYLSGPbI1JNPJOHrG",
+          "id": "0m8dcmYLSGPbI1JNPJOHrG",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735a24400da91ae36b072e3536",
+              "url": "https://i.scdn.co/image/ab67616d0000b2732a3809ead1839bf1c9eb317d",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e025a24400da91ae36b072e3536",
+              "url": "https://i.scdn.co/image/ab67616d00001e022a3809ead1839bf1c9eb317d",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048515a24400da91ae36b072e3536",
+              "url": "https://i.scdn.co/image/ab67616d000048512a3809ead1839bf1c9eb317d",
               "width": 64
             }
           ],
-          "name": "Grandes \u00c9xitos, Vol. 2",
-          "release_date": "2019-04-12",
+          "name": "Puro Pesao",
+          "release_date": "2021-03-05",
           "release_date_precision": "day",
-          "total_tracks": 30,
+          "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:4eMRJj1sPqXwzAMmFexfzj"
+          "uri": "spotify:album:0m8dcmYLSGPbI1JNPJOHrG"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
+              "spotify": "https://open.spotify.com/artist/1qj6ju6brFpx4KXJegtkMu"
             },
-            "href": "https://api.spotify.com/v1/artists/0N6H5exnFMoW4yNQ3vDJ3Z",
-            "id": "0N6H5exnFMoW4yNQ3vDJ3Z",
-            "name": "Iluminatik",
+            "href": "https://api.spotify.com/v1/artists/1qj6ju6brFpx4KXJegtkMu",
+            "id": "1qj6ju6brFpx4KXJegtkMu",
+            "name": "RUTA 633",
             "type": "artist",
-            "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
+            "uri": "spotify:artist:1qj6ju6brFpx4KXJegtkMu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+            },
+            "href": "https://api.spotify.com/v1/artists/52QQ2BADyRwXsS8uqLu2Hl",
+            "id": "52QQ2BADyRwXsS8uqLu2Hl",
+            "name": "T-Killa",
+            "type": "artist",
+            "uri": "spotify:artist:52QQ2BADyRwXsS8uqLu2Hl"
           }
         ],
         "available_markets": [
@@ -432,40 +452,40 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 187400,
+        "duration_ms": 160000,
         "explicit": true,
         "external_ids": {
-          "isrc": "ESA011921891"
+          "isrc": "US7VG2152057"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/2i1qzhWQz68VwRUokaXCbC"
+          "spotify": "https://open.spotify.com/track/4koT9D2P16xqm5625JD1MT"
         },
-        "href": "https://api.spotify.com/v1/tracks/2i1qzhWQz68VwRUokaXCbC",
-        "id": "2i1qzhWQz68VwRUokaXCbC",
+        "href": "https://api.spotify.com/v1/tracks/4koT9D2P16xqm5625JD1MT",
+        "id": "4koT9D2P16xqm5625JD1MT",
         "is_local": false,
-        "name": "Reaparece",
-        "popularity": 12,
+        "name": "Puro Pesao",
+        "popularity": 14,
         "preview_url": null,
-        "track_number": 23,
+        "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:2i1qzhWQz68VwRUokaXCbC"
+        "uri": "spotify:track:4koT9D2P16xqm5625JD1MT"
       },
-      "played_at": "2025-03-15T09:20:55.363Z",
+      "played_at": "2025-03-15T10:22:40.917Z",
       "context": {
+        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "type": "playlist",
         "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1742030455363&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1742034160917&limit=50",
   "cursors": {
-    "after": "1742030455363",
-    "before": "1742030455363"
+    "after": "1742034160917",
+    "before": "1742034160917"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1742030296000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1742033812000&limit=50"
 }
