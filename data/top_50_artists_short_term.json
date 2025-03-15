@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5990870
+        "total": 5993740
       },
       "genres": [
         "mexican hip hop",
@@ -43,7 +43,7 @@
       },
       "followers": {
         "href": null,
-        "total": 163940
+        "total": 163980
       },
       "genres": [
         "mexican hip hop",
@@ -79,7 +79,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5641268
+        "total": 5643956
       },
       "genres": [
         "mexican hip hop",
@@ -115,7 +115,7 @@
       },
       "followers": {
         "href": null,
-        "total": 130823
+        "total": 130834
       },
       "genres": [
         "mexican hip hop",
@@ -151,7 +151,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2875572
+        "total": 2877292
       },
       "genres": [
         "mexican hip hop",
@@ -187,7 +187,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3056045
+        "total": 3057414
       },
       "genres": [
         "mexican hip hop",
@@ -224,7 +224,7 @@
       },
       "followers": {
         "href": null,
-        "total": 412636
+        "total": 412693
       },
       "genres": [
         "mexican hip hop",
@@ -260,7 +260,7 @@
       },
       "followers": {
         "href": null,
-        "total": 160682
+        "total": 160757
       },
       "genres": [
         "mexican hip hop",
@@ -296,7 +296,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18128326
+        "total": 18135081
       },
       "genres": [
         "mexican hip hop",
@@ -328,11 +328,83 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+      },
+      "followers": {
+        "href": null,
+        "total": 26896
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+      "id": "3AgxRYe2kXEfsZyB07hqJF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
+          "width": 160
+        }
+      ],
+      "name": "Yoga Fire",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
+      },
+      "followers": {
+        "href": null,
+        "total": 149926
+      },
+      "genres": [
+        "mexican hip hop",
+        "g-funk",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
+      "id": "1gPiNBRjOB9XochAAFR3iM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
+          "width": 160
+        }
+      ],
+      "name": "West Gold",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
       },
       "followers": {
         "href": null,
-        "total": 28423
+        "total": 28470
       },
       "genres": [
         "mexican indie",
@@ -370,7 +442,7 @@
       },
       "followers": {
         "href": null,
-        "total": 28105
+        "total": 28108
       },
       "genres": [
         "mexican hip hop"
@@ -401,48 +473,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
-      },
-      "followers": {
-        "href": null,
-        "total": 149900
-      },
-      "genres": [
-        "mexican hip hop",
-        "g-funk",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
-      "id": "1gPiNBRjOB9XochAAFR3iM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf06472b02abf1cdf06be071f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f06472b02abf1cdf06be071f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f06472b02abf1cdf06be071f",
-          "width": 160
-        }
-      ],
-      "name": "West Gold",
-      "popularity": 46,
-      "type": "artist",
-      "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
       },
       "followers": {
         "href": null,
-        "total": 304199
+        "total": 304367
       },
       "genres": [
         "mexican hip hop",
@@ -478,7 +513,7 @@
       },
       "followers": {
         "href": null,
-        "total": 819651
+        "total": 819868
       },
       "genres": [
         "latin hip hop"
@@ -513,7 +548,7 @@
       },
       "followers": {
         "href": null,
-        "total": 44255
+        "total": 44321
       },
       "genres": [
         "mexican hip hop",
@@ -550,7 +585,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3089778
+        "total": 3092027
       },
       "genres": [
         "mexican hip hop",
@@ -582,11 +617,52 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+      },
+      "followers": {
+        "href": null,
+        "total": 23420872
+      },
+      "genres": [
+        "corridos tumbados",
+        "corrido",
+        "corridos b\u00e9licos",
+        "sad sierre\u00f1o",
+        "sierre\u00f1o",
+        "m\u00fasica mexicana",
+        "banda"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+      "id": "7Gi6gjaWy3DxyilpF1a8Is",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb50998d90507d8c1603b2530b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517450998d90507d8c1603b2530b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17850998d90507d8c1603b2530b",
+          "width": 160
+        }
+      ],
+      "name": "Junior H",
+      "popularity": 89,
+      "type": "artist",
+      "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
       },
       "followers": {
         "href": null,
-        "total": 1715914
+        "total": 1716837
       },
       "genres": [
         "mexican hip hop",
@@ -597,17 +673,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbca8a9fb2641ce18cd0457aa",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
+          "url": "https://i.scdn.co/image/ab67616100005174bca8a9fb2641ce18cd0457aa",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
+          "url": "https://i.scdn.co/image/ab6761610000f178bca8a9fb2641ce18cd0457aa",
           "width": 160
         }
       ],
@@ -622,7 +698,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4219361
+        "total": 4225279
       },
       "genres": [
         "mexican hip hop",
@@ -660,7 +736,7 @@
       },
       "followers": {
         "href": null,
-        "total": 431784
+        "total": 432274
       },
       "genres": [
         "mexican hip hop",
@@ -692,46 +768,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-      },
-      "followers": {
-        "href": null,
-        "total": 26888
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-      "id": "3AgxRYe2kXEfsZyB07hqJF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
-          "width": 160
-        }
-      ],
-      "name": "Yoga Fire",
-      "popularity": 53,
-      "type": "artist",
-      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
       },
       "followers": {
         "href": null,
-        "total": 4348303
+        "total": 4349231
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3sgFRtyBnxXD5ESfmbK4dl",
@@ -769,7 +810,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1833196
+        "total": 1833810
       },
       "genres": [
         "mexican hip hop",
@@ -801,52 +842,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-      },
-      "followers": {
-        "href": null,
-        "total": 23392608
-      },
-      "genres": [
-        "corridos tumbados",
-        "corrido",
-        "corridos b\u00e9licos",
-        "sad sierre\u00f1o",
-        "sierre\u00f1o",
-        "m\u00fasica mexicana",
-        "banda"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
-      "id": "7Gi6gjaWy3DxyilpF1a8Is",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb50998d90507d8c1603b2530b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517450998d90507d8c1603b2530b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17850998d90507d8c1603b2530b",
-          "width": 160
-        }
-      ],
-      "name": "Junior H",
-      "popularity": 89,
-      "type": "artist",
-      "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
       },
       "followers": {
         "href": null,
-        "total": 7609
+        "total": 7610
       },
       "genres": [
         "mexican hip hop"
@@ -881,7 +881,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1305227
+        "total": 1305544
       },
       "genres": [
         "mexican hip hop",
