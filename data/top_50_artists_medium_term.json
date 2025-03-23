@@ -112,42 +112,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-      },
-      "followers": {
-        "href": null,
-        "total": 1307843
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8faa1ce9f316b7b6dc33ee10",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748faa1ce9f316b7b6dc33ee10",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788faa1ce9f316b7b6dc33ee10",
-          "width": 160
-        }
-      ],
-      "name": "Remik Gonzalez",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
@@ -182,6 +146,42 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+      },
+      "followers": {
+        "href": null,
+        "total": 1307843
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8faa1ce9f316b7b6dc33ee10",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748faa1ce9f316b7b6dc33ee10",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788faa1ce9f316b7b6dc33ee10",
+          "width": 160
+        }
+      ],
+      "name": "Remik Gonzalez",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     },
     {
       "external_urls": {
@@ -330,6 +330,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 1544869
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
+      "id": "31l8FA2bO5qxpqf8uhV5eZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
+          "width": 64
+        }
+      ],
+      "name": "Millonario & W. Corona",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
@@ -363,41 +398,6 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 1544869
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
-      "id": "31l8FA2bO5qxpqf8uhV5eZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
-          "width": 64
-        }
-      ],
-      "name": "Millonario & W. Corona",
-      "popularity": 62,
-      "type": "artist",
-      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     },
     {
       "external_urls": {
@@ -600,17 +600,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdd75f12d84502dc5001eabe3",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe9e454f050cf4f1437457766",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174dd75f12d84502dc5001eabe3",
+          "url": "https://i.scdn.co/image/ab67616100005174e9e454f050cf4f1437457766",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178dd75f12d84502dc5001eabe3",
+          "url": "https://i.scdn.co/image/ab6761610000f178e9e454f050cf4f1437457766",
           "width": 160
         }
       ],
@@ -692,41 +692,6 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-      },
-      "followers": {
-        "href": null,
-        "total": 26943
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-      "id": "3AgxRYe2kXEfsZyB07hqJF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
-          "width": 160
-        }
-      ],
-      "name": "Yoga Fire",
-      "popularity": 53,
-      "type": "artist",
-      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
     {
       "external_urls": {
@@ -836,6 +801,41 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+      },
+      "followers": {
+        "href": null,
+        "total": 26943
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+      "id": "3AgxRYe2kXEfsZyB07hqJF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
+          "width": 160
+        }
+      ],
+      "name": "Yoga Fire",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
     {
       "external_urls": {
@@ -1592,17 +1592,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb744a4243fb6cc938011a98f4",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
+          "url": "https://i.scdn.co/image/ab67616100005174744a4243fb6cc938011a98f4",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17881f47f44084e0a09b5f0fa13",
+          "url": "https://i.scdn.co/image/ab6761610000f178744a4243fb6cc938011a98f4",
           "width": 160
         }
       ],
@@ -1741,17 +1741,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc15bfc475a15aa29b251814d",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb31797752d0f88cd7e08490a5",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c15bfc475a15aa29b251814d",
+          "url": "https://i.scdn.co/image/ab6761610000517431797752d0f88cd7e08490a5",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c15bfc475a15aa29b251814d",
+          "url": "https://i.scdn.co/image/ab6761610000f17831797752d0f88cd7e08490a5",
           "width": 160
         }
       ],
