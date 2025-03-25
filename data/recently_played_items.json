@@ -242,466 +242,6 @@
             "name": "Bad Bunny",
             "type": "artist",
             "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "PR",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "disc_number": 1,
-        "duration_ms": 222568,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "QMFME2462255"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0iKo4pNNjHHdKUcFARlfCa",
-        "id": "0iKo4pNNjHHdKUcFARlfCa",
-        "is_local": false,
-        "name": "EL CLúB",
-        "popularity": 86,
-        "preview_url": null,
-        "track_number": 7,
-        "type": "track",
-        "uri": "spotify:track:0iKo4pNNjHHdKUcFARlfCa"
-      },
-      "played_at": "2025-03-25T14:17:14.419Z",
-      "context": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-        },
-        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
-        "type": "album",
-        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-              },
-              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-              "id": "4q3ewBCX7sLwd24euuV69X",
-              "name": "Bad Bunny",
-              "type": "artist",
-              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "PR",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-          },
-          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
-          "id": "5K79FLRUCSysQnVESLcTdb",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
-              "width": 64
-            }
-          ],
-          "name": "DeBÍ TiRAR MáS FOToS",
-          "release_date": "2025-01-05",
-          "release_date_precision": "day",
-          "total_tracks": 17,
-          "type": "album",
-          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-            },
-            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-            "id": "4q3ewBCX7sLwd24euuV69X",
-            "name": "Bad Bunny",
-            "type": "artist",
-            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
           },
           {
             "external_urls": {
@@ -930,7 +470,7 @@
         "type": "track",
         "uri": "spotify:track:7d6yK8v8J484SWH5prIQiE"
       },
-      "played_at": "2025-03-25T14:13:31.825Z",
+      "played_at": "2025-03-25T15:15:41.877Z",
       "context": {
         "external_urls": {
           "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -1400,7 +940,7 @@
         "type": "track",
         "uri": "spotify:track:5WEF0icHWmAZBBMglBd599"
       },
-      "played_at": "2025-03-25T14:09:36.528Z",
+      "played_at": "2025-03-25T15:11:46.522Z",
       "context": {
         "external_urls": {
           "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -1870,7 +1410,7 @@
         "type": "track",
         "uri": "spotify:track:1Q9Efnm5csdCMFynISxL2x"
       },
-      "played_at": "2025-03-25T14:06:28.997Z",
+      "played_at": "2025-03-25T15:08:39.019Z",
       "context": {
         "external_urls": {
           "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -2330,7 +1870,7 @@
         "type": "track",
         "uri": "spotify:track:2lTm559tuIvatlT1u0JYG2"
       },
-      "played_at": "2025-03-25T14:03:08.306Z",
+      "played_at": "2025-03-25T15:05:18.352Z",
       "context": {
         "external_urls": {
           "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -2790,7 +2330,7 @@
         "type": "track",
         "uri": "spotify:track:59D4DOkspUbWyMmbAPQkxZ"
       },
-      "played_at": "2025-03-25T13:57:00.581Z",
+      "played_at": "2025-03-25T14:59:10.623Z",
       "context": {
         "external_urls": {
           "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -3250,7 +2790,7 @@
         "type": "track",
         "uri": "spotify:track:5TFD2bmFKGhoCRbX61nXY5"
       },
-      "played_at": "2025-03-25T13:54:24.215Z",
+      "played_at": "2025-03-25T14:56:34.271Z",
       "context": {
         "external_urls": {
           "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -3267,13 +2807,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
               },
-              "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-              "id": "7ltDVBr6mKbRvohxheJ9h1",
-              "name": "ROSALÍA",
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
               "type": "artist",
-              "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
             }
           ],
           "available_markets": [
@@ -3464,54 +3004,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
           },
-          "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
-          "id": "3zbiiu3JTibw0esC7eoMXr",
+          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+          "id": "5K79FLRUCSysQnVESLcTdb",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
               "width": 64
             }
           ],
-          "name": "MOTOMAMI +",
-          "release_date": "2022-09-09",
+          "name": "DeBÍ TiRAR MáS FOToS",
+          "release_date": "2025-01-05",
           "release_date_precision": "day",
-          "total_tracks": 24,
+          "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
             },
-            "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-            "id": "7ltDVBr6mKbRvohxheJ9h1",
-            "name": "ROSALÍA",
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
             "type": "artist",
-            "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-            },
-            "href": "https://api.spotify.com/v1/artists/2p4aN0Uxkk3iT3HK0cJ2cJ",
-            "id": "2p4aN0Uxkk3iT3HK0cJ2cJ",
-            "name": "Tokischa",
-            "type": "artist",
-            "uri": "spotify:artist:2p4aN0Uxkk3iT3HK0cJ2cJ"
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
           }
         ],
         "available_markets": [
@@ -3702,32 +3232,32 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 160296,
-        "explicit": false,
+        "duration_ms": 213010,
+        "explicit": true,
         "external_ids": {
-          "isrc": "USSM12109231"
+          "isrc": "QMFMF2447071"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/5OcFWC7ynhXNdLgJXRmCd9"
+          "spotify": "https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm"
         },
-        "href": "https://api.spotify.com/v1/tracks/5OcFWC7ynhXNdLgJXRmCd9",
-        "id": "5OcFWC7ynhXNdLgJXRmCd9",
+        "href": "https://api.spotify.com/v1/tracks/3G7agPwWfcORnWCAGMDOpm",
+        "id": "3G7agPwWfcORnWCAGMDOpm",
         "is_local": false,
-        "name": "LA COMBI VERSACE",
-        "popularity": 45,
+        "name": "LA MuDANZA",
+        "popularity": 84,
         "preview_url": null,
-        "track_number": 14,
+        "track_number": 17,
         "type": "track",
-        "uri": "spotify:track:5OcFWC7ynhXNdLgJXRmCd9"
+        "uri": "spotify:track:3G7agPwWfcORnWCAGMDOpm"
       },
-      "played_at": "2025-03-25T13:51:09.678Z",
+      "played_at": "2025-03-25T14:53:30.153Z",
       "context": {
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
         },
-        "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
+        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
         "type": "album",
-        "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
       }
     },
     {
@@ -3737,13 +3267,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
               },
-              "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-              "id": "7ltDVBr6mKbRvohxheJ9h1",
-              "name": "ROSALÍA",
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
               "type": "artist",
-              "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
             }
           ],
           "available_markets": [
@@ -3934,54 +3464,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
           },
-          "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
-          "id": "3zbiiu3JTibw0esC7eoMXr",
+          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+          "id": "5K79FLRUCSysQnVESLcTdb",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
               "width": 64
             }
           ],
-          "name": "MOTOMAMI +",
-          "release_date": "2022-09-09",
+          "name": "DeBÍ TiRAR MáS FOToS",
+          "release_date": "2025-01-05",
           "release_date_precision": "day",
-          "total_tracks": 24,
+          "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
             },
-            "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-            "id": "7ltDVBr6mKbRvohxheJ9h1",
-            "name": "ROSALÍA",
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
             "type": "artist",
-            "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-            },
-            "href": "https://api.spotify.com/v1/artists/2p4aN0Uxkk3iT3HK0cJ2cJ",
-            "id": "2p4aN0Uxkk3iT3HK0cJ2cJ",
-            "name": "Tokischa",
-            "type": "artist",
-            "uri": "spotify:artist:2p4aN0Uxkk3iT3HK0cJ2cJ"
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
           }
         ],
         "available_markets": [
@@ -4172,32 +3692,32 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 160296,
-        "explicit": false,
+        "duration_ms": 237117,
+        "explicit": true,
         "external_ids": {
-          "isrc": "USSM12109231"
+          "isrc": "QMFMF2447070"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/5OcFWC7ynhXNdLgJXRmCd9"
+          "spotify": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
         },
-        "href": "https://api.spotify.com/v1/tracks/5OcFWC7ynhXNdLgJXRmCd9",
-        "id": "5OcFWC7ynhXNdLgJXRmCd9",
+        "href": "https://api.spotify.com/v1/tracks/3sK8wGT43QFpWrvNQsrQya",
+        "id": "3sK8wGT43QFpWrvNQsrQya",
         "is_local": false,
-        "name": "LA COMBI VERSACE",
-        "popularity": 45,
+        "name": "DtMF",
+        "popularity": 98,
         "preview_url": null,
-        "track_number": 14,
+        "track_number": 16,
         "type": "track",
-        "uri": "spotify:track:5OcFWC7ynhXNdLgJXRmCd9"
+        "uri": "spotify:track:3sK8wGT43QFpWrvNQsrQya"
       },
-      "played_at": "2025-03-25T13:49:58.232Z",
+      "played_at": "2025-03-25T14:49:57.065Z",
       "context": {
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
         },
-        "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
+        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
         "type": "album",
-        "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
       }
     },
     {
@@ -4207,13 +3727,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
               },
-              "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-              "id": "7ltDVBr6mKbRvohxheJ9h1",
-              "name": "ROSALÍA",
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
               "type": "artist",
-              "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
             }
           ],
           "available_markets": [
@@ -4404,44 +3924,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
           },
-          "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
-          "id": "3zbiiu3JTibw0esC7eoMXr",
+          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+          "id": "5K79FLRUCSysQnVESLcTdb",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
               "width": 64
             }
           ],
-          "name": "MOTOMAMI +",
-          "release_date": "2022-09-09",
+          "name": "DeBÍ TiRAR MáS FOToS",
+          "release_date": "2025-01-05",
           "release_date_precision": "day",
-          "total_tracks": 24,
+          "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
             },
-            "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-            "id": "7ltDVBr6mKbRvohxheJ9h1",
-            "name": "ROSALÍA",
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
             "type": "artist",
-            "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
           }
         ],
         "available_markets": [
@@ -4632,32 +4152,952 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 65961,
-        "explicit": false,
+        "duration_ms": 204768,
+        "explicit": true,
         "external_ids": {
-          "isrc": "USSM12109230"
+          "isrc": "QMFMF2447069"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/5EbsCDXjzmwtHm70q87VHt"
+          "spotify": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
         },
-        "href": "https://api.spotify.com/v1/tracks/5EbsCDXjzmwtHm70q87VHt",
-        "id": "5EbsCDXjzmwtHm70q87VHt",
+        "href": "https://api.spotify.com/v1/tracks/6J5kc12BW5HuP3d7C3vvx8",
+        "id": "6J5kc12BW5HuP3d7C3vvx8",
         "is_local": false,
-        "name": "Abcdefg",
-        "popularity": 38,
+        "name": "EoO",
+        "popularity": 92,
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:6J5kc12BW5HuP3d7C3vvx8"
+      },
+      "played_at": "2025-03-25T14:45:59.918Z",
+      "context": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        },
+        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+        "type": "album",
+        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+              },
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
+              "type": "artist",
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "AU",
+            "AT",
+            "BE",
+            "BO",
+            "BR",
+            "BG",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "DE",
+            "EC",
+            "EE",
+            "SV",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HN",
+            "HK",
+            "HU",
+            "IS",
+            "IE",
+            "IT",
+            "LV",
+            "LT",
+            "LU",
+            "MY",
+            "MT",
+            "MX",
+            "NL",
+            "NZ",
+            "NI",
+            "NO",
+            "PA",
+            "PY",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "SG",
+            "SK",
+            "ES",
+            "SE",
+            "CH",
+            "TW",
+            "TR",
+            "UY",
+            "US",
+            "GB",
+            "AD",
+            "LI",
+            "MC",
+            "ID",
+            "JP",
+            "TH",
+            "VN",
+            "RO",
+            "IL",
+            "ZA",
+            "SA",
+            "AE",
+            "BH",
+            "QA",
+            "OM",
+            "KW",
+            "EG",
+            "MA",
+            "DZ",
+            "TN",
+            "LB",
+            "JO",
+            "PS",
+            "IN",
+            "BY",
+            "KZ",
+            "MD",
+            "UA",
+            "AL",
+            "BA",
+            "HR",
+            "ME",
+            "MK",
+            "RS",
+            "SI",
+            "KR",
+            "BD",
+            "PK",
+            "LK",
+            "GH",
+            "KE",
+            "NG",
+            "TZ",
+            "UG",
+            "AG",
+            "AM",
+            "BS",
+            "BB",
+            "BZ",
+            "BT",
+            "BW",
+            "BF",
+            "CV",
+            "CW",
+            "DM",
+            "FJ",
+            "GM",
+            "GE",
+            "GD",
+            "GW",
+            "GY",
+            "HT",
+            "JM",
+            "KI",
+            "LS",
+            "LR",
+            "MW",
+            "MV",
+            "ML",
+            "MH",
+            "FM",
+            "NA",
+            "NR",
+            "NE",
+            "PW",
+            "PG",
+            "PR",
+            "WS",
+            "SM",
+            "ST",
+            "SN",
+            "SC",
+            "SL",
+            "SB",
+            "KN",
+            "LC",
+            "VC",
+            "SR",
+            "TL",
+            "TO",
+            "TT",
+            "TV",
+            "VU",
+            "AZ",
+            "BN",
+            "BI",
+            "KH",
+            "CM",
+            "TD",
+            "KM",
+            "GQ",
+            "SZ",
+            "GA",
+            "GN",
+            "KG",
+            "LA",
+            "MO",
+            "MR",
+            "MN",
+            "NP",
+            "RW",
+            "TG",
+            "UZ",
+            "ZW",
+            "BJ",
+            "MG",
+            "MU",
+            "MZ",
+            "AO",
+            "CI",
+            "DJ",
+            "ZM",
+            "CD",
+            "CG",
+            "IQ",
+            "LY",
+            "TJ",
+            "VE",
+            "ET",
+            "XK"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+          },
+          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+          "id": "5K79FLRUCSysQnVESLcTdb",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+              "width": 64
+            }
+          ],
+          "name": "DeBÍ TiRAR MáS FOToS",
+          "release_date": "2025-01-05",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            },
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
+            "type": "artist",
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "PR",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
+        "disc_number": 1,
+        "duration_ms": 229381,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QMFMF2447068"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Hg0e997pObvZ91w1FCPFk",
+        "id": "1Hg0e997pObvZ91w1FCPFk",
+        "is_local": false,
+        "name": "LO QUE LE PASÓ A HAWAii",
+        "popularity": 82,
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:1Hg0e997pObvZ91w1FCPFk"
+      },
+      "played_at": "2025-03-25T14:42:35.169Z",
+      "context": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        },
+        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+        "type": "album",
+        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+              },
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
+              "type": "artist",
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "AU",
+            "AT",
+            "BE",
+            "BO",
+            "BR",
+            "BG",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "DE",
+            "EC",
+            "EE",
+            "SV",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HN",
+            "HK",
+            "HU",
+            "IS",
+            "IE",
+            "IT",
+            "LV",
+            "LT",
+            "LU",
+            "MY",
+            "MT",
+            "MX",
+            "NL",
+            "NZ",
+            "NI",
+            "NO",
+            "PA",
+            "PY",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "SG",
+            "SK",
+            "ES",
+            "SE",
+            "CH",
+            "TW",
+            "TR",
+            "UY",
+            "US",
+            "GB",
+            "AD",
+            "LI",
+            "MC",
+            "ID",
+            "JP",
+            "TH",
+            "VN",
+            "RO",
+            "IL",
+            "ZA",
+            "SA",
+            "AE",
+            "BH",
+            "QA",
+            "OM",
+            "KW",
+            "EG",
+            "MA",
+            "DZ",
+            "TN",
+            "LB",
+            "JO",
+            "PS",
+            "IN",
+            "BY",
+            "KZ",
+            "MD",
+            "UA",
+            "AL",
+            "BA",
+            "HR",
+            "ME",
+            "MK",
+            "RS",
+            "SI",
+            "KR",
+            "BD",
+            "PK",
+            "LK",
+            "GH",
+            "KE",
+            "NG",
+            "TZ",
+            "UG",
+            "AG",
+            "AM",
+            "BS",
+            "BB",
+            "BZ",
+            "BT",
+            "BW",
+            "BF",
+            "CV",
+            "CW",
+            "DM",
+            "FJ",
+            "GM",
+            "GE",
+            "GD",
+            "GW",
+            "GY",
+            "HT",
+            "JM",
+            "KI",
+            "LS",
+            "LR",
+            "MW",
+            "MV",
+            "ML",
+            "MH",
+            "FM",
+            "NA",
+            "NR",
+            "NE",
+            "PW",
+            "PG",
+            "PR",
+            "WS",
+            "SM",
+            "ST",
+            "SN",
+            "SC",
+            "SL",
+            "SB",
+            "KN",
+            "LC",
+            "VC",
+            "SR",
+            "TL",
+            "TO",
+            "TT",
+            "TV",
+            "VU",
+            "AZ",
+            "BN",
+            "BI",
+            "KH",
+            "CM",
+            "TD",
+            "KM",
+            "GQ",
+            "SZ",
+            "GA",
+            "GN",
+            "KG",
+            "LA",
+            "MO",
+            "MR",
+            "MN",
+            "NP",
+            "RW",
+            "TG",
+            "UZ",
+            "ZW",
+            "BJ",
+            "MG",
+            "MU",
+            "MZ",
+            "AO",
+            "CI",
+            "DJ",
+            "ZM",
+            "CD",
+            "CG",
+            "IQ",
+            "LY",
+            "TJ",
+            "VE",
+            "ET",
+            "XK"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+          },
+          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+          "id": "5K79FLRUCSysQnVESLcTdb",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
+              "width": 64
+            }
+          ],
+          "name": "DeBÍ TiRAR MáS FOToS",
+          "release_date": "2025-01-05",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+            },
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
+            "type": "artist",
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "PR",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
+        "disc_number": 1,
+        "duration_ms": 206627,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QMFMF2447067"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/14QaXYIK3K3QPtezqxRRPN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/14QaXYIK3K3QPtezqxRRPN",
+        "id": "14QaXYIK3K3QPtezqxRRPN",
+        "is_local": false,
+        "name": "PIToRRO DE COCO",
+        "popularity": 83,
         "preview_url": null,
         "track_number": 13,
         "type": "track",
-        "uri": "spotify:track:5EbsCDXjzmwtHm70q87VHt"
+        "uri": "spotify:track:14QaXYIK3K3QPtezqxRRPN"
       },
-      "played_at": "2025-03-25T13:32:50.738Z",
+      "played_at": "2025-03-25T14:38:45.796Z",
       "context": {
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
         },
-        "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
+        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
         "type": "album",
-        "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
       }
     },
     {
@@ -4667,13 +5107,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
               },
-              "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-              "id": "7ltDVBr6mKbRvohxheJ9h1",
-              "name": "ROSALÍA",
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
               "type": "artist",
-              "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
             }
           ],
           "available_markets": [
@@ -4864,44 +5304,54 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
           },
-          "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
-          "id": "3zbiiu3JTibw0esC7eoMXr",
+          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+          "id": "5K79FLRUCSysQnVESLcTdb",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
               "width": 64
             }
           ],
-          "name": "MOTOMAMI +",
-          "release_date": "2022-09-09",
+          "name": "DeBÍ TiRAR MáS FOToS",
+          "release_date": "2025-01-05",
           "release_date_precision": "day",
-          "total_tracks": 24,
+          "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
             },
-            "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-            "id": "7ltDVBr6mKbRvohxheJ9h1",
-            "name": "ROSALÍA",
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
             "type": "artist",
-            "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+            },
+            "href": "https://api.spotify.com/v1/artists/1uZVxckdGGKhFMpCnupXmP",
+            "id": "1uZVxckdGGKhFMpCnupXmP",
+            "name": "Los Pleneros de la Cresta",
+            "type": "artist",
+            "uri": "spotify:artist:1uZVxckdGGKhFMpCnupXmP"
           }
         ],
         "available_markets": [
@@ -5092,32 +5542,32 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 150701,
+        "duration_ms": 228836,
         "explicit": false,
         "external_ids": {
-          "isrc": "USSM12109228"
+          "isrc": "QMFMF2447066"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/3lf72csq4o0yPNo6XFkwZO"
+          "spotify": "https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW"
         },
-        "href": "https://api.spotify.com/v1/tracks/3lf72csq4o0yPNo6XFkwZO",
-        "id": "3lf72csq4o0yPNo6XFkwZO",
+        "href": "https://api.spotify.com/v1/tracks/6VNXmo59yDYgcwLS17UNAW",
+        "id": "6VNXmo59yDYgcwLS17UNAW",
         "is_local": false,
-        "name": "CUUUUuuuuuute",
-        "popularity": 41,
+        "name": "CAFé CON RON",
+        "popularity": 86,
         "preview_url": null,
         "track_number": 12,
         "type": "track",
-        "uri": "spotify:track:3lf72csq4o0yPNo6XFkwZO"
+        "uri": "spotify:track:6VNXmo59yDYgcwLS17UNAW"
       },
-      "played_at": "2025-03-25T13:31:44.811Z",
+      "played_at": "2025-03-25T14:35:19.164Z",
       "context": {
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
         },
-        "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
+        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
         "type": "album",
-        "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
       }
     },
     {
@@ -5127,13 +5577,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
               },
-              "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-              "id": "7ltDVBr6mKbRvohxheJ9h1",
-              "name": "ROSALÍA",
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
               "type": "artist",
-              "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
             }
           ],
           "available_markets": [
@@ -5324,44 +5774,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
           },
-          "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
-          "id": "3zbiiu3JTibw0esC7eoMXr",
+          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+          "id": "5K79FLRUCSysQnVESLcTdb",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
               "width": 64
             }
           ],
-          "name": "MOTOMAMI +",
-          "release_date": "2022-09-09",
+          "name": "DeBÍ TiRAR MáS FOToS",
+          "release_date": "2025-01-05",
           "release_date_precision": "day",
-          "total_tracks": 24,
+          "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
             },
-            "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-            "id": "7ltDVBr6mKbRvohxheJ9h1",
-            "name": "ROSALÍA",
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
             "type": "artist",
-            "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
           }
         ],
         "available_markets": [
@@ -5552,32 +6002,32 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 155436,
+        "duration_ms": 190028,
         "explicit": false,
         "external_ids": {
-          "isrc": "USSM12109227"
+          "isrc": "QMFMF2447065"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/6YbC5s56zWKObDIRZnAIbY"
+          "spotify": "https://open.spotify.com/track/7tCuCjhxzjX2XCz4JiiAsp"
         },
-        "href": "https://api.spotify.com/v1/tracks/6YbC5s56zWKObDIRZnAIbY",
-        "id": "6YbC5s56zWKObDIRZnAIbY",
+        "href": "https://api.spotify.com/v1/tracks/7tCuCjhxzjX2XCz4JiiAsp",
+        "id": "7tCuCjhxzjX2XCz4JiiAsp",
         "is_local": false,
-        "name": "DELIRIO DE GRANDEZA",
-        "popularity": 42,
+        "name": "TURiSTA",
+        "popularity": 85,
         "preview_url": null,
         "track_number": 11,
         "type": "track",
-        "uri": "spotify:track:6YbC5s56zWKObDIRZnAIbY"
+        "uri": "spotify:track:7tCuCjhxzjX2XCz4JiiAsp"
       },
-      "played_at": "2025-03-25T13:29:14.084Z",
+      "played_at": "2025-03-25T14:31:30.325Z",
       "context": {
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
         },
-        "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
+        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
         "type": "album",
-        "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
       }
     },
     {
@@ -5587,13 +6037,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
               },
-              "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-              "id": "7ltDVBr6mKbRvohxheJ9h1",
-              "name": "ROSALÍA",
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
               "type": "artist",
-              "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
             }
           ],
           "available_markets": [
@@ -5784,44 +6234,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
           },
-          "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
-          "id": "3zbiiu3JTibw0esC7eoMXr",
+          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+          "id": "5K79FLRUCSysQnVESLcTdb",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
               "width": 64
             }
           ],
-          "name": "MOTOMAMI +",
-          "release_date": "2022-09-09",
+          "name": "DeBÍ TiRAR MáS FOToS",
+          "release_date": "2025-01-05",
           "release_date_precision": "day",
-          "total_tracks": 24,
+          "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
             },
-            "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-            "id": "7ltDVBr6mKbRvohxheJ9h1",
-            "name": "ROSALÍA",
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
             "type": "artist",
-            "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
           }
         ],
         "available_markets": [
@@ -6012,32 +6462,32 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 165552,
-        "explicit": false,
+        "duration_ms": 199114,
+        "explicit": true,
         "external_ids": {
-          "isrc": "USSM12109226"
+          "isrc": "QMFMF2447064"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/19nu8H97D8j1G0bSwV5emP"
+          "spotify": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
         },
-        "href": "https://api.spotify.com/v1/tracks/19nu8H97D8j1G0bSwV5emP",
-        "id": "19nu8H97D8j1G0bSwV5emP",
+        "href": "https://api.spotify.com/v1/tracks/4MUrUT38U98olfnyzMBCzm",
+        "id": "4MUrUT38U98olfnyzMBCzm",
         "is_local": false,
-        "name": "DIABLO",
-        "popularity": 44,
+        "name": "KLOuFRENS",
+        "popularity": 90,
         "preview_url": null,
         "track_number": 10,
         "type": "track",
-        "uri": "spotify:track:19nu8H97D8j1G0bSwV5emP"
+        "uri": "spotify:track:4MUrUT38U98olfnyzMBCzm"
       },
-      "played_at": "2025-03-25T13:26:38.658Z",
+      "played_at": "2025-03-25T14:28:20.301Z",
       "context": {
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
         },
-        "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
+        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
         "type": "album",
-        "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
       }
     },
     {
@@ -6047,13 +6497,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
               },
-              "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-              "id": "7ltDVBr6mKbRvohxheJ9h1",
-              "name": "ROSALÍA",
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
               "type": "artist",
-              "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
             }
           ],
           "available_markets": [
@@ -6244,44 +6694,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
           },
-          "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
-          "id": "3zbiiu3JTibw0esC7eoMXr",
+          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+          "id": "5K79FLRUCSysQnVESLcTdb",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
               "width": 64
             }
           ],
-          "name": "MOTOMAMI +",
-          "release_date": "2022-09-09",
+          "name": "DeBÍ TiRAR MáS FOToS",
+          "release_date": "2025-01-05",
           "release_date_precision": "day",
-          "total_tracks": 24,
+          "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
             },
-            "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-            "id": "7ltDVBr6mKbRvohxheJ9h1",
-            "name": "ROSALÍA",
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
             "type": "artist",
-            "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
           }
         ],
         "available_markets": [
@@ -6472,32 +6922,32 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 61422,
-        "explicit": false,
+        "duration_ms": 215983,
+        "explicit": true,
         "external_ids": {
-          "isrc": "USSM12109225"
+          "isrc": "QMFMF2447063"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/6EXl4PwflcMNobeFpL5bWn"
+          "spotify": "https://open.spotify.com/track/79x7xtoCLpf6l32Zz6mWo4"
         },
-        "href": "https://api.spotify.com/v1/tracks/6EXl4PwflcMNobeFpL5bWn",
-        "id": "6EXl4PwflcMNobeFpL5bWn",
+        "href": "https://api.spotify.com/v1/tracks/79x7xtoCLpf6l32Zz6mWo4",
+        "id": "79x7xtoCLpf6l32Zz6mWo4",
         "is_local": false,
-        "name": "MOTOMAMI",
-        "popularity": 43,
+        "name": "BOKeTE",
+        "popularity": 85,
         "preview_url": null,
         "track_number": 9,
         "type": "track",
-        "uri": "spotify:track:6EXl4PwflcMNobeFpL5bWn"
+        "uri": "spotify:track:79x7xtoCLpf6l32Zz6mWo4"
       },
-      "played_at": "2025-03-25T13:23:53.079Z",
+      "played_at": "2025-03-25T14:25:01.197Z",
       "context": {
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
         },
-        "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
+        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
         "type": "album",
-        "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
       }
     },
     {
@@ -6507,13 +6957,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
               },
-              "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-              "id": "7ltDVBr6mKbRvohxheJ9h1",
-              "name": "ROSALÍA",
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
               "type": "artist",
-              "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
             }
           ],
           "available_markets": [
@@ -6704,44 +7154,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+            "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
           },
-          "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
-          "id": "3zbiiu3JTibw0esC7eoMXr",
+          "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
+          "id": "5K79FLRUCSysQnVESLcTdb",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851efc0ef9dd996312ebaf0bf52",
+              "url": "https://i.scdn.co/image/ab67616d00004851bbd45c8d36e0e045ef640411",
               "width": 64
             }
           ],
-          "name": "MOTOMAMI +",
-          "release_date": "2022-09-09",
+          "name": "DeBÍ TiRAR MáS FOToS",
+          "release_date": "2025-01-05",
           "release_date_precision": "day",
-          "total_tracks": 24,
+          "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+          "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
             },
-            "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-            "id": "7ltDVBr6mKbRvohxheJ9h1",
-            "name": "ROSALÍA",
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
             "type": "artist",
-            "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
           }
         ],
         "available_markets": [
@@ -6932,492 +7382,32 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 252121,
-        "explicit": false,
+        "duration_ms": 250789,
+        "explicit": true,
         "external_ids": {
-          "isrc": "USSM12109224"
+          "isrc": "QMFMF2447062"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7EJcb4e5T2vDsaPWR7yEb4"
+          "spotify": "https://open.spotify.com/track/4c2Pc0NrfkesPR0jff6q3F"
         },
-        "href": "https://api.spotify.com/v1/tracks/7EJcb4e5T2vDsaPWR7yEb4",
-        "id": "7EJcb4e5T2vDsaPWR7yEb4",
+        "href": "https://api.spotify.com/v1/tracks/4c2Pc0NrfkesPR0jff6q3F",
+        "id": "4c2Pc0NrfkesPR0jff6q3F",
         "is_local": false,
-        "name": "G3 N15",
-        "popularity": 42,
+        "name": "KETU TeCRÉ",
+        "popularity": 85,
         "preview_url": null,
         "track_number": 8,
         "type": "track",
-        "uri": "spotify:track:7EJcb4e5T2vDsaPWR7yEb4"
+        "uri": "spotify:track:4c2Pc0NrfkesPR0jff6q3F"
       },
-      "played_at": "2025-03-25T13:22:51.663Z",
+      "played_at": "2025-03-25T14:21:25.201Z",
       "context": {
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+          "spotify": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
         },
-        "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
+        "href": "https://api.spotify.com/v1/albums/5K79FLRUCSysQnVESLcTdb",
         "type": "album",
-        "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-              },
-              "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-              "id": "7ltDVBr6mKbRvohxheJ9h1",
-              "name": "ROSALÍA",
-              "type": "artist",
-              "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "PR",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-          },
-          "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
-          "id": "3zbiiu3JTibw0esC7eoMXr",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02efc0ef9dd996312ebaf0bf52",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851efc0ef9dd996312ebaf0bf52",
-              "width": 64
-            }
-          ],
-          "name": "MOTOMAMI +",
-          "release_date": "2022-09-09",
-          "release_date_precision": "day",
-          "total_tracks": 24,
-          "type": "album",
-          "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-            },
-            "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
-            "id": "7ltDVBr6mKbRvohxheJ9h1",
-            "name": "ROSALÍA",
-            "type": "artist",
-            "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "PR",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "disc_number": 1,
-        "duration_ms": 109109,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "USSM12109223"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2RGIXMgdKl2t4zLqVYwPu4"
-        },
-        "href": "https://api.spotify.com/v1/tracks/2RGIXMgdKl2t4zLqVYwPu4",
-        "id": "2RGIXMgdKl2t4zLqVYwPu4",
-        "is_local": false,
-        "name": "BIZCOCHITO",
-        "popularity": 46,
-        "preview_url": null,
-        "track_number": 7,
-        "type": "track",
-        "uri": "spotify:track:2RGIXMgdKl2t4zLqVYwPu4"
-      },
-      "played_at": "2025-03-25T13:18:39.540Z",
-      "context": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-        },
-        "href": "https://api.spotify.com/v1/albums/3zbiiu3JTibw0esC7eoMXr",
-        "type": "album",
-        "uri": "spotify:album:3zbiiu3JTibw0esC7eoMXr"
+        "uri": "spotify:album:5K79FLRUCSysQnVESLcTdb"
       }
     }
   ]
