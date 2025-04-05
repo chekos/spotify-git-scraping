@@ -219,6 +219,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      "followers": {
+        "href": null,
+        "total": 93424160
+      },
+      "genres": [
+        "reggaeton",
+        "trap latino",
+        "latin",
+        "urbano latino"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+      "id": "4q3ewBCX7sLwd24euuV69X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb744a4243fb6cc938011a98f4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174744a4243fb6cc938011a98f4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178744a4243fb6cc938011a98f4",
+          "width": 160
+        }
+      ],
+      "name": "Bad Bunny",
+      "popularity": 100,
+      "type": "artist",
+      "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
@@ -286,44 +324,6 @@
       "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-      },
-      "followers": {
-        "href": null,
-        "total": 93424160
-      },
-      "genres": [
-        "reggaeton",
-        "trap latino",
-        "latin",
-        "urbano latino"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-      "id": "4q3ewBCX7sLwd24euuV69X",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17881f47f44084e0a09b5f0fa13",
-          "width": 160
-        }
-      ],
-      "name": "Bad Bunny",
-      "popularity": 100,
-      "type": "artist",
-      "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
     },
     {
       "external_urls": {
@@ -644,17 +644,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee8809cb56babbdffad6dc97",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab67616100005174ee8809cb56babbdffad6dc97",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab6761610000f178ee8809cb56babbdffad6dc97",
           "width": 160
         }
       ],
@@ -716,17 +716,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
           "width": 160
         }
       ],
@@ -886,43 +886,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-      },
-      "followers": {
-        "href": null,
-        "total": 25059
-      },
-      "genres": [
-        "lo-fi beats",
-        "lo-fi",
-        "mexican indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
-      "id": "3H1jLGJzOPn3WbEv6fvJ3M",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9685cc378ddc30f3f90a6e73",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749685cc378ddc30f3f90a6e73",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789685cc378ddc30f3f90a6e73",
-          "width": 160
-        }
-      ],
-      "name": "Palmasur",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
       },
       "followers": {
@@ -957,6 +920,43 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+      },
+      "followers": {
+        "href": null,
+        "total": 25059
+      },
+      "genres": [
+        "lo-fi beats",
+        "lo-fi",
+        "mexican indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
+      "id": "3H1jLGJzOPn3WbEv6fvJ3M",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9685cc378ddc30f3f90a6e73",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749685cc378ddc30f3f90a6e73",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789685cc378ddc30f3f90a6e73",
+          "width": 160
+        }
+      ],
+      "name": "Palmasur",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
     },
     {
       "external_urls": {
@@ -1102,42 +1102,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-      },
-      "followers": {
-        "href": null,
-        "total": 1733319
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-      "id": "0U5RYP2HMdGv2GhicLhkOI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
-          "width": 160
-        }
-      ],
-      "name": "Neto Pe\u00f1a",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
       },
       "followers": {
@@ -1171,6 +1135,42 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+      },
+      "followers": {
+        "href": null,
+        "total": 1733319
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+      "id": "0U5RYP2HMdGv2GhicLhkOI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0d7c3916409e3944f24fc943",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740d7c3916409e3944f24fc943",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780d7c3916409e3944f24fc943",
+          "width": 160
+        }
+      ],
+      "name": "Neto Pe\u00f1a",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
     },
     {
       "external_urls": {
@@ -1370,17 +1370,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebfc0f7612a57d40b6eead330f",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd65f42424f3008e2a2be8449",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174fc0f7612a57d40b6eead330f",
+          "url": "https://i.scdn.co/image/ab67616100005174d65f42424f3008e2a2be8449",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178fc0f7612a57d40b6eead330f",
+          "url": "https://i.scdn.co/image/ab6761610000f178d65f42424f3008e2a2be8449",
           "width": 160
         }
       ],
@@ -1515,17 +1515,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb06f0ec70e12aab8e730f849d",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4d274251335d22647987b86a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517406f0ec70e12aab8e730f849d",
+          "url": "https://i.scdn.co/image/ab676161000051744d274251335d22647987b86a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17806f0ec70e12aab8e730f849d",
+          "url": "https://i.scdn.co/image/ab6761610000f1784d274251335d22647987b86a",
           "width": 160
         }
       ],
