@@ -2,11 +2,48 @@
   "items": [
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+      },
+      "followers": {
+        "href": null,
+        "total": 46138
+      },
+      "genres": [
+        "mexican hip hop",
+        "electro corridos",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1d97b2cbe336a9c58b56446f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051741d97b2cbe336a9c58b56446f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1781d97b2cbe336a9c58b56446f",
+          "width": 160
+        }
+      ],
+      "name": "Jayrick",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
       },
       "followers": {
         "href": null,
-        "total": 6081348
+        "total": 6085486
       },
       "genres": [
         "mexican hip hop",
@@ -43,7 +80,7 @@
       },
       "followers": {
         "href": null,
-        "total": 413713
+        "total": 413756
       },
       "genres": [
         "mexican hip hop",
@@ -75,48 +112,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-      },
-      "followers": {
-        "href": null,
-        "total": 46074
-      },
-      "genres": [
-        "mexican hip hop",
-        "electro corridos",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-      "id": "0U8dIwzBn17JkhYxmznp6T",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1d97b2cbe336a9c58b56446f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741d97b2cbe336a9c58b56446f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781d97b2cbe336a9c58b56446f",
-          "width": 160
-        }
-      ],
-      "name": "Jayrick",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
       "followers": {
         "href": null,
-        "total": 93954139
+        "total": 94016664
       },
       "genres": [
         "reggaeton",
@@ -129,17 +129,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb744a4243fb6cc938011a98f4",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174744a4243fb6cc938011a98f4",
+          "url": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178744a4243fb6cc938011a98f4",
+          "url": "https://i.scdn.co/image/ab6761610000f17881f47f44084e0a09b5f0fa13",
           "width": 160
         }
       ],
@@ -150,11 +150,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 164942
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+      "id": "4V2V4PaSblStayYVWTGDbZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3f4e21dab79667b7f93cb340",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743f4e21dab79667b7f93cb340",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783f4e21dab79667b7f93cb340",
+          "width": 160
+        }
+      ],
+      "name": "Geassassin",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
         "href": null,
-        "total": 3097482
+        "total": 3099131
       },
       "genres": [
         "mexican hip hop",
@@ -191,7 +227,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5711361
+        "total": 5714357
       },
       "genres": [
         "mexican hip hop",
@@ -227,7 +263,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1316263
+        "total": 1316817
       },
       "genres": [
         "mexican hip hop",
@@ -263,7 +299,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18913314
+        "total": 18924606
       },
       "genres": [
         "mariachi",
@@ -296,47 +332,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-      },
-      "followers": {
-        "href": null,
-        "total": 164898
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
-      "id": "4V2V4PaSblStayYVWTGDbZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3f4e21dab79667b7f93cb340",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743f4e21dab79667b7f93cb340",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783f4e21dab79667b7f93cb340",
-          "width": 160
-        }
-      ],
-      "name": "Geassassin",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
       },
       "followers": {
         "href": null,
-        "total": 2926764
+        "total": 2928800
       },
       "genres": [
         "mexican hip hop",
@@ -372,7 +372,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3164370
+        "total": 3167190
       },
       "genres": [
         "mexican hip hop",
@@ -408,7 +408,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18317083
+        "total": 18325371
       },
       "genres": [
         "mexican hip hop",
@@ -444,7 +444,7 @@
       },
       "followers": {
         "href": null,
-        "total": 445968
+        "total": 446462
       },
       "genres": [
         "mexican hip hop",
@@ -480,7 +480,7 @@
       },
       "followers": {
         "href": null,
-        "total": 40261264
+        "total": 40296593
       },
       "genres": [
         "hip hop",
@@ -516,7 +516,7 @@
       },
       "followers": {
         "href": null,
-        "total": 28179
+        "total": 28184
       },
       "genres": [
         "mexican hip hop"
@@ -547,38 +547,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
         "href": null,
-        "total": 1569041
+        "total": 27066
       },
       "genres": [
         "mexican hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
-      "id": "31l8FA2bO5qxpqf8uhV5eZ",
+      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
+      "id": "3AgxRYe2kXEfsZyB07hqJF",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
           "width": 640
         },
         {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
-          "width": 300
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
+          "width": 320
         },
         {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
-          "width": 64
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
+          "width": 160
         }
       ],
-      "name": "Millonario & W. Corona",
-      "popularity": 62,
+      "name": "Yoga Fire",
+      "popularity": 53,
       "type": "artist",
-      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
     },
     {
       "external_urls": {
@@ -586,7 +586,7 @@
       },
       "followers": {
         "href": null,
-        "total": 131201
+        "total": 131219
       },
       "genres": [
         "mexican hip hop",
@@ -622,7 +622,7 @@
       },
       "followers": {
         "href": null,
-        "total": 162957
+        "total": 163033
       },
       "genres": [
         "mexican hip hop",
@@ -654,46 +654,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-      },
-      "followers": {
-        "href": null,
-        "total": 27061
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
-      "id": "3AgxRYe2kXEfsZyB07hqJF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8d30dc6568e30188f09566c8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748d30dc6568e30188f09566c8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788d30dc6568e30188f09566c8",
-          "width": 160
-        }
-      ],
-      "name": "Yoga Fire",
-      "popularity": 53,
-      "type": "artist",
-      "uri": "spotify:artist:3AgxRYe2kXEfsZyB07hqJF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
       },
       "followers": {
         "href": null,
-        "total": 1589303
+        "total": 1589704
       },
       "genres": [
         "mexican hip hop",
@@ -729,7 +694,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8470138
+        "total": 8470947
       },
       "genres": [
         "latin"
@@ -764,7 +729,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2408409
+        "total": 2409175
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -805,7 +770,7 @@
       },
       "followers": {
         "href": null,
-        "total": 29890
+        "total": 29914
       },
       "genres": [
         "mexican indie",
@@ -843,7 +808,7 @@
       },
       "followers": {
         "href": null,
-        "total": 82647
+        "total": 82648
       },
       "genres": [
         "mexican hip hop",
@@ -879,7 +844,7 @@
       },
       "followers": {
         "href": null,
-        "total": 302915
+        "total": 302987
       },
       "genres": [
         "mexican hip hop",
@@ -915,7 +880,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1848531
+        "total": 1849125
       },
       "genres": [
         "mexican hip hop",
@@ -926,17 +891,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
           "width": 160
         }
       ],
@@ -951,7 +916,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2373116
+        "total": 2374700
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -985,46 +950,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-      },
-      "followers": {
-        "href": null,
-        "total": 2964689
-      },
-      "genres": [
-        "flamenco"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
-      "id": "5TYxZTjIPqKM8K8NuP9woO",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdfb9d2cb6a43021d9002a10e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174dfb9d2cb6a43021d9002a10e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178dfb9d2cb6a43021d9002a10e",
-          "width": 160
-        }
-      ],
-      "name": "C. Tangana",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:5TYxZTjIPqKM8K8NuP9woO"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
       },
       "followers": {
         "href": null,
-        "total": 331577
+        "total": 331688
       },
       "genres": [
         "mexican hip hop",
@@ -1056,11 +986,82 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+      },
+      "followers": {
+        "href": null,
+        "total": 2965686
+      },
+      "genres": [
+        "flamenco"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
+      "id": "5TYxZTjIPqKM8K8NuP9woO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdfb9d2cb6a43021d9002a10e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174dfb9d2cb6a43021d9002a10e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178dfb9d2cb6a43021d9002a10e",
+          "width": 160
+        }
+      ],
+      "name": "C. Tangana",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:5TYxZTjIPqKM8K8NuP9woO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 9873925
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf70d400817421baff34f54f6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f70d400817421baff34f54f6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f70d400817421baff34f54f6",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
       },
       "followers": {
         "href": null,
-        "total": 1786721
+        "total": 1787225
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -1093,11 +1094,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 1570413
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
+      "id": "31l8FA2bO5qxpqf8uhV5eZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736607a51331ee3300109da153",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026607a51331ee3300109da153",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516607a51331ee3300109da153",
+          "width": 64
+        }
+      ],
+      "name": "Millonario & W. Corona",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
       },
       "followers": {
         "href": null,
-        "total": 150607
+        "total": 150636
       },
       "genres": [
         "mexican hip hop",
@@ -1134,7 +1170,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4820084
+        "total": 4822532
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -1178,7 +1214,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1741353
+        "total": 1742429
       },
       "genres": [
         "mexican hip hop",
@@ -1214,7 +1250,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3520293
+        "total": 3522540
       },
       "genres": [
         "mexican hip hop",
@@ -1251,7 +1287,7 @@
       },
       "followers": {
         "href": null,
-        "total": 17729412
+        "total": 17734180
       },
       "genres": [
         "argentine trap",
@@ -1288,7 +1324,7 @@
       },
       "followers": {
         "href": null,
-        "total": 309480
+        "total": 309637
       },
       "genres": [
         "mexican hip hop",
@@ -1320,47 +1356,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-      },
-      "followers": {
-        "href": null,
-        "total": 9871122
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf70d400817421baff34f54f6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f70d400817421baff34f54f6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f70d400817421baff34f54f6",
-          "width": 160
-        }
-      ],
-      "name": "Santa Fe Klan",
-      "popularity": 76,
-      "type": "artist",
-      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
       },
       "followers": {
         "href": null,
-        "total": 825567
+        "total": 825817
       },
       "genres": [
         "latin hip hop"
@@ -1395,7 +1395,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3309885
+        "total": 3310756
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -1440,7 +1440,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8150
+        "total": 8152
       },
       "genres": [
         "electro corridos",
@@ -1476,7 +1476,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1655180
+        "total": 1656276
       },
       "genres": [
         "ska",
@@ -1515,7 +1515,7 @@
       },
       "followers": {
         "href": null,
-        "total": 226508
+        "total": 226585
       },
       "genres": [
         "freestyle",
@@ -1548,11 +1548,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+      },
+      "followers": {
+        "href": null,
+        "total": 1949193
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
+      "id": "6DjBv6gyR1HLsvwGUOD5V9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb428f9c22cf2fb08eabb084f6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174428f9c22cf2fb08eabb084f6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178428f9c22cf2fb08eabb084f6",
+          "width": 160
+        }
+      ],
+      "name": "TREN LOKOTE",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
       },
       "followers": {
         "href": null,
-        "total": 6890440
+        "total": 6894617
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -1588,11 +1624,89 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+      },
+      "followers": {
+        "href": null,
+        "total": 24180803
+      },
+      "genres": [
+        "corridos tumbados",
+        "corrido",
+        "corridos b\u00e9licos",
+        "sad sierre\u00f1o",
+        "sierre\u00f1o",
+        "m\u00fasica mexicana",
+        "banda"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+      "id": "7Gi6gjaWy3DxyilpF1a8Is",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb50998d90507d8c1603b2530b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517450998d90507d8c1603b2530b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17850998d90507d8c1603b2530b",
+          "width": 160
+        }
+      ],
+      "name": "Junior H",
+      "popularity": 90,
+      "type": "artist",
+      "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+      },
+      "followers": {
+        "href": null,
+        "total": 536235
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop",
+        "latin r&b"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
+      "id": "0SmgVe3giVHaJjGmIz8xA4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2141cce2875b4f9304549e31",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742141cce2875b4f9304549e31",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782141cce2875b4f9304549e31",
+          "width": 160
+        }
+      ],
+      "name": "Yoss Bones",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
       },
       "followers": {
         "href": null,
-        "total": 15106273
+        "total": 15125655
       },
       "genres": [
         "corrido",
@@ -1634,7 +1748,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4486212
+        "total": 4489373
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -1673,7 +1787,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1995
+        "total": 1996
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/48G4FvpaGSQAb2ZxhUc2Hv",
@@ -1706,7 +1820,7 @@
       },
       "followers": {
         "href": null,
-        "total": 703001
+        "total": 703217
       },
       "genres": [
         "mexican hip hop",
@@ -1717,17 +1831,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebaa95698561bbfd6196819da8",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebce7726de5da30f9dfaf71bbc",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174aa95698561bbfd6196819da8",
+          "url": "https://i.scdn.co/image/ab67616100005174ce7726de5da30f9dfaf71bbc",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178aa95698561bbfd6196819da8",
+          "url": "https://i.scdn.co/image/ab6761610000f178ce7726de5da30f9dfaf71bbc",
           "width": 160
         }
       ],
@@ -1735,116 +1849,6 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-      },
-      "followers": {
-        "href": null,
-        "total": 1948606
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6DjBv6gyR1HLsvwGUOD5V9",
-      "id": "6DjBv6gyR1HLsvwGUOD5V9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb428f9c22cf2fb08eabb084f6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174428f9c22cf2fb08eabb084f6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178428f9c22cf2fb08eabb084f6",
-          "width": 160
-        }
-      ],
-      "name": "TREN LOKOTE",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:6DjBv6gyR1HLsvwGUOD5V9"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-      },
-      "followers": {
-        "href": null,
-        "total": 331837
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
-      "id": "6viZnVSHavFUcW0blu6Mvw",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb370c30d070de5216a4dcb7af",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174370c30d070de5216a4dcb7af",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178370c30d070de5216a4dcb7af",
-          "width": 160
-        }
-      ],
-      "name": "Simpson Ahuevo",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-      },
-      "followers": {
-        "href": null,
-        "total": 9649638
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "argentine rock",
-        "latin alternative"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
-      "id": "7An4yvF7hDYDolN4m5zKBp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb79b7db5f179c0a503d8a8158",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517479b7db5f179c0a503d8a8158",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17879b7db5f179c0a503d8a8158",
-          "width": 160
-        }
-      ],
-      "name": "Soda Stereo",
-      "popularity": 76,
-      "type": "artist",
-      "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
     }
   ],
   "total": 91,
