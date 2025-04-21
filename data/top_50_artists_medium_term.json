@@ -927,17 +927,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0851f71b02e6604b13f94235",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
+          "url": "https://i.scdn.co/image/ab676161000051740851f71b02e6604b13f94235",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
+          "url": "https://i.scdn.co/image/ab6761610000f1780851f71b02e6604b13f94235",
           "width": 160
         }
       ],
@@ -945,44 +945,6 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-      },
-      "followers": {
-        "href": null,
-        "total": 2380668
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "mexican rock",
-        "latin pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
-      "id": "5oYHL2SijkMY52gKIhYJNb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba40f5812b577a0528b459e70",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a40f5812b577a0528b459e70",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a40f5812b577a0528b459e70",
-          "width": 160
-        }
-      ],
-      "name": "Elefante",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
     },
     {
       "external_urls": {
@@ -1126,6 +1088,44 @@
       "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+      },
+      "followers": {
+        "href": null,
+        "total": 2380668
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "mexican rock",
+        "latin pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
+      "id": "5oYHL2SijkMY52gKIhYJNb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba40f5812b577a0528b459e70",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a40f5812b577a0528b459e70",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a40f5812b577a0528b459e70",
+          "width": 160
+        }
+      ],
+      "name": "Elefante",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
     },
     {
       "external_urls": {
