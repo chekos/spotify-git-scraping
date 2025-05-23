@@ -434,22 +434,22 @@
         "type": "track",
         "uri": "spotify:track:1W88gb7KYO8FhplDOFuBJK"
       },
-      "played_at": "2025-05-23T14:16:20.514Z",
+      "played_at": "2025-05-23T14:57:24.997Z",
       "context": {
+        "href": "https://api.spotify.com/v1/albums/6Cj4gSdavyZCIhmeoCcrI6",
         "external_urls": {
           "spotify": "https://open.spotify.com/album/6Cj4gSdavyZCIhmeoCcrI6"
         },
-        "href": "https://api.spotify.com/v1/albums/6Cj4gSdavyZCIhmeoCcrI6",
         "type": "album",
         "uri": "spotify:album:6Cj4gSdavyZCIhmeoCcrI6"
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1748009780514&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1748012244997&limit=50",
   "cursors": {
-    "after": "1748009780514",
-    "before": "1748009780514"
+    "after": "1748012244997",
+    "before": "1748012244997"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1748006289000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1748009917000&limit=50"
 }
