@@ -38,6 +38,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+      },
+      "followers": {
+        "href": null,
+        "total": 32007
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
+      "id": "5ET6v0l25osw5BzztPsMvD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfa00d1aafa373be7917840d3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174fa00d1aafa373be7917840d3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178fa00d1aafa373be7917840d3",
+          "width": 160
+        }
+      ],
+      "name": "Muelas De Gallo",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
       },
       "followers": {
@@ -657,6 +692,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+      },
+      "followers": {
+        "href": null,
+        "total": 3148745
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop",
+        "electro corridos"
+      ],
+      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+      "id": "66RfYVdftqnuHRicyClgL0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
+          "width": 160
+        }
+      ],
+      "name": "Dharius",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
@@ -690,47 +762,6 @@
       "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-      },
-      "followers": {
-        "href": null,
-        "total": 2429559
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "mexican rock",
-        "latin rock",
-        "ska",
-        "latin alternative",
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/27Owkm4TGlMqb0BqaEt3PW",
-      "id": "27Owkm4TGlMqb0BqaEt3PW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdd75f12d84502dc5001eabe3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174dd75f12d84502dc5001eabe3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178dd75f12d84502dc5001eabe3",
-          "width": 160
-        }
-      ],
-      "name": "Molotov",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
     },
     {
       "external_urls": {
@@ -806,40 +837,44 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        "spotify": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
       },
       "followers": {
         "href": null,
-        "total": 3148745
+        "total": 2429559
       },
       "genres": [
+        "rock en espa\u00f1ol",
+        "mexican rock",
+        "latin rock",
+        "ska",
+        "latin alternative",
         "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
+        "latin hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-      "id": "66RfYVdftqnuHRicyClgL0",
+      "href": "https://api.spotify.com/v1/artists/27Owkm4TGlMqb0BqaEt3PW",
+      "id": "27Owkm4TGlMqb0BqaEt3PW",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdd75f12d84502dc5001eabe3",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab67616100005174dd75f12d84502dc5001eabe3",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab6761610000f178dd75f12d84502dc5001eabe3",
           "width": 160
         }
       ],
-      "name": "Dharius",
-      "popularity": 69,
+      "name": "Molotov",
+      "popularity": 68,
       "type": "artist",
-      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+      "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
     },
     {
       "external_urls": {
@@ -922,7 +957,7 @@
       "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
     }
   ],
-  "total": 24,
+  "total": 25,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
