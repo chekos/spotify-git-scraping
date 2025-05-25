@@ -635,8 +635,9 @@
         "corridos b\u00e9licos",
         "m\u00fasica mexicana",
         "sad sierre\u00f1o",
+        "banda",
         "electro corridos",
-        "banda"
+        "dembow belico"
       ],
       "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
       "id": "12GqGscKJx3aE4t07u7eVZ",
@@ -672,6 +673,7 @@
       },
       "genres": [
         "electro corridos",
+        "dembow belico",
         "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
@@ -1669,6 +1671,7 @@
       },
       "genres": [
         "mexican indie",
+        "electrocumbia",
         "mexican rock",
         "latin alternative",
         "rock en espa\u00f1ol"
