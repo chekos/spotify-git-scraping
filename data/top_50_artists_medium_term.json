@@ -1253,7 +1253,7 @@
         }
       ],
       "name": "C. Tangana",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:5TYxZTjIPqKM8K8NuP9woO"
     },
@@ -1561,10 +1561,7 @@
         "href": null,
         "total": 71
       },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/5n3LP0KcPkzWsvExZ6cJEO",
       "id": "5n3LP0KcPkzWsvExZ6cJEO",
       "images": [
