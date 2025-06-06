@@ -566,17 +566,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebee8809cb56babbdffad6dc97",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ee8809cb56babbdffad6dc97",
+          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ee8809cb56babbdffad6dc97",
+          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
           "width": 160
         }
       ],
@@ -769,7 +769,7 @@
         }
       ],
       "name": "Charles Ans",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
     },
@@ -828,17 +828,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba345ff416762343c586a7108",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb23c75d4293636fcb8538ba9f",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a345ff416762343c586a7108",
+          "url": "https://i.scdn.co/image/ab6761610000517423c75d4293636fcb8538ba9f",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a345ff416762343c586a7108",
+          "url": "https://i.scdn.co/image/ab6761610000f17823c75d4293636fcb8538ba9f",
           "width": 160
         }
       ],
@@ -846,6 +846,42 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 9966654
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf70d400817421baff34f54f6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f70d400817421baff34f54f6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f70d400817421baff34f54f6",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
     {
       "external_urls": {
@@ -879,7 +915,7 @@
         }
       ],
       "name": "Wk",
-      "popularity": 49,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
     },
@@ -918,42 +954,6 @@
       "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-      },
-      "followers": {
-        "href": null,
-        "total": 9966654
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf70d400817421baff34f54f6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f70d400817421baff34f54f6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f70d400817421baff34f54f6",
-          "width": 160
-        }
-      ],
-      "name": "Santa Fe Klan",
-      "popularity": 76,
-      "type": "artist",
-      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
     {
       "external_urls": {
@@ -1488,17 +1488,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb06f0ec70e12aab8e730f849d",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4d274251335d22647987b86a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517406f0ec70e12aab8e730f849d",
+          "url": "https://i.scdn.co/image/ab676161000051744d274251335d22647987b86a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17806f0ec70e12aab8e730f849d",
+          "url": "https://i.scdn.co/image/ab6761610000f1784d274251335d22647987b86a",
           "width": 160
         }
       ],
@@ -1551,47 +1551,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-      },
-      "followers": {
-        "href": null,
-        "total": 2436264
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "mexican rock",
-        "latin rock",
-        "ska",
-        "latin alternative",
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/27Owkm4TGlMqb0BqaEt3PW",
-      "id": "27Owkm4TGlMqb0BqaEt3PW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdd75f12d84502dc5001eabe3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174dd75f12d84502dc5001eabe3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178dd75f12d84502dc5001eabe3",
-          "width": 160
-        }
-      ],
-      "name": "Molotov",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
       },
       "followers": {
@@ -1622,7 +1581,7 @@
         }
       ],
       "name": "Desert Ni\u00f1os",
-      "popularity": 38,
+      "popularity": 39,
       "type": "artist",
       "uri": "spotify:artist:2Ch5zHsrWSpgq7g0WI2UFD"
     },
@@ -1695,6 +1654,47 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:1jVhcHIGJuk16eqY1Mdtuk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+      },
+      "followers": {
+        "href": null,
+        "total": 2436264
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "mexican rock",
+        "latin rock",
+        "ska",
+        "latin alternative",
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/27Owkm4TGlMqb0BqaEt3PW",
+      "id": "27Owkm4TGlMqb0BqaEt3PW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdd75f12d84502dc5001eabe3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174dd75f12d84502dc5001eabe3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178dd75f12d84502dc5001eabe3",
+          "width": 160
+        }
+      ],
+      "name": "Molotov",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
     },
     {
       "external_urls": {
