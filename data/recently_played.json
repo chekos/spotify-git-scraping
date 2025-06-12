@@ -7,23 +7,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+                "spotify": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
               },
-              "href": "https://api.spotify.com/v1/artists/7IUaYyqcGB3aU2Tm4s5JY8",
-              "id": "7IUaYyqcGB3aU2Tm4s5JY8",
-              "name": "Zxmyr",
+              "href": "https://api.spotify.com/v1/artists/5UUG83KSlqPhrBssrducWV",
+              "id": "5UUG83KSlqPhrBssrducWV",
+              "name": "Spotify",
               "type": "artist",
-              "uri": "spotify:artist:7IUaYyqcGB3aU2Tm4s5JY8"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-              },
-              "href": "https://api.spotify.com/v1/artists/40FmJcZFhzbd6P9w4eXqgS",
-              "id": "40FmJcZFhzbd6P9w4eXqgS",
-              "name": "Sandro Malandro",
-              "type": "artist",
-              "uri": "spotify:artist:40FmJcZFhzbd6P9w4eXqgS"
+              "uri": "spotify:artist:5UUG83KSlqPhrBssrducWV"
             }
           ],
           "available_markets": [
@@ -214,54 +204,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi"
+            "spotify": "https://open.spotify.com/album/36wV0VkNOxV6NTKeqTwnWj"
           },
-          "href": "https://api.spotify.com/v1/albums/2IMKclyqbfhWC6DhobY1Qi",
-          "id": "2IMKclyqbfhWC6DhobY1Qi",
+          "href": "https://api.spotify.com/v1/albums/36wV0VkNOxV6NTKeqTwnWj",
+          "id": "36wV0VkNOxV6NTKeqTwnWj",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ebdc8978eecf98c0abc57ddc",
+              "url": "https://i.scdn.co/image/ab67616d0000b2730a3ff6ceff55aeb55f1ee8bb",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02ebdc8978eecf98c0abc57ddc",
+              "url": "https://i.scdn.co/image/ab67616d00001e020a3ff6ceff55aeb55f1ee8bb",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851ebdc8978eecf98c0abc57ddc",
+              "url": "https://i.scdn.co/image/ab67616d000048510a3ff6ceff55aeb55f1ee8bb",
               "width": 64
             }
           ],
-          "name": "Las Horas Pasan",
-          "release_date": "2023-05-03",
+          "name": "Daily Drive",
+          "release_date": "2020-04-08",
           "release_date_precision": "day",
-          "total_tracks": 1,
+          "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:2IMKclyqbfhWC6DhobY1Qi"
+          "uri": "spotify:album:36wV0VkNOxV6NTKeqTwnWj"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+              "spotify": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
             },
-            "href": "https://api.spotify.com/v1/artists/7IUaYyqcGB3aU2Tm4s5JY8",
-            "id": "7IUaYyqcGB3aU2Tm4s5JY8",
-            "name": "Zxmyr",
+            "href": "https://api.spotify.com/v1/artists/5UUG83KSlqPhrBssrducWV",
+            "id": "5UUG83KSlqPhrBssrducWV",
+            "name": "Spotify",
             "type": "artist",
-            "uri": "spotify:artist:7IUaYyqcGB3aU2Tm4s5JY8"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-            },
-            "href": "https://api.spotify.com/v1/artists/40FmJcZFhzbd6P9w4eXqgS",
-            "id": "40FmJcZFhzbd6P9w4eXqgS",
-            "name": "Sandro Malandro",
-            "type": "artist",
-            "uri": "spotify:artist:40FmJcZFhzbd6P9w4eXqgS"
+            "uri": "spotify:artist:5UUG83KSlqPhrBssrducWV"
           }
         ],
         "available_markets": [
@@ -452,40 +432,38 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 210625,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "QM3DF2203357"
-        },
+        "duration_ms": 9456,
+        "explicit": false,
+        "external_ids": {},
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a"
+          "spotify": "https://open.spotify.com/track/2ge2E93YnCqD0az24dwbbn"
         },
-        "href": "https://api.spotify.com/v1/tracks/6VfEl5KFBWnzFNn80GPw6a",
-        "id": "6VfEl5KFBWnzFNn80GPw6a",
+        "href": "https://api.spotify.com/v1/tracks/2ge2E93YnCqD0az24dwbbn",
+        "id": "2ge2E93YnCqD0az24dwbbn",
         "is_local": false,
-        "name": "Las Horas Pasan",
-        "popularity": 63,
+        "name": "It's Wednesday",
+        "popularity": 4,
         "preview_url": null,
-        "track_number": 1,
+        "track_number": 8,
         "type": "track",
-        "uri": "spotify:track:6VfEl5KFBWnzFNn80GPw6a"
+        "uri": "spotify:track:2ge2E93YnCqD0az24dwbbn"
       },
-      "played_at": "2025-06-12T13:59:46.172Z",
+      "played_at": "2025-06-12T14:57:03.991Z",
       "context": {
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EpmNKTtKGGIXy",
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EfTEbx6jtuAyB",
         "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/37i9dQZF1EpmNKTtKGGIXy"
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1EfTEbx6jtuAyB"
         },
         "type": "playlist",
-        "uri": "spotify:playlist:37i9dQZF1EpmNKTtKGGIXy"
+        "uri": "spotify:playlist:37i9dQZF1EfTEbx6jtuAyB"
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1749736786172&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1749740223991&limit=50",
   "cursors": {
-    "after": "1749736786172",
-    "before": "1749736786172"
+    "after": "1749740223991",
+    "before": "1749740223991"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1749734300000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1749737918000&limit=50"
 }
