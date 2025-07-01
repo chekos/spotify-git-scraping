@@ -2,83 +2,11 @@
   "items": [
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
-      },
-      "followers": {
-        "href": null,
-        "total": 122953
-      },
-      "genres": [
-        "reggae",
-        "ragga"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
-      "id": "3w2WYNyPCPkZFoC1EqfCMe",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2736464d88f4a4cc33bac40030f",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e026464d88f4a4cc33bac40030f",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048516464d88f4a4cc33bac40030f",
-          "width": 64
-        }
-      ],
-      "name": "Nas & Damian \"Jr. Gong\" Marley",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-      },
-      "followers": {
-        "href": null,
-        "total": 5867374
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
-      "id": "2hejA1Dkf8v8R0koF44FvW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb663bea91b7e4ea8fd6d890c4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174663bea91b7e4ea8fd6d890c4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178663bea91b7e4ea8fd6d890c4",
-          "width": 160
-        }
-      ],
-      "name": "Gera MX",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
         "href": null,
-        "total": 1878421
+        "total": 1878817
       },
       "genres": [
         "mexican hip hop",
@@ -110,11 +38,83 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+      },
+      "followers": {
+        "href": null,
+        "total": 5868991
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+      "id": "2hejA1Dkf8v8R0koF44FvW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe23033f623a49ece86d3eb3d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e23033f623a49ece86d3eb3d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e23033f623a49ece86d3eb3d",
+          "width": 160
+        }
+      ],
+      "name": "Gera MX",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+      },
+      "followers": {
+        "href": null,
+        "total": 415272
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
+      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
+          "width": 160
+        }
+      ],
+      "name": "La Banda Baston",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
         "href": null,
-        "total": 3331383
+        "total": 3333198
       },
       "genres": [
         "mexican hip hop",
@@ -150,7 +150,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12281039
+        "total": 12283984
       },
       "genres": [
         "old school hip hop",
@@ -193,7 +193,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2455319
+        "total": 2456441
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -227,40 +227,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        "spotify": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
       },
       "followers": {
         "href": null,
-        "total": 3188475
+        "total": 122979
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
+        "reggae",
+        "ragga"
       ],
-      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-      "id": "66RfYVdftqnuHRicyClgL0",
+      "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
+      "id": "3w2WYNyPCPkZFoC1EqfCMe",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
+          "url": "https://i.scdn.co/image/ab67616d0000b2736464d88f4a4cc33bac40030f",
           "width": 640
         },
         {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
-          "width": 320
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026464d88f4a4cc33bac40030f",
+          "width": 300
         },
         {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
-          "width": 160
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516464d88f4a4cc33bac40030f",
+          "width": 64
         }
       ],
-      "name": "Dharius",
-      "popularity": 69,
+      "name": "Nas & Damian \"Jr. Gong\" Marley",
+      "popularity": 50,
       "type": "artist",
-      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+      "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
     },
     {
       "external_urls": {
@@ -268,7 +267,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3019673
+        "total": 3020519
       },
       "genres": [
         "mexican hip hop",
@@ -304,7 +303,7 @@
       },
       "followers": {
         "href": null,
-        "total": 40029
+        "total": 40037
       },
       "genres": [
         "mexican hip hop",
@@ -340,7 +339,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1083218
+        "total": 1083430
       },
       "genres": [
         "mexican hip hop",
@@ -372,40 +371,40 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
         "href": null,
-        "total": 4193311
+        "total": 3189375
       },
       "genres": [
-        "east coast hip hop",
-        "old school hip hop",
-        "hip hop"
+        "mexican hip hop",
+        "latin hip hop",
+        "electro corridos"
       ],
-      "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
-      "id": "20qISvAhX20dpIbOOzGK3q",
+      "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+      "id": "66RfYVdftqnuHRicyClgL0",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb153198caeef9e3bda92f9285",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc775e1df00c5fcebaa6d2006",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174153198caeef9e3bda92f9285",
+          "url": "https://i.scdn.co/image/ab67616100005174c775e1df00c5fcebaa6d2006",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178153198caeef9e3bda92f9285",
+          "url": "https://i.scdn.co/image/ab6761610000f178c775e1df00c5fcebaa6d2006",
           "width": 160
         }
       ],
-      "name": "Nas",
-      "popularity": 75,
+      "name": "Dharius",
+      "popularity": 69,
       "type": "artist",
-      "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+      "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
     {
       "external_urls": {
@@ -413,7 +412,7 @@
       },
       "followers": {
         "href": null,
-        "total": 50220
+        "total": 50275
       },
       "genres": [
         "mexican hip hop",
@@ -446,47 +445,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-      },
-      "followers": {
-        "href": null,
-        "total": 415251
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
-      "id": "3vV4Tf1iC8vEP9fLOLGUfP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb453c05deb41ebb3e20668222",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174453c05deb41ebb3e20668222",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178453c05deb41ebb3e20668222",
-          "width": 160
-        }
-      ],
-      "name": "La Banda Baston",
-      "popularity": 53,
-      "type": "artist",
-      "uri": "spotify:artist:3vV4Tf1iC8vEP9fLOLGUfP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
       },
       "followers": {
         "href": null,
-        "total": 4979387
+        "total": 4980990
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -526,11 +489,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "followers": {
+        "href": null,
+        "total": 4194094
+      },
+      "genres": [
+        "east coast hip hop",
+        "old school hip hop",
+        "hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id": "20qISvAhX20dpIbOOzGK3q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb153198caeef9e3bda92f9285",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174153198caeef9e3bda92f9285",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178153198caeef9e3bda92f9285",
+          "width": 160
+        }
+      ],
+      "name": "Nas",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
       },
       "followers": {
         "href": null,
-        "total": 166784
+        "total": 166829
       },
       "genres": [
         "mexican hip hop",
@@ -566,7 +566,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18785508
+        "total": 18789931
       },
       "genres": [
         "mexican hip hop",
@@ -602,7 +602,7 @@
       },
       "followers": {
         "href": null,
-        "total": 227515
+        "total": 227570
       },
       "genres": [
         "mexican hip hop",
@@ -639,7 +639,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6297076
+        "total": 6299099
       },
       "genres": [
         "mexican hip hop",
@@ -676,7 +676,7 @@
       },
       "followers": {
         "href": null,
-        "total": 340301
+        "total": 340435
       },
       "genres": [
         "mexican hip hop",
@@ -712,7 +712,7 @@
       },
       "followers": {
         "href": null,
-        "total": 20198146
+        "total": 20199958
       },
       "genres": [
         "colombian pop",
