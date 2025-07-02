@@ -7,23 +7,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+                "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
               },
-              "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
-              "id": "0SmgVe3giVHaJjGmIz8xA4",
-              "name": "Yoss Bones",
+              "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+              "id": "07PdYoE4jVRF6Ut40GgVSP",
+              "name": "Cartel De Santa",
               "type": "artist",
-              "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-              },
-              "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-              "id": "66RfYVdftqnuHRicyClgL0",
-              "name": "Dharius",
-              "type": "artist",
-              "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+              "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
             }
           ],
           "available_markets": [
@@ -214,54 +204,54 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
+            "spotify": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
           },
-          "href": "https://api.spotify.com/v1/albums/3HycyMwJORsbF4tAwgYP36",
-          "id": "3HycyMwJORsbF4tAwgYP36",
+          "href": "https://api.spotify.com/v1/albums/4eoF8b15EaosNzpn2N3Rt9",
+          "id": "4eoF8b15EaosNzpn2N3Rt9",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27393f302f5af7209bff8a0aaa6",
+              "url": "https://i.scdn.co/image/ab67616d0000b273608e249e118a39e897f149ce",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0293f302f5af7209bff8a0aaa6",
+              "url": "https://i.scdn.co/image/ab67616d00001e02608e249e118a39e897f149ce",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485193f302f5af7209bff8a0aaa6",
+              "url": "https://i.scdn.co/image/ab67616d00004851608e249e118a39e897f149ce",
               "width": 64
             }
           ],
-          "name": "Retumbando en la Ciudad",
-          "release_date": "2023-10-26",
+          "name": "Shorty Party",
+          "release_date": "2023-03-04",
           "release_date_precision": "day",
           "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:3HycyMwJORsbF4tAwgYP36"
+          "uri": "spotify:album:4eoF8b15EaosNzpn2N3Rt9"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+              "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
             },
-            "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
-            "id": "0SmgVe3giVHaJjGmIz8xA4",
-            "name": "Yoss Bones",
+            "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+            "id": "07PdYoE4jVRF6Ut40GgVSP",
+            "name": "Cartel De Santa",
             "type": "artist",
-            "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
+            "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+              "spotify": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
             },
-            "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-            "id": "66RfYVdftqnuHRicyClgL0",
-            "name": "Dharius",
+            "href": "https://api.spotify.com/v1/artists/4yEIQ0lJDgUEfsuYx3Gsmr",
+            "id": "4yEIQ0lJDgUEfsuYx3Gsmr",
+            "name": "La Kelly",
             "type": "artist",
-            "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+            "uri": "spotify:artist:4yEIQ0lJDgUEfsuYx3Gsmr"
           }
         ],
         "available_markets": [
@@ -452,31 +442,31 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 214736,
+        "duration_ms": 265000,
         "explicit": true,
         "external_ids": {
-          "isrc": "QM3DF2286483"
+          "isrc": "MX3602300010"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
+          "spotify": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
         },
-        "href": "https://api.spotify.com/v1/tracks/6uIrdmew2YEk5jB3d5IjMb",
-        "id": "6uIrdmew2YEk5jB3d5IjMb",
+        "href": "https://api.spotify.com/v1/tracks/55ZATsjPlTeSTNJOuW90pW",
+        "id": "55ZATsjPlTeSTNJOuW90pW",
         "is_local": false,
-        "name": "Retumbando en la Ciudad",
-        "popularity": 44,
+        "name": "Shorty Party",
+        "popularity": 77,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:6uIrdmew2YEk5jB3d5IjMb"
+        "uri": "spotify:track:55ZATsjPlTeSTNJOuW90pW"
       },
-      "played_at": "2025-07-02T00:58:57.393Z",
+      "played_at": "2025-07-02T02:46:27.727Z",
       "context": {
-        "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/3SNh3mtl0hGsEruEqmb4FS",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/3SNh3mtl0hGsEruEqmb4FS"
         },
+        "type": "playlist",
         "uri": "spotify:playlist:3SNh3mtl0hGsEruEqmb4FS"
       }
     },
@@ -487,23 +477,33 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+                "spotify": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
               },
-              "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-              "id": "0U8dIwzBn17JkhYxmznp6T",
-              "name": "Jayrick",
+              "href": "https://api.spotify.com/v1/artists/4vsYsjLDww5ulHaAH5vrew",
+              "id": "4vsYsjLDww5ulHaAH5vrew",
+              "name": "Sangre X Sangre",
               "type": "artist",
-              "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+              "uri": "spotify:artist:4vsYsjLDww5ulHaAH5vrew"
             },
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+                "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
               },
-              "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-              "id": "66RfYVdftqnuHRicyClgL0",
-              "name": "Dharius",
+              "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
+              "id": "2N2aJ1SXQxMkhHD8C6fhYD",
+              "name": "Millonario",
               "type": "artist",
-              "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+              "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+              },
+              "href": "https://api.spotify.com/v1/artists/4LNplGwxBLbTCrVdxnTmOR",
+              "id": "4LNplGwxBLbTCrVdxnTmOR",
+              "name": "Joe Parra",
+              "type": "artist",
+              "uri": "spotify:artist:4LNplGwxBLbTCrVdxnTmOR"
             }
           ],
           "available_markets": [
@@ -586,7 +586,6 @@
             "JO",
             "PS",
             "IN",
-            "BY",
             "KZ",
             "MD",
             "UA",
@@ -694,54 +693,64 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
+            "spotify": "https://open.spotify.com/album/7s3uEJa4VwAiij9v3N0DMW"
           },
-          "href": "https://api.spotify.com/v1/albums/1hwx8Kmagl1ZUYic1dK46A",
-          "id": "1hwx8Kmagl1ZUYic1dK46A",
+          "href": "https://api.spotify.com/v1/albums/7s3uEJa4VwAiij9v3N0DMW",
+          "id": "7s3uEJa4VwAiij9v3N0DMW",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27342843f6466f9aeba8a81b6b8",
+              "url": "https://i.scdn.co/image/ab67616d0000b2739bc39c4286fe8ddf7d9cf1fd",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0242843f6466f9aeba8a81b6b8",
+              "url": "https://i.scdn.co/image/ab67616d00001e029bc39c4286fe8ddf7d9cf1fd",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485142843f6466f9aeba8a81b6b8",
+              "url": "https://i.scdn.co/image/ab67616d000048519bc39c4286fe8ddf7d9cf1fd",
               "width": 64
             }
           ],
-          "name": "Sin Dormir (Ya Se Armó)",
-          "release_date": "2023-10-12",
+          "name": "DURO",
+          "release_date": "2024-10-04",
           "release_date_precision": "day",
           "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:1hwx8Kmagl1ZUYic1dK46A"
+          "uri": "spotify:album:7s3uEJa4VwAiij9v3N0DMW"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+              "spotify": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
             },
-            "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-            "id": "0U8dIwzBn17JkhYxmznp6T",
-            "name": "Jayrick",
+            "href": "https://api.spotify.com/v1/artists/4vsYsjLDww5ulHaAH5vrew",
+            "id": "4vsYsjLDww5ulHaAH5vrew",
+            "name": "Sangre X Sangre",
             "type": "artist",
-            "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+            "uri": "spotify:artist:4vsYsjLDww5ulHaAH5vrew"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+              "spotify": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
             },
-            "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
-            "id": "66RfYVdftqnuHRicyClgL0",
-            "name": "Dharius",
+            "href": "https://api.spotify.com/v1/artists/2N2aJ1SXQxMkhHD8C6fhYD",
+            "id": "2N2aJ1SXQxMkhHD8C6fhYD",
+            "name": "Millonario",
             "type": "artist",
-            "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+            "uri": "spotify:artist:2N2aJ1SXQxMkhHD8C6fhYD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LNplGwxBLbTCrVdxnTmOR",
+            "id": "4LNplGwxBLbTCrVdxnTmOR",
+            "name": "Joe Parra",
+            "type": "artist",
+            "uri": "spotify:artist:4LNplGwxBLbTCrVdxnTmOR"
           }
         ],
         "available_markets": [
@@ -824,7 +833,6 @@
           "JO",
           "PS",
           "IN",
-          "BY",
           "KZ",
           "MD",
           "UA",
@@ -932,31 +940,31 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 160150,
-        "explicit": false,
+        "duration_ms": 165360,
+        "explicit": true,
         "external_ids": {
-          "isrc": "MXA1L2300039"
+          "isrc": "USWL12402928"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+          "spotify": "https://open.spotify.com/track/7D2pw1k24KdVVRkD2RzXoV"
         },
-        "href": "https://api.spotify.com/v1/tracks/7Jo6uG5846H37UrPuuLyO5",
-        "id": "7Jo6uG5846H37UrPuuLyO5",
+        "href": "https://api.spotify.com/v1/tracks/7D2pw1k24KdVVRkD2RzXoV",
+        "id": "7D2pw1k24KdVVRkD2RzXoV",
         "is_local": false,
-        "name": "Sin Dormir (Ya Se Armó)",
-        "popularity": 50,
+        "name": "DURO",
+        "popularity": 65,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:7Jo6uG5846H37UrPuuLyO5"
+        "uri": "spotify:track:7D2pw1k24KdVVRkD2RzXoV"
       },
-      "played_at": "2025-07-02T00:55:22.560Z",
+      "played_at": "2025-07-02T02:42:05.992Z",
       "context": {
-        "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/3SNh3mtl0hGsEruEqmb4FS",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/3SNh3mtl0hGsEruEqmb4FS"
         },
+        "type": "playlist",
         "uri": "spotify:playlist:3SNh3mtl0hGsEruEqmb4FS"
       }
     },
@@ -967,23 +975,33 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+                "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
               },
-              "href": "https://api.spotify.com/v1/artists/6VD4UEUPvtsemqD3mmTqCR",
-              "id": "6VD4UEUPvtsemqD3mmTqCR",
-              "name": "Deorro",
+              "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+              "id": "3L7OHIT4kfdcDSnnGM0TKN",
+              "name": "El Pinche Mara",
               "type": "artist",
-              "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
+              "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
             },
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+                "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
               },
-              "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-              "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-              "name": "Santa Fe Klan",
+              "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+              "id": "1QhaqxeqF9sipS2gwbEKpu",
+              "name": "C-Kan",
               "type": "artist",
-              "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+              "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+              },
+              "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+              "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+              "name": "Lefty Sm",
+              "type": "artist",
+              "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
             }
           ],
           "available_markets": [
@@ -1174,54 +1192,74 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
+            "spotify": "https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe"
           },
-          "href": "https://api.spotify.com/v1/albums/73o8i8GdGPqeetj2WkQhit",
-          "id": "73o8i8GdGPqeetj2WkQhit",
+          "href": "https://api.spotify.com/v1/albums/7CfBFVgvd2aEXHHYWbgiJe",
+          "id": "7CfBFVgvd2aEXHHYWbgiJe",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2739308999cbd206fe642f3c115",
+              "url": "https://i.scdn.co/image/ab67616d0000b2733b29a6ceb7ded9c40f0f9481",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e029308999cbd206fe642f3c115",
+              "url": "https://i.scdn.co/image/ab67616d00001e023b29a6ceb7ded9c40f0f9481",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048519308999cbd206fe642f3c115",
+              "url": "https://i.scdn.co/image/ab67616d000048513b29a6ceb7ded9c40f0f9481",
               "width": 64
             }
           ],
-          "name": "La Bandera",
-          "release_date": "2025-04-10",
+          "name": "Todo x Nada",
+          "release_date": "2023-07-07",
           "release_date_precision": "day",
           "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:73o8i8GdGPqeetj2WkQhit"
+          "uri": "spotify:album:7CfBFVgvd2aEXHHYWbgiJe"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+              "spotify": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
             },
-            "href": "https://api.spotify.com/v1/artists/6VD4UEUPvtsemqD3mmTqCR",
-            "id": "6VD4UEUPvtsemqD3mmTqCR",
-            "name": "Deorro",
+            "href": "https://api.spotify.com/v1/artists/3L7OHIT4kfdcDSnnGM0TKN",
+            "id": "3L7OHIT4kfdcDSnnGM0TKN",
+            "name": "El Pinche Mara",
             "type": "artist",
-            "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR"
+            "uri": "spotify:artist:3L7OHIT4kfdcDSnnGM0TKN"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+              "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
             },
-            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-            "name": "Santa Fe Klan",
+            "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
+            "id": "1QhaqxeqF9sipS2gwbEKpu",
+            "name": "C-Kan",
             "type": "artist",
-            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+            "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+            },
+            "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+            "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+            "name": "Lefty Sm",
+            "type": "artist",
+            "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hejA1Dkf8v8R0koF44FvW",
+            "id": "2hejA1Dkf8v8R0koF44FvW",
+            "name": "Gera MX",
+            "type": "artist",
+            "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
           }
         ],
         "available_markets": [
@@ -1412,491 +1450,31 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 160006,
+        "duration_ms": 374571,
         "explicit": true,
         "external_ids": {
-          "isrc": "QM6N22513979"
+          "isrc": "DGA052347837"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
+          "spotify": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
         },
-        "href": "https://api.spotify.com/v1/tracks/1yY11odB1K0id6dtJQXT4j",
-        "id": "1yY11odB1K0id6dtJQXT4j",
+        "href": "https://api.spotify.com/v1/tracks/2VHgL82Mtbso1VoMikWkS7",
+        "id": "2VHgL82Mtbso1VoMikWkS7",
         "is_local": false,
-        "name": "La Bandera",
-        "popularity": 59,
+        "name": "Todo x Nada",
+        "popularity": 55,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:1yY11odB1K0id6dtJQXT4j"
+        "uri": "spotify:track:2VHgL82Mtbso1VoMikWkS7"
       },
-      "played_at": "2025-07-02T00:52:41.571Z",
+      "played_at": "2025-07-02T02:39:18.294Z",
       "context": {
-        "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/3SNh3mtl0hGsEruEqmb4FS",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/3SNh3mtl0hGsEruEqmb4FS"
         },
-        "uri": "spotify:playlist:3SNh3mtl0hGsEruEqmb4FS"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-              },
-              "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-              "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-              "name": "Remik Gonzalez",
-              "type": "artist",
-              "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "PR",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6M0D23KerfyIlj9aHzwiUu"
-          },
-          "href": "https://api.spotify.com/v1/albums/6M0D23KerfyIlj9aHzwiUu",
-          "id": "6M0D23KerfyIlj9aHzwiUu",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c7c2370df7f770979cc8100b",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02c7c2370df7f770979cc8100b",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851c7c2370df7f770979cc8100b",
-              "width": 64
-            }
-          ],
-          "name": "High Con Class XIII",
-          "release_date": "2017-05-17",
-          "release_date_precision": "day",
-          "total_tracks": 13,
-          "type": "album",
-          "uri": "spotify:album:6M0D23KerfyIlj9aHzwiUu"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-            },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
-            "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "PR",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "disc_number": 1,
-        "duration_ms": 220055,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "USDY41746413"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1OQItZDxgTdqN0sM4CEe2p"
-        },
-        "href": "https://api.spotify.com/v1/tracks/1OQItZDxgTdqN0sM4CEe2p",
-        "id": "1OQItZDxgTdqN0sM4CEe2p",
-        "is_local": false,
-        "name": "A Ver Si No",
-        "popularity": 36,
-        "preview_url": null,
-        "track_number": 11,
-        "type": "track",
-        "uri": "spotify:track:1OQItZDxgTdqN0sM4CEe2p"
-      },
-      "played_at": "2025-07-02T00:50:00.949Z",
-      "context": {
         "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/3SNh3mtl0hGsEruEqmb4FS",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/3SNh3mtl0hGsEruEqmb4FS"
-        },
         "uri": "spotify:playlist:3SNh3mtl0hGsEruEqmb4FS"
       }
     }
