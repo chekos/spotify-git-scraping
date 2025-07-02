@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1878817
+        "total": 1879299
       },
       "genres": [
         "mexican hip hop",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5868991
+        "total": 5870739
       },
       "genres": [
         "mexican hip hop",
@@ -53,17 +53,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe23033f623a49ece86d3eb3d",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb663bea91b7e4ea8fd6d890c4",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e23033f623a49ece86d3eb3d",
+          "url": "https://i.scdn.co/image/ab67616100005174663bea91b7e4ea8fd6d890c4",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e23033f623a49ece86d3eb3d",
+          "url": "https://i.scdn.co/image/ab6761610000f178663bea91b7e4ea8fd6d890c4",
           "width": 160
         }
       ],
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 415272
+        "total": 415311
       },
       "genres": [
         "mexican hip hop",
@@ -110,11 +110,48 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+      },
+      "followers": {
+        "href": null,
+        "total": 50328
+      },
+      "genres": [
+        "mexican hip hop",
+        "electro corridos",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
+      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1d97b2cbe336a9c58b56446f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051741d97b2cbe336a9c58b56446f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1781d97b2cbe336a9c58b56446f",
+          "width": 160
+        }
+      ],
+      "name": "Jayrick",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
       },
       "followers": {
         "href": null,
-        "total": 3333198
+        "total": 3335043
       },
       "genres": [
         "mexican hip hop",
@@ -150,7 +187,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12283984
+        "total": 12286915
       },
       "genres": [
         "old school hip hop",
@@ -193,7 +230,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2456441
+        "total": 2457343
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -231,7 +268,7 @@
       },
       "followers": {
         "href": null,
-        "total": 122979
+        "total": 123001
       },
       "genres": [
         "reggae",
@@ -267,7 +304,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3020519
+        "total": 3021457
       },
       "genres": [
         "mexican hip hop",
@@ -303,7 +340,7 @@
       },
       "followers": {
         "href": null,
-        "total": 40037
+        "total": 40041
       },
       "genres": [
         "mexican hip hop",
@@ -339,7 +376,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1083430
+        "total": 1083642
       },
       "genres": [
         "mexican hip hop",
@@ -375,7 +412,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3189375
+        "total": 3190351
       },
       "genres": [
         "mexican hip hop",
@@ -408,40 +445,75 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
       },
       "followers": {
         "href": null,
-        "total": 50275
+        "total": 18794079
       },
       "genres": [
         "mexican hip hop",
-        "electro corridos",
         "latin hip hop"
       ],
-      "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
-      "id": "0U8dIwzBn17JkhYxmznp6T",
+      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+      "id": "07PdYoE4jVRF6Ut40GgVSP",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1d97b2cbe336a9c58b56446f",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb72d02b5f21c6364c3d1928d7",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741d97b2cbe336a9c58b56446f",
+          "url": "https://i.scdn.co/image/ab6761610000517472d02b5f21c6364c3d1928d7",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781d97b2cbe336a9c58b56446f",
+          "url": "https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7",
           "width": 160
         }
       ],
-      "name": "Jayrick",
-      "popularity": 58,
+      "name": "Cartel De Santa",
+      "popularity": 80,
       "type": "artist",
-      "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
+      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+      },
+      "followers": {
+        "href": null,
+        "total": 1338945
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+      "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8faa1ce9f316b7b6dc33ee10",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748faa1ce9f316b7b6dc33ee10",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788faa1ce9f316b7b6dc33ee10",
+          "width": 160
+        }
+      ],
+      "name": "Remik Gonzalez",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     },
     {
       "external_urls": {
@@ -449,7 +521,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4980990
+        "total": 4982797
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -493,7 +565,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4194094
+        "total": 4194957
       },
       "genres": [
         "east coast hip hop",
@@ -530,7 +602,7 @@
       },
       "followers": {
         "href": null,
-        "total": 166829
+        "total": 166864
       },
       "genres": [
         "mexican hip hop",
@@ -562,47 +634,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-      },
-      "followers": {
-        "href": null,
-        "total": 18789931
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
-      "id": "07PdYoE4jVRF6Ut40GgVSP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb72d02b5f21c6364c3d1928d7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517472d02b5f21c6364c3d1928d7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7",
-          "width": 160
-        }
-      ],
-      "name": "Cartel De Santa",
-      "popularity": 80,
-      "type": "artist",
-      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
       },
       "followers": {
         "href": null,
-        "total": 227570
+        "total": 227646
       },
       "genres": [
         "mexican hip hop",
@@ -639,7 +675,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6299099
+        "total": 6301459
       },
       "genres": [
         "mexican hip hop",
@@ -676,7 +712,7 @@
       },
       "followers": {
         "href": null,
-        "total": 340435
+        "total": 340553
       },
       "genres": [
         "mexican hip hop",
@@ -712,7 +748,7 @@
       },
       "followers": {
         "href": null,
-        "total": 20199958
+        "total": 20201603
       },
       "genres": [
         "colombian pop",
@@ -743,7 +779,7 @@
       "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
     }
   ],
-  "total": 20,
+  "total": 21,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
