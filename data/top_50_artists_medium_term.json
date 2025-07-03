@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 123001
+        "total": 123022
       },
       "genres": [
         "reggae",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5870739
+        "total": 5872444
       },
       "genres": [
         "mexican hip hop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 97271171
+        "total": 97301682
       },
       "genres": [
         "reggaeton",
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 415311
+        "total": 415346
       },
       "genres": [
         "mexican hip hop",
@@ -152,7 +152,7 @@
       },
       "followers": {
         "href": null,
-        "total": 50328
+        "total": 50373
       },
       "genres": [
         "mexican hip hop",
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6301459
+        "total": 6303927
       },
       "genres": [
         "mexican hip hop",
@@ -226,7 +226,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2457343
+        "total": 2458392
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -264,7 +264,7 @@
       },
       "followers": {
         "href": null,
-        "total": 166864
+        "total": 166901
       },
       "genres": [
         "mexican hip hop",
@@ -380,7 +380,7 @@
       },
       "followers": {
         "href": null,
-        "total": 34570
+        "total": 34612
       },
       "genres": [
         "mexican hip hop",
@@ -488,7 +488,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3190351
+        "total": 3191168
       },
       "genres": [
         "mexican hip hop",
@@ -525,7 +525,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3335043
+        "total": 3336613
       },
       "genres": [
         "mexican hip hop",
@@ -561,7 +561,7 @@
       },
       "followers": {
         "href": null,
-        "total": 473975
+        "total": 474253
       },
       "genres": [
         "mexican hip hop",
@@ -674,7 +674,7 @@
       },
       "followers": {
         "href": null,
-        "total": 132381
+        "total": 132383
       },
       "genres": [
         "mexican hip hop",
@@ -710,7 +710,7 @@
       },
       "followers": {
         "href": null,
-        "total": 167933
+        "total": 167991
       },
       "genres": [
         "mexican hip hop",
@@ -746,7 +746,7 @@
       },
       "followers": {
         "href": null,
-        "total": 27538
+        "total": 27542
       },
       "genres": [
         "mexican hip hop"
@@ -781,7 +781,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7132199
+        "total": 7134440
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -821,7 +821,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10000648
+        "total": 10001797
       },
       "genres": [
         "mexican hip hop",
@@ -857,7 +857,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1814759
+        "total": 1815031
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -894,7 +894,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3344242
+        "total": 3344688
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -935,7 +935,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8484320
+        "total": 8484510
       },
       "genres": [
         "latin"
@@ -970,7 +970,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3587849
+        "total": 3588990
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -1047,7 +1047,7 @@
       },
       "followers": {
         "href": null,
-        "total": 340553
+        "total": 340665
       },
       "genres": [
         "mexican hip hop",
@@ -1083,7 +1083,7 @@
       },
       "followers": {
         "href": null,
-        "total": 25774928
+        "total": 25792124
       },
       "genres": [
         "corridos tumbados",
@@ -1124,7 +1124,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3011297
+        "total": 3011688
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
@@ -1157,7 +1157,7 @@
       },
       "followers": {
         "href": null,
-        "total": 31723
+        "total": 31743
       },
       "genres": [
         "mexican indie",
@@ -1196,7 +1196,7 @@
       },
       "followers": {
         "href": null,
-        "total": 82081
+        "total": 82075
       },
       "genres": [
         "mexican hip hop",
@@ -1225,6 +1225,41 @@
       "popularity": 34,
       "type": "artist",
       "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+      },
+      "followers": {
+        "href": null,
+        "total": 2872078
+      },
+      "genres": [
+        "horrorcore"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos",
+      "id": "6UBA15slIuadJ8h2lPRPos",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8b1697a78fbe50647333a84f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748b1697a78fbe50647333a84f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788b1697a78fbe50647333a84f",
+          "width": 160
+        }
+      ],
+      "name": "Tech N9ne",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:6UBA15slIuadJ8h2lPRPos"
     },
     {
       "external_urls": {
@@ -1267,7 +1302,7 @@
       },
       "followers": {
         "href": null,
-        "total": 305510
+        "total": 305552
       },
       "genres": [
         "mexican hip hop",
@@ -1303,7 +1338,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2748123
+        "total": 2748999
       },
       "genres": [
         "mexican hip hop",
@@ -1339,7 +1374,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4696298
+        "total": 4698441
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -1377,7 +1412,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9830294
+        "total": 9832329
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -1415,7 +1450,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1205126
+        "total": 1205389
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -1455,7 +1490,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4030421
+        "total": 4032086
       },
       "genres": [
         "ranchera",
@@ -1492,7 +1527,7 @@
       },
       "followers": {
         "href": null,
-        "total": 151709
+        "total": 151729
       },
       "genres": [
         "mexican hip hop",
@@ -1529,7 +1564,7 @@
       },
       "followers": {
         "href": null,
-        "total": 836033
+        "total": 836217
       },
       "genres": [
         "latin hip hop"
@@ -1564,7 +1599,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2960411
+        "total": 2961130
       },
       "genres": [
         "ska",
@@ -1603,7 +1638,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3618359
+        "total": 3619538
       },
       "genres": [
         "mexican hip hop",
@@ -1640,7 +1675,7 @@
       },
       "followers": {
         "href": null,
-        "total": 227646
+        "total": 227731
       },
       "genres": [
         "mexican hip hop",
@@ -1756,7 +1791,7 @@
       },
       "followers": {
         "href": null,
-        "total": 333836
+        "total": 333860
       },
       "genres": [
         "mexican hip hop",
@@ -1767,17 +1802,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb34e45cf65382f2eed6752b2e",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb370c30d070de5216a4dcb7af",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517434e45cf65382f2eed6752b2e",
+          "url": "https://i.scdn.co/image/ab67616100005174370c30d070de5216a4dcb7af",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17834e45cf65382f2eed6752b2e",
+          "url": "https://i.scdn.co/image/ab6761610000f178370c30d070de5216a4dcb7af",
           "width": 160
         }
       ],
@@ -1792,7 +1827,7 @@
       },
       "followers": {
         "href": null,
-        "total": 565593
+        "total": 565902
       },
       "genres": [
         "mexican hip hop",
@@ -1822,42 +1857,6 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:0SmgVe3giVHaJjGmIz8xA4"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-      },
-      "followers": {
-        "href": null,
-        "total": 1797552
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
-      "id": "0U5RYP2HMdGv2GhicLhkOI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbca8a9fb2641ce18cd0457aa",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bca8a9fb2641ce18cd0457aa",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bca8a9fb2641ce18cd0457aa",
-          "width": 160
-        }
-      ],
-      "name": "Neto Pe\u00f1a",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
     }
   ],
   "total": 88,
