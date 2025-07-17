@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1884688
+        "total": 1885090
       },
       "genres": [
         "mexican hip hop",
@@ -17,17 +17,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb64c52cf647801e56a7893b71",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000517464c52cf647801e56a7893b71",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780851f71b02e6604b13f94235",
+          "url": "https://i.scdn.co/image/ab6761610000f17864c52cf647801e56a7893b71",
           "width": 160
         }
       ],
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1343321
+        "total": 1343627
       },
       "genres": [
         "mexican hip hop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 50988
+        "total": 51055
       },
       "genres": [
         "mexican hip hop",
@@ -115,7 +115,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2873978
+        "total": 2874149
       },
       "genres": [
         "horrorcore"
@@ -150,7 +150,7 @@
       },
       "followers": {
         "href": null,
-        "total": 415615
+        "total": 415634
       },
       "genres": [
         "mexican hip hop",
@@ -186,7 +186,7 @@
       },
       "followers": {
         "href": null,
-        "total": 12337334
+        "total": 12341035
       },
       "genres": [
         "old school hip hop",
@@ -229,7 +229,7 @@
       },
       "followers": {
         "href": null,
-        "total": 577614
+        "total": 577634
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/4UOlRVifrFdQHW9qu5ep8t",
@@ -262,7 +262,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6337323
+        "total": 6340279
       },
       "genres": [
         "mexican hip hop",
@@ -299,7 +299,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1323292
+        "total": 1323479
       },
       "genres": [
         "celtic punk",
@@ -338,7 +338,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3202656
+        "total": 3203619
       },
       "genres": [
         "mexican hip hop",
@@ -375,7 +375,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2472166
+        "total": 2473285
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -413,7 +413,7 @@
       },
       "followers": {
         "href": null,
-        "total": 123366
+        "total": 123394
       },
       "genres": [
         "reggae",
@@ -449,7 +449,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3360347
+        "total": 3362300
       },
       "genres": [
         "mexican hip hop",
