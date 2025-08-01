@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1348081
+        "total": 1348465
       },
       "genres": [
         "mexican hip hop",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 51792
+        "total": 51846
       },
       "genres": [
         "mexican hip hop",
@@ -79,7 +79,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1891113
+        "total": 1891734
       },
       "genres": [
         "mexican hip hop",
@@ -115,7 +115,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2488471
+        "total": 2489620
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6378364
+        "total": 6381118
       },
       "genres": [
         "mexican hip hop",
@@ -190,7 +190,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3216396
+        "total": 3217387
       },
       "genres": [
         "mexican hip hop",
@@ -227,7 +227,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3656175
+        "total": 3657633
       },
       "genres": [
         "mexican hip hop",
@@ -264,7 +264,7 @@
       },
       "followers": {
         "href": null,
-        "total": 550415
+        "total": 551721
       },
       "genres": [
         "southern hip hop"
@@ -299,7 +299,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5925391
+        "total": 5927584
       },
       "genres": [
         "mexican hip hop",
@@ -331,11 +331,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+      },
+      "followers": {
+        "href": null,
+        "total": 167620
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
+      "id": "4V2V4PaSblStayYVWTGDbZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5591fc538695a02d974ae5be",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745591fc538695a02d974ae5be",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785591fc538695a02d974ae5be",
+          "width": 160
+        }
+      ],
+      "name": "Geassassin",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
       },
       "followers": {
         "href": null,
-        "total": 1327087
+        "total": 1327541
       },
       "genres": [
         "celtic punk",
@@ -374,7 +410,7 @@
       },
       "followers": {
         "href": null,
-        "total": 152196
+        "total": 152229
       },
       "genres": [
         "mexican hip hop",
@@ -411,7 +447,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1916126
+        "total": 1916614
       },
       "genres": [
         "banda",
@@ -452,7 +488,7 @@
       },
       "followers": {
         "href": null,
-        "total": 102319412
+        "total": 102347335
       },
       "genres": [
         "rap",
@@ -483,7 +519,7 @@
       "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
     }
   ],
-  "total": 13,
+  "total": 14,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
