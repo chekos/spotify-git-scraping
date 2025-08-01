@@ -811,42 +811,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
-      },
-      "followers": {
-        "href": null,
-        "total": 84869
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
-      "id": "7BQJLHBNVvz4O2JHmls4Ef",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb70edc0231763dc090338a51d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517470edc0231763dc090338a51d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17870edc0231763dc090338a51d",
-          "width": 160
-        }
-      ],
-      "name": "Wk",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
       },
       "followers": {
@@ -881,6 +845,42 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
+      },
+      "followers": {
+        "href": null,
+        "total": 84869
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
+      "id": "7BQJLHBNVvz4O2JHmls4Ef",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb70edc0231763dc090338a51d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517470edc0231763dc090338a51d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17870edc0231763dc090338a51d",
+          "width": 160
+        }
+      ],
+      "name": "Wk",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
     },
     {
       "external_urls": {
@@ -920,6 +920,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+      },
+      "followers": {
+        "href": null,
+        "total": 10038118
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
+      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf70d400817421baff34f54f6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f70d400817421baff34f54f6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f70d400817421baff34f54f6",
+          "width": 160
+        }
+      ],
+      "name": "Santa Fe Klan",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
       },
       "followers": {
@@ -954,42 +990,6 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-      },
-      "followers": {
-        "href": null,
-        "total": 10038118
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-      "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf70d400817421baff34f54f6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f70d400817421baff34f54f6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f70d400817421baff34f54f6",
-          "width": 160
-        }
-      ],
-      "name": "Santa Fe Klan",
-      "popularity": 76,
-      "type": "artist",
-      "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
     {
       "external_urls": {
@@ -1841,7 +1841,7 @@
       "uri": "spotify:artist:5MRMYpdAWZawm3ivBeWvdK"
     }
   ],
-  "total": 161,
+  "total": 162,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=long_term",
