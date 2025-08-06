@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1350129
+        "total": 1350623
       },
       "genres": [
         "mexican hip hop",
@@ -32,7 +32,7 @@
         }
       ],
       "name": "Remik Gonzalez",
-      "popularity": 60,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
     },
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 52052
+        "total": 52105
       },
       "genres": [
         "mexican hip hop",
@@ -54,17 +54,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb08b18aabcc25f17a9677b72d",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1d97b2cbe336a9c58b56446f",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517408b18aabcc25f17a9677b72d",
+          "url": "https://i.scdn.co/image/ab676161000051741d97b2cbe336a9c58b56446f",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17808b18aabcc25f17a9677b72d",
+          "url": "https://i.scdn.co/image/ab6761610000f1781d97b2cbe336a9c58b56446f",
           "width": 160
         }
       ],
@@ -79,7 +79,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1893524
+        "total": 1894074
       },
       "genres": [
         "mexican hip hop",
@@ -115,7 +115,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2493785
+        "total": 2494949
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6391404
+        "total": 6394498
       },
       "genres": [
         "mexican hip hop",
@@ -190,7 +190,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3221332
+        "total": 3222748
       },
       "genres": [
         "mexican hip hop",
@@ -227,7 +227,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3662902
+        "total": 3664742
       },
       "genres": [
         "mexican hip hop",
@@ -239,17 +239,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb23c75d4293636fcb8538ba9f",
+          "url": "https://i.scdn.co/image/ab6761610000e5eba345ff416762343c586a7108",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517423c75d4293636fcb8538ba9f",
+          "url": "https://i.scdn.co/image/ab67616100005174a345ff416762343c586a7108",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17823c75d4293636fcb8538ba9f",
+          "url": "https://i.scdn.co/image/ab6761610000f178a345ff416762343c586a7108",
           "width": 160
         }
       ],
@@ -264,7 +264,7 @@
       },
       "followers": {
         "href": null,
-        "total": 556300
+        "total": 557501
       },
       "genres": [
         "southern hip hop"
@@ -299,7 +299,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5935038
+        "total": 5937000
       },
       "genres": [
         "mexican hip hop",
@@ -335,7 +335,7 @@
       },
       "followers": {
         "href": null,
-        "total": 167712
+        "total": 167730
       },
       "genres": [
         "mexican hip hop",
@@ -371,7 +371,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1328788
+        "total": 1329031
       },
       "genres": [
         "celtic punk",
@@ -410,7 +410,7 @@
       },
       "followers": {
         "href": null,
-        "total": 152282
+        "total": 152301
       },
       "genres": [
         "mexican hip hop",
@@ -447,7 +447,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1918196
+        "total": 1918561
       },
       "genres": [
         "banda",
@@ -488,7 +488,7 @@
       },
       "followers": {
         "href": null,
-        "total": 102461355
+        "total": 102490537
       },
       "genres": [
         "rap",
