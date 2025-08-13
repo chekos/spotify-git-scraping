@@ -12017,13 +12017,10 @@
       "href": "https://api.spotify.com/v1/tracks/7byb5OtBhmTcx4RtwgtDiZ",
       "id": "7byb5OtBhmTcx4RtwgtDiZ",
       "is_local": false,
-      "is_playable": false,
+      "is_playable": true,
       "name": "El Wero (Versi\u00f3n Doce)",
       "popularity": 63,
       "preview_url": null,
-      "restrictions": {
-        "reason": "market"
-      },
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:7byb5OtBhmTcx4RtwgtDiZ"
