@@ -347,17 +347,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb663bea91b7e4ea8fd6d890c4",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe23033f623a49ece86d3eb3d",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174663bea91b7e4ea8fd6d890c4",
+          "url": "https://i.scdn.co/image/ab67616100005174e23033f623a49ece86d3eb3d",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178663bea91b7e4ea8fd6d890c4",
+          "url": "https://i.scdn.co/image/ab6761610000f178e23033f623a49ece86d3eb3d",
           "width": 160
         }
       ],
@@ -621,7 +621,7 @@
         }
       ],
       "name": "Clipse",
-      "popularity": 77,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
     },
@@ -959,7 +959,7 @@
         }
       ],
       "name": "C-Kan",
-      "popularity": 74,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
     },
@@ -1127,17 +1127,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb99070d7187d0a5985161d263",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebeb4e662c21a7d0caf7ba15fc",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517499070d7187d0a5985161d263",
+          "url": "https://i.scdn.co/image/ab67616100005174eb4e662c21a7d0caf7ba15fc",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17899070d7187d0a5985161d263",
+          "url": "https://i.scdn.co/image/ab6761610000f178eb4e662c21a7d0caf7ba15fc",
           "width": 160
         }
       ],
@@ -1497,17 +1497,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe16b1051a7a92f055a9f4480",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb48e5f1a786d3d80f50101728",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e16b1051a7a92f055a9f4480",
+          "url": "https://i.scdn.co/image/ab6761610000517448e5f1a786d3d80f50101728",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e16b1051a7a92f055a9f4480",
+          "url": "https://i.scdn.co/image/ab6761610000f17848e5f1a786d3d80f50101728",
           "width": 160
         }
       ],

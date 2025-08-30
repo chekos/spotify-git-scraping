@@ -584,7 +584,7 @@
         }
       ],
       "name": "Cozy Cuz",
-      "popularity": 55,
+      "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
     },
@@ -716,17 +716,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb69fbe2431a74cae414fd052c",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbd7cbbc84d248ec8aa77d8a9",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517469fbe2431a74cae414fd052c",
+          "url": "https://i.scdn.co/image/ab67616100005174bd7cbbc84d248ec8aa77d8a9",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17869fbe2431a74cae414fd052c",
+          "url": "https://i.scdn.co/image/ab6761610000f178bd7cbbc84d248ec8aa77d8a9",
           "width": 160
         }
       ],
@@ -841,7 +841,7 @@
         }
       ],
       "name": "C-Kan",
-      "popularity": 74,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
     },
@@ -950,7 +950,7 @@
         }
       ],
       "name": "Kendrick Lamar",
-      "popularity": 94,
+      "popularity": 93,
       "type": "artist",
       "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     },
