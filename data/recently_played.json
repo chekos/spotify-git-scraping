@@ -7,13 +7,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+                "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
               },
-              "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-              "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-              "name": "Santa Fe Klan",
+              "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+              "id": "7I85Ma5xjAo6nlvqOCIiWx",
+              "name": "Fntxy",
               "type": "artist",
-              "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+              "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
             }
           ],
           "available_markets": [
@@ -204,44 +204,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+            "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
           },
-          "href": "https://api.spotify.com/v1/albums/5t6smstXej1mG4yeh2Rgn0",
-          "id": "5t6smstXej1mG4yeh2Rgn0",
+          "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
+          "id": "7cftuQ1mezvQCWSHtP7eA9",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273be83d1e73024eb98201c0f7e",
+              "url": "https://i.scdn.co/image/ab67616d0000b2731fba87bef7823899ee24a7f2",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02be83d1e73024eb98201c0f7e",
+              "url": "https://i.scdn.co/image/ab67616d00001e021fba87bef7823899ee24a7f2",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851be83d1e73024eb98201c0f7e",
+              "url": "https://i.scdn.co/image/ab67616d000048511fba87bef7823899ee24a7f2",
               "width": 64
             }
           ],
-          "name": "Bendecido",
-          "release_date": "2019-06-26",
+          "name": "Homie Alone",
+          "release_date": "2022-07-29",
           "release_date_precision": "day",
-          "total_tracks": 10,
+          "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:5t6smstXej1mG4yeh2Rgn0"
+          "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
             },
-            "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
-            "id": "4tm8CEdm4pkQsEh4jIr9Yp",
-            "name": "Santa Fe Klan",
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
             "type": "artist",
-            "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
           }
         ],
         "available_markets": [
@@ -432,512 +432,32 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 200547,
+        "duration_ms": 207582,
         "explicit": true,
         "external_ids": {
-          "isrc": "USHM21906943"
+          "isrc": "QM6P42209616"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7nlwjDDc7jNvb9sy8EcQCE"
+          "spotify": "https://open.spotify.com/track/5oqPZDLDphVqvMCwzUDRsd"
         },
-        "href": "https://api.spotify.com/v1/tracks/7nlwjDDc7jNvb9sy8EcQCE",
-        "id": "7nlwjDDc7jNvb9sy8EcQCE",
+        "href": "https://api.spotify.com/v1/tracks/5oqPZDLDphVqvMCwzUDRsd",
+        "id": "5oqPZDLDphVqvMCwzUDRsd",
         "is_local": false,
-        "name": "Familia",
-        "popularity": 46,
+        "name": "Calafia Tour",
+        "popularity": 36,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:7nlwjDDc7jNvb9sy8EcQCE"
+        "uri": "spotify:track:5oqPZDLDphVqvMCwzUDRsd"
       },
-      "played_at": "2025-08-31T01:27:19.891Z",
+      "played_at": "2025-08-31T02:40:25.039Z",
       "context": {
-        "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
+          "spotify": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
         },
-        "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "album_type": "single",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
-              },
-              "href": "https://api.spotify.com/v1/artists/1NsRsBdRV7uWMw0SYaHo01",
-              "id": "1NsRsBdRV7uWMw0SYaHo01",
-              "name": "Phyzh Eye",
-              "type": "artist",
-              "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/25cgMc5gKIg8HYVY5nXjZQ"
-              },
-              "href": "https://api.spotify.com/v1/artists/25cgMc5gKIg8HYVY5nXjZQ",
-              "id": "25cgMc5gKIg8HYVY5nXjZQ",
-              "name": "Moska Hern\u00e1ndez",
-              "type": "artist",
-              "uri": "spotify:artist:25cgMc5gKIg8HYVY5nXjZQ"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "PR",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3NM6vyPA8inZayTTrnUruc"
-          },
-          "href": "https://api.spotify.com/v1/albums/3NM6vyPA8inZayTTrnUruc",
-          "id": "3NM6vyPA8inZayTTrnUruc",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2739dd0311a4ece55005afbfec3",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e029dd0311a4ece55005afbfec3",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048519dd0311a4ece55005afbfec3",
-              "width": 64
-            }
-          ],
-          "name": "21 Gramos",
-          "release_date": "2021-01-01",
-          "release_date_precision": "day",
-          "total_tracks": 1,
-          "type": "album",
-          "uri": "spotify:album:3NM6vyPA8inZayTTrnUruc"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
-            },
-            "href": "https://api.spotify.com/v1/artists/1NsRsBdRV7uWMw0SYaHo01",
-            "id": "1NsRsBdRV7uWMw0SYaHo01",
-            "name": "Phyzh Eye",
-            "type": "artist",
-            "uri": "spotify:artist:1NsRsBdRV7uWMw0SYaHo01"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/25cgMc5gKIg8HYVY5nXjZQ"
-            },
-            "href": "https://api.spotify.com/v1/artists/25cgMc5gKIg8HYVY5nXjZQ",
-            "id": "25cgMc5gKIg8HYVY5nXjZQ",
-            "name": "Moska Hern\u00e1ndez",
-            "type": "artist",
-            "uri": "spotify:artist:25cgMc5gKIg8HYVY5nXjZQ"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "PR",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "disc_number": 1,
-        "duration_ms": 189000,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "QZNJX2057295"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0WQSt6Mjc0rXcTuvgCmqvA"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0WQSt6Mjc0rXcTuvgCmqvA",
-        "id": "0WQSt6Mjc0rXcTuvgCmqvA",
-        "is_local": false,
-        "name": "21 Gramos",
-        "popularity": 1,
-        "preview_url": null,
-        "track_number": 1,
-        "type": "track",
-        "uri": "spotify:track:0WQSt6Mjc0rXcTuvgCmqvA"
-      },
-      "played_at": "2025-08-31T01:23:58.663Z",
-      "context": {
-        "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
-        },
-        "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
+        "href": "https://api.spotify.com/v1/albums/7cftuQ1mezvQCWSHtP7eA9",
+        "type": "album",
+        "uri": "spotify:album:7cftuQ1mezvQCWSHtP7eA9"
       }
     },
     {
@@ -947,13 +467,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+                "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
               },
-              "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-              "id": "2Gcx4c9rFAAloAYV2cMGUd",
-              "name": "Proof",
+              "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
+              "id": "7BQJLHBNVvz4O2JHmls4Ef",
+              "name": "Wk",
               "type": "artist",
-              "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+              "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
             }
           ],
           "available_markets": [
@@ -1144,44 +664,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg"
+            "spotify": "https://open.spotify.com/album/7AHtc6OAl2sjWBoM9e4izf"
           },
-          "href": "https://api.spotify.com/v1/albums/2hAcA9mRxXHUvAJ5SIj1dg",
-          "id": "2hAcA9mRxXHUvAJ5SIj1dg",
+          "href": "https://api.spotify.com/v1/albums/7AHtc6OAl2sjWBoM9e4izf",
+          "id": "7AHtc6OAl2sjWBoM9e4izf",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273cce8fd4908c46bedf4740a3d",
+              "url": "https://i.scdn.co/image/ab67616d0000b27323ad445d1f6b674c76a7849e",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02cce8fd4908c46bedf4740a3d",
+              "url": "https://i.scdn.co/image/ab67616d00001e0223ad445d1f6b674c76a7849e",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851cce8fd4908c46bedf4740a3d",
+              "url": "https://i.scdn.co/image/ab67616d0000485123ad445d1f6b674c76a7849e",
               "width": 64
             }
           ],
-          "name": "Minotauro",
-          "release_date": "2021-01-29",
+          "name": "Tr\u00f3pico de C\u00e1ncer II",
+          "release_date": "2021-05-02",
           "release_date_precision": "day",
-          "total_tracks": 12,
+          "total_tracks": 15,
           "type": "album",
-          "uri": "spotify:album:2hAcA9mRxXHUvAJ5SIj1dg"
+          "uri": "spotify:album:7AHtc6OAl2sjWBoM9e4izf"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+              "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
             },
-            "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-            "id": "2Gcx4c9rFAAloAYV2cMGUd",
-            "name": "Proof",
+            "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
+            "id": "7BQJLHBNVvz4O2JHmls4Ef",
+            "name": "Wk",
             "type": "artist",
-            "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
+            "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
           }
         ],
         "available_markets": [
@@ -1372,538 +892,48 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 166000,
-        "explicit": true,
+        "duration_ms": 165500,
+        "explicit": false,
         "external_ids": {
-          "isrc": "QZHZ51958144"
+          "isrc": "QZGLM1987503"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/4wletqwxSHQl7ItPL2c3Nk"
+          "spotify": "https://open.spotify.com/track/0nK02ID1wJvbLGSluFWpWF"
         },
-        "href": "https://api.spotify.com/v1/tracks/4wletqwxSHQl7ItPL2c3Nk",
-        "id": "4wletqwxSHQl7ItPL2c3Nk",
+        "href": "https://api.spotify.com/v1/tracks/0nK02ID1wJvbLGSluFWpWF",
+        "id": "0nK02ID1wJvbLGSluFWpWF",
         "is_local": false,
-        "name": "Problemas Usuales",
-        "popularity": 30,
-        "preview_url": null,
-        "track_number": 9,
-        "type": "track",
-        "uri": "spotify:track:4wletqwxSHQl7ItPL2c3Nk"
-      },
-      "played_at": "2025-08-31T01:20:49.233Z",
-      "context": {
-        "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
-        },
-        "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "album_type": "single",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-              },
-              "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-              "id": "2Gcx4c9rFAAloAYV2cMGUd",
-              "name": "Proof",
-              "type": "artist",
-              "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "PR",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5X0iXg5EF46mvb54OldTBo"
-          },
-          "href": "https://api.spotify.com/v1/albums/5X0iXg5EF46mvb54OldTBo",
-          "id": "5X0iXg5EF46mvb54OldTBo",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731e5f8c0a71f7342010d3e7cf",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e021e5f8c0a71f7342010d3e7cf",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048511e5f8c0a71f7342010d3e7cf",
-              "width": 64
-            }
-          ],
-          "name": "La Divina Comedia",
-          "release_date": "2021-07-30",
-          "release_date_precision": "day",
-          "total_tracks": 6,
-          "type": "album",
-          "uri": "spotify:album:5X0iXg5EF46mvb54OldTBo"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-            },
-            "href": "https://api.spotify.com/v1/artists/2Gcx4c9rFAAloAYV2cMGUd",
-            "id": "2Gcx4c9rFAAloAYV2cMGUd",
-            "name": "Proof",
-            "type": "artist",
-            "uri": "spotify:artist:2Gcx4c9rFAAloAYV2cMGUd"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-            },
-            "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
-            "id": "4r1ZDYKzPt3iIjuq8LbT6X",
-            "name": "Aczino",
-            "type": "artist",
-            "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "PR",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "disc_number": 1,
-        "duration_ms": 181807,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "FR59R2159446"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7rcKu7txxueKNSw2ZtFWkY"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7rcKu7txxueKNSw2ZtFWkY",
-        "id": "7rcKu7txxueKNSw2ZtFWkY",
-        "is_local": false,
-        "name": "Filo",
-        "popularity": 17,
+        "name": "Todo Est\u00e1 Bien",
+        "popularity": 46,
         "preview_url": null,
         "track_number": 2,
         "type": "track",
-        "uri": "spotify:track:7rcKu7txxueKNSw2ZtFWkY"
+        "uri": "spotify:track:0nK02ID1wJvbLGSluFWpWF"
       },
-      "played_at": "2025-08-31T01:16:07.283Z",
+      "played_at": "2025-08-31T02:34:39.765Z",
       "context": {
-        "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
+          "spotify": "https://open.spotify.com/album/7AHtc6OAl2sjWBoM9e4izf"
         },
-        "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
+        "href": "https://api.spotify.com/v1/albums/7AHtc6OAl2sjWBoM9e4izf",
+        "type": "album",
+        "uri": "spotify:album:7AHtc6OAl2sjWBoM9e4izf"
       }
     },
     {
       "track": {
         "album": {
-          "album_type": "single",
+          "album_type": "album",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0NQDFDKG7p0IRcXdqT9uNk"
+                "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
               },
-              "href": "https://api.spotify.com/v1/artists/0NQDFDKG7p0IRcXdqT9uNk",
-              "id": "0NQDFDKG7p0IRcXdqT9uNk",
-              "name": "Ohm",
+              "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
+              "id": "7BQJLHBNVvz4O2JHmls4Ef",
+              "name": "Wk",
               "type": "artist",
-              "uri": "spotify:artist:0NQDFDKG7p0IRcXdqT9uNk"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-              },
-              "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-              "id": "3ScIigEm9KZUrUQtXzBmKJ",
-              "name": "Cozy Cuz",
-              "type": "artist",
-              "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
-              },
-              "href": "https://api.spotify.com/v1/artists/30XfbCbtW4PAJ5mvhoajY2",
-              "id": "30XfbCbtW4PAJ5mvhoajY2",
-              "name": "Maxx Gallo",
-              "type": "artist",
-              "uri": "spotify:artist:30XfbCbtW4PAJ5mvhoajY2"
+              "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
             }
           ],
           "available_markets": [
@@ -2094,64 +1124,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/34NE8mdvSaWk1sbKJV3NkT"
+            "spotify": "https://open.spotify.com/album/7AHtc6OAl2sjWBoM9e4izf"
           },
-          "href": "https://api.spotify.com/v1/albums/34NE8mdvSaWk1sbKJV3NkT",
-          "id": "34NE8mdvSaWk1sbKJV3NkT",
+          "href": "https://api.spotify.com/v1/albums/7AHtc6OAl2sjWBoM9e4izf",
+          "id": "7AHtc6OAl2sjWBoM9e4izf",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27355b7be7fc3a45f16aa66f65f",
+              "url": "https://i.scdn.co/image/ab67616d0000b27323ad445d1f6b674c76a7849e",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0255b7be7fc3a45f16aa66f65f",
+              "url": "https://i.scdn.co/image/ab67616d00001e0223ad445d1f6b674c76a7849e",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485155b7be7fc3a45f16aa66f65f",
+              "url": "https://i.scdn.co/image/ab67616d0000485123ad445d1f6b674c76a7849e",
               "width": 64
             }
           ],
-          "name": "Ira Washa Wason",
-          "release_date": "2020-02-21",
+          "name": "Tr\u00f3pico de C\u00e1ncer II",
+          "release_date": "2021-05-02",
           "release_date_precision": "day",
-          "total_tracks": 1,
+          "total_tracks": 15,
           "type": "album",
-          "uri": "spotify:album:34NE8mdvSaWk1sbKJV3NkT"
+          "uri": "spotify:album:7AHtc6OAl2sjWBoM9e4izf"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0NQDFDKG7p0IRcXdqT9uNk"
+              "spotify": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
             },
-            "href": "https://api.spotify.com/v1/artists/0NQDFDKG7p0IRcXdqT9uNk",
-            "id": "0NQDFDKG7p0IRcXdqT9uNk",
-            "name": "Ohm",
+            "href": "https://api.spotify.com/v1/artists/7BQJLHBNVvz4O2JHmls4Ef",
+            "id": "7BQJLHBNVvz4O2JHmls4Ef",
+            "name": "Wk",
             "type": "artist",
-            "uri": "spotify:artist:0NQDFDKG7p0IRcXdqT9uNk"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-            },
-            "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-            "id": "3ScIigEm9KZUrUQtXzBmKJ",
-            "name": "Cozy Cuz",
-            "type": "artist",
-            "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
-            },
-            "href": "https://api.spotify.com/v1/artists/30XfbCbtW4PAJ5mvhoajY2",
-            "id": "30XfbCbtW4PAJ5mvhoajY2",
-            "name": "Maxx Gallo",
-            "type": "artist",
-            "uri": "spotify:artist:30XfbCbtW4PAJ5mvhoajY2"
+            "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
           }
         ],
         "available_markets": [
@@ -2342,68 +1352,48 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 211021,
-        "explicit": true,
+        "duration_ms": 200951,
+        "explicit": false,
         "external_ids": {
-          "isrc": "US7VG2086628"
+          "isrc": "QZHN32105649"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0TTma8bY1BpeXFUKNdnRPm"
+          "spotify": "https://open.spotify.com/track/1RKpbs7sOsxSMuatLEJStX"
         },
-        "href": "https://api.spotify.com/v1/tracks/0TTma8bY1BpeXFUKNdnRPm",
-        "id": "0TTma8bY1BpeXFUKNdnRPm",
+        "href": "https://api.spotify.com/v1/tracks/1RKpbs7sOsxSMuatLEJStX",
+        "id": "1RKpbs7sOsxSMuatLEJStX",
         "is_local": false,
-        "name": "Ira Washa Wason",
-        "popularity": 3,
+        "name": "Tres Veces Grande",
+        "popularity": 40,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:0TTma8bY1BpeXFUKNdnRPm"
+        "uri": "spotify:track:1RKpbs7sOsxSMuatLEJStX"
       },
-      "played_at": "2025-08-31T01:13:05.167Z",
+      "played_at": "2025-08-31T02:31:58.767Z",
       "context": {
-        "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
+          "spotify": "https://open.spotify.com/album/7AHtc6OAl2sjWBoM9e4izf"
         },
-        "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
+        "href": "https://api.spotify.com/v1/albums/7AHtc6OAl2sjWBoM9e4izf",
+        "type": "album",
+        "uri": "spotify:album:7AHtc6OAl2sjWBoM9e4izf"
       }
     },
     {
       "track": {
         "album": {
-          "album_type": "single",
+          "album_type": "album",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0NQDFDKG7p0IRcXdqT9uNk"
+                "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
               },
-              "href": "https://api.spotify.com/v1/artists/0NQDFDKG7p0IRcXdqT9uNk",
-              "id": "0NQDFDKG7p0IRcXdqT9uNk",
-              "name": "Ohm",
+              "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+              "id": "4q3ewBCX7sLwd24euuV69X",
+              "name": "Bad Bunny",
               "type": "artist",
-              "uri": "spotify:artist:0NQDFDKG7p0IRcXdqT9uNk"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
-              },
-              "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-              "id": "3ScIigEm9KZUrUQtXzBmKJ",
-              "name": "Cozy Cuz",
-              "type": "artist",
-              "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
-              },
-              "href": "https://api.spotify.com/v1/artists/30XfbCbtW4PAJ5mvhoajY2",
-              "id": "30XfbCbtW4PAJ5mvhoajY2",
-              "name": "Maxx Gallo",
-              "type": "artist",
-              "uri": "spotify:artist:30XfbCbtW4PAJ5mvhoajY2"
+              "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
             }
           ],
           "available_markets": [
@@ -2594,64 +1584,54 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/34NE8mdvSaWk1sbKJV3NkT"
+            "spotify": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
           },
-          "href": "https://api.spotify.com/v1/albums/34NE8mdvSaWk1sbKJV3NkT",
-          "id": "34NE8mdvSaWk1sbKJV3NkT",
+          "href": "https://api.spotify.com/v1/albums/5lJqux7orBlA1QzyiBGti1",
+          "id": "5lJqux7orBlA1QzyiBGti1",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27355b7be7fc3a45f16aa66f65f",
+              "url": "https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0255b7be7fc3a45f16aa66f65f",
+              "url": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485155b7be7fc3a45f16aa66f65f",
+              "url": "https://i.scdn.co/image/ab67616d00004851548f7ec52da7313de0c5e4a0",
               "width": 64
             }
           ],
-          "name": "Ira Washa Wason",
-          "release_date": "2020-02-21",
+          "name": "YHLQMDLG",
+          "release_date": "2020-02-29",
           "release_date_precision": "day",
-          "total_tracks": 1,
+          "total_tracks": 20,
           "type": "album",
-          "uri": "spotify:album:34NE8mdvSaWk1sbKJV3NkT"
+          "uri": "spotify:album:5lJqux7orBlA1QzyiBGti1"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0NQDFDKG7p0IRcXdqT9uNk"
+              "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
             },
-            "href": "https://api.spotify.com/v1/artists/0NQDFDKG7p0IRcXdqT9uNk",
-            "id": "0NQDFDKG7p0IRcXdqT9uNk",
-            "name": "Ohm",
+            "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
             "type": "artist",
-            "uri": "spotify:artist:0NQDFDKG7p0IRcXdqT9uNk"
+            "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+              "spotify": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
             },
-            "href": "https://api.spotify.com/v1/artists/3ScIigEm9KZUrUQtXzBmKJ",
-            "id": "3ScIigEm9KZUrUQtXzBmKJ",
-            "name": "Cozy Cuz",
+            "href": "https://api.spotify.com/v1/artists/7iK8PXO48WeuP03g8YR51W",
+            "id": "7iK8PXO48WeuP03g8YR51W",
+            "name": "Myke Towers",
             "type": "artist",
-            "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
-            },
-            "href": "https://api.spotify.com/v1/artists/30XfbCbtW4PAJ5mvhoajY2",
-            "id": "30XfbCbtW4PAJ5mvhoajY2",
-            "name": "Maxx Gallo",
-            "type": "artist",
-            "uri": "spotify:artist:30XfbCbtW4PAJ5mvhoajY2"
+            "uri": "spotify:artist:7iK8PXO48WeuP03g8YR51W"
           }
         ],
         "available_markets": [
@@ -2842,40 +1822,40 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 211021,
+        "duration_ms": 190207,
         "explicit": true,
         "external_ids": {
-          "isrc": "US7VG2086628"
+          "isrc": "QM4TX2030968"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0TTma8bY1BpeXFUKNdnRPm"
+          "spotify": "https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs"
         },
-        "href": "https://api.spotify.com/v1/tracks/0TTma8bY1BpeXFUKNdnRPm",
-        "id": "0TTma8bY1BpeXFUKNdnRPm",
+        "href": "https://api.spotify.com/v1/tracks/5gCg2qMPzKkW4jS4dBKdDs",
+        "id": "5gCg2qMPzKkW4jS4dBKdDs",
         "is_local": false,
-        "name": "Ira Washa Wason",
-        "popularity": 3,
+        "name": "Puesto Pa' Guerrial",
+        "popularity": 59,
         "preview_url": null,
-        "track_number": 1,
+        "track_number": 17,
         "type": "track",
-        "uri": "spotify:track:0TTma8bY1BpeXFUKNdnRPm"
+        "uri": "spotify:track:5gCg2qMPzKkW4jS4dBKdDs"
       },
-      "played_at": "2025-08-31T01:12:26.255Z",
+      "played_at": "2025-08-31T02:28:48.570Z",
       "context": {
-        "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
+        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
+        "type": "playlist",
         "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1756603639891&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1756608025039&limit=50",
   "cursors": {
-    "after": "1756603639891",
-    "before": "1756602746255"
+    "after": "1756608025039",
+    "before": "1756607328570"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1756601254000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1756604617000&limit=50"
 }
