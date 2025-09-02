@@ -332,41 +332,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
-      },
-      "followers": {
-        "href": null,
-        "total": 28264
-      },
-      "genres": [
-        "mexican hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
-      "id": "4RtYPfT9hi1qBolEuVArOG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb52e524de06c1650745b2da8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b52e524de06c1650745b2da8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b52e524de06c1650745b2da8",
-          "width": 160
-        }
-      ],
-      "name": "La Plebada",
-      "popularity": 32,
-      "type": "artist",
-      "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
       },
       "followers": {
@@ -400,6 +365,41 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RtYPfT9hi1qBolEuVArOG"
+      },
+      "followers": {
+        "href": null,
+        "total": 28264
+      },
+      "genres": [
+        "mexican hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4RtYPfT9hi1qBolEuVArOG",
+      "id": "4RtYPfT9hi1qBolEuVArOG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb52e524de06c1650745b2da8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b52e524de06c1650745b2da8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b52e524de06c1650745b2da8",
+          "width": 160
+        }
+      ],
+      "name": "La Plebada",
+      "popularity": 32,
+      "type": "artist",
+      "uri": "spotify:artist:4RtYPfT9hi1qBolEuVArOG"
     },
     {
       "external_urls": {
@@ -664,42 +664,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-      },
-      "followers": {
-        "href": null,
-        "total": 3103634
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
-      "id": "1cUpGtXcSQsovNYEZOQgOG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9bd1cbe708d36517f662b2b6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749bd1cbe708d36517f662b2b6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789bd1cbe708d36517f662b2b6",
-          "width": 160
-        }
-      ],
-      "name": "Nanpa B\u00e1sico",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
       },
       "followers": {
@@ -807,6 +771,42 @@
       "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+      },
+      "followers": {
+        "href": null,
+        "total": 3103634
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
+      "id": "1cUpGtXcSQsovNYEZOQgOG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9bd1cbe708d36517f662b2b6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749bd1cbe708d36517f662b2b6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789bd1cbe708d36517f662b2b6",
+          "width": 160
+        }
+      ],
+      "name": "Nanpa B\u00e1sico",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
     },
     {
       "external_urls": {
@@ -1253,42 +1253,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-      },
-      "followers": {
-        "href": null,
-        "total": 324065
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
-      "id": "30CTTIqrcr82nS6B40j975",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd65f42424f3008e2a2be8449",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d65f42424f3008e2a2be8449",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d65f42424f3008e2a2be8449",
-          "width": 160
-        }
-      ],
-      "name": "Robot95",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
       },
       "followers": {
@@ -1393,6 +1357,42 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:51yyeVxyvecgePAWXmeLUE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+      },
+      "followers": {
+        "href": null,
+        "total": 324065
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+      "id": "30CTTIqrcr82nS6B40j975",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd65f42424f3008e2a2be8449",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d65f42424f3008e2a2be8449",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d65f42424f3008e2a2be8449",
+          "width": 160
+        }
+      ],
+      "name": "Robot95",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
     },
     {
       "external_urls": {
@@ -1565,17 +1565,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb34e45cf65382f2eed6752b2e",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb370c30d070de5216a4dcb7af",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517434e45cf65382f2eed6752b2e",
+          "url": "https://i.scdn.co/image/ab67616100005174370c30d070de5216a4dcb7af",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17834e45cf65382f2eed6752b2e",
+          "url": "https://i.scdn.co/image/ab6761610000f178370c30d070de5216a4dcb7af",
           "width": 160
         }
       ],
@@ -1711,17 +1711,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf12416008a1055653fe39474",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb755cece05b0792cd1fb05868",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f12416008a1055653fe39474",
+          "url": "https://i.scdn.co/image/ab67616100005174755cece05b0792cd1fb05868",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f12416008a1055653fe39474",
+          "url": "https://i.scdn.co/image/ab6761610000f178755cece05b0792cd1fb05868",
           "width": 160
         }
       ],
