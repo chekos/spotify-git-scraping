@@ -7,23 +7,23 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+                "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
               },
-              "href": "https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA",
-              "id": "085pc2PYOi8bGKj0PNjekA",
-              "name": "will.i.am",
+              "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+              "id": "30CTTIqrcr82nS6B40j975",
+              "name": "Robot95",
               "type": "artist",
-              "uri": "spotify:artist:085pc2PYOi8bGKj0PNjekA"
+              "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
             },
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6WirJzihzKTGyw7mgEdJUP"
+                "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
               },
-              "href": "https://api.spotify.com/v1/artists/6WirJzihzKTGyw7mgEdJUP",
-              "id": "6WirJzihzKTGyw7mgEdJUP",
-              "name": "Taboo",
+              "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+              "id": "0U5RYP2HMdGv2GhicLhkOI",
+              "name": "Neto Peña",
               "type": "artist",
-              "uri": "spotify:artist:6WirJzihzKTGyw7mgEdJUP"
+              "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
             }
           ],
           "available_markets": [
@@ -214,54 +214,54 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/2ixpGzfirSfvP5DE184KE4"
+            "spotify": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
           },
-          "href": "https://api.spotify.com/v1/albums/2ixpGzfirSfvP5DE184KE4",
-          "id": "2ixpGzfirSfvP5DE184KE4",
+          "href": "https://api.spotify.com/v1/albums/75Mx4x35IQXPFkq8Z9jxK8",
+          "id": "75Mx4x35IQXPFkq8Z9jxK8",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2739118ae0cf8ef9f761341ac64",
+              "url": "https://i.scdn.co/image/ab67616d0000b273ed6c97d4996d564ba5f78ff2",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e029118ae0cf8ef9f761341ac64",
+              "url": "https://i.scdn.co/image/ab67616d00001e02ed6c97d4996d564ba5f78ff2",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048519118ae0cf8ef9f761341ac64",
+              "url": "https://i.scdn.co/image/ab67616d00004851ed6c97d4996d564ba5f78ff2",
               "width": 64
             }
           ],
-          "name": "EAST LA",
-          "release_date": "2025-07-18",
+          "name": "Por Ti Estoy Loco",
+          "release_date": "2020-08-21",
           "release_date_precision": "day",
           "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:2ixpGzfirSfvP5DE184KE4"
+          "uri": "spotify:album:75Mx4x35IQXPFkq8Z9jxK8"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+              "spotify": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
             },
-            "href": "https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA",
-            "id": "085pc2PYOi8bGKj0PNjekA",
-            "name": "will.i.am",
+            "href": "https://api.spotify.com/v1/artists/30CTTIqrcr82nS6B40j975",
+            "id": "30CTTIqrcr82nS6B40j975",
+            "name": "Robot95",
             "type": "artist",
-            "uri": "spotify:artist:085pc2PYOi8bGKj0PNjekA"
+            "uri": "spotify:artist:30CTTIqrcr82nS6B40j975"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6WirJzihzKTGyw7mgEdJUP"
+              "spotify": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
             },
-            "href": "https://api.spotify.com/v1/artists/6WirJzihzKTGyw7mgEdJUP",
-            "id": "6WirJzihzKTGyw7mgEdJUP",
-            "name": "Taboo",
+            "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
+            "id": "0U5RYP2HMdGv2GhicLhkOI",
+            "name": "Neto Peña",
             "type": "artist",
-            "uri": "spotify:artist:6WirJzihzKTGyw7mgEdJUP"
+            "uri": "spotify:artist:0U5RYP2HMdGv2GhicLhkOI"
           }
         ],
         "available_markets": [
@@ -452,25 +452,25 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 202327,
+        "duration_ms": 222843,
         "explicit": true,
         "external_ids": {
-          "isrc": "USSM12503025"
+          "isrc": "FRX282003210"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/3HylLGErIQEIuJgHovdHio"
+          "spotify": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
         },
-        "href": "https://api.spotify.com/v1/tracks/3HylLGErIQEIuJgHovdHio",
-        "id": "3HylLGErIQEIuJgHovdHio",
+        "href": "https://api.spotify.com/v1/tracks/1j8DGkY3x2sAJoUKW0zAE5",
+        "id": "1j8DGkY3x2sAJoUKW0zAE5",
         "is_local": false,
-        "name": "EAST LA",
-        "popularity": 56,
+        "name": "Por Ti Estoy Loco",
+        "popularity": 50,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:3HylLGErIQEIuJgHovdHio"
+        "uri": "spotify:track:1j8DGkY3x2sAJoUKW0zAE5"
       },
-      "played_at": "2025-09-12T15:01:45.366Z",
+      "played_at": "2025-09-12T15:56:22.002Z",
       "context": {
         "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
@@ -483,27 +483,17 @@
     {
       "track": {
         "album": {
-          "album_type": "single",
+          "album_type": "album",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+                "spotify": "https://open.spotify.com/artist/0BkX514VOBBW2ECOWNnhds"
               },
-              "href": "https://api.spotify.com/v1/artists/5kM0MBsDCTwWZMO3nYYMkn",
-              "id": "5kM0MBsDCTwWZMO3nYYMkn",
-              "name": "RNDN",
+              "href": "https://api.spotify.com/v1/artists/0BkX514VOBBW2ECOWNnhds",
+              "id": "0BkX514VOBBW2ECOWNnhds",
+              "name": "Manotas",
               "type": "artist",
-              "uri": "spotify:artist:5kM0MBsDCTwWZMO3nYYMkn"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
-              },
-              "href": "https://api.spotify.com/v1/artists/2XZY2dx8EPrdxOXfNj1tfX",
-              "id": "2XZY2dx8EPrdxOXfNj1tfX",
-              "name": "Suerte Lo-Fi",
-              "type": "artist",
-              "uri": "spotify:artist:2XZY2dx8EPrdxOXfNj1tfX"
+              "uri": "spotify:artist:0BkX514VOBBW2ECOWNnhds"
             }
           ],
           "available_markets": [
@@ -694,54 +684,74 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/4XKjJzpTibGI3SybkSOO4k"
+            "spotify": "https://open.spotify.com/album/4Imff8wiHySgRZk0HDvyoe"
           },
-          "href": "https://api.spotify.com/v1/albums/4XKjJzpTibGI3SybkSOO4k",
-          "id": "4XKjJzpTibGI3SybkSOO4k",
+          "href": "https://api.spotify.com/v1/albums/4Imff8wiHySgRZk0HDvyoe",
+          "id": "4Imff8wiHySgRZk0HDvyoe",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27316767963060556f1b76a96c2",
+              "url": "https://i.scdn.co/image/ab67616d0000b2736c7df1eedd7a5f0e7e1042d9",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0216767963060556f1b76a96c2",
+              "url": "https://i.scdn.co/image/ab67616d00001e026c7df1eedd7a5f0e7e1042d9",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485116767963060556f1b76a96c2",
+              "url": "https://i.scdn.co/image/ab67616d000048516c7df1eedd7a5f0e7e1042d9",
               "width": 64
             }
           ],
-          "name": "Pepe's Tacos",
-          "release_date": "2024-09-20",
+          "name": "Pantera Blanca",
+          "release_date": "2013-08-30",
           "release_date_precision": "day",
-          "total_tracks": 1,
+          "total_tracks": 15,
           "type": "album",
-          "uri": "spotify:album:4XKjJzpTibGI3SybkSOO4k"
+          "uri": "spotify:album:4Imff8wiHySgRZk0HDvyoe"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+              "spotify": "https://open.spotify.com/artist/0BkX514VOBBW2ECOWNnhds"
             },
-            "href": "https://api.spotify.com/v1/artists/5kM0MBsDCTwWZMO3nYYMkn",
-            "id": "5kM0MBsDCTwWZMO3nYYMkn",
-            "name": "RNDN",
+            "href": "https://api.spotify.com/v1/artists/0BkX514VOBBW2ECOWNnhds",
+            "id": "0BkX514VOBBW2ECOWNnhds",
+            "name": "Manotas",
             "type": "artist",
-            "uri": "spotify:artist:5kM0MBsDCTwWZMO3nYYMkn"
+            "uri": "spotify:artist:0BkX514VOBBW2ECOWNnhds"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
+              "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
             },
-            "href": "https://api.spotify.com/v1/artists/2XZY2dx8EPrdxOXfNj1tfX",
-            "id": "2XZY2dx8EPrdxOXfNj1tfX",
-            "name": "Suerte Lo-Fi",
+            "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
+            "id": "5lYeiQxUTcGKVgAuTqbTeL",
+            "name": "Charles Ans",
             "type": "artist",
-            "uri": "spotify:artist:2XZY2dx8EPrdxOXfNj1tfX"
+            "uri": "spotify:artist:5lYeiQxUTcGKVgAuTqbTeL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+            },
+            "href": "https://api.spotify.com/v1/artists/1b170j0PpkgYWGHMPRsNEM",
+            "id": "1b170j0PpkgYWGHMPRsNEM",
+            "name": "Achepe",
+            "type": "artist",
+            "uri": "spotify:artist:1b170j0PpkgYWGHMPRsNEM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Wyenmx5v8iqA6uD9z8435"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Wyenmx5v8iqA6uD9z8435",
+            "id": "1Wyenmx5v8iqA6uD9z8435",
+            "name": "Crasek",
+            "type": "artist",
+            "uri": "spotify:artist:1Wyenmx5v8iqA6uD9z8435"
           }
         ],
         "available_markets": [
@@ -932,32 +942,32 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 186000,
-        "explicit": false,
+        "duration_ms": 217634,
+        "explicit": true,
         "external_ids": {
-          "isrc": "USANG2414111"
+          "isrc": "USDHM1317929"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/2raVbTBg7w2uXn4nhpmE00"
+          "spotify": "https://open.spotify.com/track/0byBQTnQH76e33Hz4qeh8J"
         },
-        "href": "https://api.spotify.com/v1/tracks/2raVbTBg7w2uXn4nhpmE00",
-        "id": "2raVbTBg7w2uXn4nhpmE00",
+        "href": "https://api.spotify.com/v1/tracks/0byBQTnQH76e33Hz4qeh8J",
+        "id": "0byBQTnQH76e33Hz4qeh8J",
         "is_local": false,
-        "name": "Pepe's Tacos",
-        "popularity": 10,
+        "name": "Al Mismo Sitio",
+        "popularity": 27,
         "preview_url": null,
-        "track_number": 1,
+        "track_number": 14,
         "type": "track",
-        "uri": "spotify:track:2raVbTBg7w2uXn4nhpmE00"
+        "uri": "spotify:track:0byBQTnQH76e33Hz4qeh8J"
       },
-      "played_at": "2025-09-12T14:53:16.436Z",
+      "played_at": "2025-09-12T15:52:38.722Z",
       "context": {
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXDdJhxmcmN7",
+        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXDdJhxmcmN7"
+          "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
         "type": "playlist",
-        "uri": "spotify:playlist:37i9dQZF1DWXDdJhxmcmN7"
+        "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
     }
   ]
