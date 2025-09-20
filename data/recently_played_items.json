@@ -7,13 +7,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+                "spotify": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
               },
-              "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-              "id": "1QhaqxeqF9sipS2gwbEKpu",
-              "name": "C-Kan",
+              "href": "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+              "id": "3PyWEKLWI0vHPmoNrIX0QE",
+              "name": "Rakim",
               "type": "artist",
-              "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
+              "uri": "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
             }
           ],
           "available_markets": [
@@ -148,7 +148,6 @@
             "NE",
             "PW",
             "PG",
-            "PR",
             "WS",
             "SM",
             "ST",
@@ -204,64 +203,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P"
+            "spotify": "https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn"
           },
-          "href": "https://api.spotify.com/v1/albums/3i3hD84ypGIseYsZw8m05P",
-          "id": "3i3hD84ypGIseYsZw8m05P",
+          "href": "https://api.spotify.com/v1/albums/24ukVVKIZapjS6uDgF1qSn",
+          "id": "24ukVVKIZapjS6uDgF1qSn",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273fc46c29e75fe87707a368672",
+              "url": "https://i.scdn.co/image/ab67616d0000b273796e9d830c2237253fd9b084",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02fc46c29e75fe87707a368672",
+              "url": "https://i.scdn.co/image/ab67616d00001e02796e9d830c2237253fd9b084",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851fc46c29e75fe87707a368672",
+              "url": "https://i.scdn.co/image/ab67616d00004851796e9d830c2237253fd9b084",
               "width": 64
             }
           ],
-          "name": "Voy Por El Sueno de Muchos",
-          "release_date": "2012-12-11",
+          "name": "The 18th Letter / The Book Of Life",
+          "release_date": "1996-11-04",
           "release_date_precision": "day",
-          "total_tracks": 22,
+          "total_tracks": 32,
           "type": "album",
-          "uri": "spotify:album:3i3hD84ypGIseYsZw8m05P"
+          "uri": "spotify:album:24ukVVKIZapjS6uDgF1qSn"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+              "spotify": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
             },
-            "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
-            "id": "1QhaqxeqF9sipS2gwbEKpu",
-            "name": "C-Kan",
+            "href": "https://api.spotify.com/v1/artists/3PyWEKLWI0vHPmoNrIX0QE",
+            "id": "3PyWEKLWI0vHPmoNrIX0QE",
+            "name": "Rakim",
             "type": "artist",
-            "uri": "spotify:artist:1QhaqxeqF9sipS2gwbEKpu"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0jS55TRQhx7T0DyUOImhsu"
-            },
-            "href": "https://api.spotify.com/v1/artists/0jS55TRQhx7T0DyUOImhsu",
-            "id": "0jS55TRQhx7T0DyUOImhsu",
-            "name": "Quetzal",
-            "type": "artist",
-            "uri": "spotify:artist:0jS55TRQhx7T0DyUOImhsu"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
-            },
-            "href": "https://api.spotify.com/v1/artists/0l1OSQn6GtjfEE1Cb8LE1t",
-            "id": "0l1OSQn6GtjfEE1Cb8LE1t",
-            "name": "Zimple",
-            "type": "artist",
-            "uri": "spotify:artist:0l1OSQn6GtjfEE1Cb8LE1t"
+            "uri": "spotify:artist:3PyWEKLWI0vHPmoNrIX0QE"
           }
         ],
         "available_markets": [
@@ -272,10 +251,8 @@
           "BO",
           "BR",
           "BG",
-          "CA",
           "CL",
           "CO",
-          "CR",
           "CY",
           "CZ",
           "DK",
@@ -396,7 +373,6 @@
           "NE",
           "PW",
           "PG",
-          "PR",
           "WS",
           "SM",
           "ST",
@@ -452,31 +428,31 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 290023,
-        "explicit": true,
+        "duration_ms": 180933,
+        "explicit": false,
         "external_ids": {
-          "isrc": "USUYG1023086"
+          "isrc": "USUR19700370"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1TPzdXkhhTvnILSk5skcHC"
+          "spotify": "https://open.spotify.com/track/63T3O3u70cICyNxJPh3CXn"
         },
-        "href": "https://api.spotify.com/v1/tracks/1TPzdXkhhTvnILSk5skcHC",
-        "id": "1TPzdXkhhTvnILSk5skcHC",
+        "href": "https://api.spotify.com/v1/tracks/63T3O3u70cICyNxJPh3CXn",
+        "id": "63T3O3u70cICyNxJPh3CXn",
         "is_local": false,
-        "name": "Te Tienen Envidia Remix (feat. Quetzal & Zimple)",
-        "popularity": 34,
+        "name": "The 18th Letter (Always And Forever)",
+        "popularity": 45,
         "preview_url": null,
-        "track_number": 17,
+        "track_number": 2,
         "type": "track",
-        "uri": "spotify:track:1TPzdXkhhTvnILSk5skcHC"
+        "uri": "spotify:track:63T3O3u70cICyNxJPh3CXn"
       },
-      "played_at": "2025-09-20T17:14:31.061Z",
+      "played_at": "2025-09-20T17:34:59.956Z",
       "context": {
-        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
+        "type": "playlist",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
-        "type": "playlist",
+        "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
     }
