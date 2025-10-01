@@ -2,47 +2,11 @@
   "items": [
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-      },
-      "followers": {
-        "href": null,
-        "total": 3509915
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
-      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
-          "width": 160
-        }
-      ],
-      "name": "Lefty Sm",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
       },
       "followers": {
         "href": null,
-        "total": 6024464
+        "total": 6026296
       },
       "genres": [
         "mexican hip hop",
@@ -78,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3677348
+        "total": 3677960
       },
       "genres": [
         "old school hip hop",
@@ -113,11 +77,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+      },
+      "followers": {
+        "href": null,
+        "total": 3511881
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
+      "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6ea2920b3615db7f8d7c1adb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746ea2920b3615db7f8d7c1adb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786ea2920b3615db7f8d7c1adb",
+          "width": 160
+        }
+      ],
+      "name": "Lefty Sm",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
       },
       "followers": {
         "href": null,
-        "total": 727255
+        "total": 727404
       },
       "genres": [
         "mexican hip hop",
@@ -153,7 +153,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1372704
+        "total": 1373076
       },
       "genres": [
         "mexican hip hop",
@@ -189,7 +189,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1921176
+        "total": 1921747
       },
       "genres": [
         "mexican hip hop",
@@ -225,7 +225,7 @@
       },
       "followers": {
         "href": null,
-        "total": 172536
+        "total": 172601
       },
       "genres": [
         "mexican hip hop",
@@ -261,7 +261,7 @@
       },
       "followers": {
         "href": null,
-        "total": 501334
+        "total": 501616
       },
       "genres": [
         "mexican hip hop",
@@ -297,7 +297,7 @@
       },
       "followers": {
         "href": null,
-        "total": 846006
+        "total": 846086
       },
       "genres": [
         "latin hip hop"
@@ -332,7 +332,7 @@
       },
       "followers": {
         "href": null,
-        "total": 308038
+        "total": 308056
       },
       "genres": [
         "mexican hip hop",
@@ -368,7 +368,7 @@
       },
       "followers": {
         "href": null,
-        "total": 54707
+        "total": 54748
       },
       "genres": [
         "mexican hip hop",
@@ -405,7 +405,7 @@
       },
       "followers": {
         "href": null,
-        "total": 418013
+        "total": 418036
       },
       "genres": [
         "mexican hip hop",
@@ -441,7 +441,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19261914
+        "total": 19267058
       },
       "genres": [
         "mexican hip hop",
@@ -477,7 +477,7 @@
       },
       "followers": {
         "href": null,
-        "total": 27740
+        "total": 27745
       },
       "genres": [
         "mexican hip hop"
@@ -512,7 +512,7 @@
       },
       "followers": {
         "href": null,
-        "total": 169694
+        "total": 169718
       },
       "genres": [
         "mexican hip hop",
@@ -581,7 +581,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3142191
+        "total": 3143567
       },
       "genres": [
         "mexican hip hop",
