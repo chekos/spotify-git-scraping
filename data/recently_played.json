@@ -462,11 +462,11 @@
       },
       "played_at": "2025-10-15T02:37:01.073Z",
       "context": {
-        "type": "playlist",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
         "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
+        "type": "playlist",
         "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
     }
@@ -477,5 +477,5 @@
     "before": "1760495821073"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1760492541000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1760495210000&limit=50"
 }
