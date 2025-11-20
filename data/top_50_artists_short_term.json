@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 419364
+        "total": 419413
       },
       "genres": [
         "mexican hip hop",
@@ -38,49 +38,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-      },
-      "followers": {
-        "href": null,
-        "total": 2579704
-      },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "mexican rock",
-        "latin pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
-      "id": "5oYHL2SijkMY52gKIhYJNb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba40f5812b577a0528b459e70",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a40f5812b577a0528b459e70",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a40f5812b577a0528b459e70",
-          "width": 160
-        }
-      ],
-      "name": "Elefante",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
       },
       "followers": {
         "href": null,
-        "total": 28132
+        "total": 28142
       },
       "genres": [
         "mexican hip hop"
@@ -115,7 +77,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6684001
+        "total": 6686649
       },
       "genres": [
         "mexican hip hop",
@@ -148,11 +110,49 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+      },
+      "followers": {
+        "href": null,
+        "total": 2580315
+      },
+      "genres": [
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "mexican rock",
+        "latin pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
+      "id": "5oYHL2SijkMY52gKIhYJNb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba40f5812b577a0528b459e70",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a40f5812b577a0528b459e70",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a40f5812b577a0528b459e70",
+          "width": 160
+        }
+      ],
+      "name": "Elefante",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:5oYHL2SijkMY52gKIhYJNb"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
       },
       "followers": {
         "href": null,
-        "total": 514191
+        "total": 514574
       },
       "genres": [
         "mexican hip hop",
@@ -188,7 +188,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1389205
+        "total": 1389618
       },
       "genres": [
         "mexican hip hop",
@@ -224,7 +224,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5260247
+        "total": 5262431
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -268,7 +268,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1879456
+        "total": 1880141
       },
       "genres": [
         "mexican hip hop",
@@ -304,7 +304,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3579406
+        "total": 3580677
       },
       "genres": [
         "mexican hip hop",
@@ -340,7 +340,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19590137
+        "total": 19597717
       },
       "genres": [
         "mexican hip hop",
@@ -376,7 +376,7 @@
       },
       "followers": {
         "href": null,
-        "total": 32843
+        "total": 32848
       },
       "genres": [
         "mexican hip hop",
@@ -412,7 +412,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3783487
+        "total": 3784581
       },
       "genres": [
         "mexican hip hop",
@@ -449,7 +449,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1673016
+        "total": 1673215
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -491,7 +491,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1637112
+        "total": 1637425
       },
       "genres": [
         "mexican hip hop",
@@ -527,7 +527,7 @@
       },
       "followers": {
         "href": null,
-        "total": 233726
+        "total": 233763
       },
       "genres": [
         "freestyle",
@@ -564,7 +564,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3050642
+        "total": 3051467
       },
       "genres": [
         "rock en espa\u00f1ol",
