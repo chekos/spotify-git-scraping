@@ -151,7 +151,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19639287
+        "total": 19646237
       },
       "genres": [
         "mexican hip hop",
@@ -301,7 +301,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1951219
+        "total": 1951869
       },
       "genres": [
         "mexican hip hop",
@@ -372,7 +372,7 @@
       },
       "followers": {
         "href": null,
-        "total": 103672780
+        "total": 103722263
       },
       "genres": [
         "reggaeton",
@@ -995,7 +995,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10142633
+        "total": 10143510
       },
       "genres": [
         "mexican hip hop",
@@ -1172,7 +1172,7 @@
         }
       ],
       "name": "Akapellah",
-      "popularity": 62,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:6fMZytDgX1Q9OV6ndSugym"
     },
@@ -1289,7 +1289,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7675685
+        "total": 7681093
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -1491,17 +1491,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb370c30d070de5216a4dcb7af",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc7366ba6ebc8654eca47edb8",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174370c30d070de5216a4dcb7af",
+          "url": "https://i.scdn.co/image/ab67616100005174c7366ba6ebc8654eca47edb8",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178370c30d070de5216a4dcb7af",
+          "url": "https://i.scdn.co/image/ab6761610000f178c7366ba6ebc8654eca47edb8",
           "width": 160
         }
       ],
