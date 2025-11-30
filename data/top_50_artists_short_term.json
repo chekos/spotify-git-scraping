@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 419755
+        "total": 419791
       },
       "genres": [
         "mexican hip hop",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6709825
+        "total": 6712432
       },
       "genres": [
         "mexican hip hop",
@@ -79,7 +79,7 @@
       },
       "followers": {
         "href": null,
-        "total": 28222
+        "total": 28238
       },
       "genres": [
         "mexican hip hop"
@@ -114,7 +114,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1393087
+        "total": 1393539
       },
       "genres": [
         "mexican hip hop",
@@ -150,7 +150,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2585330
+        "total": 2585971
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -188,7 +188,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1885772
+        "total": 1886445
       },
       "genres": [
         "mexican hip hop",
@@ -220,47 +220,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-      },
-      "followers": {
-        "href": null,
-        "total": 518172
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
-      "id": "1FCItwxfRieMGhR0eRxotU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb60fb38b4342eb74f11806555",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517460fb38b4342eb74f11806555",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17860fb38b4342eb74f11806555",
-          "width": 160
-        }
-      ],
-      "name": "Rich Vagos",
-      "popularity": 61,
-      "type": "artist",
-      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
       },
       "followers": {
         "href": null,
-        "total": 5280213
+        "total": 5282383
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -304,7 +268,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3592204
+        "total": 3593557
       },
       "genres": [
         "mexican hip hop",
@@ -340,7 +304,7 @@
       },
       "followers": {
         "href": null,
-        "total": 32888
+        "total": 32889
       },
       "genres": [
         "mexican hip hop",
@@ -376,7 +340,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3793207
+        "total": 3794258
       },
       "genres": [
         "mexican hip hop",
@@ -409,47 +373,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-      },
-      "followers": {
-        "href": null,
-        "total": 356828
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
-      "id": "6tJRAxu0HwB2GI9GueEj4l",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd7e871a9619f17ccb44cfc40",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d7e871a9619f17ccb44cfc40",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d7e871a9619f17ccb44cfc40",
-          "width": 160
-        }
-      ],
-      "name": "Faruz Feet",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
       },
       "followers": {
         "href": null,
-        "total": 3352480
+        "total": 3353727
       },
       "genres": [
         "mexican hip hop",
@@ -486,7 +414,7 @@
       },
       "followers": {
         "href": null,
-        "total": 19660014
+        "total": 19667411
       },
       "genres": [
         "mexican hip hop",
@@ -522,7 +450,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3040446
+        "total": 3040880
       },
       "genres": [
         "latin hip hop",
@@ -564,7 +492,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6108601
+        "total": 6110375
       },
       "genres": [
         "mexican hip hop",
@@ -600,7 +528,7 @@
       },
       "followers": {
         "href": null,
-        "total": 233963
+        "total": 233992
       },
       "genres": [
         "freestyle",
@@ -637,7 +565,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10145154
+        "total": 10146577
       },
       "genres": [
         "mexican hip hop",
@@ -673,7 +601,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1953047
+        "total": 1953615
       },
       "genres": [
         "mexican hip hop",
@@ -705,11 +633,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+      },
+      "followers": {
+        "href": null,
+        "total": 356955
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
+      "id": "6tJRAxu0HwB2GI9GueEj4l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd7e871a9619f17ccb44cfc40",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d7e871a9619f17ccb44cfc40",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d7e871a9619f17ccb44cfc40",
+          "width": 160
+        }
+      ],
+      "name": "Faruz Feet",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
       },
       "followers": {
         "href": null,
-        "total": 3057720
+        "total": 3058450
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -741,7 +705,7 @@
       "uri": "spotify:artist:4uqzzJg3ww5eH7IgGV7DMT"
     }
   ],
-  "total": 20,
+  "total": 19,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
