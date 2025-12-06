@@ -962,8 +962,7 @@
         "total": 127692
       },
       "genres": [
-        "reggae",
-        "ragga"
+        "reggae"
       ],
       "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
       "id": "3w2WYNyPCPkZFoC1EqfCMe",
@@ -1137,7 +1136,7 @@
         }
       ],
       "name": "Los Enanitos Verdes",
-      "popularity": 73,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
     },
