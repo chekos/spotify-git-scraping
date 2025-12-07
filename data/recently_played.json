@@ -3,17 +3,17 @@
     {
       "track": {
         "album": {
-          "album_type": "single",
+          "album_type": "album",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+                "spotify": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
               },
-              "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-              "id": "4H3ePoFDdsl36QwB96jZzg",
-              "name": "Leyruk",
+              "href": "https://api.spotify.com/v1/artists/6WvDtNFHOWHfiNy8NVHujT",
+              "id": "6WvDtNFHOWHfiNy8NVHujT",
+              "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
               "type": "artist",
-              "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
+              "uri": "spotify:artist:6WvDtNFHOWHfiNy8NVHujT"
             }
           ],
           "available_markets": [
@@ -204,54 +204,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/6DDu9qEjKQNe8VMWLEjjtU"
+            "spotify": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
           },
-          "href": "https://api.spotify.com/v1/albums/6DDu9qEjKQNe8VMWLEjjtU",
-          "id": "6DDu9qEjKQNe8VMWLEjjtU",
+          "href": "https://api.spotify.com/v1/albums/5VJ9cWdT6Kv9UawePqLhCI",
+          "id": "5VJ9cWdT6Kv9UawePqLhCI",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27327b24c194362965a288b9b2c",
+              "url": "https://i.scdn.co/image/ab67616d0000b273328736ed5cd212182ca2e315",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0227b24c194362965a288b9b2c",
+              "url": "https://i.scdn.co/image/ab67616d00001e02328736ed5cd212182ca2e315",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485127b24c194362965a288b9b2c",
+              "url": "https://i.scdn.co/image/ab67616d00004851328736ed5cd212182ca2e315",
               "width": 64
             }
           ],
-          "name": "En el Mar",
-          "release_date": "2019-12-13",
+          "name": "El Circo",
+          "release_date": "1991-08-13",
           "release_date_precision": "day",
-          "total_tracks": 1,
+          "total_tracks": 11,
           "type": "album",
-          "uri": "spotify:album:6DDu9qEjKQNe8VMWLEjjtU"
+          "uri": "spotify:album:5VJ9cWdT6Kv9UawePqLhCI"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+              "spotify": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
             },
-            "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-            "id": "4H3ePoFDdsl36QwB96jZzg",
-            "name": "Leyruk",
+            "href": "https://api.spotify.com/v1/artists/6WvDtNFHOWHfiNy8NVHujT",
+            "id": "6WvDtNFHOWHfiNy8NVHujT",
+            "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
             "type": "artist",
-            "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/50mgDfpTFor0B9wIQ3FkNu"
-            },
-            "href": "https://api.spotify.com/v1/artists/50mgDfpTFor0B9wIQ3FkNu",
-            "id": "50mgDfpTFor0B9wIQ3FkNu",
-            "name": "Henry Hernandez",
-            "type": "artist",
-            "uri": "spotify:artist:50mgDfpTFor0B9wIQ3FkNu"
+            "uri": "spotify:artist:6WvDtNFHOWHfiNy8NVHujT"
           }
         ],
         "available_markets": [
@@ -442,48 +432,48 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 267861,
+        "duration_ms": 267226,
         "explicit": false,
         "external_ids": {
-          "isrc": "QZHZ51937476"
+          "isrc": "MXF010000815"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0ToJWdZUYaOReAdvuWPwom"
+          "spotify": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
         },
-        "href": "https://api.spotify.com/v1/tracks/0ToJWdZUYaOReAdvuWPwom",
-        "id": "0ToJWdZUYaOReAdvuWPwom",
+        "href": "https://api.spotify.com/v1/tracks/5EfHXTq8UPCFyPDvCNIKMm",
+        "id": "5EfHXTq8UPCFyPDvCNIKMm",
         "is_local": false,
-        "name": "En el Mar",
-        "popularity": 2,
+        "name": "Kumbala",
+        "popularity": 73,
         "preview_url": null,
-        "track_number": 1,
+        "track_number": 5,
         "type": "track",
-        "uri": "spotify:track:0ToJWdZUYaOReAdvuWPwom"
+        "uri": "spotify:track:5EfHXTq8UPCFyPDvCNIKMm"
       },
-      "played_at": "2025-12-07T06:02:39.326Z",
+      "played_at": "2025-12-07T06:33:42.665Z",
       "context": {
         "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcXHWVVT0lfDq"
+          "spotify": "https://open.spotify.com/playlist/5Tcxzu5qXtuJwIrfmobPGg"
         },
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcXHWVVT0lfDq",
+        "href": "https://api.spotify.com/v1/playlists/5Tcxzu5qXtuJwIrfmobPGg",
         "type": "playlist",
-        "uri": "spotify:playlist:37i9dQZEVXcXHWVVT0lfDq"
+        "uri": "spotify:playlist:5Tcxzu5qXtuJwIrfmobPGg"
       }
     },
     {
       "track": {
         "album": {
-          "album_type": "single",
+          "album_type": "album",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+                "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
               },
-              "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-              "id": "4H3ePoFDdsl36QwB96jZzg",
-              "name": "Leyruk",
+              "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+              "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+              "name": "Remik Gonzalez",
               "type": "artist",
-              "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
+              "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
             }
           ],
           "available_markets": [
@@ -674,54 +664,54 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/6DDu9qEjKQNe8VMWLEjjtU"
+            "spotify": "https://open.spotify.com/album/6M0D23KerfyIlj9aHzwiUu"
           },
-          "href": "https://api.spotify.com/v1/albums/6DDu9qEjKQNe8VMWLEjjtU",
-          "id": "6DDu9qEjKQNe8VMWLEjjtU",
+          "href": "https://api.spotify.com/v1/albums/6M0D23KerfyIlj9aHzwiUu",
+          "id": "6M0D23KerfyIlj9aHzwiUu",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27327b24c194362965a288b9b2c",
+              "url": "https://i.scdn.co/image/ab67616d0000b273c7c2370df7f770979cc8100b",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0227b24c194362965a288b9b2c",
+              "url": "https://i.scdn.co/image/ab67616d00001e02c7c2370df7f770979cc8100b",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485127b24c194362965a288b9b2c",
+              "url": "https://i.scdn.co/image/ab67616d00004851c7c2370df7f770979cc8100b",
               "width": 64
             }
           ],
-          "name": "En el Mar",
-          "release_date": "2019-12-13",
+          "name": "High Con Class XIII",
+          "release_date": "2017-05-17",
           "release_date_precision": "day",
-          "total_tracks": 1,
+          "total_tracks": 13,
           "type": "album",
-          "uri": "spotify:album:6DDu9qEjKQNe8VMWLEjjtU"
+          "uri": "spotify:album:6M0D23KerfyIlj9aHzwiUu"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4H3ePoFDdsl36QwB96jZzg"
+              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
             },
-            "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
-            "id": "4H3ePoFDdsl36QwB96jZzg",
-            "name": "Leyruk",
+            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
+            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
+            "name": "Remik Gonzalez",
             "type": "artist",
-            "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
+            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/50mgDfpTFor0B9wIQ3FkNu"
+              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
             },
-            "href": "https://api.spotify.com/v1/artists/50mgDfpTFor0B9wIQ3FkNu",
-            "id": "50mgDfpTFor0B9wIQ3FkNu",
-            "name": "Henry Hernandez",
+            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+            "id": "4QFG9KrGWEbr6hNA58CAqE",
+            "name": "Alem\u00e1n",
             "type": "artist",
-            "uri": "spotify:artist:50mgDfpTFor0B9wIQ3FkNu"
+            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
           }
         ],
         "available_markets": [
@@ -912,25 +902,25 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 267861,
-        "explicit": false,
+        "duration_ms": 207177,
+        "explicit": true,
         "external_ids": {
-          "isrc": "QZHZ51937476"
+          "isrc": "USDY41746405"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0ToJWdZUYaOReAdvuWPwom"
+          "spotify": "https://open.spotify.com/track/4Yz0d8cIFkxjkN3BqHkLei"
         },
-        "href": "https://api.spotify.com/v1/tracks/0ToJWdZUYaOReAdvuWPwom",
-        "id": "0ToJWdZUYaOReAdvuWPwom",
+        "href": "https://api.spotify.com/v1/tracks/4Yz0d8cIFkxjkN3BqHkLei",
+        "id": "4Yz0d8cIFkxjkN3BqHkLei",
         "is_local": false,
-        "name": "En el Mar",
-        "popularity": 2,
+        "name": "Ma\u00f1anero",
+        "popularity": 57,
         "preview_url": null,
-        "track_number": 1,
+        "track_number": 3,
         "type": "track",
-        "uri": "spotify:track:0ToJWdZUYaOReAdvuWPwom"
+        "uri": "spotify:track:4Yz0d8cIFkxjkN3BqHkLei"
       },
-      "played_at": "2025-12-07T06:02:31.691Z",
+      "played_at": "2025-12-07T06:29:16.725Z",
       "context": {
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcXHWVVT0lfDq"
@@ -941,11 +931,11 @@
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1765087359326&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1765089222665&limit=50",
   "cursors": {
-    "after": "1765087359326",
-    "before": "1765087351691"
+    "after": "1765089222665",
+    "before": "1765088956725"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1765084767000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1765088292000&limit=50"
 }
