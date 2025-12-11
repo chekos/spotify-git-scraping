@@ -32,7 +32,7 @@
         }
       ],
       "name": "Gera MX",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
     },
@@ -589,8 +589,8 @@
         "total": 3752144
       },
       "genres": [
-        "east coast hip hop",
         "old school hip hop",
+        "east coast hip hop",
         "hip hop",
         "gangster rap",
         "hardcore hip hop"
@@ -1028,7 +1028,7 @@
         }
       ],
       "name": "Leo Dan",
-      "popularity": 71,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:6qhOH2mrlqUDod9sWA5kR2"
     },

@@ -141,7 +141,7 @@
         }
       ],
       "name": "Gera MX",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
     },
@@ -1634,8 +1634,7 @@
         "mariachi",
         "bolero",
         "latin pop",
-        "ranchera",
-        "villancicos"
+        "ranchera"
       ],
       "href": "https://api.spotify.com/v1/artists/2nszmSgqreHSdJA3zWPyrW",
       "id": "2nszmSgqreHSdJA3zWPyrW",
