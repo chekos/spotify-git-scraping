@@ -1280,7 +1280,7 @@
         }
       ],
       "name": "Leyruk",
-      "popularity": 32,
+      "popularity": 33,
       "type": "artist",
       "uri": "spotify:artist:4H3ePoFDdsl36QwB96jZzg"
     },
@@ -1634,7 +1634,8 @@
         "mariachi",
         "bolero",
         "latin pop",
-        "ranchera"
+        "ranchera",
+        "villancicos"
       ],
       "href": "https://api.spotify.com/v1/artists/2nszmSgqreHSdJA3zWPyrW",
       "id": "2nszmSgqreHSdJA3zWPyrW",
