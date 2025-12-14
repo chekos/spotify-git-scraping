@@ -470,7 +470,7 @@
         "type": "track",
         "uri": "spotify:track:3xEGWdCgsC8N5xCLzJZkh4"
       },
-      "played_at": "2025-12-14T16:11:46.510Z",
+      "played_at": "2025-12-14T16:35:55.862Z",
       "context": {
         "type": "playlist",
         "external_urls": {
@@ -481,11 +481,11 @@
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1765728706510&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1765730155862&limit=50",
   "cursors": {
-    "after": "1765728706510",
-    "before": "1765728706510"
+    "after": "1765730155862",
+    "before": "1765730155862"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1765725538000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1765729077000&limit=50"
 }
