@@ -3,700 +3,18 @@
     {
       "track": {
         "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-              },
-              "href": "https://api.spotify.com/v1/artists/27Owkm4TGlMqb0BqaEt3PW",
-              "id": "27Owkm4TGlMqb0BqaEt3PW",
-              "name": "Molotov",
-              "type": "artist",
-              "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
-            }
-          ],
-          "available_markets": [
-            "AG",
-            "AR",
-            "AT",
-            "BA",
-            "BB",
-            "BN",
-            "BO",
-            "BS",
-            "CL",
-            "CO",
-            "CR",
-            "CW",
-            "DE",
-            "DM",
-            "DO",
-            "EC",
-            "ES",
-            "FJ",
-            "FR",
-            "GD",
-            "GT",
-            "GY",
-            "HK",
-            "HN",
-            "HR",
-            "HT",
-            "HU",
-            "ID",
-            "IL",
-            "IS",
-            "JM",
-            "JP",
-            "KN",
-            "KR",
-            "LC",
-            "LK",
-            "ME",
-            "MK",
-            "MO",
-            "MX",
-            "MY",
-            "NI",
-            "NL",
-            "NO",
-            "PA",
-            "PE",
-            "PH",
-            "PT",
-            "PY",
-            "RS",
-            "SI",
-            "SR",
-            "SV",
-            "TR",
-            "TT",
-            "TW",
-            "US",
-            "VC",
-            "VE",
-            "XK",
-            "ZA"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/7vPZTR6HsfZt6diIrdWILI"
-          },
-          "href": "https://api.spotify.com/v1/albums/7vPZTR6HsfZt6diIrdWILI",
-          "id": "7vPZTR6HsfZt6diIrdWILI",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273bc90bd37bfc6035e2d3bf1c6",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02bc90bd37bfc6035e2d3bf1c6",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851bc90bd37bfc6035e2d3bf1c6",
-              "width": 64
-            }
-          ],
-          "name": "D\u00f3nde Jugar\u00e1n Las Ni\u00f1as 10th Anniversary Edition",
-          "release_date": "2008-01-01",
-          "release_date_precision": "day",
-          "total_tracks": 15,
-          "type": "album",
-          "uri": "spotify:album:7vPZTR6HsfZt6diIrdWILI"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-            },
-            "href": "https://api.spotify.com/v1/artists/27Owkm4TGlMqb0BqaEt3PW",
-            "id": "27Owkm4TGlMqb0BqaEt3PW",
-            "name": "Molotov",
-            "type": "artist",
-            "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW"
-          }
-        ],
-        "available_markets": [
-          "AG",
-          "AR",
-          "AT",
-          "BA",
-          "BB",
-          "BN",
-          "BO",
-          "BS",
-          "CL",
-          "CO",
-          "CR",
-          "CW",
-          "DE",
-          "DM",
-          "DO",
-          "EC",
-          "ES",
-          "FJ",
-          "FR",
-          "GD",
-          "GT",
-          "GY",
-          "HK",
-          "HN",
-          "HR",
-          "HT",
-          "HU",
-          "ID",
-          "IL",
-          "IS",
-          "JM",
-          "JP",
-          "KN",
-          "KR",
-          "LC",
-          "LK",
-          "ME",
-          "MK",
-          "MO",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "PA",
-          "PE",
-          "PH",
-          "PT",
-          "PY",
-          "RS",
-          "SI",
-          "SR",
-          "SV",
-          "TR",
-          "TT",
-          "TW",
-          "US",
-          "VC",
-          "VE",
-          "XK",
-          "ZA"
-        ],
-        "disc_number": 1,
-        "duration_ms": 285306,
-        "explicit": true,
-        "external_ids": {
-          "isrc": "USUL19800493"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/3390Ama7VNT2nqEKy2jcoB"
-        },
-        "href": "https://api.spotify.com/v1/tracks/3390Ama7VNT2nqEKy2jcoB",
-        "id": "3390Ama7VNT2nqEKy2jcoB",
-        "is_local": false,
-        "name": "M\u00e1s Vale Cholo",
-        "popularity": 51,
-        "preview_url": null,
-        "track_number": 7,
-        "type": "track",
-        "uri": "spotify:track:3390Ama7VNT2nqEKy2jcoB"
-      },
-      "played_at": "2025-12-23T05:48:59.604Z",
-      "context": {
-        "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EfTEbx6jtuAyB",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/37i9dQZF1EfTEbx6jtuAyB"
-        },
-        "uri": "spotify:playlist:37i9dQZF1EfTEbx6jtuAyB"
-      }
-    },
-    {
-      "track": {
-        "album": {
           "album_type": "single",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+                "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
               },
-              "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
-              "id": "1cUpGtXcSQsovNYEZOQgOG",
-              "name": "Nanpa B\u00e1sico",
+              "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+              "id": "66RfYVdftqnuHRicyClgL0",
+              "name": "Dharius",
               "type": "artist",
-              "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
+              "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
             },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-              },
-              "href": "https://api.spotify.com/v1/artists/28gNT5KBp7IjEOQoevXf9N",
-              "id": "28gNT5KBp7IjEOQoevXf9N",
-              "name": "Camilo",
-              "type": "artist",
-              "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "PR",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4HihmUvifnIJeOcJVnxeBq"
-          },
-          "href": "https://api.spotify.com/v1/albums/4HihmUvifnIJeOcJVnxeBq",
-          "id": "4HihmUvifnIJeOcJVnxeBq",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737462038ac7f6892985e4efd8",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e027462038ac7f6892985e4efd8",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048517462038ac7f6892985e4efd8",
-              "width": 64
-            }
-          ],
-          "name": "EAVEMAR\u00cdA",
-          "release_date": "2025-05-29",
-          "release_date_precision": "day",
-          "total_tracks": 1,
-          "type": "album",
-          "uri": "spotify:album:4HihmUvifnIJeOcJVnxeBq"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-            },
-            "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
-            "id": "1cUpGtXcSQsovNYEZOQgOG",
-            "name": "Nanpa B\u00e1sico",
-            "type": "artist",
-            "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-            },
-            "href": "https://api.spotify.com/v1/artists/28gNT5KBp7IjEOQoevXf9N",
-            "id": "28gNT5KBp7IjEOQoevXf9N",
-            "name": "Camilo",
-            "type": "artist",
-            "uri": "spotify:artist:28gNT5KBp7IjEOQoevXf9N"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "PR",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "disc_number": 1,
-        "duration_ms": 138356,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "US5022500071"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4hsCp1AwBQwLgrV4qQNE21"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4hsCp1AwBQwLgrV4qQNE21",
-        "id": "4hsCp1AwBQwLgrV4qQNE21",
-        "is_local": false,
-        "name": "EAVEMAR\u00cdA",
-        "popularity": 65,
-        "preview_url": null,
-        "track_number": 1,
-        "type": "track",
-        "uri": "spotify:track:4hsCp1AwBQwLgrV4qQNE21"
-      },
-      "played_at": "2025-12-23T05:43:03.175Z",
-      "context": {
-        "type": "playlist",
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EfTEbx6jtuAyB",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/37i9dQZF1EfTEbx6jtuAyB"
-        },
-        "uri": "spotify:playlist:37i9dQZF1EfTEbx6jtuAyB"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "album_type": "single",
-          "artists": [
             {
               "external_urls": {
                 "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
@@ -706,6 +24,16 @@
               "name": "Lefty Sm",
               "type": "artist",
               "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+              },
+              "href": "https://api.spotify.com/v1/artists/4Y5HJP3oFOJ8UVBXHYWBgx",
+              "id": "4Y5HJP3oFOJ8UVBXHYWBgx",
+              "name": "Tiro Loko",
+              "type": "artist",
+              "uri": "spotify:artist:4Y5HJP3oFOJ8UVBXHYWBgx"
             }
           ],
           "available_markets": [
@@ -788,7 +116,6 @@
             "JO",
             "PS",
             "IN",
-            "BY",
             "KZ",
             "MD",
             "UA",
@@ -896,35 +223,45 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
+            "spotify": "https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr"
           },
-          "href": "https://api.spotify.com/v1/albums/6OgELu9sCBTURNGzdykl2v",
-          "id": "6OgELu9sCBTURNGzdykl2v",
+          "href": "https://api.spotify.com/v1/albums/0lQOsBHEf9EAm0j8hlbFYr",
+          "id": "0lQOsBHEf9EAm0j8hlbFYr",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731906bdf80336fed9b1844b2a",
+              "url": "https://i.scdn.co/image/ab67616d0000b27306ebc1ad087a869101e7223d",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e021906bdf80336fed9b1844b2a",
+              "url": "https://i.scdn.co/image/ab67616d00001e0206ebc1ad087a869101e7223d",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048511906bdf80336fed9b1844b2a",
+              "url": "https://i.scdn.co/image/ab67616d0000485106ebc1ad087a869101e7223d",
               "width": 64
             }
           ],
-          "name": "Mi Camino",
-          "release_date": "2020-01-17",
+          "name": "El Bais\u00f3n (feat. Toser One)",
+          "release_date": "2024-01-24",
           "release_date_precision": "day",
           "total_tracks": 1,
           "type": "album",
-          "uri": "spotify:album:6OgELu9sCBTURNGzdykl2v"
+          "uri": "spotify:album:0lQOsBHEf9EAm0j8hlbFYr"
         },
         "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+            },
+            "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
+            "id": "66RfYVdftqnuHRicyClgL0",
+            "name": "Dharius",
+            "type": "artist",
+            "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
+          },
           {
             "external_urls": {
               "spotify": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
@@ -934,6 +271,26 @@
             "name": "Lefty Sm",
             "type": "artist",
             "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Y5HJP3oFOJ8UVBXHYWBgx",
+            "id": "4Y5HJP3oFOJ8UVBXHYWBgx",
+            "name": "Tiro Loko",
+            "type": "artist",
+            "uri": "spotify:artist:4Y5HJP3oFOJ8UVBXHYWBgx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+            },
+            "href": "https://api.spotify.com/v1/artists/1oHPSeQJBwNmpq0J52Wjn1",
+            "id": "1oHPSeQJBwNmpq0J52Wjn1",
+            "name": "Toser One",
+            "type": "artist",
+            "uri": "spotify:artist:1oHPSeQJBwNmpq0J52Wjn1"
           }
         ],
         "available_markets": [
@@ -1016,7 +373,6 @@
           "JO",
           "PS",
           "IN",
-          "BY",
           "KZ",
           "MD",
           "UA",
@@ -1124,25 +480,25 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 217913,
-        "explicit": true,
+        "duration_ms": 219791,
+        "explicit": false,
         "external_ids": {
-          "isrc": "USL4R1929935"
+          "isrc": "BK4DA2326232"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
+          "spotify": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"
         },
-        "href": "https://api.spotify.com/v1/tracks/0JUO8vzP1ggpnA3DODSiNC",
-        "id": "0JUO8vzP1ggpnA3DODSiNC",
+        "href": "https://api.spotify.com/v1/tracks/6WwCuYWEH32z0tn8mSN3MY",
+        "id": "6WwCuYWEH32z0tn8mSN3MY",
         "is_local": false,
-        "name": "Mi Camino",
-        "popularity": 52,
+        "name": "El Bais\u00f3n (feat. Toser One)",
+        "popularity": 62,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:0JUO8vzP1ggpnA3DODSiNC"
+        "uri": "spotify:track:6WwCuYWEH32z0tn8mSN3MY"
       },
-      "played_at": "2025-12-23T05:40:41.358Z",
+      "played_at": "2025-12-23T06:24:14.640Z",
       "context": {
         "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EfTEbx6jtuAyB",
@@ -1155,17 +511,17 @@
     {
       "track": {
         "album": {
-          "album_type": "single",
+          "album_type": "album",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+                "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
               },
-              "href": "https://api.spotify.com/v1/artists/5UUG83KSlqPhrBssrducWV",
-              "id": "5UUG83KSlqPhrBssrducWV",
-              "name": "Spotify",
+              "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+              "id": "4QFG9KrGWEbr6hNA58CAqE",
+              "name": "Alem\u00e1n",
               "type": "artist",
-              "uri": "spotify:artist:5UUG83KSlqPhrBssrducWV"
+              "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
             }
           ],
           "available_markets": [
@@ -1356,44 +712,74 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/36wV0VkNOxV6NTKeqTwnWj"
+            "spotify": "https://open.spotify.com/album/4sghK9VDgqilBsCkgV0wFg"
           },
-          "href": "https://api.spotify.com/v1/albums/36wV0VkNOxV6NTKeqTwnWj",
-          "id": "36wV0VkNOxV6NTKeqTwnWj",
+          "href": "https://api.spotify.com/v1/albums/4sghK9VDgqilBsCkgV0wFg",
+          "id": "4sghK9VDgqilBsCkgV0wFg",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2730a3ff6ceff55aeb55f1ee8bb",
+              "url": "https://i.scdn.co/image/ab67616d0000b27305a28a761fcd032b94a30bb0",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e020a3ff6ceff55aeb55f1ee8bb",
+              "url": "https://i.scdn.co/image/ab67616d00001e0205a28a761fcd032b94a30bb0",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048510a3ff6ceff55aeb55f1ee8bb",
+              "url": "https://i.scdn.co/image/ab67616d0000485105a28a761fcd032b94a30bb0",
               "width": 64
             }
           ],
-          "name": "Daily Drive",
-          "release_date": "2020-04-08",
+          "name": "Hurac\u00e1n",
+          "release_date": "2021-11-18",
           "release_date_precision": "day",
-          "total_tracks": 17,
+          "total_tracks": 21,
           "type": "album",
-          "uri": "spotify:album:36wV0VkNOxV6NTKeqTwnWj"
+          "uri": "spotify:album:4sghK9VDgqilBsCkgV0wFg"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+              "spotify": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
             },
-            "href": "https://api.spotify.com/v1/artists/5UUG83KSlqPhrBssrducWV",
-            "id": "5UUG83KSlqPhrBssrducWV",
-            "name": "Spotify",
+            "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
+            "id": "4QFG9KrGWEbr6hNA58CAqE",
+            "name": "Alem\u00e1n",
             "type": "artist",
-            "uri": "spotify:artist:5UUG83KSlqPhrBssrducWV"
+            "uri": "spotify:artist:4QFG9KrGWEbr6hNA58CAqE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ET6v0l25osw5BzztPsMvD",
+            "id": "5ET6v0l25osw5BzztPsMvD",
+            "name": "Muelas De Gallo",
+            "type": "artist",
+            "uri": "spotify:artist:5ET6v0l25osw5BzztPsMvD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+            },
+            "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
+            "id": "7I85Ma5xjAo6nlvqOCIiWx",
+            "name": "Fntxy",
+            "type": "artist",
+            "uri": "spotify:artist:7I85Ma5xjAo6nlvqOCIiWx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+            },
+            "href": "https://api.spotify.com/v1/artists/4u1dsEB1FKbGcdG0EAvxP8",
+            "id": "4u1dsEB1FKbGcdG0EAvxP8",
+            "name": "Jambene",
+            "type": "artist",
+            "uri": "spotify:artist:4u1dsEB1FKbGcdG0EAvxP8"
           }
         ],
         "available_markets": [
@@ -1584,23 +970,25 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 12199,
-        "explicit": false,
-        "external_ids": {},
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/764LQi7jSWPuvzO3R8YgX6"
+        "duration_ms": 289913,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "QMDA72154014"
         },
-        "href": "https://api.spotify.com/v1/tracks/764LQi7jSWPuvzO3R8YgX6",
-        "id": "764LQi7jSWPuvzO3R8YgX6",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IJ4qUhEmeGtfs04RYCP4k"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0IJ4qUhEmeGtfs04RYCP4k",
+        "id": "0IJ4qUhEmeGtfs04RYCP4k",
         "is_local": false,
-        "name": "It's Monday",
-        "popularity": 1,
+        "name": "So High (feat. Jambene)",
+        "popularity": 58,
         "preview_url": null,
-        "track_number": 2,
+        "track_number": 18,
         "type": "track",
-        "uri": "spotify:track:764LQi7jSWPuvzO3R8YgX6"
+        "uri": "spotify:track:0IJ4qUhEmeGtfs04RYCP4k"
       },
-      "played_at": "2025-12-23T05:32:17.378Z",
+      "played_at": "2025-12-23T06:20:34.264Z",
       "context": {
         "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EfTEbx6jtuAyB",
@@ -1611,11 +999,11 @@
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1766468939604&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1766471054640&limit=50",
   "cursors": {
-    "after": "1766468939604",
-    "before": "1766467937378"
+    "after": "1766471054640",
+    "before": "1766470834264"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1766467210000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1766470768000&limit=50"
 }
