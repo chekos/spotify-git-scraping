@@ -661,7 +661,7 @@
         }
       ],
       "name": "Palmasur",
-      "popularity": 33,
+      "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:3H1jLGJzOPn3WbEv6fvJ3M"
     },
@@ -890,8 +890,8 @@
         "total": 154989
       },
       "genres": [
-        "g-funk",
         "mexican hip hop",
+        "g-funk",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
