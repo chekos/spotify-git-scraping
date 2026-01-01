@@ -723,7 +723,7 @@
         }
       ],
       "name": "Aczino",
-      "popularity": 49,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
     },
@@ -1110,8 +1110,8 @@
         "total": 155089
       },
       "genres": [
-        "mexican hip hop",
         "g-funk",
+        "mexican hip hop",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
