@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1883969
+        "total": 1884045
       },
       "genres": [
         "latin pop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 66642
+        "total": 66738
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/5KGNQQzk32VSQv9If4X7A6",
@@ -111,7 +111,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3058435
+        "total": 3058982
       },
       "genres": [
         "latin hip hop",
@@ -599,7 +599,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7942216
+        "total": 7947817
       },
       "genres": [
         "rock en espa\u00f1ol",
