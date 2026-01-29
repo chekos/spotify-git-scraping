@@ -3380,7 +3380,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Tomando Efecto",
-      "popularity": 19,
+      "popularity": 18,
       "preview_url": null,
       "track_number": 8,
       "type": "track",
@@ -10482,7 +10482,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Lupe Esparza",
-      "popularity": 33,
+      "popularity": 34,
       "preview_url": null,
       "track_number": 5,
       "type": "track",
@@ -21727,7 +21727,7 @@
       "uri": "spotify:track:6B8higk6pidzE5DQbBGOzy"
     }
   ],
-  "total": 2108,
+  "total": 2110,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=long_term",
