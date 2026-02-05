@@ -32,7 +32,7 @@
         }
       ],
       "name": "Lefty Sm",
-      "popularity": 72,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:6eXHRfK9Ad3IpMpSAqvcDf"
     },
@@ -69,7 +69,7 @@
         }
       ],
       "name": "Jayrick",
-      "popularity": 58,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:0U8dIwzBn17JkhYxmznp6T"
     },
@@ -381,7 +381,8 @@
         "corridos b\u00e9licos",
         "m\u00fasica mexicana",
         "sad sierre\u00f1o",
-        "banda"
+        "banda",
+        "sierre\u00f1o"
       ],
       "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
       "id": "12GqGscKJx3aE4t07u7eVZ",
@@ -623,7 +624,7 @@
         }
       ],
       "name": "Aczino",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:4r1ZDYKzPt3iIjuq8LbT6X"
     },
@@ -876,7 +877,7 @@
         }
       ],
       "name": "Nas & Damian \"Jr. Gong\" Marley",
-      "popularity": 50,
+      "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:3w2WYNyPCPkZFoC1EqfCMe"
     },
@@ -912,7 +913,7 @@
         }
       ],
       "name": "Denilson",
-      "popularity": 46,
+      "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:31opIYTivWACiXXzX2khlj"
     },
@@ -949,7 +950,7 @@
         }
       ],
       "name": "West Gold",
-      "popularity": 49,
+      "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:1gPiNBRjOB9XochAAFR3iM"
     },
@@ -1170,7 +1171,7 @@
         }
       ],
       "name": "Wk",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:7BQJLHBNVvz4O2JHmls4Ef"
     },
@@ -1795,7 +1796,7 @@
         }
       ],
       "name": "Jasmine Alvarado",
-      "popularity": 14,
+      "popularity": 13,
       "type": "artist",
       "uri": "spotify:artist:48G4FvpaGSQAb2ZxhUc2Hv"
     },
