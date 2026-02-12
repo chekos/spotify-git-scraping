@@ -214,7 +214,7 @@
         }
       ],
       "name": "Dharius",
-      "popularity": 66,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
@@ -358,7 +358,7 @@
         }
       ],
       "name": "Santa Fe Klan",
-      "popularity": 74,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:4tm8CEdm4pkQsEh4jIr9Yp"
     },
@@ -593,8 +593,8 @@
         "total": 155915
       },
       "genres": [
-        "mexican hip hop",
         "g-funk",
+        "mexican hip hop",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/1gPiNBRjOB9XochAAFR3iM",
@@ -763,7 +763,7 @@
         }
       ],
       "name": "Tiro Loko",
-      "popularity": 55,
+      "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:4Y5HJP3oFOJ8UVBXHYWBgx"
     },
@@ -1125,7 +1125,7 @@
         }
       ],
       "name": "Zxmyr",
-      "popularity": 59,
+      "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:7IUaYyqcGB3aU2Tm4s5JY8"
     },
@@ -1139,8 +1139,8 @@
       },
       "genres": [
         "mexican hip hop",
-        "rock en espa\u00f1ol",
         "latin hip hop",
+        "rock en espa\u00f1ol",
         "mexican rock",
         "latin alternative"
       ],
