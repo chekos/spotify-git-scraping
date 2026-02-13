@@ -7,13 +7,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+                "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
               },
-              "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-              "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-              "name": "Remik Gonzalez",
+              "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+              "id": "4LLpKhyESsyAXpc4laK94U",
+              "name": "Mac Miller",
               "type": "artist",
-              "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
+              "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
             }
           ],
           "available_markets": [
@@ -204,54 +204,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/62We7kcnouERjNBAKo8wG1"
+            "spotify": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
           },
-          "href": "https://api.spotify.com/v1/albums/62We7kcnouERjNBAKo8wG1",
-          "id": "62We7kcnouERjNBAKo8wG1",
+          "href": "https://api.spotify.com/v1/albums/2Tyx5dLhHYkx6zeAdVaTzN",
+          "id": "2Tyx5dLhHYkx6zeAdVaTzN",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273a14f358fb6f516b52a649e7c",
+              "url": "https://i.scdn.co/image/ab67616d0000b273ee0f38410382a255e4fb15f4",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02a14f358fb6f516b52a649e7c",
+              "url": "https://i.scdn.co/image/ab67616d00001e02ee0f38410382a255e4fb15f4",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851a14f358fb6f516b52a649e7c",
+              "url": "https://i.scdn.co/image/ab67616d00004851ee0f38410382a255e4fb15f4",
               "width": 64
             }
           ],
-          "name": "Un Baiza",
-          "release_date": "2022-09-29",
+          "name": "GO:OD AM",
+          "release_date": "2015-09-18",
           "release_date_precision": "day",
           "total_tracks": 17,
           "type": "album",
-          "uri": "spotify:album:62We7kcnouERjNBAKo8wG1"
+          "uri": "spotify:album:2Tyx5dLhHYkx6zeAdVaTzN"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
             },
-            "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
-            "id": "4Hzj6dfl1y5x5TzCSsvLB6",
-            "name": "Remik Gonzalez",
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
             "type": "artist",
-            "uri": "spotify:artist:4Hzj6dfl1y5x5TzCSsvLB6"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-            },
-            "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
-            "id": "645xd9cHiiLqqehoLzLMDR",
-            "name": "Ad\u00e1n Cruz",
-            "type": "artist",
-            "uri": "spotify:artist:645xd9cHiiLqqehoLzLMDR"
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
           }
         ],
         "available_markets": [
@@ -442,31 +432,31 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 166956,
+        "duration_ms": 278506,
         "explicit": true,
         "external_ids": {
-          "isrc": "QZNJY2245177"
+          "isrc": "USWB11508205"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/4cm9crYpXf0crtiwNunmMM"
+          "spotify": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
         },
-        "href": "https://api.spotify.com/v1/tracks/4cm9crYpXf0crtiwNunmMM",
-        "id": "4cm9crYpXf0crtiwNunmMM",
+        "href": "https://api.spotify.com/v1/tracks/4z0PnuB07fxtVZZRWsCfxb",
+        "id": "4z0PnuB07fxtVZZRWsCfxb",
         "is_local": false,
-        "name": "Fenix",
-        "popularity": 46,
+        "name": "100 Grandkids",
+        "popularity": 62,
         "preview_url": null,
-        "track_number": 8,
+        "track_number": 5,
         "type": "track",
-        "uri": "spotify:track:4cm9crYpXf0crtiwNunmMM"
+        "uri": "spotify:track:4z0PnuB07fxtVZZRWsCfxb"
       },
-      "played_at": "2026-02-13T15:53:47.591Z",
+      "played_at": "2026-02-13T16:35:07.778Z",
       "context": {
+        "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
-        "type": "playlist",
         "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
     },
@@ -930,22 +920,22 @@
         "type": "track",
         "uri": "spotify:track:4cm9crYpXf0crtiwNunmMM"
       },
-      "played_at": "2026-02-13T15:50:59.538Z",
+      "played_at": "2026-02-13T16:30:30.578Z",
       "context": {
+        "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/0cHi6cXNHFJtpYDTMUSCWc",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/0cHi6cXNHFJtpYDTMUSCWc"
         },
-        "type": "playlist",
         "uri": "spotify:playlist:0cHi6cXNHFJtpYDTMUSCWc"
       }
     }
   ],
-  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1770998027591&limit=50",
+  "next": "https://api.spotify.com/v1/me/player/recently-played?after=1771000507778&limit=50",
   "cursors": {
-    "after": "1770998027591",
-    "before": "1770997859538"
+    "after": "1771000507778",
+    "before": "1771000230578"
   },
   "limit": 50,
-  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1770996354000&limit=50"
+  "href": "https://api.spotify.com/v1/me/player/recently-played?after=1771000047000&limit=50"
 }
