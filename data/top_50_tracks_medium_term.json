@@ -946,7 +946,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Mega Drive",
-      "popularity": 41,
+      "popularity": 40,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -4239,7 +4239,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Caile - Remix",
-      "popularity": 22,
+      "popularity": 21,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -5845,17 +5845,17 @@
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27337e2a274cb87f739928fe3e2",
+            "url": "https://i.scdn.co/image/ab67616d0000b273e0c76866f9f33149ad3d2053",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0237e2a274cb87f739928fe3e2",
+            "url": "https://i.scdn.co/image/ab67616d00001e02e0c76866f9f33149ad3d2053",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485137e2a274cb87f739928fe3e2",
+            "url": "https://i.scdn.co/image/ab67616d00004851e0c76866f9f33149ad3d2053",
             "width": 64
           }
         ],
@@ -10212,7 +10212,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Lupe Esparza",
-      "popularity": 35,
+      "popularity": 34,
       "preview_url": null,
       "track_number": 5,
       "type": "track",
@@ -11635,7 +11635,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "P.O.V.",
-      "popularity": 66,
+      "popularity": 65,
       "preview_url": null,
       "track_number": 3,
       "type": "track",
@@ -16519,7 +16519,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Mafakas",
-      "popularity": 34,
+      "popularity": 33,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
