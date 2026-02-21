@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1425934
+        "total": 1426336
       },
       "genres": [
         "mexican hip hop",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 423359
+        "total": 423408
       },
       "genres": [
         "mexican hip hop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 366609
+        "total": 366741
       },
       "genres": [
         "mexican hip hop",
@@ -114,7 +114,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6943909
+        "total": 6946868
       },
       "genres": [
         "mexican hip hop",
@@ -151,7 +151,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3748803
+        "total": 3751463
       },
       "genres": [
         "mexican hip hop",
@@ -187,7 +187,7 @@
       },
       "followers": {
         "href": null,
-        "total": 553603
+        "total": 554067
       },
       "genres": [
         "mexican hip hop",
@@ -223,7 +223,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6266227
+        "total": 6268283
       },
       "genres": [
         "mexican hip hop",
@@ -259,7 +259,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1940121
+        "total": 1940728
       },
       "genres": [
         "mexican hip hop",
@@ -295,7 +295,7 @@
       },
       "followers": {
         "href": null,
-        "total": 175148
+        "total": 175185
       },
       "genres": [
         "mexican hip hop",
@@ -331,7 +331,7 @@
       },
       "followers": {
         "href": null,
-        "total": 28507
+        "total": 28508
       },
       "genres": [
         "mexican hip hop"
@@ -366,7 +366,7 @@
       },
       "followers": {
         "href": null,
-        "total": 156126
+        "total": 156153
       },
       "genres": [
         "g-funk",
@@ -399,47 +399,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-      },
-      "followers": {
-        "href": null,
-        "total": 20281808
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
-      "id": "07PdYoE4jVRF6Ut40GgVSP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb72d02b5f21c6364c3d1928d7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517472d02b5f21c6364c3d1928d7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7",
-          "width": 160
-        }
-      ],
-      "name": "Cartel De Santa",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
       },
       "followers": {
         "href": null,
-        "total": 2008872
+        "total": 2009611
       },
       "genres": [
         "mexican hip hop",
@@ -471,11 +435,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+      },
+      "followers": {
+        "href": null,
+        "total": 20288488
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
+      "id": "07PdYoE4jVRF6Ut40GgVSP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb72d02b5f21c6364c3d1928d7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517472d02b5f21c6364c3d1928d7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7",
+          "width": 160
+        }
+      ],
+      "name": "Cartel De Santa",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:07PdYoE4jVRF6Ut40GgVSP"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
       },
       "followers": {
         "href": null,
-        "total": 10232581
+        "total": 10234091
       },
       "genres": [
         "mexican hip hop",
@@ -511,7 +511,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3455110
+        "total": 3456745
       },
       "genres": [
         "mexican hip hop",
@@ -548,7 +548,7 @@
       },
       "followers": {
         "href": null,
-        "total": 81154
+        "total": 81156
       },
       "genres": [
         "mexican hip hop",
@@ -584,7 +584,7 @@
       },
       "followers": {
         "href": null,
-        "total": 42393
+        "total": 42406
       },
       "genres": [
         "mexican hip hop",
@@ -620,7 +620,7 @@
       },
       "followers": {
         "href": null,
-        "total": 312875
+        "total": 312903
       },
       "genres": [
         "mexican hip hop",
@@ -656,7 +656,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3895689
+        "total": 3897150
       },
       "genres": [
         "mexican hip hop",
@@ -693,7 +693,7 @@
       },
       "followers": {
         "href": null,
-        "total": 774199
+        "total": 774560
       },
       "genres": [
         "mexican hip hop",
@@ -729,7 +729,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1663037
+        "total": 1663284
       },
       "genres": [
         "mexican hip hop",
@@ -765,7 +765,7 @@
       },
       "followers": {
         "href": null,
-        "total": 362334
+        "total": 362728
       },
       "genres": [
         "mexican hip hop",
@@ -801,7 +801,7 @@
       },
       "followers": {
         "href": null,
-        "total": 437600
+        "total": 437609
       },
       "genres": [
         "mexican hip hop",
@@ -833,50 +833,11 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-      },
-      "followers": {
-        "href": null,
-        "total": 1487962
-      },
-      "genres": [
-        "mexican hip hop",
-        "latin hip hop",
-        "rock en espa\u00f1ol",
-        "mexican rock",
-        "latin alternative"
-      ],
-      "href": "https://api.spotify.com/v1/artists/628gUkswCfCS1hIOOHmIpK",
-      "id": "628gUkswCfCS1hIOOHmIpK",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6a39d80d964e3c4ad7fbff9f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746a39d80d964e3c4ad7fbff9f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786a39d80d964e3c4ad7fbff9f",
-          "width": 160
-        }
-      ],
-      "name": "Control Machete",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:628gUkswCfCS1hIOOHmIpK"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
       },
       "followers": {
         "href": null,
-        "total": 116154
+        "total": 116163
       },
       "genres": [
         "trova",
@@ -915,7 +876,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1994272
+        "total": 1995682
       },
       "genres": [
         "mexican hip hop"
@@ -945,7 +906,7 @@
       "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     }
   ],
-  "total": 26,
+  "total": 25,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
