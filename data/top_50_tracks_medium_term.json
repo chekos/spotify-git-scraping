@@ -3001,7 +3001,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "PIRATA SIN BARCO",
-      "popularity": 35,
+      "popularity": 36,
       "preview_url": null,
       "track_number": 7,
       "type": "track",
@@ -9022,7 +9022,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Pa' Mis Doggs",
-      "popularity": 24,
+      "popularity": 23,
       "preview_url": null,
       "track_number": 5,
       "type": "track",
@@ -22469,7 +22469,7 @@
       "uri": "spotify:track:6y2GBwBg3jE70j5G1xDWxh"
     }
   ],
-  "total": 976,
+  "total": 984,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=medium_term",
