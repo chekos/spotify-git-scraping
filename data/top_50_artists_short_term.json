@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1432693
+        "total": 1433135
       },
       "genres": [
         "mexican hip hop",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 368500
+        "total": 368603
       },
       "genres": [
         "mexican hip hop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6295428
+        "total": 6296891
       },
       "genres": [
         "mexican hip hop",
@@ -114,7 +114,7 @@
       },
       "followers": {
         "href": null,
-        "total": 184870
+        "total": 184937
       },
       "genres": [
         "mexican hip hop",
@@ -150,7 +150,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3783339
+        "total": 3784780
       },
       "genres": [
         "mexican hip hop",
@@ -186,7 +186,7 @@
       },
       "followers": {
         "href": null,
-        "total": 560813
+        "total": 561233
       },
       "genres": [
         "mexican hip hop",
@@ -222,7 +222,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6988563
+        "total": 6991002
       },
       "genres": [
         "mexican hip hop",
@@ -259,7 +259,7 @@
       },
       "followers": {
         "href": null,
-        "total": 176134
+        "total": 176174
       },
       "genres": [
         "mexican hip hop",
@@ -295,7 +295,7 @@
       },
       "followers": {
         "href": null,
-        "total": 424093
+        "total": 424132
       },
       "genres": [
         "mexican hip hop",
@@ -331,7 +331,7 @@
       },
       "followers": {
         "href": null,
-        "total": 28535
+        "total": 28538
       },
       "genres": [
         "mexican hip hop"
@@ -366,7 +366,7 @@
       },
       "followers": {
         "href": null,
-        "total": 20400407
+        "total": 20407780
       },
       "genres": [
         "mexican hip hop",
@@ -402,7 +402,7 @@
       },
       "followers": {
         "href": null,
-        "total": 313559
+        "total": 313617
       },
       "genres": [
         "mexican hip hop",
@@ -438,7 +438,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3916357
+        "total": 3917641
       },
       "genres": [
         "mexican hip hop",
@@ -475,7 +475,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2700738
+        "total": 2701901
       },
       "genres": [
         "banda",
@@ -511,11 +511,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+      },
+      "followers": {
+        "href": null,
+        "total": 3337639
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1cUpGtXcSQsovNYEZOQgOG",
+      "id": "1cUpGtXcSQsovNYEZOQgOG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb925cb42d740d22df5e0393b7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174925cb42d740d22df5e0393b7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178925cb42d740d22df5e0393b7",
+          "width": 160
+        }
+      ],
+      "name": "Nanpa B\u00e1sico",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:1cUpGtXcSQsovNYEZOQgOG"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM"
       },
       "followers": {
         "href": null,
-        "total": 156595
+        "total": 156629
       },
       "genres": [
         "mexican hip hop",
@@ -552,7 +588,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9054
+        "total": 9060
       },
       "genres": [
         "electro corridos",
@@ -589,7 +625,7 @@
       },
       "followers": {
         "href": null,
-        "total": 10263759
+        "total": 10265597
       },
       "genres": [
         "mexican hip hop",
@@ -621,11 +657,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+      },
+      "followers": {
+        "href": null,
+        "total": 342855
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
+      "id": "6viZnVSHavFUcW0blu6Mvw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc7366ba6ebc8654eca47edb8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c7366ba6ebc8654eca47edb8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c7366ba6ebc8654eca47edb8",
+          "width": 160
+        }
+      ],
+      "name": "Simpson Ahuevo",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:6viZnVSHavFUcW0blu6Mvw"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
       },
       "followers": {
         "href": null,
-        "total": 14171097
+        "total": 14177935
       },
       "genres": [
         "ranchera",
@@ -665,7 +737,7 @@
       },
       "followers": {
         "href": null,
-        "total": 29084
+        "total": 29088
       },
       "genres": [
         "mexican hip hop",
@@ -701,7 +773,7 @@
       },
       "followers": {
         "href": null,
-        "total": 81189
+        "total": 81194
       },
       "genres": [
         "mexican hip hop",
@@ -737,7 +809,7 @@
       },
       "followers": {
         "href": null,
-        "total": 238015
+        "total": 238041
       },
       "genres": [
         "freestyle",
@@ -774,7 +846,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4688161
+        "total": 4689782
       },
       "genres": [
         "norte\u00f1o",
@@ -814,7 +886,7 @@
       },
       "followers": {
         "href": null,
-        "total": 780266
+        "total": 780639
       },
       "genres": [
         "mexican hip hop",
@@ -850,7 +922,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1950279
+        "total": 1950915
       },
       "genres": [
         "mexican hip hop",
@@ -886,7 +958,7 @@
       },
       "followers": {
         "href": null,
-        "total": 48671
+        "total": 48734
       },
       "genres": [
         "mexican hip hop",
@@ -922,7 +994,7 @@
       },
       "followers": {
         "href": null,
-        "total": 23537051
+        "total": 23568226
       },
       "genres": [
         "corrido",
@@ -964,7 +1036,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8106859
+        "total": 8111055
       },
       "genres": [
         "norte\u00f1o",
@@ -1005,7 +1077,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2019058
+        "total": 2020545
       },
       "genres": [
         "mexican hip hop"
@@ -1035,7 +1107,7 @@
       "uri": "spotify:artist:31l8FA2bO5qxpqf8uhV5eZ"
     }
   ],
-  "total": 28,
+  "total": 30,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
