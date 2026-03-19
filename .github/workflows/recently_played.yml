@@ -5,54 +5,41 @@ on:
   schedule:
     - cron: '13 * * * *'
 
+permissions:
+  contents: write
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v6
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
-        python-version: 3.8
+        python-version: "3.12"
         cache: pip
-    - name: Cache playwright 
-      id: cache-playwright
-      uses: actions/cache@v3
-      with: 
-        path: ~/.cache/ms-playwright/
-        key: ${{ runner.os }}-browsers
     - name: Cache Spotify info
-      uses: actions/cache@v3
-      with: 
+      uses: actions/cache@v5
+      with:
         path: ~/.config/esporifai/
-        key: ${{ runner.os }}-esporifai
+        key: ${{ runner.os }}-esporifai-v2
     - name: Install python dependencies
       run: |-
         pip install -r requirements.txt
-    - name: Install Chromium
-      if: steps.cache-playwright.outputs.cache-hit != 'true'
+    - name: Ensure Spotify auth
       run: |
-        playwright install chromium
-    - name: Auth check
-      run: |
-        if [ "$(esporifai auth --check)" ]
-          then
-              echo "Credentials already present."
-          else
-              echo "Authorizing"
-              esporifai auth --force
-        fi
+        esporifai auth --status
+        esporifai auth --force
       env:
         SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
         SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
-        USERNAME: ${{ secrets.USERNAME }}
-        PASSWORD: ${{ secrets.PASSWORD }}
+        SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
     - name: Get tracks played in the last hour
       run: |-
         timestamp="$(jq -r '.cursors | if (.after) then (.after|tonumber/1000 | strftime("%Y-%m-%d %T")) else null end' data/recently_played.json)"
-        if [ ! -z "$timestamp" ]; then
+        if [ -z "$timestamp" ] || [ "$timestamp" = "null" ]; then
           timestamp="$(date -d "1 hour ago" +'%Y-%m-%d %T')"
         fi
         echo "$timestamp"
@@ -64,8 +51,7 @@ jobs:
       env:
         SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
         SPOTIFY_AUTH_STRING: ${{ secrets.SPOTIFY_AUTH_STRING }}
-        USERNAME: ${{ secrets.USERNAME }}
-        PASSWORD: ${{ secrets.PASSWORD }}
+        SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         REDIRECT_URI: ${{ secrets.REDIRECT_URI }}
     - name: Clean up items using jq
       run: |-
