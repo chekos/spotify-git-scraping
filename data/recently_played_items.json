@@ -86,7 +86,7 @@
         "id": "37WBC4mqVmZ6RzoRo7cIQP",
         "is_local": false,
         "name": "Mil Horas - En Vivo",
-        "popularity": 49,
+        "popularity": 50,
         "preview_url": null,
         "track_number": 7,
         "type": "track",
@@ -95,10 +95,10 @@
       "played_at": "2026-03-24T03:42:38.911Z",
       "context": {
         "type": "album",
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
         "external_urls": {
           "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
         },
-        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
         "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
       }
     }
