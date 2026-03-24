@@ -74,6 +74,720 @@
           "US"
         ],
         "disc_number": 1,
+        "duration_ms": 239333,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "MXF110400451"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2i0TqRwGCNEzYOX4KRCB4D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2i0TqRwGCNEzYOX4KRCB4D",
+        "id": "2i0TqRwGCNEzYOX4KRCB4D",
+        "is_local": false,
+        "name": "Guitarras Blancas - En Vivo",
+        "popularity": 43,
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:2i0TqRwGCNEzYOX4KRCB4D"
+      },
+      "played_at": "2026-03-24T20:21:47.171Z",
+      "context": {
+        "type": "album",
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+              },
+              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+              "id": "4TK1gDgb7QKoPFlzRrBRgR",
+              "name": "Los Enanitos Verdes",
+              "type": "artist",
+              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "CO",
+            "CR",
+            "ES",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+          },
+          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+          "id": "6zGGjiyCeY36tgNrxsFrK9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+              "width": 64
+            }
+          ],
+          "name": "En Vivo",
+          "release_date": "2004-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 293226,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "MXF110400450"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/71AMvL4Fey4MwxQShk4VBR",
+        "id": "71AMvL4Fey4MwxQShk4VBR",
+        "is_local": false,
+        "name": "Luz De Dia - En Vivo",
+        "popularity": 63,
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:71AMvL4Fey4MwxQShk4VBR"
+      },
+      "played_at": "2026-03-24T20:17:47.759Z",
+      "context": {
+        "type": "album",
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+              },
+              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+              "id": "4TK1gDgb7QKoPFlzRrBRgR",
+              "name": "Los Enanitos Verdes",
+              "type": "artist",
+              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "CO",
+            "CR",
+            "ES",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+          },
+          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+          "id": "6zGGjiyCeY36tgNrxsFrK9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+              "width": 64
+            }
+          ],
+          "name": "En Vivo",
+          "release_date": "2004-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 286213,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "MXF110400448"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QMkVg6iQV1LPkgSf1KIPu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2QMkVg6iQV1LPkgSf1KIPu",
+        "id": "2QMkVg6iQV1LPkgSf1KIPu",
+        "is_local": false,
+        "name": "Mejor No Hablemos De Amor - En Vivo",
+        "popularity": 30,
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2QMkVg6iQV1LPkgSf1KIPu"
+      },
+      "played_at": "2026-03-24T20:12:54.798Z",
+      "context": {
+        "type": "album",
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+              },
+              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+              "id": "4TK1gDgb7QKoPFlzRrBRgR",
+              "name": "Los Enanitos Verdes",
+              "type": "artist",
+              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "CO",
+            "CR",
+            "ES",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+          },
+          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+          "id": "6zGGjiyCeY36tgNrxsFrK9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+              "width": 64
+            }
+          ],
+          "name": "En Vivo",
+          "release_date": "2004-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 324173,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "MXF110400453"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RJRefe3VQ0mCEZZSzbsTu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RJRefe3VQ0mCEZZSzbsTu",
+        "id": "1RJRefe3VQ0mCEZZSzbsTu",
+        "is_local": false,
+        "name": "Cordillera - En Vivo",
+        "popularity": 35,
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1RJRefe3VQ0mCEZZSzbsTu"
+      },
+      "played_at": "2026-03-24T20:08:08.408Z",
+      "context": {
+        "type": "album",
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+              },
+              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+              "id": "4TK1gDgb7QKoPFlzRrBRgR",
+              "name": "Los Enanitos Verdes",
+              "type": "artist",
+              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "CO",
+            "CR",
+            "ES",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+          },
+          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+          "id": "6zGGjiyCeY36tgNrxsFrK9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+              "width": 64
+            }
+          ],
+          "name": "En Vivo",
+          "release_date": "2004-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 289080,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "MXF110400439"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kKu5xCNKB1QG9FJLQzIvh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3kKu5xCNKB1QG9FJLQzIvh",
+        "id": "3kKu5xCNKB1QG9FJLQzIvh",
+        "is_local": false,
+        "name": "Ay Dolores! - En Vivo",
+        "popularity": 27,
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3kKu5xCNKB1QG9FJLQzIvh"
+      },
+      "played_at": "2026-03-24T20:02:44.404Z",
+      "context": {
+        "type": "album",
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+              },
+              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+              "id": "4TK1gDgb7QKoPFlzRrBRgR",
+              "name": "Los Enanitos Verdes",
+              "type": "artist",
+              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "CO",
+            "CR",
+            "ES",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+          },
+          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+          "id": "6zGGjiyCeY36tgNrxsFrK9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+              "width": 64
+            }
+          ],
+          "name": "En Vivo",
+          "release_date": "2004-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 227560,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "MXF110400447"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XtO7fwaFptqhjH5P7VW5F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4XtO7fwaFptqhjH5P7VW5F",
+        "id": "4XtO7fwaFptqhjH5P7VW5F",
+        "is_local": false,
+        "name": "Eterna Soledad - En Vivo",
+        "popularity": 36,
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4XtO7fwaFptqhjH5P7VW5F"
+      },
+      "played_at": "2026-03-24T19:57:55.063Z",
+      "context": {
+        "type": "album",
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+              },
+              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+              "id": "4TK1gDgb7QKoPFlzRrBRgR",
+              "name": "Los Enanitos Verdes",
+              "type": "artist",
+              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "CO",
+            "CR",
+            "ES",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+          },
+          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+          "id": "6zGGjiyCeY36tgNrxsFrK9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+              "width": 64
+            }
+          ],
+          "name": "En Vivo",
+          "release_date": "2004-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 227560,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "MXF110400447"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XtO7fwaFptqhjH5P7VW5F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4XtO7fwaFptqhjH5P7VW5F",
+        "id": "4XtO7fwaFptqhjH5P7VW5F",
+        "is_local": false,
+        "name": "Eterna Soledad - En Vivo",
+        "popularity": 36,
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4XtO7fwaFptqhjH5P7VW5F"
+      },
+      "played_at": "2026-03-24T19:57:02.978Z",
+      "context": {
+        "type": "album",
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+              },
+              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+              "id": "4TK1gDgb7QKoPFlzRrBRgR",
+              "name": "Los Enanitos Verdes",
+              "type": "artist",
+              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "CO",
+            "CR",
+            "ES",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+          },
+          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+          "id": "6zGGjiyCeY36tgNrxsFrK9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+              "width": 64
+            }
+          ],
+          "name": "En Vivo",
+          "release_date": "2004-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
         "duration_ms": 329586,
         "explicit": false,
         "external_ids": {
@@ -93,210 +807,6 @@
         "uri": "spotify:track:0bEwpqiE31SZ9o3KVwOOcn"
       },
       "played_at": "2026-03-24T18:54:52.348Z",
-      "context": {
-        "type": "album",
-        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-              },
-              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-              "id": "4TK1gDgb7QKoPFlzRrBRgR",
-              "name": "Los Enanitos Verdes",
-              "type": "artist",
-              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "CO",
-            "CR",
-            "ES",
-            "MX",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-          },
-          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-          "id": "6zGGjiyCeY36tgNrxsFrK9",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
-              "width": 64
-            }
-          ],
-          "name": "En Vivo",
-          "release_date": "2004-01-01",
-          "release_date_precision": "day",
-          "total_tracks": 16,
-          "type": "album",
-          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-            },
-            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-            "id": "4TK1gDgb7QKoPFlzRrBRgR",
-            "name": "Los Enanitos Verdes",
-            "type": "artist",
-            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "CO",
-          "CR",
-          "ES",
-          "MX",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 329586,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "MXF110400446"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0bEwpqiE31SZ9o3KVwOOcn"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0bEwpqiE31SZ9o3KVwOOcn",
-        "id": "0bEwpqiE31SZ9o3KVwOOcn",
-        "is_local": false,
-        "name": "Frances Limon - En Vivo",
-        "popularity": 37,
-        "preview_url": null,
-        "track_number": 8,
-        "type": "track",
-        "uri": "spotify:track:0bEwpqiE31SZ9o3KVwOOcn"
-      },
-      "played_at": "2026-03-24T18:54:16.632Z",
-      "context": {
-        "type": "album",
-        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-      }
-    },
-    {
-      "track": {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-              },
-              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-              "id": "4TK1gDgb7QKoPFlzRrBRgR",
-              "name": "Los Enanitos Verdes",
-              "type": "artist",
-              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "CO",
-            "CR",
-            "ES",
-            "MX",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-          },
-          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-          "id": "6zGGjiyCeY36tgNrxsFrK9",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
-              "width": 64
-            }
-          ],
-          "name": "En Vivo",
-          "release_date": "2004-01-01",
-          "release_date_precision": "day",
-          "total_tracks": 16,
-          "type": "album",
-          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-            },
-            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-            "id": "4TK1gDgb7QKoPFlzRrBRgR",
-            "name": "Los Enanitos Verdes",
-            "type": "artist",
-            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "CO",
-          "CR",
-          "ES",
-          "MX",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 256560,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "MXF110400444"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/37WBC4mqVmZ6RzoRo7cIQP"
-        },
-        "href": "https://api.spotify.com/v1/tracks/37WBC4mqVmZ6RzoRo7cIQP",
-        "id": "37WBC4mqVmZ6RzoRo7cIQP",
-        "is_local": false,
-        "name": "Mil Horas - En Vivo",
-        "popularity": 50,
-        "preview_url": null,
-        "track_number": 7,
-        "type": "track",
-        "uri": "spotify:track:37WBC4mqVmZ6RzoRo7cIQP"
-      },
-      "played_at": "2026-03-24T03:42:38.911Z",
       "context": {
         "type": "album",
         "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
