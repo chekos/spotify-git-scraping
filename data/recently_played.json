@@ -452,11 +452,11 @@
       },
       "played_at": "2026-03-29T02:27:03.092Z",
       "context": {
+        "type": "playlist",
+        "href": "https://api.spotify.com/v1/playlists/5Tcxzu5qXtuJwIrfmobPGg",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/5Tcxzu5qXtuJwIrfmobPGg"
         },
-        "href": "https://api.spotify.com/v1/playlists/5Tcxzu5qXtuJwIrfmobPGg",
-        "type": "playlist",
         "uri": "spotify:playlist:5Tcxzu5qXtuJwIrfmobPGg"
       }
     }
