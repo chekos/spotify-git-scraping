@@ -7134,7 +7134,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "I Must Be High",
-      "popularity": 63,
+      "popularity": 64,
       "preview_url": null,
       "track_number": 4,
       "type": "track",
@@ -8487,7 +8487,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Te He Prometido",
-      "popularity": 75,
+      "popularity": 76,
       "preview_url": null,
       "track_number": 12,
       "type": "track",
@@ -21149,7 +21149,7 @@
       "uri": "spotify:track:060aWWmC9CrLqbhzHQifQf"
     }
   ],
-  "total": 1015,
+  "total": 1016,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=medium_term",
