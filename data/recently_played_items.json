@@ -3,119 +3,17 @@
     {
       "track": {
         "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-              },
-              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-              "id": "4TK1gDgb7QKoPFlzRrBRgR",
-              "name": "Los Enanitos Verdes",
-              "type": "artist",
-              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "CO",
-            "CR",
-            "ES",
-            "MX",
-            "US"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-          },
-          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-          "id": "6zGGjiyCeY36tgNrxsFrK9",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
-              "width": 64
-            }
-          ],
-          "name": "En Vivo",
-          "release_date": "2004-01-01",
-          "release_date_precision": "day",
-          "total_tracks": 16,
-          "type": "album",
-          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-            },
-            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-            "id": "4TK1gDgb7QKoPFlzRrBRgR",
-            "name": "Los Enanitos Verdes",
-            "type": "artist",
-            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "CO",
-          "CR",
-          "ES",
-          "MX",
-          "US"
-        ],
-        "disc_number": 1,
-        "duration_ms": 256560,
-        "explicit": false,
-        "external_ids": {
-          "isrc": "MXF110400444"
-        },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/37WBC4mqVmZ6RzoRo7cIQP"
-        },
-        "href": "https://api.spotify.com/v1/tracks/37WBC4mqVmZ6RzoRo7cIQP",
-        "id": "37WBC4mqVmZ6RzoRo7cIQP",
-        "is_local": false,
-        "name": "Mil Horas - En Vivo",
-        "popularity": 51,
-        "preview_url": null,
-        "track_number": 7,
-        "type": "track",
-        "uri": "spotify:track:37WBC4mqVmZ6RzoRo7cIQP"
-      },
-      "played_at": "2026-04-10T18:28:28.901Z",
-      "context": {
-        "type": "playlist",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/playlist/5Tcxzu5qXtuJwIrfmobPGg"
-        },
-        "href": "https://api.spotify.com/v1/playlists/5Tcxzu5qXtuJwIrfmobPGg",
-        "uri": "spotify:playlist:5Tcxzu5qXtuJwIrfmobPGg"
-      }
-    },
-    {
-      "track": {
-        "album": {
           "album_type": "compilation",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+                "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
               },
-              "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
-              "id": "2FS22haX3FYbyOsUAkuYqZ",
-              "name": "Los Fabulosos Cadillacs",
+              "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
+              "id": "7An4yvF7hDYDolN4m5zKBp",
+              "name": "Soda Stereo",
               "type": "artist",
-              "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
+              "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
             }
           ],
           "available_markets": [
@@ -306,44 +204,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4"
+            "spotify": "https://open.spotify.com/album/2Bd03Vcmh8Sl4aCuyTQwex"
           },
-          "href": "https://api.spotify.com/v1/albums/54A9Agody2BGDXtTGMdFn4",
-          "id": "54A9Agody2BGDXtTGMdFn4",
+          "href": "https://api.spotify.com/v1/albums/2Bd03Vcmh8Sl4aCuyTQwex",
+          "id": "2Bd03Vcmh8Sl4aCuyTQwex",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273115c90e766afd810dd56ed7c",
+              "url": "https://i.scdn.co/image/ab67616d0000b2735b41c0e7add793dde3b0af4f",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02115c90e766afd810dd56ed7c",
+              "url": "https://i.scdn.co/image/ab67616d00001e025b41c0e7add793dde3b0af4f",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851115c90e766afd810dd56ed7c",
+              "url": "https://i.scdn.co/image/ab67616d000048515b41c0e7add793dde3b0af4f",
               "width": 64
             }
           ],
-          "name": "Vasos Vacíos",
-          "release_date": "1993-06-18",
+          "name": "Comfort y Música Para Volar",
+          "release_date": "2008-01-22",
           "release_date_precision": "day",
-          "total_tracks": 17,
+          "total_tracks": 13,
           "type": "album",
-          "uri": "spotify:album:54A9Agody2BGDXtTGMdFn4"
+          "uri": "spotify:album:2Bd03Vcmh8Sl4aCuyTQwex"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+              "spotify": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
             },
-            "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
-            "id": "2FS22haX3FYbyOsUAkuYqZ",
-            "name": "Los Fabulosos Cadillacs",
+            "href": "https://api.spotify.com/v1/artists/7An4yvF7hDYDolN4m5zKBp",
+            "id": "7An4yvF7hDYDolN4m5zKBp",
+            "name": "Soda Stereo",
             "type": "artist",
-            "uri": "spotify:artist:2FS22haX3FYbyOsUAkuYqZ"
+            "uri": "spotify:artist:7An4yvF7hDYDolN4m5zKBp"
           }
         ],
         "available_markets": [
@@ -534,31 +432,133 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 275893,
+        "duration_ms": 518693,
         "explicit": false,
         "external_ids": {
-          "isrc": "ARFSB0800334"
+          "isrc": "ARF039600760"
         },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7d4pdMym8ZBOgf1oVPTiPb"
+          "spotify": "https://open.spotify.com/track/4WBrsZ33Y4VWseMwoSJEFx"
         },
-        "href": "https://api.spotify.com/v1/tracks/7d4pdMym8ZBOgf1oVPTiPb",
-        "id": "7d4pdMym8ZBOgf1oVPTiPb",
+        "href": "https://api.spotify.com/v1/tracks/4WBrsZ33Y4VWseMwoSJEFx",
+        "id": "4WBrsZ33Y4VWseMwoSJEFx",
         "is_local": false,
-        "name": "Matador - Remasterizado 2008",
-        "popularity": 62,
+        "name": "En la Ciudad de la Furia - MTV Unplugged",
+        "popularity": 39,
         "preview_url": null,
         "track_number": 2,
         "type": "track",
-        "uri": "spotify:track:7d4pdMym8ZBOgf1oVPTiPb"
+        "uri": "spotify:track:4WBrsZ33Y4VWseMwoSJEFx"
       },
-      "played_at": "2026-04-10T17:16:51.349Z",
+      "played_at": "2026-04-10T18:52:26.466Z",
       "context": {
         "type": "playlist",
+        "href": "https://api.spotify.com/v1/playlists/5Tcxzu5qXtuJwIrfmobPGg",
         "external_urls": {
           "spotify": "https://open.spotify.com/playlist/5Tcxzu5qXtuJwIrfmobPGg"
         },
+        "uri": "spotify:playlist:5Tcxzu5qXtuJwIrfmobPGg"
+      }
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+              },
+              "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+              "id": "4TK1gDgb7QKoPFlzRrBRgR",
+              "name": "Los Enanitos Verdes",
+              "type": "artist",
+              "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "CO",
+            "CR",
+            "ES",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+          },
+          "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+          "id": "6zGGjiyCeY36tgNrxsFrK9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+              "width": 64
+            }
+          ],
+          "name": "En Vivo",
+          "release_date": "2004-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 256560,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "MXF110400444"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/37WBC4mqVmZ6RzoRo7cIQP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/37WBC4mqVmZ6RzoRo7cIQP",
+        "id": "37WBC4mqVmZ6RzoRo7cIQP",
+        "is_local": false,
+        "name": "Mil Horas - En Vivo",
+        "popularity": 51,
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:37WBC4mqVmZ6RzoRo7cIQP"
+      },
+      "played_at": "2026-04-10T18:28:28.901Z",
+      "context": {
+        "type": "playlist",
         "href": "https://api.spotify.com/v1/playlists/5Tcxzu5qXtuJwIrfmobPGg",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5Tcxzu5qXtuJwIrfmobPGg"
+        },
         "uri": "spotify:playlist:5Tcxzu5qXtuJwIrfmobPGg"
       }
     }
