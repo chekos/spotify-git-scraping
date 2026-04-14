@@ -906,7 +906,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Antolog\u00eda",
-      "popularity": 81,
+      "popularity": 80,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
@@ -6335,7 +6335,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Caile - Remix",
-      "popularity": 24,
+      "popularity": 23,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -6791,6 +6791,99 @@
       "track_number": 6,
       "type": "track",
       "uri": "spotify:track:3IcN1PrmKfRbrsLW15PHpx"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+            "id": "4TK1gDgb7QKoPFlzRrBRgR",
+            "name": "Los Enanitos Verdes",
+            "type": "artist",
+            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "CO",
+          "CR",
+          "ES",
+          "MX",
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        },
+        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
+        "id": "6zGGjiyCeY36tgNrxsFrK9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "En Vivo",
+        "release_date": "2004-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          },
+          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
+          "id": "4TK1gDgb7QKoPFlzRrBRgR",
+          "name": "Los Enanitos Verdes",
+          "type": "artist",
+          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "CO",
+        "CR",
+        "ES",
+        "MX",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 355293,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "MXF110400449"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4KtHxcTlIXEKinToSNzPPO",
+      "id": "4KtHxcTlIXEKinToSNzPPO",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Lamento Boliviano - En Vivo",
+      "popularity": 41,
+      "preview_url": null,
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:4KtHxcTlIXEKinToSNzPPO"
     },
     {
       "album": {
@@ -10509,7 +10602,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "T\u00fa Y Yo Somos Uno Mismo",
-      "popularity": 64,
+      "popularity": 63,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -13245,7 +13338,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "EAVEMAR\u00cdA",
-      "popularity": 65,
+      "popularity": 64,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -17442,99 +17535,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:7MNtRrUXrsQwR10o3lvgDP"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-            },
-            "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-            "id": "4TK1gDgb7QKoPFlzRrBRgR",
-            "name": "Los Enanitos Verdes",
-            "type": "artist",
-            "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "CO",
-          "CR",
-          "ES",
-          "MX",
-          "US"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-        },
-        "href": "https://api.spotify.com/v1/albums/6zGGjiyCeY36tgNrxsFrK9",
-        "id": "6zGGjiyCeY36tgNrxsFrK9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27326ef97df3a0f945ef7809702",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0226ef97df3a0f945ef7809702",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485126ef97df3a0f945ef7809702",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "En Vivo",
-        "release_date": "2004-01-01",
-        "release_date_precision": "day",
-        "total_tracks": 16,
-        "type": "album",
-        "uri": "spotify:album:6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-          },
-          "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
-          "id": "4TK1gDgb7QKoPFlzRrBRgR",
-          "name": "Los Enanitos Verdes",
-          "type": "artist",
-          "uri": "spotify:artist:4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "available_markets": [
-        "AR",
-        "CO",
-        "CR",
-        "ES",
-        "MX",
-        "US"
-      ],
-      "disc_number": 1,
-      "duration_ms": 355293,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "MXF110400449"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4KtHxcTlIXEKinToSNzPPO",
-      "id": "4KtHxcTlIXEKinToSNzPPO",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Lamento Boliviano - En Vivo",
-      "popularity": 41,
-      "preview_url": null,
-      "track_number": 15,
-      "type": "track",
-      "uri": "spotify:track:4KtHxcTlIXEKinToSNzPPO"
     },
     {
       "album": {
