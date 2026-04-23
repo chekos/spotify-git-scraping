@@ -484,7 +484,7 @@
         "id": "2431MRmeFUQXc5G8QmOI2n",
         "is_local": false,
         "name": "Visceral (Intro)",
-        "popularity": 33,
+        "popularity": 34,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
@@ -492,10 +492,10 @@
       },
       "played_at": "2026-04-18T16:14:08.695Z",
       "context": {
+        "href": "https://api.spotify.com/v1/albums/1qRV60OQoHqrvVhnFkOXYq",
         "external_urls": {
           "spotify": "https://open.spotify.com/album/1qRV60OQoHqrvVhnFkOXYq"
         },
-        "href": "https://api.spotify.com/v1/albums/1qRV60OQoHqrvVhnFkOXYq",
         "type": "album",
         "uri": "spotify:album:1qRV60OQoHqrvVhnFkOXYq"
       }
