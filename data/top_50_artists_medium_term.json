@@ -185,7 +185,7 @@
         }
       ],
       "name": "Geassassin",
-      "popularity": 54,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:4V2V4PaSblStayYVWTGDbZ"
     },
@@ -582,7 +582,7 @@
         }
       ],
       "name": "Dharius",
-      "popularity": 67,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     },
@@ -1833,7 +1833,7 @@
       "uri": "spotify:artist:3ScIigEm9KZUrUQtXzBmKJ"
     }
   ],
-  "total": 94,
+  "total": 93,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=medium_term",
