@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 179400
+        "total": 179449
       },
       "genres": [
         "mexican hip hop",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3861296
+        "total": 3862367
       },
       "genres": [
         "mexican hip hop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2691116
+        "total": 2691596
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -116,7 +116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5675283
+        "total": 5677696
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -160,7 +160,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8776
+        "total": 8777
       },
       "genres": [
         "mexican hip hop"
@@ -195,7 +195,7 @@
       },
       "followers": {
         "href": null,
-        "total": 65905
+        "total": 65950
       },
       "genres": [
         "mexican hip hop",
@@ -228,11 +228,47 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+      },
+      "followers": {
+        "href": null,
+        "total": 587036
+      },
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
+      "id": "1FCItwxfRieMGhR0eRxotU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb424d0d9e85b0fa2c26e89216",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174424d0d9e85b0fa2c26e89216",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178424d0d9e85b0fa2c26e89216",
+          "width": 160
+        }
+      ],
+      "name": "Rich Vagos",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
       },
       "followers": {
         "href": null,
-        "total": 807272
+        "total": 807753
       },
       "genres": [
         "mexican hip hop",
@@ -268,7 +304,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3545164
+        "total": 3546288
       },
       "genres": [
         "mexican hip hop",
@@ -300,7 +336,7 @@
       "uri": "spotify:artist:66RfYVdftqnuHRicyClgL0"
     }
   ],
-  "total": 8,
+  "total": 9,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/artists?offset=0&limit=50&time_range=short_term",
