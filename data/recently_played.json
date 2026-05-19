@@ -464,7 +464,7 @@
         "id": "5lquz9kNB3kdwSp2Opn6vq",
         "is_local": false,
         "name": "X Amor al Arte",
-        "popularity": 51,
+        "popularity": 53,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
@@ -473,10 +473,10 @@
       "played_at": "2026-05-19T03:53:34.767Z",
       "context": {
         "type": "album",
-        "href": "https://api.spotify.com/v1/albums/4p7prXOtCEjiwU0iWb62fP",
         "external_urls": {
           "spotify": "https://open.spotify.com/album/4p7prXOtCEjiwU0iWb62fP"
         },
+        "href": "https://api.spotify.com/v1/albums/4p7prXOtCEjiwU0iWb62fP",
         "uri": "spotify:album:4p7prXOtCEjiwU0iWb62fP"
       }
     }
