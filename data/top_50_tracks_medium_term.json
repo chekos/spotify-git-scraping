@@ -5878,7 +5878,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "S.M.R.",
-      "popularity": 46,
+      "popularity": 47,
       "preview_url": null,
       "track_number": 6,
       "type": "track",
@@ -19362,7 +19362,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Caile - Remix",
-      "popularity": 24,
+      "popularity": 23,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -20857,7 +20857,7 @@
       "uri": "spotify:track:4PrjdEeGMfjv6sp9VtCPfy"
     }
   ],
-  "total": 972,
+  "total": 981,
   "limit": 50,
   "offset": 0,
   "href": "https://api.spotify.com/v1/me/top/tracks?offset=0&limit=50&time_range=medium_term",
