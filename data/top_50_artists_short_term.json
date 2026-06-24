@@ -9,12 +9,8 @@
         "total": 4790800
       },
       "genres": [
-        "banda",
-        "norte\u00f1o",
-        "m\u00fasica mexicana",
-        "ranchera",
-        "grupera",
-        "corrido"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/6AcOTCYBMvjKYy4zms0kaC",
       "id": "6AcOTCYBMvjKYy4zms0kaC",
@@ -85,8 +81,11 @@
         "total": 1475455
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "banda",
+        "norte\u00f1o",
+        "corrido",
+        "grupera",
+        "ranchera"
       ],
       "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
       "id": "4Hzj6dfl1y5x5TzCSsvLB6",
@@ -121,14 +120,12 @@
         "total": 1243786
       },
       "genres": [
+        "banda",
         "norte\u00f1o",
-        "tejano",
-        "cumbia norte\u00f1a",
-        "ranchera",
         "m\u00fasica mexicana",
-        "corrido",
+        "ranchera",
         "grupera",
-        "banda"
+        "corrido"
       ],
       "href": "https://api.spotify.com/v1/artists/5j9R5dTGerKvdXopZnfJh9",
       "id": "5j9R5dTGerKvdXopZnfJh9",
@@ -163,9 +160,13 @@
         "total": 67979
       },
       "genres": [
-        "mexican hip hop",
-        "electro corridos",
-        "latin hip hop"
+        "grupera",
+        "norte\u00f1o",
+        "cumbia",
+        "ranchera",
+        "cumbia norte\u00f1a",
+        "tejano",
+        "banda"
       ],
       "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
       "id": "0U8dIwzBn17JkhYxmznp6T",
@@ -200,11 +201,14 @@
         "total": 4240407
       },
       "genres": [
-        "banda",
         "norte\u00f1o",
+        "tejano",
+        "cumbia norte\u00f1a",
+        "ranchera",
+        "m\u00fasica mexicana",
         "corrido",
         "grupera",
-        "ranchera"
+        "banda"
       ],
       "href": "https://api.spotify.com/v1/artists/3CAhiUHkUYT1mFtVHM9SHA",
       "id": "3CAhiUHkUYT1mFtVHM9SHA",
@@ -245,6 +249,7 @@
       },
       "genres": [
         "mexican hip hop",
+        "electro corridos",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/6eXHRfK9Ad3IpMpSAqvcDf",
@@ -317,8 +322,7 @@
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
       "id": "66RfYVdftqnuHRicyClgL0",
@@ -353,13 +357,9 @@
         "total": 4983068
       },
       "genres": [
-        "grupera",
-        "norte\u00f1o",
-        "cumbia",
-        "ranchera",
-        "cumbia norte\u00f1a",
-        "tejano",
-        "banda"
+        "mexican hip hop",
+        "latin hip hop",
+        "electro corridos"
       ],
       "href": "https://api.spotify.com/v1/artists/0VKh7CQDi9MkUvaBMoK1V0",
       "id": "0VKh7CQDi9MkUvaBMoK1V0",
