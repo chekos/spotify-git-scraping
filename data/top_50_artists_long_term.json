@@ -6,7 +6,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3912303
+        "total": 3913302
       },
       "genres": [
         "mexican hip hop",
@@ -42,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 1475455
+        "total": 1475809
       },
       "genres": [
         "mexican hip hop",
@@ -78,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 67979
+        "total": 68011
       },
       "genres": [
         "mexican hip hop",
@@ -114,7 +114,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6482697
+        "total": 6484184
       },
       "genres": [
         "mexican hip hop",
@@ -150,7 +150,7 @@
       },
       "followers": {
         "href": null,
-        "total": 7193243
+        "total": 7194871
       },
       "genres": [
         "g-funk",
@@ -187,7 +187,7 @@
       },
       "followers": {
         "href": null,
-        "total": 21214933
+        "total": 21222866
       },
       "genres": [
         "mexican hip hop",
@@ -223,7 +223,7 @@
       },
       "followers": {
         "href": null,
-        "total": 428046
+        "total": 428075
       },
       "genres": [
         "mexican hip hop",
@@ -259,7 +259,7 @@
       },
       "followers": {
         "href": null,
-        "total": 33927890
+        "total": 33948379
       },
       "genres": [
         "mexican hip hop"
@@ -294,7 +294,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2094860
+        "total": 2095514
       },
       "genres": [
         "mexican hip hop",
@@ -330,7 +330,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3605369
+        "total": 3606506
       },
       "genres": [
         "reggae",
@@ -366,7 +366,7 @@
       },
       "followers": {
         "href": null,
-        "total": 181455
+        "total": 181493
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -405,7 +405,7 @@
       },
       "followers": {
         "href": null,
-        "total": 381910
+        "total": 382033
       },
       "genres": [
         "mexican hip hop"
@@ -430,7 +430,7 @@
         }
       ],
       "name": "Faruz Feet",
-      "popularity": 59,
+      "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:6tJRAxu0HwB2GI9GueEj4l"
     },
@@ -440,7 +440,7 @@
       },
       "followers": {
         "href": null,
-        "total": 28744293
+        "total": 28763688
       },
       "genres": [
         "corrido",
@@ -480,7 +480,7 @@
       },
       "followers": {
         "href": null,
-        "total": 48265689
+        "total": 48275632
       },
       "genres": [
         "mexican hip hop",
@@ -516,7 +516,7 @@
       },
       "followers": {
         "href": null,
-        "total": 29826
+        "total": 29833
       },
       "genres": [
         "electro corridos",
@@ -553,12 +553,12 @@
       },
       "followers": {
         "href": null,
-        "total": 241251
+        "total": 241269
       },
       "genres": [
-        "latin hip hop",
-        "latin alternative",
-        "reggaeton"
+        "argentine trap",
+        "trap latino",
+        "urbano latino"
       ],
       "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
       "id": "4r1ZDYKzPt3iIjuq8LbT6X",
@@ -593,9 +593,9 @@
         "total": 25729
       },
       "genres": [
-        "argentine trap",
-        "trap latino",
-        "urbano latino"
+        "latin hip hop",
+        "latin alternative",
+        "reggaeton"
       ],
       "href": "https://api.spotify.com/v1/artists/3H1jLGJzOPn3WbEv6fvJ3M",
       "id": "3H1jLGJzOPn3WbEv6fvJ3M",
@@ -627,7 +627,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5786975
+        "total": 5788908
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/4TK1gDgb7QKoPFlzRrBRgR",
@@ -660,7 +660,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3441471
+        "total": 3442201
       },
       "genres": [
         "mexican hip hop",
@@ -697,7 +697,7 @@
       },
       "followers": {
         "href": null,
-        "total": 608073
+        "total": 608449
       },
       "genres": [
         "mexican hip hop",
@@ -723,7 +723,7 @@
         }
       ],
       "name": "Rich Vagos",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:1FCItwxfRieMGhR0eRxotU"
     },
@@ -733,7 +733,7 @@
       },
       "followers": {
         "href": null,
-        "total": 192225
+        "total": 192273
       },
       "genres": [
         "banda",
@@ -774,7 +774,7 @@
       },
       "followers": {
         "href": null,
-        "total": 28759
+        "total": 28760
       },
       "genres": [
         "mexican hip hop",
@@ -810,10 +810,11 @@
       },
       "followers": {
         "href": null,
-        "total": 10415868
+        "total": 10416946
       },
       "genres": [
         "mexican hip hop",
+        "electro corridos",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
@@ -846,11 +847,10 @@
       },
       "followers": {
         "href": null,
-        "total": 2011867
+        "total": 2012355
       },
       "genres": [
         "mexican hip hop",
-        "electro corridos",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
@@ -883,7 +883,7 @@
       },
       "followers": {
         "href": null,
-        "total": 137028
+        "total": 137066
       },
       "genres": [
         "rock en espa\u00f1ol",
@@ -923,7 +923,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4055644
+        "total": 4056767
       },
       "genres": [
         "mexican hip hop",
@@ -960,7 +960,7 @@
       },
       "followers": {
         "href": null,
-        "total": 9355
+        "total": 9358
       },
       "genres": [
         "freestyle",
@@ -997,7 +997,7 @@
       },
       "followers": {
         "href": null,
-        "total": 118716905
+        "total": 118774291
       },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
@@ -1030,7 +1030,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8675272
+        "total": 8679399
       },
       "genres": [
         "reggaeton",
@@ -1068,7 +1068,7 @@
       },
       "followers": {
         "href": null,
-        "total": 81510
+        "total": 81511
       },
       "genres": [
         "mexican hip hop",
@@ -1104,7 +1104,7 @@
       },
       "followers": {
         "href": null,
-        "total": 159764
+        "total": 159782
       },
       "genres": [
         "mexican hip hop",
@@ -1140,7 +1140,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2202357
+        "total": 2204034
       },
       "genres": [
         "hip hop",
@@ -1176,7 +1176,7 @@
       },
       "followers": {
         "href": null,
-        "total": 318232
+        "total": 318278
       },
       "genres": [
         "mexican hip hop",
@@ -1202,7 +1202,7 @@
         }
       ],
       "name": "Iluminatik",
-      "popularity": 43,
+      "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:0N6H5exnFMoW4yNQ3vDJ3Z"
     },
@@ -1212,13 +1212,11 @@
       },
       "followers": {
         "href": null,
-        "total": 889200
+        "total": 889320
       },
       "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "mexican rock",
-        "latin pop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
       "id": "6fMZytDgX1Q9OV6ndSugym",
@@ -1250,11 +1248,13 @@
       },
       "followers": {
         "href": null,
-        "total": 19180
+        "total": 19184
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "mexican rock",
+        "latin pop"
       ],
       "href": "https://api.spotify.com/v1/artists/1jVhcHIGJuk16eqY1Mdtuk",
       "id": "1jVhcHIGJuk16eqY1Mdtuk",
@@ -1286,7 +1286,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3141740
+        "total": 3142200
       },
       "genres": [
         "mariachi",
@@ -1330,7 +1330,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2718085
+        "total": 2718604
       },
       "genres": [
         "mexican hip hop",
@@ -1366,7 +1366,7 @@
       },
       "followers": {
         "href": null,
-        "total": 828071
+        "total": 828508
       },
       "genres": [
         "mexican hip hop",
@@ -1402,7 +1402,7 @@
       },
       "followers": {
         "href": null,
-        "total": 97752
+        "total": 97777
       },
       "genres": [
         "mexican hip hop",
@@ -1438,7 +1438,7 @@
       },
       "followers": {
         "href": null,
-        "total": 346518
+        "total": 346542
       },
       "genres": [
         "corridos tumbados",
@@ -1479,7 +1479,7 @@
       },
       "followers": {
         "href": null,
-        "total": 43862
+        "total": 43868
       },
       "genres": [
         "mexican hip hop",
@@ -1516,7 +1516,7 @@
       },
       "followers": {
         "href": null,
-        "total": 680154
+        "total": 680383
       },
       "genres": [
         "latin hip hop"
@@ -1551,7 +1551,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3872120
+        "total": 3873941
       },
       "genres": [
         "latin pop",
@@ -1587,7 +1587,7 @@
       },
       "followers": {
         "href": null,
-        "total": 18843692
+        "total": 18845933
       },
       "genres": [
         "lo-fi beats",
@@ -1624,7 +1624,7 @@
       },
       "followers": {
         "href": null,
-        "total": 362122
+        "total": 362233
       },
       "genres": [
         "mexican indie",
@@ -1663,7 +1663,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2235
+        "total": 2236
       },
       "genres": [
         "mexican hip hop",
@@ -1699,7 +1699,7 @@
       },
       "followers": {
         "href": null,
-        "total": 22598809
+        "total": 22605018
       },
       "genres": [
         "mexican hip hop"
@@ -1734,7 +1734,7 @@
       },
       "followers": {
         "href": null,
-        "total": 2010864
+        "total": 2011263
       },
       "genres": [
         "mexican hip hop",
@@ -1770,11 +1770,12 @@
       },
       "followers": {
         "href": null,
-        "total": 40547
+        "total": 40575
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop"
+        "latin hip hop",
+        "electro corridos"
       ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
@@ -1806,12 +1807,11 @@
       },
       "followers": {
         "href": null,
-        "total": 3219278
+        "total": 3219715
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
       "id": "5TYxZTjIPqKM8K8NuP9woO",
@@ -1833,7 +1833,7 @@
         }
       ],
       "name": "C. Tangana",
-      "popularity": 71,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:5TYxZTjIPqKM8K8NuP9woO"
     }
