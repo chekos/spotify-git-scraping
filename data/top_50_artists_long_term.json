@@ -140,7 +140,7 @@
         }
       ],
       "name": "Gera MX",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:2hejA1Dkf8v8R0koF44FvW"
     },
@@ -814,6 +814,7 @@
       },
       "genres": [
         "mexican hip hop",
+        "electro corridos",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
@@ -849,9 +850,12 @@
         "total": 137066
       },
       "genres": [
-        "mexican hip hop",
-        "electro corridos",
-        "latin hip hop"
+        "rock en espa\u00f1ol",
+        "mexican rock",
+        "mexican indie",
+        "latin alternative",
+        "latin indie",
+        "latin rock"
       ],
       "href": "https://api.spotify.com/v1/artists/3w2WYNyPCPkZFoC1EqfCMe",
       "id": "3w2WYNyPCPkZFoC1EqfCMe",
@@ -886,12 +890,8 @@
         "total": 192273
       },
       "genres": [
-        "rock en espa\u00f1ol",
-        "mexican rock",
-        "mexican indie",
-        "latin alternative",
-        "latin indie",
-        "latin rock"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
       "id": "7I85Ma5xjAo6nlvqOCIiWx",
@@ -1774,7 +1774,8 @@
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop"
+        "latin hip hop",
+        "electro corridos"
       ],
       "href": "https://api.spotify.com/v1/artists/3Jarv4dvk7d9k6AkqDUVJg",
       "id": "3Jarv4dvk7d9k6AkqDUVJg",
@@ -1810,8 +1811,7 @@
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/5TYxZTjIPqKM8K8NuP9woO",
       "id": "5TYxZTjIPqKM8K8NuP9woO",
