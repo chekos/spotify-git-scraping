@@ -706,8 +706,11 @@
         "total": 2718085
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "banda",
+        "norte\u00f1o",
+        "ranchera",
+        "grupera",
+        "duranguense"
       ],
       "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
       "id": "5oYHL2SijkMY52gKIhYJNb",
@@ -742,11 +745,8 @@
         "total": 3141740
       },
       "genres": [
-        "banda",
-        "norte\u00f1o",
-        "ranchera",
-        "grupera",
-        "duranguense"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0yNSzH5nZmHzeE2xn6Xshb",
       "id": "0yNSzH5nZmHzeE2xn6Xshb",
@@ -1265,8 +1265,12 @@
         "total": 3483081
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "banda",
+        "norte\u00f1o",
+        "m\u00fasica mexicana",
+        "ranchera",
+        "grupera",
+        "corrido"
       ],
       "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
       "id": "2FS22haX3FYbyOsUAkuYqZ",
@@ -1301,12 +1305,8 @@
         "total": 8675272
       },
       "genres": [
-        "banda",
-        "norte\u00f1o",
-        "m\u00fasica mexicana",
-        "ranchera",
-        "grupera",
-        "corrido"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/6IdtcAwaNVAggwd6sCKgTI",
       "id": "6IdtcAwaNVAggwd6sCKgTI",
@@ -1636,7 +1636,8 @@
         "total": 8889
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/35BPWrbRCzHa7yWWvCi8BI",
       "id": "35BPWrbRCzHa7yWWvCi8BI",
@@ -1707,8 +1708,7 @@
         "total": 33927890
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
       "id": "7Gi6gjaWy3DxyilpF1a8Is",
