@@ -6,12 +6,11 @@
       },
       "followers": {
         "href": null,
-        "total": 1475809
+        "total": 1476161
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/4Hzj6dfl1y5x5TzCSsvLB6",
       "id": "4Hzj6dfl1y5x5TzCSsvLB6",
@@ -43,7 +42,7 @@
       },
       "followers": {
         "href": null,
-        "total": 6484184
+        "total": 6485631
       },
       "genres": [
         "mexican hip hop",
@@ -79,7 +78,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3913302
+        "total": 3914300
       },
       "genres": [
         "mexican hip hop",
@@ -115,10 +114,11 @@
       },
       "followers": {
         "href": null,
-        "total": 428075
+        "total": 428103
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/3vV4Tf1iC8vEP9fLOLGUfP",
       "id": "3vV4Tf1iC8vEP9fLOLGUfP",
@@ -150,12 +150,11 @@
       },
       "followers": {
         "href": null,
-        "total": 181493
+        "total": 181537
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop",
-        "electro corridos"
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/4V2V4PaSblStayYVWTGDbZ",
       "id": "4V2V4PaSblStayYVWTGDbZ",
@@ -187,16 +186,12 @@
       },
       "followers": {
         "href": null,
-        "total": 7194871
+        "total": 7196480
       },
       "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "ska",
-        "argentine rock",
-        "latin alternative",
-        "mexican ska",
-        "murga"
+        "g-funk",
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/4QFG9KrGWEbr6hNA58CAqE",
       "id": "4QFG9KrGWEbr6hNA58CAqE",
@@ -228,7 +223,7 @@
       },
       "followers": {
         "href": null,
-        "total": 5788908
+        "total": 5790727
       },
       "genres": [
         "mexican hip hop",
@@ -264,14 +259,11 @@
       },
       "followers": {
         "href": null,
-        "total": 382033
+        "total": 382135
       },
       "genres": [
-        "rock en espa\u00f1ol",
-        "mexican rock",
-        "latin rock",
-        "latin alternative",
-        "ska"
+        "banda",
+        "norte\u00f1o"
       ],
       "href": "https://api.spotify.com/v1/artists/6tJRAxu0HwB2GI9GueEj4l",
       "id": "6tJRAxu0HwB2GI9GueEj4l",
@@ -303,11 +295,13 @@
       },
       "followers": {
         "href": null,
-        "total": 608449
+        "total": 608816
       },
       "genres": [
-        "latin pop",
-        "retro pop"
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "argentine rock",
+        "latin alternative"
       ],
       "href": "https://api.spotify.com/v1/artists/1FCItwxfRieMGhR0eRxotU",
       "id": "1FCItwxfRieMGhR0eRxotU",
@@ -339,7 +333,7 @@
       },
       "followers": {
         "href": null,
-        "total": 28760
+        "total": 28766
       },
       "genres": [
         "mexican hip hop",
@@ -375,12 +369,10 @@
       },
       "followers": {
         "href": null,
-        "total": 192273
+        "total": 192330
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop",
-        "latin r&b"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/7I85Ma5xjAo6nlvqOCIiWx",
       "id": "7I85Ma5xjAo6nlvqOCIiWx",
@@ -412,11 +404,11 @@
       },
       "followers": {
         "href": null,
-        "total": 48275632
+        "total": 48285976
       },
       "genres": [
-        "latin pop",
-        "latin rock"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
       "id": "2YZyLoL8N0Wb9xBt1NhZWg",
@@ -448,9 +440,10 @@
       },
       "followers": {
         "href": null,
-        "total": 3606506
+        "total": 3607626
       },
       "genres": [
+        "mexican hip hop",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/66RfYVdftqnuHRicyClgL0",
@@ -483,11 +476,14 @@
       },
       "followers": {
         "href": null,
-        "total": 3873941
+        "total": 3875666
       },
       "genres": [
-        "banda",
-        "norte\u00f1o"
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "argentine rock",
+        "mexican rock",
+        "latin alternative"
       ],
       "href": "https://api.spotify.com/v1/artists/2QWIScpFDNxmS6ZEMIUvgm",
       "id": "2QWIScpFDNxmS6ZEMIUvgm",
@@ -519,9 +515,12 @@
       },
       "followers": {
         "href": null,
-        "total": 4056767
+        "total": 4057866
       },
-      "genres": [],
+      "genres": [
+        "mexican hip hop",
+        "latin hip hop"
+      ],
       "href": "https://api.spotify.com/v1/artists/1QhaqxeqF9sipS2gwbEKpu",
       "id": "1QhaqxeqF9sipS2gwbEKpu",
       "images": [
@@ -552,11 +551,12 @@
       },
       "followers": {
         "href": null,
-        "total": 29833
+        "total": 29846
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "latin hip hop",
+        "latin alternative",
+        "reggaeton"
       ],
       "href": "https://api.spotify.com/v1/artists/3AgxRYe2kXEfsZyB07hqJF",
       "id": "3AgxRYe2kXEfsZyB07hqJF",
@@ -588,11 +588,12 @@
       },
       "followers": {
         "href": null,
-        "total": 10416946
+        "total": 10418076
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop"
+        "latin hip hop",
+        "rap"
       ],
       "href": "https://api.spotify.com/v1/artists/4tm8CEdm4pkQsEh4jIr9Yp",
       "id": "4tm8CEdm4pkQsEh4jIr9Yp",
@@ -624,7 +625,7 @@
       },
       "followers": {
         "href": null,
-        "total": 159782
+        "total": 159817
       },
       "genres": [
         "mexican hip hop",
@@ -660,14 +661,17 @@
       },
       "followers": {
         "href": null,
-        "total": 2012355
+        "total": 2012876
       },
       "genres": [
-        "banda",
         "norte\u00f1o",
+        "tejano",
+        "cumbia norte\u00f1a",
         "ranchera",
+        "m\u00fasica mexicana",
+        "corrido",
         "grupera",
-        "duranguense"
+        "banda"
       ],
       "href": "https://api.spotify.com/v1/artists/0U5RYP2HMdGv2GhicLhkOI",
       "id": "0U5RYP2HMdGv2GhicLhkOI",
@@ -699,17 +703,14 @@
       },
       "followers": {
         "href": null,
-        "total": 2718604
+        "total": 2719168
       },
       "genres": [
+        "banda",
         "norte\u00f1o",
-        "tejano",
-        "cumbia norte\u00f1a",
         "ranchera",
-        "m\u00fasica mexicana",
-        "corrido",
         "grupera",
-        "banda"
+        "duranguense"
       ],
       "href": "https://api.spotify.com/v1/artists/5oYHL2SijkMY52gKIhYJNb",
       "id": "5oYHL2SijkMY52gKIhYJNb",
@@ -741,7 +742,7 @@
       },
       "followers": {
         "href": null,
-        "total": 3142200
+        "total": 3142662
       },
       "genres": [
         "mexican hip hop",
@@ -782,10 +783,11 @@
       },
       "followers": {
         "href": null,
-        "total": 68011
+        "total": 68048
       },
       "genres": [
         "mexican hip hop",
+        "electro corridos",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/0U8dIwzBn17JkhYxmznp6T",
@@ -818,11 +820,15 @@
       },
       "followers": {
         "href": null,
-        "total": 2095514
+        "total": 2096124
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "rock en espa\u00f1ol",
+        "mexican rock",
+        "mexican indie",
+        "latin alternative",
+        "latin indie",
+        "latin rock"
       ],
       "href": "https://api.spotify.com/v1/artists/5lYeiQxUTcGKVgAuTqbTeL",
       "id": "5lYeiQxUTcGKVgAuTqbTeL",
@@ -854,12 +860,11 @@
       },
       "followers": {
         "href": null,
-        "total": 21222866
+        "total": 21230266
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop",
-        "rap"
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/07PdYoE4jVRF6Ut40GgVSP",
       "id": "07PdYoE4jVRF6Ut40GgVSP",
@@ -891,14 +896,12 @@
       },
       "followers": {
         "href": null,
-        "total": 828508
+        "total": 828891
       },
       "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "argentine rock",
-        "mexican rock",
-        "latin alternative"
+        "mexican hip hop",
+        "latin hip hop",
+        "electro corridos"
       ],
       "href": "https://api.spotify.com/v1/artists/645xd9cHiiLqqehoLzLMDR",
       "id": "645xd9cHiiLqqehoLzLMDR",
@@ -930,9 +933,10 @@
       },
       "followers": {
         "href": null,
-        "total": 10650591
+        "total": 10652865
       },
       "genres": [
+        "freestyle",
         "mexican hip hop",
         "latin hip hop"
       ],
@@ -966,12 +970,11 @@
       },
       "followers": {
         "href": null,
-        "total": 1908700
+        "total": 1908848
       },
       "genres": [
-        "latin hip hop",
-        "latin alternative",
-        "reggaeton"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/1FbygZnWsyUjzjTGLhWVlO",
       "id": "1FbygZnWsyUjzjTGLhWVlO",
@@ -1003,16 +1006,11 @@
       },
       "followers": {
         "href": null,
-        "total": 241269
+        "total": 241293
       },
       "genres": [
-        "corridos tumbados",
-        "corrido",
-        "corridos b\u00e9licos",
-        "sad sierre\u00f1o",
-        "sierre\u00f1o",
-        "m\u00fasica mexicana",
-        "banda"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/4r1ZDYKzPt3iIjuq8LbT6X",
       "id": "4r1ZDYKzPt3iIjuq8LbT6X",
@@ -1044,14 +1042,9 @@
       },
       "followers": {
         "href": null,
-        "total": 4792256
+        "total": 4793659
       },
-      "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "argentine rock",
-        "latin alternative"
-      ],
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/6AcOTCYBMvjKYy4zms0kaC",
       "id": "6AcOTCYBMvjKYy4zms0kaC",
       "images": [
@@ -1082,15 +1075,16 @@
       },
       "followers": {
         "href": null,
-        "total": 84526
+        "total": 84650
       },
       "genres": [
-        "banda",
-        "norte\u00f1o",
-        "m\u00fasica mexicana",
-        "ranchera",
-        "grupera",
-        "corrido"
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "ska",
+        "argentine rock",
+        "latin alternative",
+        "mexican ska",
+        "murga"
       ],
       "href": "https://api.spotify.com/v1/artists/5KGNQQzk32VSQv9If4X7A6",
       "id": "5KGNQQzk32VSQv9If4X7A6",
@@ -1122,7 +1116,7 @@
       },
       "followers": {
         "href": null,
-        "total": 318278
+        "total": 318315
       },
       "genres": [
         "mexican hip hop",
@@ -1158,11 +1152,11 @@
       },
       "followers": {
         "href": null,
-        "total": 26949
+        "total": 26958
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "hip hop",
+        "west coast hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/23TYM4mYLQjyJLr4x89MjH",
       "id": "23TYM4mYLQjyJLr4x89MjH",
@@ -1194,7 +1188,7 @@
       },
       "followers": {
         "href": null,
-        "total": 362233
+        "total": 362338
       },
       "genres": [
         "mexican hip hop",
@@ -1230,11 +1224,13 @@
       },
       "followers": {
         "href": null,
-        "total": 346542
+        "total": 346576
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "rock en espa\u00f1ol",
+        "latin rock",
+        "mexican rock",
+        "latin pop"
       ],
       "href": "https://api.spotify.com/v1/artists/6viZnVSHavFUcW0blu6Mvw",
       "id": "6viZnVSHavFUcW0blu6Mvw",
@@ -1266,10 +1262,11 @@
       },
       "followers": {
         "href": null,
-        "total": 3483463
+        "total": 3483856
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/2FS22haX3FYbyOsUAkuYqZ",
       "id": "2FS22haX3FYbyOsUAkuYqZ",
@@ -1301,13 +1298,15 @@
       },
       "followers": {
         "href": null,
-        "total": 8679399
+        "total": 8683116
       },
       "genres": [
-        "rock en espa\u00f1ol",
-        "latin rock",
-        "mexican rock",
-        "latin pop"
+        "banda",
+        "norte\u00f1o",
+        "m\u00fasica mexicana",
+        "ranchera",
+        "grupera",
+        "corrido"
       ],
       "href": "https://api.spotify.com/v1/artists/6IdtcAwaNVAggwd6sCKgTI",
       "id": "6IdtcAwaNVAggwd6sCKgTI",
@@ -1339,7 +1338,7 @@
       },
       "followers": {
         "href": null,
-        "total": 43868
+        "total": 43881
       },
       "genres": [
         "mexican hip hop",
@@ -1375,12 +1374,16 @@
       },
       "followers": {
         "href": null,
-        "total": 1699365
+        "total": 1699599
       },
       "genres": [
-        "g-funk",
-        "mexican hip hop",
-        "latin hip hop"
+        "corridos tumbados",
+        "corrido",
+        "corridos b\u00e9licos",
+        "sad sierre\u00f1o",
+        "sierre\u00f1o",
+        "m\u00fasica mexicana",
+        "banda"
       ],
       "href": "https://api.spotify.com/v1/artists/3mYFuz6iY7D9X78rOXg5CG",
       "id": "3mYFuz6iY7D9X78rOXg5CG",
@@ -1412,11 +1415,12 @@
       },
       "followers": {
         "href": null,
-        "total": 81511
+        "total": 81514
       },
       "genres": [
         "mexican hip hop",
-        "latin hip hop"
+        "latin hip hop",
+        "latin r&b"
       ],
       "href": "https://api.spotify.com/v1/artists/4H3ePoFDdsl36QwB96jZzg",
       "id": "4H3ePoFDdsl36QwB96jZzg",
@@ -1448,11 +1452,11 @@
       },
       "followers": {
         "href": null,
-        "total": 4901479
+        "total": 4902824
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "latin pop",
+        "retro pop"
       ],
       "href": "https://api.spotify.com/v1/artists/4LFOoXhMhnq9U8VsZkSwxl",
       "id": "4LFOoXhMhnq9U8VsZkSwxl",
@@ -1484,11 +1488,9 @@
       },
       "followers": {
         "href": null,
-        "total": 2822548
+        "total": 2823599
       },
       "genres": [
-        "freestyle",
-        "mexican hip hop",
         "latin hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/59Ih0XIAzMXq7Yf9ny3u5t",
@@ -1521,14 +1523,10 @@
       },
       "followers": {
         "href": null,
-        "total": 1244706
+        "total": 1245627
       },
       "genres": [
-        "rock en espa\u00f1ol",
-        "mexican rock",
-        "mexican indie",
-        "latin alternative",
-        "latin indie",
+        "latin pop",
         "latin rock"
       ],
       "href": "https://api.spotify.com/v1/artists/5j9R5dTGerKvdXopZnfJh9",
@@ -1561,11 +1559,10 @@
       },
       "followers": {
         "href": null,
-        "total": 889320
+        "total": 889425
       },
       "genres": [
-        "mexican hip hop",
-        "latin hip hop"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/6fMZytDgX1Q9OV6ndSugym",
       "id": "6fMZytDgX1Q9OV6ndSugym",
@@ -1597,12 +1594,14 @@
       },
       "followers": {
         "href": null,
-        "total": 2204034
+        "total": 2205644
       },
       "genres": [
-        "mexican hip hop",
-        "electro corridos",
-        "latin hip hop"
+        "rock en espa\u00f1ol",
+        "mexican rock",
+        "latin rock",
+        "latin alternative",
+        "ska"
       ],
       "href": "https://api.spotify.com/v1/artists/31l8FA2bO5qxpqf8uhV5eZ",
       "id": "31l8FA2bO5qxpqf8uhV5eZ",
@@ -1634,7 +1633,7 @@
       },
       "followers": {
         "href": null,
-        "total": 8892
+        "total": 8894
       },
       "genres": [
         "mexican hip hop",
@@ -1670,7 +1669,7 @@
       },
       "followers": {
         "href": null,
-        "total": 153953
+        "total": 153972
       },
       "genres": [
         "mexican hip hop",
@@ -1706,11 +1705,10 @@
       },
       "followers": {
         "href": null,
-        "total": 33948379
+        "total": 33968112
       },
       "genres": [
-        "hip hop",
-        "west coast hip hop"
+        "mexican hip hop"
       ],
       "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
       "id": "7Gi6gjaWy3DxyilpF1a8Is",
@@ -1742,7 +1740,7 @@
       },
       "followers": {
         "href": null,
-        "total": 4099010
+        "total": 4100230
       },
       "genres": [
         "mexican hip hop",
@@ -1778,10 +1776,12 @@
       },
       "followers": {
         "href": null,
-        "total": 680383
+        "total": 680594
       },
       "genres": [
-        "mexican hip hop"
+        "mexican hip hop",
+        "latin hip hop",
+        "electro corridos"
       ],
       "href": "https://api.spotify.com/v1/artists/0SmgVe3giVHaJjGmIz8xA4",
       "id": "0SmgVe3giVHaJjGmIz8xA4",
@@ -1813,7 +1813,7 @@
       },
       "followers": {
         "href": null,
-        "total": 34398
+        "total": 34408
       },
       "genres": [
         "mexican hip hop",
